@@ -1,0 +1,42 @@
+name: Update internship log
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', 'tests/**', 'data/source_overrides.json', '.github/workflows/**']
+permissions:
+  contents: write
+concurrency:
+  group: internship-log
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test tracker safeguards
+        run: python -m unittest discover -s tests -v
+      - name: Refresh companies and scan sources
+        run: python scripts/tracker.py --refresh-companies --workers 12
+      - name: Commit updated log
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md COVERAGE.md LEADS.md ARCHIVE.md CHANGELOG.md US.md INTERNATIONAL.md data
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update semiconductor internship log'
+            git push
+          fi
+      - name: Save scan summary
+        if: always()
+        run: |
+          if test -f data/last_run.json; then
+            echo '### Latest completed scan' >> "$GITHUB_STEP_SUMMARY"
+            cat data/last_run.json >> "$GITHUB_STEP_SUMMARY"
+          fi

@@ -1,0 +1,77 @@
+{
+  "efficient-computer": {
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "efficientcomputer",
+        "url": "https://job-boards.greenhouse.io/efficientcomputer"
+      }
+    ],
+    "evidence": "Official employer job-board pages retrieved 2026-09-27; retain multiple published boards until migration is confirmed."
+  },
+  "lightmatter": {
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "lightmatter",
+        "url": "https://job-boards.greenhouse.io/lightmatter"
+      }
+    ],
+    "evidence": "Official employer job-board pages retrieved 2026-09-27; retain multiple published boards until migration is confirmed."
+  },
+  "tenstorrent": {
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "tenstorrentuniversity",
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity"
+      },
+      {
+        "type": "greenhouse",
+        "token": "tenstorrent",
+        "url": "https://job-boards.greenhouse.io/tenstorrent"
+      }
+    ],
+    "evidence": "Official employer job-board pages retrieved 2026-09-27; retain multiple published boards until migration is confirmed."
+  },
+  "etched": {
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "Etched",
+        "url": "https://jobs.ashbyhq.com/Etched"
+      },
+      {
+        "type": "greenhouse",
+        "token": "etchedai",
+        "url": "https://job-boards.greenhouse.io/etchedai"
+      }
+    ],
+    "evidence": "Official employer job-board pages retrieved 2026-09-27; retain multiple published boards until migration is confirmed."
+  },
+  "matx": {
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "matx",
+        "url": "https://jobs.ashbyhq.com/matx"
+      },
+      {
+        "type": "greenhouse",
+        "token": "matx",
+        "url": "https://job-boards.greenhouse.io/matx"
+      }
+    ],
+    "evidence": "Official employer job-board pages retrieved 2026-09-27; retain multiple published boards until migration is confirmed."
+  },
+  "rivos": {
+    "sources": [
+      {
+        "type": "lever",
+        "token": "rivosinc",
+        "url": "https://jobs.lever.co/rivosinc"
+      }
+    ],
+    "evidence": "Official employer job-board pages retrieved 2026-09-27; retain multiple published boards until migration is confirmed."
+  }
+}
