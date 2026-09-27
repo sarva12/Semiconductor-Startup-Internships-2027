@@ -4,323 +4,323 @@ Every upstream startup is listed. Company country is headquarters, not job locat
 
 | Company | Category | HQ | Coverage | Careers / boards | Checked UTC | Issues |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Abacus Semiconductor](https://Abacus-semi.com) | HPC | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Accelercom](https://accelercomm.com) | RF | UK | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Agentrys](https://agentrys.ai) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Agile Analog](https://agileanalog.com) | EDA | UK | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Agita Labs](https://agitalabs.com) | SECURITY | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Agnit Semiconductor](https://agnitsemi.com) | MFG | IN | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Ahead Computing](https://aheadcomputing.com) | RISC-V | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Aistorm](https://aistorm.ai) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Akeana](https://akeana.com) | RISC-V | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Akhetonics](https://akhetonics.com) | PHOTONICS | DE | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Alif Semiconductor](https://alifsemi.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Allspice.io](https://allspice.io) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Alpha Design AI](https://alphadesign.ai) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Ambient Scientific](https://ambientscientific.ai) | ANALOG | US | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Amsimcel](https://amsimcel.com) | EDA | RO | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Anabrid](https://anabrid.com) | ANALOG | DE | Discovery blocked / needs review | — | 2026-09-27T06:53:48+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Analog Photonics](https://analogphotonics.com) | PHOTONICS | US | Partial / needs review | [Source](https://www.analogphotonics.com/about/#jobs) | 2026-09-27T06:54:37+00:00 | — |
-| [Andapt](https://andapt.com) | ANALOG | IE | Discovery blocked / needs review | — | 2026-09-27T06:53:56+00:00 | robots.txt unavailable: HTTP Error 502: Bad Gateway |
-| [Anello](https://anellophotonics.com) | PHOTONICS | US | Discovery blocked / needs review | — | 2026-09-27T06:53:56+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Aniah](https://aniah.fr) | EDA | FR | Partial / needs review | [Source](https://aniah.fr/career/); [Source](https://aniah.fr/career/#spontaneous); [Source](https://www.youtube.com/embed/M38Nky0Cuh0?feature=oembed); [Source](https://www.youtube.com/embed/7cYN0SNeSsY?feature=oembed) | 2026-09-27T06:55:07+00:00 | HTTP Error 401: Unauthorized |
-| [Applied Brain Research](https://appliedbrainresearch.com) | AI | CA | Partial / needs review | [Source](https://www.appliedbrainresearch.com/our-company/careers); [Source](https://www.appliedbrainresearch.com/our-company/careers#content); [Source](https://www.appliedbrainresearch.com/our-company/careers#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjcyNyIsInRvZ2dsZSI6ZmFsc2V9); [Source](https://www.appliedbrainresearch.com/career/head-of-business-development); [Source](https://www.appliedbrainresearch.com/our-company/careers#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9) | 2026-09-27T06:55:32+00:00 | — |
-| [Arago](https://arago.inc) | PHOTONICS | FR | Discovery blocked / needs review | — | 2026-09-27T06:53:56+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Argus Space](https://argus-space.ch) | RF | CH | Discovery blocked / needs review | — | 2026-09-27T06:54:10+00:00 | — |
-| [Ascenium](https://ascenium.com) | HPC | NO | Discovery blocked / needs review | — | 2026-09-27T06:54:01+00:00 | — |
-| [Aspinity](https://aspinity.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:54:13+00:00 | — |
-| [Astrus](https://astrus.ai) | EDA | CA | Partial / needs review | [Source](https://www.astrus.ai/careers); [Source](https://www.astrus.ai/careers#jobs) | 2026-09-27T06:54:38+00:00 | — |
-| [Athos Silicon](https://athossilicon.com) | CHIPLETS | US | Discovery blocked / needs review | — | 2026-09-27T06:54:10+00:00 | — |
-| [Atlant 3D](https://atlant3d.com) | MFG | DK | Discovery blocked / needs review | — | 2026-09-27T06:53:56+00:00 | robots.txt disallows this URL |
-| [Atlantic Quantum](https://atlantic-quantum.com) | QUANTUM | US | Discovery blocked / needs review | — | 2026-09-27T06:53:54+00:00 | robots.txt unavailable: HTTP Error 502: Bad Gateway |
-| [Atmosic](https://atmosic.com) | RF | US | Partial / needs review | [Source](https://atmosic.com/about/#careers) | 2026-09-27T06:54:16+00:00 | robots.txt disallows this URL |
-| [Atoms AI](https://atomsai.net) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:53:54+00:00 | robots.txt disallows this URL |
-| [Aule Technologies](https://auletechnologies.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:54:00+00:00 | — |
-| [Avicena](https://avicena.tech) | PHOTONICS | US | Partial / needs review | [Source](https://avicena.tech/careers/); [Source](https://www.youtube.com/embed/zG8z8o0_ggI?si=aeDjV8p8DeKB9PdI); [Source](https://avicena.tech/careers/#qodef-page-content); [Source](https://avicena.tech/careers/#open-positions) | 2026-09-27T06:55:01+00:00 | — |
-| [Axelera](https://axelera.ai) | AI | NL | Partial / needs review | [Source](https://jobs.ashbyhq.com/axelera); [Source](https://www.googletagmanager.com/ns.html?id=GTM-T8ZPDPRN); [Source](https://axelera.ai/careers); [Source](https://axelera.ai/careers#main-content); [Source](https://axelera.ai/careers#openings) | 2026-09-27T06:55:03+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
-| [Ayar Labs](https://ayarlabs.com) | PHOTONICS | US | Partial / needs review | [Source](https://ayarlabs.com/careers/); [Source](https://www.googletagmanager.com/ns.html?id=GTM-PCFZTZ8); [Source](https://ayarlabs.com/careers/#jobs) | 2026-09-27T06:55:34+00:00 | — |
-| [Azimuth AI](https://azimuth-ai.com) | ASIC | US | Partial / needs review | [Source](https://azimuth-ai.com/careers.html) | 2026-09-27T06:54:22+00:00 | — |
-| [Baya Systems](https://bayasystems.com) | CHIPLETS | US | Partial / needs review | [Source](https://bayasystems.com/careers/); [Source](https://bayasystems.com/careers/#content); [Source](https://bayasystems.com/careers/#open-positions) | 2026-09-27T06:55:46+00:00 | — |
-| [Beacon Photonics](https://beaconphotonics.com) | PHOTONICS | US | Partial / needs review | [Source](https://www.beaconphotonics.com/careers) | 2026-09-27T06:54:33+00:00 | robots.txt disallows this URL |
-| [Beam](https://beamshaping.io) | RF | IL | Partial / needs review | [Source](https://beamshaping.io/jobs/) | 2026-09-27T06:54:21+00:00 | — |
-| [Belfort](https://belfortlabs.com) | SECURITY | BE | Partial / needs review | [Source](https://finsweet.com); [Source](https://app.notion.com/p/Open-roles-Belfort-24f6806ab7bc8090be69cdb4ade3d94f); [Source](https://belfortlabs.com/about#career); [Source](https://finsweet.com/jobs/home); [Source](https://finsweet.com/jobs/home#open-positions) | 2026-09-27T06:55:29+00:00 | — |
-| [Black Semiconductor](https://blacksemiconductor.de) | MFG | DE | Discovery blocked / needs review | — | 2026-09-27T06:54:29+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Blueshift Memory](https://blueshiftmemory.com) | MEMORY | UK | Discovery blocked / needs review | — | 2026-09-27T06:54:46+00:00 | — |
-| [Bluespec](https://bluespec.com) | RISC-V | US | Discovery blocked / needs review | — | 2026-09-27T06:54:23+00:00 | — |
-| [Blumind](https://blumind.ai) | AI | CA | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-KVBHJJKN); [Source](https://blumind.ai/career/) | 2026-09-27T06:54:55+00:00 | robots.txt disallows this URL |
-| [Bolt Semiconductor](https://boltsemi.com) | MFG | US | Discovery blocked / needs review | — | 2026-09-27T06:54:29+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [BoolSi](https://boolsi.com) | EDA | US | Partial / needs review | [Source](https://boolsi.com/careers.html); [Source](https://boolsi.com/careers-compiler-engineer.html); [Source](https://boolsi.com/careers-principal-robotics-engineer.html) | 2026-09-27T06:55:07+00:00 | — |
-| [bos semiconductors](https://bos-semi.com) | ASIC | KR | Discovery blocked / needs review | — | 2026-09-27T06:54:31+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Bronco AI](https://bronco.ai) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:54:38+00:00 | — |
-| [Build4Sim Inc](https://build4sim.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:54:39+00:00 | — |
-| [cadlab.io](https://cadlab.io) | EDA | US | Partial / needs review | [Source](https://www.youtube.com/embed/gM3OAKcFhsU?rel=0&controls=1&autoplay=0&mute=0&start=0); [Source](https://www.youtube.com/embed/HgXkV11ANqc?rel=0&controls=0&autoplay=0&mute=0&start=0); [Source](https://cadlab.io/cadlab-form/101); [Source](https://www.googletagmanager.com/ns.html?id=GTM-NB5KH2Z) | 2026-09-27T06:56:14+00:00 | &lt;urlopen error timed out&gt; |
-| [Cadstrom](https://cadstrom.io) | EDA | CA | Partial / needs review | [Source](https://www.cadstrom.io/careers); [Source](https://www.googletagmanager.com/ns.html?id=GTM-NRT74JQ8) | 2026-09-27T06:55:24+00:00 | — |
-| [cassia.ai](https://cassia.ai) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:54:49+00:00 | — |
-| [Celera](https://celeratechnologies.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:54:59+00:00 | — |
-| [Celero Communications](https://celero.inc) | NETWORKING | US | Discovery blocked / needs review | — | 2026-09-27T06:54:43+00:00 | robots.txt unavailable: HTTP Error 403: Forbidden |
-| [Celestial AI](https://celestial.ai) | PHOTONICS | US | Partial / needs review | [Source](https://www.marvell.com/company/careers.html); [Source](https://www.marvell.com/company/careers/university-recruiting.html); [Source](https://www.marvell.com/company/careers.html#mainSection); [Source](https://www.marvell.com/company/careers/recruitment-fraud-protection.html); [Source](https://www.marvell.com/company/careers/what-makes-marvell.html) | 2026-09-27T06:55:47+00:00 | — |
-| [Cellium](https://cellium.net) | RF | IL | Discovery blocked / needs review | — | 2026-09-27T06:54:52+00:00 | — |
-| [Celtro](https://celtro.de) | HEALTH | DE | Discovery blocked / needs review | — | 2026-09-27T06:55:03+00:00 | — |
-| [Celus](https://celus.io) | EDA | DE | Partial / needs review | [Source](https://celus.jobs.personio.de/?language=en); [Source](https://celus.jobs.personio.de/job/2723619?language=en); [Source](https://celus.jobs.personio.de/job/2440530?language=en); [Source](https://celus.jobs.personio.de/job/2723619?language=en#main-content); [Source](https://celus.jobs.personio.de/job/2723619/apply?language=en) | 2026-09-27T06:56:25+00:00 | &lt;urlopen error timed out&gt;; &lt;urlopen error timed out&gt; |
-| [Ceremorphic](https://ceremorphic.com) | HPC | US | Partial / needs review | [Source](https://ceremorphic.com/careers) | 2026-09-27T06:55:11+00:00 | — |
-| [Cerfe Labs](https://cerfelabs.com) | MFG | US | Discovery blocked / needs review | — | 2026-09-27T06:55:07+00:00 | — |
-| [ChipAgents](https://chipagents.ai) | EDA | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/alpha-design-ai-inc); [Source](https://chipagents.ai/careers) | 2026-09-27T06:55:27+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
-| [Chipflow](https://chipflow.io) | ASIC | UK | Partial / needs review | [Source](https://www.chipflow.io/careers); [Source](https://www.googletagmanager.com/ns.html?id=GTM-MN3K8H62); [Source](https://www.chipflow.io/careers#page) | 2026-09-27T06:56:25+00:00 | robots.txt disallows this URL |
-| [Chipletz](https://chipletz.com) | CHIPLETS | US | Partial / needs review | [Source](https://www.chipletz.com/careers) | 2026-09-27T06:55:43+00:00 | — |
-| [Chipmind](https://chipmind.ai) | EDA | CH | Partial / needs review | [Source](https://www.chipmind.ai/careers); [Source](https://www.chipmind.ai/careers#open-roles) | 2026-09-27T06:56:03+00:00 | &lt;urlopen error timed out&gt; |
-| [Chipstack](https://chipstack.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:55:19+00:00 | robots.txt unavailable: The read operation timed out |
-| [Circuit Mind](https://circuitmind.io) | EDA | UK | Partial / needs review | [Source](https://www.circuitmind.io/careers); [Source](https://www.googletagmanager.com/ns.html?id=GTM-WP4NCWJ) | 2026-09-27T06:56:25+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [CircuitLeap.ai](https://circuitleap.ai) | EDA | PT | Discovery blocked / needs review | — | 2026-09-27T06:55:15+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Classiq](https://classiq.io) | EDA | IL | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-PGXGXJF) | 2026-09-27T06:55:49+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Codasip](https://codasip.com) | RISC-V | DE | Not checked | — | — | — |
-| [Cognichip](https://cognichip.ai) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:56:05+00:00 | &lt;urlopen error timed out&gt; |
-| [Condor Computing](https://condorcomputing.com) | RISC-V | US | Discovery blocked / needs review | — | 2026-09-27T06:55:45+00:00 | HTTP Error 503: Service Unavailable |
-| [Cornami](https://cornami.com) | HPC | US | Discovery blocked / needs review | — | 2026-09-27T06:55:32+00:00 | robots.txt unavailable: HTTP Error 403: Forbidden |
-| [Cycuity](https://cycuity.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:56:07+00:00 | &lt;urlopen error timed out&gt; |
-| [Cyrillic](https://cyrillic.tech) | AI | IT | Discovery blocked / needs review | — | 2026-09-27T06:55:46+00:00 | — |
-| [d-Matrix](https://d-matrix.ai) | AI | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/d-Matrix); [Source](https://www.d-matrix.ai/careers/); [Source](https://www.youtube.com/embed/67Dz_pQUpgU?feature=oembed); [Source](https://www.youtube.com/embed/mGwEdXXcvDA?feature=oembed); [Source](https://www.youtube.com/embed/397n6tqLM6c?feature=oembed) | 2026-09-27T06:57:00+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized; &lt;urlopen error timed out&gt; |
-| [DASH Tech IC](https://dashtechic.com) | HPC | US | Discovery blocked / needs review | — | 2026-09-27T06:56:03+00:00 | &lt;urlopen error timed out&gt; |
-| [DeepX](https://deepx.ai) | AI | KR | Discovery blocked / needs review | — | 2026-09-27T06:56:05+00:00 | &lt;urlopen error timed out&gt; |
-| [DeGirum](https://degirum.ai) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:55:59+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Denpaflux](https://denpaflux.com) | EDA | DE | Discovery blocked / needs review | — | 2026-09-27T06:55:54+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Dfiant](https://dfiant.works) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:55:54+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Diode Computers](https://diode.computer) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:55:55+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Dnotitia](https://dnotitia.com) | AI | KR | Discovery blocked / needs review | — | 2026-09-27T06:55:57+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Dover](https://dovermicrosystems.com) | SECURITY | US | Discovery blocked / needs review | — | 2026-09-27T06:56:02+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [DreamBig](https://dreambigsemi.com) | CHIPLETS | US | Discovery blocked / needs review | — | 2026-09-27T06:56:02+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Dust Photonics](https://dustphotonics.com) | PHOTONICS | IL | Discovery blocked / needs review | — | 2026-09-27T06:56:03+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [EdgeCortix](https://edgecortix.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:56:05+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [EdgeQ](https://edgeq.io) | RF | US | Discovery blocked / needs review | — | 2026-09-27T06:56:07+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Efficient Computer](https://efficient.computer) | HPC | US | API checked | [Source](https://job-boards.greenhouse.io/efficientcomputer); [Source](https://www.efficient.computer/about#careers); [Source](https://www.googletagmanager.com/ns.html?id=GTM-NH79RJK7) | 2026-09-27T06:56:53+00:00 | — |
-| [Efinix](https://efinixinc.com) | FPGA | US | Discovery blocked / needs review | — | 2026-09-27T06:56:20+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Eliyan](https://eliyan.com) | CHIPLETS | US | API checked | [Source](https://jobs.lever.co/eliyan); [Source](https://eliyan.com/careers/); [Source](https://eliyan.com/careers/#content) | 2026-09-27T06:56:47+00:00 | — |
-| [EnCharge AI](https://enchargeai.com) | AI | US | API checked | [Source](https://job-boards.greenhouse.io/enchargeai36); [Source](https://www.enchargeai.com/careers); [Source](https://www.enchargeai.com/careers#current-job-openings) | 2026-09-27T06:56:59+00:00 | — |
-| [Enlightra](https://enlightra.com) | PHOTONICS | US | Discovery blocked / needs review | — | 2026-09-27T06:56:24+00:00 | — |
-| [enzzo](https://enzzo.ai) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:56:13+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Equal1](https://equal1.com) | QUANTUM | IE | Discovery blocked / needs review | — | 2026-09-27T06:56:31+00:00 | — |
-| [Eridan](https://eridan.io) | RF | US | Partial / needs review | [Source](https://job-boards.greenhouse.io/eridan); [Source](https://job-boards.greenhouse.io/external_greenhouse_job_boards); [Source](https://job-boards.greenhouse.io/assets); [Source](https://job-boards.greenhouse.io/ai_opt_out_request); [Source](https://eridan.io/careers/); [Source](https://player.vimeo.com/video/1128319072?h=f08df1a956&badge=0&autopause=0&player_id=0&app_id=58479); [Source](https://job-boards.greenhouse.io/eridan/jobs/4699218005) | 2026-09-27T06:57:25+00:00 | HTTP Error 404: Not Found; HTTP Error 404: Not Found; HTTP Error 404: Not Found; HTTP Error 401: Unauthorized |
-| [Eridu AI](https://eridu.ai) | PHOTONICS | US | Partial / needs review | [Source](https://eridu.ai/careers/); [Source](https://ats.rippling.com/en-GB/eridu-ai/jobs?page=0); [Source](https://ats.rippling.com/eridu-ai/jobs); [Source](https://eridu.ai/careers/#main); [Source](https://eridu.ai/careers/#skip-sitemenu) | 2026-09-27T06:57:03+00:00 | — |
-| [Etched](https://etched.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:56:20+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Ethernovia](https://ethernovia.com) | NETWORKING | US | Discovery blocked / needs review | — | 2026-09-27T06:56:21+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [eTopus](https://etopus.com) | NETWORKING | US | Discovery blocked / needs review | — | 2026-09-27T06:56:22+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Evacorp](https://evacorp.ai) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:56:24+00:00 | robots.txt unavailable: HTTP Error 502: Bad Gateway |
-| [Everactive](https://everactive.com) | SENSORS | US | Discovery blocked / needs review | — | 2026-09-27T06:56:29+00:00 | — |
-| [Exa Laboratories](https://exalaboratories.com) | AI | US | Partial / needs review | [Source](https://zscc.ai/careers); [Source](https://zscc.ai/#careers); [Source](https://zscc.ai/careers?job_id=109821) | 2026-09-27T06:57:17+00:00 | — |
-| [Exo Imaging](https://exo.inc) | HEALTH | US | Partial / needs review | [Source](https://www.exo.inc/careers) | 2026-09-27T06:56:56+00:00 | robots.txt disallows this URL |
-| [Extropic](https://extropic.ai) | AI | US | Partial / needs review | [Source](https://extropic.ai/about#careers) | 2026-09-27T06:56:47+00:00 | — |
-| [Fabric Cryptography](https://fabriccryptography.com) | SECURITY | US | Discovery blocked / needs review | [Source](https://jobs.lever.co/f16y) | 2026-09-27T06:56:59+00:00 | HTTP Error 404: Not Found; HTTP Error 404: Not Found |
-| [Falcomm](https://myfalcomm.com) | RF | US | Partial / needs review | [Source](https://apply.workable.com/falcomm/) | 2026-09-27T06:57:00+00:00 | — |
-| [Fermionic](https://fermionic.design) | ANALOG | IN | Discovery blocked / needs review | — | 2026-09-27T06:56:49+00:00 | — |
-| [Ferric](https://ferric.com) | ANALOG | US | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-P8ZRLPND) | 2026-09-27T06:56:59+00:00 | — |
-| [Finchetto](https://finchetto.com) | PHOTONICS | UK | Discovery blocked / needs review | — | 2026-09-27T06:56:42+00:00 | — |
-| [Flow Computing](https://flow-computing.com) | HPC | FI | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-PBRP5N3F) | 2026-09-27T06:56:50+00:00 | — |
-| [Flux](https://flux.ai) | EDA | US | Not checked | — | — | — |
-| [FMC](https://ferroelectric-memory.com) | MFG | DE | Not checked | — | — | — |
-| [Forefrontrf](https://forefrontrf.com) | RF | UK | Discovery blocked / needs review | — | 2026-09-27T06:56:52+00:00 | robots.txt unavailable: HTTP Error 502: Bad Gateway |
-| [Fractile](https://fractile.ai) | AI | UK | Discovery blocked / needs review | — | 2026-09-27T06:56:57+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
-| [Furiosa](https://furiosa.ai) | AI | KR | Not checked | — | — | — |
-| [Gemesys](https://gemesys.tech) | AI | DE | Not checked | — | — | — |
-| [Generation Alpha Transistor](https://generation-alpha-transistor.com) | EDA | US | Not checked | — | — | — |
-| [getinstachip](https://getinstachip.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:57:01+00:00 | robots.txt unavailable: HTTP Error 502: Bad Gateway |
-| [Gowin](https://gowinsemi.com) | FPGA | CN | Not checked | — | — | — |
-| [Groq](https://groq.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:57:08+00:00 | — |
-| [HaiLa](https://haila.io) | RF | CA | Not checked | — | — | — |
-| [Hailo](https://hailo.ai) | AI | IL | Not checked | — | — | — |
-| [HawAI.tech](https://hawai.tech) | AI | FR | Discovery blocked / needs review | — | 2026-09-27T06:57:23+00:00 | — |
-| [Heronic](https://heronic.ai) | EDA | UK | Not checked | — | — | — |
-| [HyperAccel](https://hyperaccel.ai) | AI | KR | Not checked | — | — | — |
-| [HyperCIM](https://hypercim.com) | AI | UK | Discovery blocked / needs review | — | 2026-09-27T06:57:24+00:00 | HTTP Error 403: Forbidden |
-| [Hyperlume](https://hyperlume.com) | PHOTONICS | CA | Not checked | — | — | — |
-| [InCore Semi](https://incoresemi.com) | RISC-V | IN | Not checked | — | — | — |
-| [Ingonyama](https://ingonyama.com) | SECURITY | IL | Not checked | — | — | — |
-| [Innatera](https://innatera.com) | AI | NL | Not checked | — | — | — |
-| [Inspire Semi](https://inspiresemi.com) | HPC | US | Not checked | — | — | — |
-| [Ipronics](https://ipronics.com) | PHOTONICS | ES | Not checked | — | — | — |
-| [Jeeva Wireless](https://jeevawireless.com) | RF | US | Not checked | — | — | — |
-| [Jitx](https://jitx.com) | EDA | US | Not checked | — | — | — |
-| [Kandou](https://kandou.com) | NETWORKING | CH | Not checked | — | — | — |
-| [Kepler Computing](https://keplercompute.com) | HPC | US | Not checked | — | — | — |
-| [Keysom](https://keysom.io) | RISC-V | FR | Not checked | — | — | — |
-| [Kittycad](https://zoo.dev) | EDA | US | Not checked | — | — | — |
-| [Kneron](https://kneron.com) | AI | US | Not checked | — | — | — |
-| [Krutrim](https://olakrutrim.com) | AI | IN | Not checked | — | — | — |
-| [Lemurian Labs](https://lemurianlabs.com) | AI | CA | Not checked | — | — | — |
-| [Light Solver](https://lightsolver.com) | PHOTONICS | IL | Not checked | — | — | — |
-| [Light Trace Photonics](https://ltphotonics.co.uk) | PHOTONICS | UK | Not checked | — | — | — |
-| [Lightium](https://lightium.co) | MFG | CH | Not checked | — | — | — |
-| [Lightmatter](https://lightmatter.co) | PHOTONICS | US | Not checked | — | — | — |
-| [Linctrinsic](https://lintrinsicsemi.com) | RF | US | Not checked | — | — | — |
-| [Linque](https://linque.eu) | PHOTONICS | DE | Not checked | — | — | — |
-| [Literal Labs](https://Literal-labs.ai) | AI | UK | Not checked | — | — | — |
-| [Lubis EDA](https://Lubis-eda.com) | EDA | DE | Not checked | — | — | — |
-| [Lumai](https://luma.ai) | PHOTONICS | UK | Not checked | — | — | — |
-| [Luminous Computing](https://luminous.com) | PHOTONICS | US | Not checked | — | — | — |
-| [Lumotive](https://lumotive.com) | PHOTONICS | US | Not checked | — | — | — |
-| [Lyte AI](https://lyte.ai) | AI | US | Not checked | — | — | — |
-| [Magics Technologies](https://magics.tech) | SPACE | BE | Not checked | — | — | — |
-| [Maieutic Semiconductors](https://maieuticsemi.com) | EDA | IN | Not checked | — | — | — |
-| [Majestic Labs](https://majestic-labs.ai) | AI | IL | Not checked | — | — | — |
-| [MangoBoost](https://mangoboost.io) | HPC | US | Not checked | — | — | — |
-| [Matx](https://matx.com) | AI | US | Not checked | — | — | — |
-| [Memryx](https://memryx.com) | AI | US | Not checked | — | — | — |
-| [Mesa Quantum](https://mesaquantum.com) | QUANTUM | US | Not checked | — | — | — |
-| [MetisX](https://metix.com) | MEMORY | KR | Not checked | — | — | — |
-| [Mintneuro](https://mintneuro.com) | HEALTH | UK | Not checked | — | — | — |
-| [Mobilint](https://mobilint.com) | AI | KR | Not checked | — | — | — |
-| [Morphing Machines](https://morphing.in) | HPC | IN | Not checked | — | — | — |
-| [Morse Micro](https://morsemicro.com) | RF | AU | Not checked | — | — | — |
-| [Mosaic SoC](https://mosaic-soc.com) | ASIC | CH | Not checked | — | — | — |
-| [Motivo](https://motivo.ai) | EDA | US | Not checked | — | — | — |
-| [Movandi](https://movandi.com) | RF | US | Not checked | — | — | — |
-| [Movellus](https://movellus.com) | ANALOG | US | Not checked | — | — | — |
-| [Mythic](https://mythic-ai.com) | AI | US | Not checked | — | — | — |
-| [MZ Technologies](https://genioevo.com) | EDA | IT | Not checked | — | — | — |
-| [Nanopower](https://nanopowersemi.com) | ANALOG | NO | Not checked | — | — | — |
-| [NcodiN](https://ncodin.com) | PHOTONICS | FR | Not checked | — | — | — |
-| [Neologic](https://neologicvlsi.com) | MFG | IL | Not checked | — | — | — |
-| [Netrasemi](https://netrasemi.com) | AI | IN | Not checked | — | — | — |
-| [Neureality](https://neureality.ai) | AI | IL | Not checked | — | — | — |
-| [NeuroBlade](https://neuroblade.com) | AI | IL | Not checked | — | — | — |
-| [Neurophos](https://neurophos.com) | PHOTONICS | US | Not checked | — | — | — |
-| [Neurxcore](https://neurxcore.com) | AI | FR | Not checked | — | — | — |
-| [Next Semiconductor](https://nextsemi.com) | SPACE | US | Not checked | — | — | — |
-| [NextSilicon](https://nextsilicon.com) | HPC | IL | Not checked | — | — | — |
-| [Niobium Microsystems](https://niobiummicrosystems.com) | SECURITY | US | Not checked | — | — | — |
-| [Novelda](https://novelda.com) | RF | NO | Not checked | — | — | — |
-| [Novumind](https://novumind.com) | AI | US | Not checked | — | — | — |
-| [Nubis Communication](https://Nubis-inc.com) | NETWORKING | US | Not checked | — | — | — |
-| [Olix](https://olix.com) | AI | UK | Not checked | — | — | — |
-| [OmniDesign](https://omnidesigntech.com) | ANALOG | US | Not checked | — | — | — |
-| [One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | CA | Not checked | — | — | — |
-| [OniO](https://onio.com) | RF | NO | Not checked | — | — | — |
-| [OpenMachine](https://openmachine.ai) | AI | US | Not checked | — | — | — |
-| [Optalysys](https://optalysys.com) | PHOTONICS | UK | Not checked | — | — | — |
-| [optoML](https://optoml.ai) | AI | SG | Not checked | — | — | — |
-| [Oso Semiconductor](https://ososemi.com) | RF | US | Not checked | — | — | — |
-| [Owl](https://owlai.us) | SENSORS | US | Not checked | — | — | — |
-| [Oxford Quantum Circuits](https://oxfordquantumcircuits.com) | QUANTUM | UK | Not checked | — | — | — |
-| [Ozark ICs](https://ozarkic.com) | ANALOG | US | Not checked | — | — | — |
-| [Panmnesia](https://panmnesia.com) | MEMORY | KR | Not checked | — | — | — |
-| [par.tcl](https://partcl.com) | EDA | US | Not checked | — | — | — |
-| [persimmons](https://persimmons.ai) | AI | US | Not checked | — | — | — |
-| [Phanofi](https://phanofi.com) | PHOTONICS | DK | Not checked | — | — | — |
-| [Phoenix Semiconductor](https://phoenixsemicorp.com) | ASIC | US | Not checked | — | — | — |
-| [Picocom](https://picocom.com) | RF | UK | Not checked | — | — | — |
-| [Piris Labs](https://pirislabs.io) | AI | US | Not checked | — | — | — |
-| [Plaid Semiconductor](https://plaidsemi.com) | CHIPLETS | US | Not checked | — | — | — |
-| [Pliops](https://pliops.com) | HPC | IL | Not checked | — | — | — |
-| [PointCloud](https://point.cloud) | SENSORS | US | Not checked | — | — | — |
-| [Polaris EO](https://polariseo.com) | PHOTONICS | US | Not checked | — | — | — |
-| [Polyn Technology](https://polyn.ai) | AI | IL | Not checked | — | — | — |
-| [PQShield](https://pqshield.com) | QUANTUM | UK | Not checked | — | — | — |
-| [PragmatiC](https://pragmaticsemi.com) | MFG | UK | Not checked | — | — | — |
-| [Precision Innovations](https://precisioninno.com) | EDA | US | Not checked | — | — | — |
-| [Primemas](https://primemas.com) | CHIPLETS | US | Not checked | — | — | — |
-| [Primis](https://primis.ai) | EDA | US | Not checked | — | — | — |
-| [proteanTecs](https://proteantecs.com) | ANALOG | IL | Not checked | — | — | — |
-| [PseudolithIC](https://pseudolithic.com) | MFG | US | Not checked | — | — | — |
-| [PsiQuantum](https://psiquantum.com) | QUANTUM | US | Not checked | — | — | — |
-| [Qant](https://Qant.com) | PHOTONICS | DE | Not checked | — | — | — |
-| [Qromis](https://qromis.com) | MFG | US | Not checked | — | — | — |
-| [Qruise](https://qruise.com) | QUANTUM | DE | Not checked | — | — | — |
-| [Quadric.io](https://quadric.io) | AI | US | Not checked | — | — | — |
-| [Qualinx](https://qualinx.io) | RF | NL | Not checked | — | — | — |
-| [Quantum Motion](https://quantummotion.com) | QUANTUM | UK | Not checked | — | — | — |
-| [Quera Computing](https://quera.com) | QUANTUM | US | Not checked | — | — | — |
-| [Quilter](https://quilter.ai) | EDA | US | Not checked | — | — | — |
-| [Quintessent](https://quintessent.com) | PHOTONICS | US | Not checked | — | — | — |
-| [Raaam](https://Raaam-tech.com) | MEMORY | IL | Not checked | — | — | — |
-| [RaiderChip](https://raiderchip.ai) | AI | ES | Not checked | — | — | — |
-| [Rain Neuromorphics](https://rain.ai) | AI | US | Not checked | — | — | — |
-| [Ramon Space](https://ramon.space) | SPACE | IL | Not checked | — | — | — |
-| [Ranovus](https://ranovus.com) | PHOTONICS | CA | Not checked | — | — | — |
-| [Rapid Photonics](https://rapidphotonics.com) | MFG | NL | Not checked | — | — | — |
-| [RapidSilicon](https://rapidsilicon.com) | FPGA | US | Not checked | — | — | — |
-| [Rebellions](https://rebellions.ai) | AI | KR | Not checked | — | — | — |
-| [Recogni](https://recogni.com) | AI | US | Not checked | — | — | — |
-| [RED Semiconductor](https://redsemiconductor.com) | HPC | UK | Not checked | — | — | — |
-| [Redwood EDA](https://redwoodeda.com) | EDA | US | Not checked | — | — | — |
-| [Retym](https://retym.com) | AI | US | Not checked | — | — | — |
-| [Ricursive Intelligence](https://ricursive.com) | EDA | US | Not checked | — | — | — |
-| [RISE](https://Rise-da.com) | EDA | US | Not checked | — | — | — |
-| [Riverlane](https://riverlane.com) | QUANTUM | UK | Not checked | — | — | — |
-| [Rivos](https://rivosinc.com) | RISC-V | US | Not checked | — | — | — |
-| [RoboSense](https://robosense.ai) | SENSORS | CN | Not checked | — | — | — |
-| [Sagence AI](https://www.sagence-ai.com) | AI | US | Not checked | — | — | — |
-| [Salience Labs](https://saliencelabs.ai) | PHOTONICS | UK | Not checked | — | — | — |
-| [SambaNova](https://sambanova.ai) | AI | US | Not checked | — | — | — |
-| [Saras Micro Devices](https://sarasmicro.com) | MFG | US | Not checked | — | — | — |
-| [Scalinx](https://scalinx.com) | RF | FR | Not checked | — | — | — |
-| [Scintil](https://scintil-photonics.com) | PHOTONICS | FR | Not checked | — | — | — |
-| [Secqai](https://secqai.com) | QUANTUM | UK | Not checked | — | — | — |
-| [Semidynamics](https://semidynamics.com) | RISC-V | ES | Not checked | — | — | — |
-| [Semifive](https://semifive.com) | ASIC | KR | Not checked | — | — | — |
-| [Semify](https://semify-eda.com) | EDA | DE | Not checked | — | — | — |
-| [SemiQon](https://semiqon.tech) | QUANTUM | FI | Not checked | — | — | — |
-| [Semron](https://semron.ai) | AI | DE | Not checked | — | — | — |
-| [SiFive](https://sifive.com) | RISC-V | US | Not checked | — | — | — |
-| [SiLC](https://silc.com) | PHOTONICS | US | Not checked | — | — | — |
-| [Silicon Assurance](https://siliconassurance.com) | EDA | US | Not checked | — | — | — |
-| [Silicon Box](https://Silicon-box.com) | MFG | SG | Not checked | — | — | — |
-| [Siliconally](https://siliconally.com) | NETWORKING | DE | Not checked | — | — | — |
-| [SiliconSpace](https://siliconspace.org) | EDA | US | Not checked | — | — | — |
-| [Silimate](https://silimate.com) | EDA | US | Not checked | — | — | — |
-| [Silogy](https://silogy.io) | EDA | US | Not checked | — | — | — |
-| [SiMa.ai](https://sima.ai) | AI | US | Not checked | — | — | — |
-| [Simbricks](https://simbricks.io) | EDA | DE | Not checked | — | — | — |
-| [Singular Photonics](https://singularphotonics.com) | SENSORS | UK | Not checked | — | — | — |
-| [SiPearl](https://sipearl.com) | HPC | FR | Not checked | — | — | — |
-| [Siphox](https://siphoxhealth.com) | HEALTH | US | Not checked | — | — | — |
-| [Skycore Semiconductors](https://skycore-semi.com) | ANALOG | DK | Not checked | — | — | — |
-| [Snowcap Compute](https://snowcapcompute.com) | HPC | US | Not checked | — | — | — |
-| [Spark Micro](https://sparkmicro.com) | RF | CA | Not checked | — | — | — |
-| [Speedata](https://speedata.io) | AI | IL | Not checked | — | — | — |
-| [Spherical](https://Spherical-systems.com) | SPACE | NL | Not checked | — | — | — |
-| [Spinncloud](https://spinncloud.com) | AI | DE | Not checked | — | — | — |
-| [StarFive](https://starfivetech.com) | RISC-V | CN | Not checked | — | — | — |
-| [Swave](https://swave.io) | PHOTONICS | BE | Not checked | — | — | — |
-| [SWIR Vision Systems](https://swirvisionsystems.com) | SENSORS | US | Not checked | — | — | — |
-| [Synthara](https://synthara.ai) | AI | CH | Not checked | — | — | — |
-| [Syntiant](https://syntiant.com) | AI | US | Not checked | — | — | — |
-| [Taalas](https://taalas.com) | AI | CA | Not checked | — | — | — |
-| [Tachyum](https://tachyum.com) | HPC | US | Not checked | — | — | — |
-| [Tandem PV](https://tandempv.com) | MFG | US | Not checked | — | — | — |
-| [Tenstorrent](https://tenstorrent.com) | AI | CA | Not checked | — | — | — |
-| [Teramount](https://teramount.com) | MFG | IL | Not checked | — | — | — |
-| [Tetramem](https://tetramem.com) | AI | US | Not checked | — | — | — |
-| [Thintronics](https://thintronics.com) | MFG | US | Not checked | — | — | — |
-| [Trameto](https://trameto.com) | ANALOG | UK | Not checked | — | — | — |
-| [TriEye](https://trieye.tech) | SENSORS | IL | Not checked | — | — | — |
-| [Ubilite](https://ubilite.com) | RF | US | Not checked | — | — | — |
-| [Ubitium](https://ubitium.com) | AI | DE | Not checked | — | — | — |
-| [Uhnder](https://uhnder.com) | SENSORS | US | Not checked | — | — | — |
-| [Unconventional AI](https://unconv.ai) | AI | US | Not checked | — | — | — |
-| [Unifabrix](https://unifabrix.com) | NETWORKING | IL | Not checked | — | — | — |
-| [Upmem](https://upmem.com) | AI | FR | Not checked | — | — | — |
-| [Usound](https://usound.com) | MEMS | AU | Not checked | — | — | — |
-| [Vaire Computing](https://vaire.co) | ANALOG | UK | Not checked | — | — | — |
-| [Vayyar](https://vayyar.com) | SENSORS | IL | Not checked | — | — | — |
-| [Vector Photonics](https://vectorphotonics.co.uk) | PHOTONICS | UK | Not checked | — | — | — |
-| [VerifAI](https://verifai.ai) | EDA | US | Not checked | — | — | — |
-| [Verifaix](https://verifaix.com) | EDA | US | Not checked | — | — | — |
-| [Vinci](https://getvinci.ai) | EDA | US | Not checked | — | — | — |
-| [Viqthor](https://viqthor.com) | QUANTUM | FR | Not checked | — | — | — |
-| [Visblsemi](https://visiblsemi.com) | EDA | US | Not checked | — | — | — |
-| [Volantis Semiconductor](https://volantissemi.ai) | AI | US | Not checked | — | — | — |
-| [VoltAI](https://voltai.com) | EDA | US | Not checked | — | — | — |
-| [Vsora](https://vsora.com) | AI | FR | Not checked | — | — | — |
-| [Wave Photonics](https://wavephotonics.com) | PHOTONICS | UK | Not checked | — | — | — |
-| [Welinq](https://welinq.fr) | QUANTUM | FR | Not checked | — | — | — |
-| [Xanadu](https://xanadu.ai) | PHOTONICS | US | Not checked | — | — | — |
-| [Xcelerium](https://xcelerium.com) | HPC | US | Not checked | — | — | — |
-| [XCENA](https://xcena.com) | MEMORY | KR | Not checked | — | — | — |
-| [Xconntech](https://xconn-tech.com) | HPC | US | Not checked | — | — | — |
-| [ximplic](https://ximplic.com) | EDA | NL | Not checked | — | — | — |
-| [Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | US | Not checked | — | — | — |
-| [Xsight Labs](https://xsightlabs.com) | HPC | IL | Not checked | — | — | — |
-| [Yorchip](https://yorchip.com) | CHIPLETS | US | Not checked | — | — | — |
-| [Zendar](https://zendar.io) | SENSORS | US | Not checked | — | — | — |
-| [Zero Point Motion](https://zeropointmotion.com) | MEMS | UK | Not checked | — | — | — |
-| [ZeroASIC](https://zeroasic.com) | CHIPLETS | US | Not checked | — | — | — |
-| [ZeroPoint](https://zeropoint-tech.com) | MEMORY | US | Not checked | — | — | — |
-| [zeroRISC](https://zerorisc.com) | SECURITY | US | Not checked | — | — | — |
+| [Abacus Semiconductor](https://Abacus-semi.com) | HPC | US | Discovery blocked / needs review | — | 2026-09-27T06:58:23+00:00 | — |
+| [Accelercom](https://accelercomm.com) | RF | UK | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-W22XJ4Q); [Source](https://www.accelercomm.com/careers); [Source](https://www.accelercomm.com/careers#listing); [Source](https://www.accelercomm.com/careers?location=southampton-uk#listing); [Source](https://www.accelercomm.com/careers?location=west-coast-united-states#listing) | 2026-09-27T06:58:30+00:00 | — |
+| [Agentrys](https://agentrys.ai) | EDA | US | Partial / needs review | [Source](https://agentrys.ai/careers); [Source](https://agentrys.ai/careers/research-engineer); [Source](https://agentrys.ai/careers/ai-engineer); [Source](https://agentrys.ai/careers/infrastructure-engineer); [Source](https://agentrys.ai/careers/solutions-engineer) | 2026-09-27T06:58:26+00:00 | — |
+| [Agile Analog](https://agileanalog.com) | EDA | UK | Partial / needs review | [Source](https://www.agileanalog.com/careers); [Source](https://www.agileanalog.com/careers/open-roles); [Source](https://www.agileanalog.com/careers#h1-section); [Source](https://careers.agileanalog.com/jobs/3185797-senior-staff-analog-engineer?utm_campaign=jobs-widget&utm_source=careers.agileanalog.com&utm_content=jobs&utm_medium=web); [Source](https://www.agileanalog.com/careers/open-roles#h1-section) | 2026-09-27T06:58:27+00:00 | — |
+| [Agita Labs](https://agitalabs.com) | SECURITY | US | Partial / needs review | [Source](https://agitalabs.com/join-us/); [Source](https://agitalabs.com/jobs/embedded-privacy-technology-entrepreneur/) | 2026-09-27T06:58:29+00:00 | — |
+| [Agnit Semiconductor](https://agnitsemi.com) | MFG | IN | Partial / needs review | [Source](https://www.agnitsemi.com/work-with-us) | 2026-09-27T06:58:25+00:00 | robots.txt disallows this URL; robots.txt unavailable: &lt;urlopen error [Errno -2] Name or service not known&gt; |
+| [Ahead Computing](https://aheadcomputing.com) | RISC-V | US | Partial / needs review | [Source](https://www.aheadcomputing.com/careers); [Source](https://www.aheadcomputing.com/career/senior-cpu-verification-engineer#apply); [Source](https://www.aheadcomputing.com/career/senior-cpu-verification-engineer); [Source](https://www.aheadcomputing.com/career/senior-cpu-architect#apply); [Source](https://www.aheadcomputing.com/career/senior-cpu-architect) | 2026-09-27T06:58:26+00:00 | — |
+| [Aistorm](https://aistorm.ai) | AI | US | Partial / needs review | [Source](https://aistorm.ai/careers/) | 2026-09-27T06:58:27+00:00 | — |
+| [Akeana](https://akeana.com) | RISC-V | US | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-P6CXFD9H); [Source](https://www.akeana.com/career/); [Source](https://www.akeana.com/career/#content); [Source](https://www.akeana.com/jobs/machine-learning-hardware-software-codesign-engineer/); [Source](https://www.akeana.com/jobs/pd/) | 2026-09-27T06:58:34+00:00 | — |
+| [Akhetonics](https://akhetonics.com) | PHOTONICS | DE | Partial / needs review | [Source](https://www.akhetonics.com/careers) | 2026-09-27T06:58:24+00:00 | — |
+| [Alif Semiconductor](https://alifsemi.com) | AI | US | Partial / needs review | [Source](https://alifsemi.com/careers/) | 2026-09-27T06:58:24+00:00 | — |
+| [Allspice.io](https://allspice.io) | EDA | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/allspice) | 2026-09-27T06:58:24+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Alpha Design AI](https://alphadesign.ai) | EDA | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/alpha-design-ai-inc); [Source](https://chipagents.ai/careers) | 2026-09-27T06:58:25+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Ambient Scientific](https://ambientscientific.ai) | ANALOG | US | Partial / needs review | [Source](https://www.ambientscientific.ai/career); [Source](https://www.googletagmanager.com/ns.html?id=GTM-TPJQQR8N) | 2026-09-27T06:58:28+00:00 | HTTP Error 401: Unauthorized; HTTP Error 401: Unauthorized; HTTP Error 401: Unauthorized |
+| [Amsimcel](https://amsimcel.com) | EDA | RO | Partial / needs review | [Source](https://hyperpv.com/); [Source](https://hyperpv.com/careers/); [Source](https://hyperpv.com/job/engineering-manager/); [Source](https://hyperpv.com/job/product-designer/) | 2026-09-27T06:58:44+00:00 | — |
+| [Anabrid](https://anabrid.com) | ANALOG | DE | Partial / needs review | [Source](https://anabrid.com/career); [Source](https://anabrid.com/career#jobs); [Source](https://anabrid.com/career/initiativbewerbung-m-w-d); [Source](https://anabrid.com/career/mixed-signal-ic-design-ingenieur-m-w-d); [Source](https://anabrid.com/career/digital-asic-designer-m-w-d) | 2026-09-27T06:58:31+00:00 | — |
+| [Analog Photonics](https://analogphotonics.com) | PHOTONICS | US | Partial / needs review | [Source](https://www.analogphotonics.com/about/#jobs) | 2026-09-27T06:58:29+00:00 | robots.txt disallows this URL |
+| [Andapt](https://andapt.com) | ANALOG | IE | Discovery blocked / needs review | — | 2026-09-27T06:58:28+00:00 | robots.txt unavailable: &lt;urlopen error [Errno 111] Connection refused&gt; |
+| [Anello](https://anellophotonics.com) | PHOTONICS | US | API checked | [Source](https://job-boards.greenhouse.io/anellophotonics); [Source](https://www.anellophotonics.com/careers); [Source](https://www.googletagmanager.com/ns.html?id=GTM-P9TZZG7); [Source](https://www.anellophotonics.com/careers#page); [Source](https://www.youtube.com/embed/VNKIxgPAKi8); [Source](https://www.youtube.com/embed/mLuxuOVQv9U) | 2026-09-27T06:58:30+00:00 | — |
+| [Aniah](https://aniah.fr) | EDA | FR | Partial / needs review | [Source](https://aniah.fr/career/); [Source](https://aniah.fr/career/#spontaneous); [Source](https://www.youtube.com/embed/M38Nky0Cuh0?feature=oembed); [Source](https://www.youtube.com/embed/7cYN0SNeSsY?feature=oembed) | 2026-09-27T06:58:30+00:00 | HTTP Error 403: Forbidden |
+| [Applied Brain Research](https://appliedbrainresearch.com) | AI | CA | Partial / needs review | [Source](https://www.appliedbrainresearch.com/our-company/careers); [Source](https://www.appliedbrainresearch.com/our-company/careers#content); [Source](https://www.appliedbrainresearch.com/our-company/careers#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjcyNyIsInRvZ2dsZSI6ZmFsc2V9); [Source](https://www.appliedbrainresearch.com/career/head-of-business-development); [Source](https://www.appliedbrainresearch.com/our-company/careers#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9) | 2026-09-27T06:58:54+00:00 | — |
+| [Arago](https://arago.inc) | PHOTONICS | FR | Partial / needs review | [Source](https://jobs.ashbyhq.com/arago); [Source](https://www.arago.inc/#career) | 2026-09-27T06:58:29+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Argus Space](https://argus-space.ch) | RF | CH | Discovery blocked / needs review | — | 2026-09-27T06:58:39+00:00 | — |
+| [Ascenium](https://ascenium.com) | HPC | NO | Discovery blocked / needs review | — | 2026-09-27T06:58:29+00:00 | — |
+| [Aspinity](https://aspinity.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:58:31+00:00 | — |
+| [Astrus](https://astrus.ai) | EDA | CA | Partial / needs review | [Source](https://www.astrus.ai/careers); [Source](https://www.astrus.ai/careers#jobs) | 2026-09-27T06:58:32+00:00 | — |
+| [Athos Silicon](https://athossilicon.com) | CHIPLETS | US | Discovery blocked / needs review | — | 2026-09-27T06:58:30+00:00 | — |
+| [Atlant 3D](https://atlant3d.com) | MFG | DK | Discovery blocked / needs review | — | 2026-09-27T06:58:30+00:00 | robots.txt disallows this URL |
+| [Atlantic Quantum](https://atlantic-quantum.com) | QUANTUM | US | Discovery blocked / needs review | — | 2026-09-27T06:58:30+00:00 | robots.txt unavailable: &lt;urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)&gt; |
+| [Atmosic](https://atmosic.com) | RF | US | Partial / needs review | [Source](https://atmosic.com/about/#careers) | 2026-09-27T06:58:31+00:00 | robots.txt disallows this URL |
+| [Atoms AI](https://atomsai.net) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:58:30+00:00 | robots.txt disallows this URL |
+| [Aule Technologies](https://auletechnologies.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:58:30+00:00 | — |
+| [Avicena](https://avicena.tech) | PHOTONICS | US | Partial / needs review | [Source](https://avicena.tech/careers/); [Source](https://www.youtube.com/embed/zG8z8o0_ggI?si=aeDjV8p8DeKB9PdI); [Source](https://avicena.tech/careers/#qodef-page-content); [Source](https://avicena.tech/careers/#open-positions) | 2026-09-27T06:58:41+00:00 | — |
+| [Axelera](https://axelera.ai) | AI | NL | Partial / needs review | [Source](https://jobs.ashbyhq.com/axelera); [Source](https://www.googletagmanager.com/ns.html?id=GTM-T8ZPDPRN); [Source](https://axelera.ai/careers); [Source](https://axelera.ai/careers#main-content); [Source](https://axelera.ai/careers#openings) | 2026-09-27T06:58:32+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Ayar Labs](https://ayarlabs.com) | PHOTONICS | US | Partial / needs review | [Source](https://ayarlabs.com/careers/); [Source](https://www.googletagmanager.com/ns.html?id=GTM-PCFZTZ8); [Source](https://ayarlabs.com/careers/#jobs) | 2026-09-27T06:59:22+00:00 | — |
+| [Azimuth AI](https://azimuth-ai.com) | ASIC | US | Partial / needs review | [Source](https://azimuth-ai.com/careers.html) | 2026-09-27T06:58:35+00:00 | — |
+| [Baya Systems](https://bayasystems.com) | CHIPLETS | US | Partial / needs review | [Source](https://bayasystems.com/careers/); [Source](https://bayasystems.com/careers/#content); [Source](https://bayasystems.com/careers/#open-positions) | 2026-09-27T06:59:42+00:00 | — |
+| [Beacon Photonics](https://beaconphotonics.com) | PHOTONICS | US | Partial / needs review | [Source](https://www.beaconphotonics.com/careers) | 2026-09-27T06:58:33+00:00 | robots.txt disallows this URL |
+| [Beam](https://beamshaping.io) | RF | IL | Partial / needs review | [Source](https://beamshaping.io/jobs/) | 2026-09-27T06:58:33+00:00 | — |
+| [Belfort](https://belfortlabs.com) | SECURITY | BE | Partial / needs review | [Source](https://finsweet.com); [Source](https://app.notion.com/p/Open-roles-Belfort-24f6806ab7bc8090be69cdb4ade3d94f); [Source](https://belfortlabs.com/about#career); [Source](https://finsweet.com/jobs/home) | 2026-09-27T06:58:36+00:00 | — |
+| [Black Semiconductor](https://blacksemiconductor.de) | MFG | DE | Partial / needs review | [Source](https://jobs.ashbyhq.com/blacksemiconductor); [Source](https://www.blacksemi.com/career); [Source](https://www.youtube-nocookie.com/embed/NbJUT_NKnAU?rel=0&controls=1&autoplay=0&mute=0&start=0); [Source](https://www.blacksemi.com/career#Top) | 2026-09-27T06:58:37+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Blueshift Memory](https://blueshiftmemory.com) | MEMORY | UK | Discovery blocked / needs review | — | 2026-09-27T06:58:36+00:00 | — |
+| [Bluespec](https://bluespec.com) | RISC-V | US | Discovery blocked / needs review | — | 2026-09-27T06:58:34+00:00 | — |
+| [Blumind](https://blumind.ai) | AI | CA | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-KVBHJJKN); [Source](https://blumind.ai/career/) | 2026-09-27T06:58:37+00:00 | robots.txt disallows this URL |
+| [Bolt Semiconductor](https://boltsemi.com) | MFG | US | Discovery blocked / needs review | — | 2026-09-27T06:58:34+00:00 | HTTP Error 403: Forbidden |
+| [BoolSi](https://boolsi.com) | EDA | US | Partial / needs review | [Source](https://boolsi.com/careers.html); [Source](https://boolsi.com/careers-compiler-engineer.html); [Source](https://boolsi.com/careers-principal-robotics-engineer.html) | 2026-09-27T06:58:37+00:00 | — |
+| [bos semiconductors](https://bos-semi.com) | ASIC | KR | Partial / needs review | [Source](https://www.bos-semi.com/careers); [Source](https://www.bos-semi.com/careers-southkorea); [Source](https://www.bos-semi.com/careers-vietnam); [Source](https://bossemiconductors.jobday.vn/) | 2026-09-27T06:58:41+00:00 | — |
+| [Bronco AI](https://bronco.ai) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:58:36+00:00 | — |
+| [Build4Sim Inc](https://build4sim.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:58:37+00:00 | — |
+| [cadlab.io](https://cadlab.io) | EDA | US | Partial / needs review | [Source](https://www.youtube.com/embed/gM3OAKcFhsU?rel=0&controls=1&autoplay=0&mute=0&start=0); [Source](https://www.youtube.com/embed/HgXkV11ANqc?rel=0&controls=0&autoplay=0&mute=0&start=0); [Source](https://cadlab.io/cadlab-form/101); [Source](https://www.googletagmanager.com/ns.html?id=GTM-NB5KH2Z) | 2026-09-27T06:59:09+00:00 | — |
+| [Cadstrom](https://cadstrom.io) | EDA | CA | Partial / needs review | [Source](https://www.cadstrom.io/careers); [Source](https://www.googletagmanager.com/ns.html?id=GTM-NRT74JQ8) | 2026-09-27T06:58:38+00:00 | — |
+| [cassia.ai](https://cassia.ai) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:58:38+00:00 | — |
+| [Celera](https://celeratechnologies.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:58:37+00:00 | — |
+| [Celero Communications](https://celero.inc) | NETWORKING | US | Discovery blocked / needs review | — | 2026-09-27T06:58:37+00:00 | robots.txt unavailable: HTTP Error 403: Forbidden |
+| [Celestial AI](https://celestial.ai) | PHOTONICS | US | Partial / needs review | [Source](https://www.marvell.com/company/careers.html); [Source](https://www.marvell.com/company/careers/university-recruiting.html); [Source](https://www.marvell.com/company/careers.html#mainSection); [Source](https://www.marvell.com/company/careers/recruitment-fraud-protection.html); [Source](https://www.marvell.com/company/careers/what-makes-marvell.html) | 2026-09-27T06:58:43+00:00 | — |
+| [Cellium](https://cellium.net) | RF | IL | Discovery blocked / needs review | — | 2026-09-27T06:58:38+00:00 | — |
+| [Celtro](https://celtro.de) | HEALTH | DE | Discovery blocked / needs review | — | 2026-09-27T06:58:41+00:00 | — |
+| [Celus](https://celus.io) | EDA | DE | Partial / needs review | [Source](https://celus.jobs.personio.de/?language=en); [Source](https://celus.jobs.personio.de/job/2723619?language=en); [Source](https://celus.jobs.personio.de/job/2440530?language=en); [Source](https://celus.jobs.personio.de/job/2723619?language=en#main-content); [Source](https://celus.jobs.personio.de/job/2723619/apply?language=en) | 2026-09-27T06:58:45+00:00 | — |
+| [Ceremorphic](https://ceremorphic.com) | HPC | US | Partial / needs review | [Source](https://ceremorphic.com/careers) | 2026-09-27T06:58:40+00:00 | — |
+| [Cerfe Labs](https://cerfelabs.com) | MFG | US | Discovery blocked / needs review | — | 2026-09-27T06:58:39+00:00 | — |
+| [ChipAgents](https://chipagents.ai) | EDA | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/alpha-design-ai-inc); [Source](https://chipagents.ai/careers) | 2026-09-27T06:58:40+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Chipflow](https://chipflow.io) | ASIC | UK | Partial / needs review | [Source](https://www.chipflow.io/careers); [Source](https://www.googletagmanager.com/ns.html?id=GTM-MN3K8H62); [Source](https://www.chipflow.io/careers#page) | 2026-09-27T06:58:43+00:00 | robots.txt disallows this URL |
+| [Chipletz](https://chipletz.com) | CHIPLETS | US | Discovery blocked / needs review | — | 2026-09-27T06:58:44+00:00 | HTTP Error 429: Too Many Requests |
+| [Chipmind](https://chipmind.ai) | EDA | CH | Partial / needs review | [Source](https://www.chipmind.ai/careers); [Source](https://www.chipmind.ai/careers#open-roles) | 2026-09-27T06:58:42+00:00 | — |
+| [Chipstack](https://chipstack.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:59:11+00:00 | robots.txt unavailable: &lt;urlopen error _ssl.c:993: The handshake operation timed out&gt; |
+| [Circuit Mind](https://circuitmind.io) | EDA | UK | Partial / needs review | [Source](https://www.circuitmind.io/careers); [Source](https://www.googletagmanager.com/ns.html?id=GTM-WP4NCWJ); [Source](https://registry.blockmarktech.com/certificates/840c7541-0066-4e0c-a69f-8b23bbf17318/widget/?tooltip_position=top_left&theme=transparent&non_padded=t&hover=t&image=9e831829-5a42-4de0-95ba-77060fa62330) | 2026-09-27T06:58:46+00:00 | — |
+| [CircuitLeap.ai](https://circuitleap.ai) | EDA | PT | Partial / needs review | [Source](https://circuitleap.ai/careers.html); [Source](https://circuitleap.ai/careers.html#main) | 2026-09-27T06:58:44+00:00 | — |
+| [Classiq](https://classiq.io) | EDA | IL | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-PGXGXJF); [Source](https://www.classiq.io/careers-page); [Source](https://www.classiq.io/careers-page#main-content) | 2026-09-27T06:58:45+00:00 | — |
+| [Codasip](https://codasip.com) | RISC-V | DE | Partial / needs review | [Source](https://codasip.com/company/careers/); [Source](https://codasip.com/company/careers/#content); [Source](https://codasip.com/company/careers/#open_positions); [Source](https://codasip.com/wp-content/uploads/2026/05/equal-opportunities-and-diversity-and-Inclusion.pdf) | 2026-09-27T07:00:04+00:00 | — |
+| [Cognichip](https://cognichip.ai) | EDA | US | Partial / needs review | [Source](https://www.cognichip.ai/careers); [Source](https://www.youtube-nocookie.com/embed/3E1Wkj4mFa8?autoplay=1&mute=1&loop=1&playlist=3E1Wkj4mFa8&rel=0&modestbranding=1&playsinline=1); [Source](https://talent.octopyd.com/careers/cognichip/apply/b060c6a9-09a1-47a2-aa9d-2daca2753b9b); [Source](https://talent.octopyd.com/careers/cognichip/apply/feee761a-40c3-4714-8d7c-54acc4bd118c); [Source](https://talent.octopyd.com/careers/cognichip/apply/4aaff384-487d-464f-a15d-e701ffba42c5) | 2026-09-27T06:58:48+00:00 | — |
+| [Condor Computing](https://condorcomputing.com) | RISC-V | US | Discovery blocked / needs review | — | 2026-09-27T06:58:47+00:00 | HTTP Error 503: Service Unavailable |
+| [Cornami](https://cornami.com) | HPC | US | Discovery blocked / needs review | — | 2026-09-27T06:58:44+00:00 | robots.txt unavailable: HTTP Error 403: Forbidden |
+| [Cycuity](https://cycuity.com) | EDA | US | Partial / needs review | [Source](https://cycuity.com/company/#careers); [Source](https://www.arteris.com/careers/); [Source](https://www.googletagmanager.com/ns.html?id=GTM-TB74LRP7); [Source](https://www.arteris.com/careers/#content); [Source](https://www.arteris.com/careers/open-positions/?a=b) | 2026-09-27T06:59:02+00:00 | — |
+| [Cyrillic](https://cyrillic.tech) | AI | IT | Discovery blocked / needs review | — | 2026-09-27T06:58:47+00:00 | — |
+| [d-Matrix](https://d-matrix.ai) | AI | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/d-Matrix); [Source](https://www.d-matrix.ai/careers/); [Source](https://www.youtube.com/embed/67Dz_pQUpgU?feature=oembed); [Source](https://www.youtube.com/embed/mGwEdXXcvDA?feature=oembed); [Source](https://www.youtube.com/embed/397n6tqLM6c?feature=oembed) | 2026-09-27T06:58:46+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized; &lt;urlopen error timed out&gt; |
+| [DASH Tech IC](https://dashtechic.com) | HPC | US | Partial / needs review | [Source](https://dashtechic.com/careers) | 2026-09-27T06:58:48+00:00 | — |
+| [DeepX](https://deepx.ai) | AI | KR | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-T646CF33); [Source](https://deepx.career.greetinghr.com/ko/career); [Source](https://deepx.ai/contact-us/career-support/); [Source](https://deepx.ai/contact-us/career-support/#jupiterx-main); [Source](https://deepx.ai/contact-us/career-support/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijc1OTMiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D) | 2026-09-27T06:59:01+00:00 | — |
+| [DeGirum](https://degirum.ai) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:58:48+00:00 | — |
+| [Denpaflux](https://denpaflux.com) | EDA | DE | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-WQ7Q2TS6); [Source](https://denpaflux.factorialhr.com/); [Source](https://denpaflux.factorialhr.com/#jobs) | 2026-09-27T06:58:52+00:00 | — |
+| [Dfiant](https://dfiant.works) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:58:48+00:00 | — |
+| [Diode Computers](https://diode.computer) | EDA | US | Partial / needs review | [Source](https://www.ycombinator.com/companies/diode-computers-inc/jobs/UAUsCJS-staff-electrical-engineer); [Source](https://www.ycombinator.com/companies/diode-computers-inc/jobs/V8LqvBH-senior-software-engineer); [Source](https://www.ycombinator.com/jobs); [Source](https://www.ycombinator.com/software) | 2026-09-27T06:58:54+00:00 | robots.txt disallows this URL |
+| [Dnotitia](https://dnotitia.com) | AI | KR | Discovery blocked / needs review | — | 2026-09-27T06:58:49+00:00 | robots.txt disallows this URL |
+| [Dover](https://dovermicrosystems.com) | SECURITY | US | Partial / needs review | [Source](https://www.youtube.com/embed/HbU1gjdsmCo?rel=0&showinfo=0); [Source](https://www.youtube.com/embed/OtcxpBn5gfs?rel=0&showinfo=0); [Source](https://www.dovermicrosystems.com/about-us/#careers) | 2026-09-27T06:58:51+00:00 | — |
+| [DreamBig](https://dreambigsemi.com) | CHIPLETS | US | Partial / needs review | [Source](https://careers.arm.com/); [Source](https://careers.arm.com/search-jobs); [Source](https://careers.arm.com/saved-jobs) | 2026-09-27T06:58:54+00:00 | robots.txt disallows this URL; robots.txt disallows this URL |
+| [Dust Photonics](https://dustphotonics.com) | PHOTONICS | IL | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-MZBFC742); [Source](https://credosemi.com/about-credo/careers/); [Source](https://player.vimeo.com/video/1227561897?badge=0&autopause=1&player_id=0&app_id=58479); [Source](https://credosemi.com/about-credo/careers/#job-listing); [Source](https://credosemi.com/wp-content/uploads/Careers-Page-Header.png) | 2026-09-27T06:58:55+00:00 | — |
+| [EdgeCortix](https://edgecortix.com) | AI | US | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-NV4CC2M3); [Source](https://www.edgecortix.com/en/careers); [Source](https://www.edgecortix.com/ja/careers); [Source](https://edgecortix.bamboohr.com/careers) | 2026-09-27T06:58:55+00:00 | — |
+| [EdgeQ](https://edgeq.io) | RF | US | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-MVBBTNJ); [Source](https://edgeq.io/career/) | 2026-09-27T06:58:55+00:00 | — |
+| [Efficient Computer](https://efficient.computer) | HPC | US | API checked | [Source](https://job-boards.greenhouse.io/efficientcomputer); [Source](https://www.efficient.computer/about#careers); [Source](https://www.googletagmanager.com/ns.html?id=GTM-NH79RJK7) | 2026-09-27T06:58:55+00:00 | — |
+| [Efinix](https://efinixinc.com) | FPGA | US | Discovery blocked / needs review | — | 2026-09-27T06:58:56+00:00 | — |
+| [Eliyan](https://eliyan.com) | CHIPLETS | US | API checked | [Source](https://jobs.lever.co/eliyan); [Source](https://eliyan.com/careers/); [Source](https://eliyan.com/careers/#content) | 2026-09-27T06:58:57+00:00 | — |
+| [EnCharge AI](https://enchargeai.com) | AI | US | API checked | [Source](https://job-boards.greenhouse.io/enchargeai36); [Source](https://www.enchargeai.com/careers); [Source](https://www.enchargeai.com/careers#current-job-openings) | 2026-09-27T06:58:55+00:00 | — |
+| [Enlightra](https://enlightra.com) | PHOTONICS | US | Discovery blocked / needs review | — | 2026-09-27T06:58:56+00:00 | — |
+| [enzzo](https://enzzo.ai) | EDA | US | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-KGMQ7QHF) | 2026-09-27T06:58:57+00:00 | — |
+| [Equal1](https://equal1.com) | QUANTUM | IE | Discovery blocked / needs review | — | 2026-09-27T06:58:56+00:00 | — |
+| [Eridan](https://eridan.io) | RF | US | Partial / needs review | [Source](https://job-boards.greenhouse.io/eridan); [Source](https://job-boards.greenhouse.io/external_greenhouse_job_boards); [Source](https://job-boards.greenhouse.io/assets); [Source](https://job-boards.greenhouse.io/ai_opt_out_request); [Source](https://eridan.io/careers/); [Source](https://player.vimeo.com/video/1128319072?h=f08df1a956&badge=0&autopause=0&player_id=0&app_id=58479); [Source](https://job-boards.greenhouse.io/eridan/jobs/4699218005) | 2026-09-27T06:58:57+00:00 | HTTP Error 404: Not Found; HTTP Error 404: Not Found; HTTP Error 404: Not Found; HTTP Error 401: Unauthorized |
+| [Eridu AI](https://eridu.ai) | PHOTONICS | US | Partial / needs review | [Source](https://eridu.ai/careers/); [Source](https://ats.rippling.com/en-GB/eridu-ai/jobs?page=0); [Source](https://ats.rippling.com/eridu-ai/jobs); [Source](https://eridu.ai/careers/#main); [Source](https://eridu.ai/careers/#skip-sitemenu) | 2026-09-27T06:59:01+00:00 | — |
+| [Etched](https://etched.com) | AI | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/Etched); [Source](https://job-boards.greenhouse.io/etchedai); [Source](https://www.etched.com/join) | 2026-09-27T06:58:58+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Ethernovia](https://ethernovia.com) | NETWORKING | US | Partial / needs review | [Source](https://job-boards.greenhouse.io/ethernovia); [Source](https://job-boards.greenhouse.io/external_greenhouse_job_boards); [Source](https://job-boards.greenhouse.io/assets); [Source](https://www.ethernovia.com/careers/); [Source](https://www.ethernovia.com/careers/#support); [Source](https://www.ethernovia.com/careers/#company); [Source](https://www.ethernovia.com/careers/#wp--skip-link--target) | 2026-09-27T06:59:02+00:00 | HTTP Error 404: Not Found; HTTP Error 404: Not Found |
+| [eTopus](https://etopus.com) | NETWORKING | US | Partial / needs review | [Source](https://etopus.com/careers/); [Source](https://etopus.com/careers/#content); [Source](https://etopus.com/zh/careers/); [Source](https://etopus.com/careers-digital-design/); [Source](https://etopus.com/careers-socdesign/) | 2026-09-27T06:59:06+00:00 | — |
+| [Evacorp](https://evacorp.ai) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:58:57+00:00 | robots.txt unavailable: &lt;urlopen error [Errno -5] No address associated with hostname&gt; |
+| [Everactive](https://everactive.com) | SENSORS | US | Discovery blocked / needs review | — | 2026-09-27T06:58:58+00:00 | — |
+| [Exa Laboratories](https://exalaboratories.com) | AI | US | Partial / needs review | [Source](https://zscc.ai/careers); [Source](https://zscc.ai/#careers); [Source](https://zscc.ai/careers?job_id=109821) | 2026-09-27T06:59:01+00:00 | — |
+| [Exo Imaging](https://exo.inc) | HEALTH | US | Partial / needs review | [Source](https://www.exo.inc/careers) | 2026-09-27T06:59:06+00:00 | robots.txt disallows this URL |
+| [Extropic](https://extropic.ai) | AI | US | Partial / needs review | [Source](https://extropic.ai/about#careers) | 2026-09-27T06:59:03+00:00 | — |
+| [Fabric Cryptography](https://fabriccryptography.com) | SECURITY | US | Discovery blocked / needs review | [Source](https://jobs.lever.co/f16y) | 2026-09-27T06:59:02+00:00 | HTTP Error 404: Not Found; HTTP Error 404: Not Found |
+| [Falcomm](https://myfalcomm.com) | RF | US | Partial / needs review | [Source](https://apply.workable.com/falcomm/) | 2026-09-27T06:59:02+00:00 | — |
+| [Fermionic](https://fermionic.design) | ANALOG | IN | Discovery blocked / needs review | — | 2026-09-27T06:59:04+00:00 | — |
+| [Ferric](https://ferric.com) | ANALOG | US | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-P8ZRLPND) | 2026-09-27T06:59:03+00:00 | — |
+| [Finchetto](https://finchetto.com) | PHOTONICS | UK | Discovery blocked / needs review | — | 2026-09-27T06:59:04+00:00 | — |
+| [Flow Computing](https://flow-computing.com) | HPC | FI | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-PBRP5N3F) | 2026-09-27T06:59:05+00:00 | — |
+| [Flux](https://flux.ai) | EDA | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/flux); [Source](https://www.googletagmanager.com/ns.html?id=GTM-5X7TQ5H) | 2026-09-27T06:59:05+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [FMC](https://ferroelectric-memory.com) | MFG | DE | Partial / needs review | [Source](https://www.ferroelectric-memory.com/career/); [Source](https://www.ferroelectric-memory.com/career/jobs/); [Source](https://ferroelectric-memory-gmbh.jobs.personio.de/?language=en&enable-new-page=true); [Source](https://ferroelectric-memory-gmbh.jobs.personio.de/job/2732207?language=en&enable-new-page=true) | 2026-09-27T06:59:18+00:00 | — |
+| [Forefrontrf](https://forefrontrf.com) | RF | UK | Discovery blocked / needs review | — | 2026-09-27T06:59:04+00:00 | robots.txt unavailable: &lt;urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)&gt; |
+| [Fractile](https://fractile.ai) | AI | UK | Partial / needs review | [Source](https://job-boards.greenhouse.io/fractile); [Source](https://job-boards.greenhouse.io/assets); [Source](https://www.fractile.ai/jobs); [Source](https://job-boards.eu.greenhouse.io/fractile/jobs/4740021101); [Source](https://job-boards.eu.greenhouse.io/fractile/jobs/4890205101); [Source](https://job-boards.eu.greenhouse.io/fractile/jobs/4890206101); [Source](https://job-boards.eu.greenhouse.io/fractile/jobs/4895770101) | 2026-09-27T06:59:08+00:00 | HTTP Error 404: Not Found |
+| [Furiosa](https://furiosa.ai) | AI | KR | API checked | [Source](https://job-boards.greenhouse.io/furiosaai); [Source](https://furiosa.ai/careers); [Source](https://furiosa.ai/careers#main); [Source](https://furiosa.ai/career/algorithm-ai-research-engineer-4005770201?gh_jid=4005770201); [Source](https://furiosa.ai/career/algorithm-ai-research-engineer-intern-4005768201?gh_jid=4005768201); [Source](https://furiosa.ai/career/algorithm-ai-system-engineer-4005372201?gh_jid=4005372201) | 2026-09-27T06:59:07+00:00 | — |
+| [Gemesys](https://gemesys.tech) | AI | DE | Partial / needs review | [Source](https://gemesys.tech/career/); [Source](https://gemesys.jobs.personio.de); [Source](https://gemesys.tech/career/#main); [Source](https://gemesys.tech/career/#collapse-6252ba36ab8bebe5d2ea) | 2026-09-27T06:59:26+00:00 | — |
+| [Generation Alpha Transistor](https://generation-alpha-transistor.com) | EDA | US | Partial / needs review | [Source](https://gen-alpha.io/#careers); [Source](https://gen-alpha.io/careers); [Source](https://gen-alpha.io/careers/member-of-technical-staff); [Source](https://gen-alpha.io/careers/ai-agents); [Source](https://gen-alpha.io/careers/frontend-graphics-gui) | 2026-09-27T06:59:09+00:00 | — |
+| [getinstachip](https://getinstachip.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:59:06+00:00 | robots.txt unavailable: &lt;urlopen error [Errno -2] Name or service not known&gt; |
+| [Gowin](https://gowinsemi.com) | FPGA | CN | Partial / needs review | [Source](https://gowinsemi.com/en/about/career/); [Source](https://gowinsemi.com/ja/about/career/) | 2026-09-27T06:59:17+00:00 | — |
+| [Groq](https://groq.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:59:07+00:00 | — |
+| [HaiLa](https://haila.io) | RF | CA | Partial / needs review | [Source](https://www.haila.io/careers) | 2026-09-27T06:59:08+00:00 | HTTP Error 404: Not Found; robots.txt disallows this URL; robots.txt disallows this URL |
+| [Hailo](https://hailo.ai) | AI | IL | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-MKJ2DT9); [Source](https://hailo.ai/company-overview/careers/); [Source](https://hailo.ai/zh-hans/company-overview/careers/); [Source](https://hailo.ai/de/company-overview/careers/); [Source](https://hailo.ai/ja/company-overview/careers/) | 2026-09-27T06:59:09+00:00 | — |
+| [HawAI.tech](https://hawai.tech) | AI | FR | Discovery blocked / needs review | — | 2026-09-27T06:59:11+00:00 | — |
+| [Heronic](https://heronic.ai) | EDA | UK | Partial / needs review | [Source](https://www.heronic.ai/careers); [Source](https://www.heronic.ai/careers/fpga-engineer); [Source](https://www.heronic.ai/careers/senior-verification-engineer); [Source](https://www.heronic.ai/careers/senior-digital-design-engineer); [Source](https://www.heronic.ai/careers/business-development-manager) | 2026-09-27T06:59:12+00:00 | — |
+| [HyperAccel](https://hyperaccel.ai) | AI | KR | Partial / needs review | [Source](https://hyperaccel.career.greetinghr.com/ko/career); [Source](https://hyperaccel.career.greetinghr.com/ko/guide) | 2026-09-27T06:59:19+00:00 | — |
+| [HyperCIM](https://hypercim.com) | AI | UK | Discovery blocked / needs review | — | 2026-09-27T06:59:09+00:00 | robots.txt unavailable: HTTP Error 403: Forbidden |
+| [Hyperlume](https://hyperlume.com) | PHOTONICS | CA | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-MZBFC742); [Source](https://credosemi.com/about-credo/careers/); [Source](https://credosemi.com/about-credo/careers/#job-listing); [Source](https://credosemi.com/wp-content/uploads/Careers-Page-Header.png); [Source](https://player.vimeo.com/video/1143918463?badge=0&autopause=1&player_id=0&app_id=58479) | 2026-09-27T06:59:13+00:00 | — |
+| [InCore Semi](https://incoresemi.com) | RISC-V | IN | Partial / needs review | [Source](https://incoresemi.zohorecruit.com/jobs/Careers) | 2026-09-27T06:59:14+00:00 | robots.txt unavailable: HTTP Error 403: Forbidden |
+| [Ingonyama](https://ingonyama.com) | SECURITY | IL | Partial / needs review | [Source](https://github.com/ingonyama-zk/Challenges) | 2026-09-27T06:59:13+00:00 | — |
+| [Innatera](https://innatera.com) | AI | NL | Partial / needs review | [Source](https://jobs.ashbyhq.com/innatera); [Source](https://www.innatera.com/careers/); [Source](https://www.innatera.com/careers/#!); [Source](https://www.innatera.com/careers/#dev-portal-register) | 2026-09-27T06:59:20+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Inspire Semi](https://inspiresemi.com) | HPC | US | Partial / needs review | [Source](https://inspiresemi.com/careers/); [Source](https://jobs.gem.com/inspiresemi-com) | 2026-09-27T06:59:44+00:00 | — |
+| [Ipronics](https://ipronics.com) | PHOTONICS | ES | Partial / needs review | [Source](https://ipronics.com/careers/); [Source](https://ipronics.com/careers/#careers-open-positions); [Source](https://app.sesametime.com/jobs/ipronicsprogrammablephotonicssl/9466cf81-c378-400e-99d4-37e170eceeba/overview); [Source](https://app.sesametime.com/jobs/ipronicsprogrammablephotonicssl/a2af0522-bf02-4519-b9e1-e156d3a97ca0/overview); [Source](https://app.sesametime.com/jobs/ipronicsprogrammablephotonicssl/d0ae49d5-e08a-4ad7-93ca-44d7c21bf610/overview) | 2026-09-27T06:59:46+00:00 | — |
+| [Jeeva Wireless](https://jeevawireless.com) | RF | US | Discovery blocked / needs review | — | 2026-09-27T06:59:44+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
+| [Jitx](https://jitx.com) | EDA | US | API checked | [Source](https://jobs.lever.co/jitxinc); [Source](https://www.jitx.com/careers); [Source](https://www.youtube.com/embed/SUVSwqZazik?rel=0&modestbranding=1); [Source](https://www.jitx.com/careers-faq); [Source](https://www.lever.co/job-seeker-support) | 2026-09-27T06:59:19+00:00 | — |
+| [Kandou](https://kandou.com) | NETWORKING | CH | Partial / needs review | [Source](https://jobs.ashbyhq.com/kandou-ai); [Source](https://www.kandou.ai/careers); [Source](https://kandou.bamboohr.com/careers) | 2026-09-27T06:59:22+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Kepler Computing](https://keplercompute.com) | HPC | US | Partial / needs review | [Source](https://keplercompute.com/jobs) | 2026-09-27T06:59:20+00:00 | — |
+| [Keysom](https://keysom.io) | RISC-V | FR | Partial / needs review | [Source](https://keysom.io/company/careers/); [Source](https://keysom.io/company/careers/#content) | 2026-09-27T06:59:25+00:00 | — |
+| [Kittycad](https://zoo.dev) | EDA | US | API checked | [Source](https://job-boards.greenhouse.io/zoo); [Source](https://zoo.dev/careers); [Source](https://zoo.dev/jobs/4656033005?gh_src&gh_jid=4656033005); [Source](https://zoo.dev/jobs/4697240005?gh_src&gh_jid=4697240005); [Source](https://zoo.dev/jobs/4697231005?gh_src&gh_jid=4697231005); [Source](https://zoo.dev/jobs/4715373005?gh_src&gh_jid=4715373005) | 2026-09-27T06:59:22+00:00 | — |
+| [Kneron](https://kneron.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:59:50+00:00 | robots.txt unavailable: &lt;urlopen error timed out&gt; |
+| [Krutrim](https://olakrutrim.com) | AI | IN | Discovery blocked / needs review | — | 2026-09-27T06:59:21+00:00 | — |
+| [Lemurian Labs](https://lemurianlabs.com) | AI | CA | Partial / needs review | [Source](https://jobs.lever.co/lemurian-labs); [Source](https://job-boards.greenhouse.io/lemurianlabs); [Source](https://www.lemurianlabs.com/career); [Source](https://www.lemurianlabs.com/career#Open-Position) | 2026-09-27T06:59:24+00:00 | HTTP Error 404: Not Found |
+| [Light Solver](https://lightsolver.com) | PHOTONICS | IL | Discovery blocked / needs review | — | 2026-09-27T06:59:22+00:00 | — |
+| [Light Trace Photonics](https://ltphotonics.co.uk) | PHOTONICS | UK | Discovery blocked / needs review | — | 2026-09-27T06:59:24+00:00 | — |
+| [Lightium](https://lightium.co) | MFG | CH | Partial / needs review | [Source](https://careers.lightium.com/); [Source](https://careers.lightium.com/jobs); [Source](https://careers.lightium.com/#jobs); [Source](https://careers.lightium.com/jobs/8456609-ip-and-patent-engineer-100); [Source](https://careers.lightium.com/jobs/8264540-photonics-system-architect) | 2026-09-27T06:59:38+00:00 | — |
+| [Lightmatter](https://lightmatter.co) | PHOTONICS | US | API checked | [Source](https://job-boards.greenhouse.io/lightmatter); [Source](https://lightmatter.co/people/careers/); [Source](https://lightmatter.co/people/careers/#content) | 2026-09-27T06:59:23+00:00 | — |
+| [Linctrinsic](https://lintrinsicsemi.com) | RF | US | Partial / needs review | [Source](https://lintrinsicsemi.com/careers/); [Source](https://lintrinsicsemi.com/careers/#content) | 2026-09-27T06:59:27+00:00 | — |
+| [Linque](https://linque.eu) | PHOTONICS | DE | Partial / needs review | [Source](https://linque.eu/careers.html) | 2026-09-27T06:59:25+00:00 | — |
+| [Literal Labs](https://Literal-labs.ai) | AI | UK | Discovery blocked / needs review | — | 2026-09-27T06:59:26+00:00 | — |
+| [Lubis EDA](https://Lubis-eda.com) | EDA | DE | Partial / needs review | [Source](https://lubis-eda.com/careers/); [Source](https://lubis-eda.com/careers/#content); [Source](https://lubis-eda.com/careers/#lubis-search); [Source](https://lubis-eda.jobs.personio.de/); [Source](https://lubis-eda.com/careers/#jobs) | 2026-09-27T06:59:46+00:00 | — |
+| [Lumai](https://luma.ai) | PHOTONICS | UK | Discovery blocked / needs review | — | 2026-09-27T06:59:27+00:00 | — |
+| [Luminous Computing](https://luminous.com) | PHOTONICS | US | Discovery blocked / needs review | — | 2026-09-27T06:59:26+00:00 | — |
+| [Lumotive](https://lumotive.com) | PHOTONICS | US | API checked | [Source](https://jobs.lever.co/lumotive); [Source](https://www.lever.co/job-seeker-support); [Source](https://www.googletagmanager.com/ns.html?id=GTM-WXKGRST) | 2026-09-27T06:59:30+00:00 | robots.txt disallows this URL; robots.txt unavailable: HTTP Error 403: Forbidden |
+| [Lyte AI](https://lyte.ai) | AI | US | Partial / needs review | [Source](https://lyte.ai/Careers) | 2026-09-27T06:59:28+00:00 | — |
+| [Magics Technologies](https://magics.tech) | SPACE | BE | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-P7NR5RX4); [Source](https://www.magics.tech/careers); [Source](https://www.magics.tech/news/open-position-software-engineer); [Source](https://www.magics.tech/news/open-position-senior-analog-ic-designer-engineer); [Source](https://www.magics.tech/news/open-position-business-development-manager) | 2026-09-27T06:59:30+00:00 | — |
+| [Maieutic Semiconductors](https://maieuticsemi.com) | EDA | IN | Partial / needs review | [Source](https://maieuticsemi.com/careers); [Source](https://maieuticsemi.com/career/full-stack-architect); [Source](https://maieuticsemi.com/career/lead-ux-designer); [Source](https://maieuticsemi.com/career/lead-front-end-ui-developer); [Source](https://maieuticsemi.com/career/ai-ml-engineer) | 2026-09-27T06:59:33+00:00 | — |
+| [Majestic Labs](https://majestic-labs.ai) | AI | IL | Partial / needs review | [Source](https://majestic-labs.ai/careers) | 2026-09-27T06:59:29+00:00 | robots.txt disallows this URL |
+| [MangoBoost](https://mangoboost.io) | HPC | US | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-MVTBKZSC); [Source](https://www.mangoboost.io/company/careers); [Source](https://www.mangoboost.io/company/careers#main-content); [Source](https://mangoboost.career.greetinghr.com/en/careers) | 2026-09-27T06:59:38+00:00 | — |
+| [Matx](https://matx.com) | AI | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/matx); [Source](https://job-boards.greenhouse.io/matx); [Source](https://matx.com/jobs); [Source](https://matx.com/jobs#open-positions) | 2026-09-27T06:59:32+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized; HTTP Error 404: Not Found |
+| [Memryx](https://memryx.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:59:31+00:00 | — |
+| [Mesa Quantum](https://mesaquantum.com) | QUANTUM | US | Discovery blocked / needs review | — | 2026-09-27T06:59:32+00:00 | — |
+| [MetisX](https://metix.com) | MEMORY | KR | Discovery blocked / needs review | — | 2026-09-27T06:59:32+00:00 | — |
+| [Mintneuro](https://mintneuro.com) | HEALTH | UK | Partial / needs review | [Source](https://mintneuro.com/home#careers) | 2026-09-27T06:59:35+00:00 | — |
+| [Mobilint](https://mobilint.com) | AI | KR | Discovery blocked / needs review | — | 2026-09-27T06:59:36+00:00 | HTTP Error 429: Too Many Requests |
+| [Morphing Machines](https://morphing.in) | HPC | IN | Partial / needs review | [Source](https://career.hrone.cloud/career-portal?appId=lYPWNyP_kRZtE7DeDcpAk_jQJUyPoy76lpTKEqwiNlcJ_v-ibCVl5t8n8yj3FLmCphj3j4rxpKkxjyPZs_gfK_oacm03KxFiUEpySn2zerF7DOC3WNNUyzQ50mRcEK21&dc=morphingmachine&rqt=m8jH4bpBQbccEU8MZpSP5Q&cc=LADojjUeOM7Xe3w1AzOItw); [Source](https://www.youtube.com/embed/k4MgrJ2shrQ?rel=0&controls=0&autoplay=1&mute=1&start=36); [Source](https://www.googletagmanager.com/ns.html?id=GTM-PH3H8SJ8); [Source](https://www.googletagmanager.com/ns.html?id=GTM-PR9JWQG) | 2026-09-27T06:59:38+00:00 | — |
+| [Morse Micro](https://morsemicro.com) | RF | AU | Partial / needs review | [Source](https://jobs.ashbyhq.com/morse-micro); [Source](https://morsemicro.com/careers); [Source](https://www.morsemicro.com/careers); [Source](https://morsemicro.com/careers#open-roles) | 2026-09-27T06:59:42+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Mosaic SoC](https://mosaic-soc.com) | ASIC | CH | Discovery blocked / needs review | — | 2026-09-27T06:59:36+00:00 | robots.txt unavailable: &lt;urlopen error [Errno -5] No address associated with hostname&gt; |
+| [Motivo](https://motivo.ai) | EDA | US | Partial / needs review | [Source](https://motivo.ai/careers); [Source](https://motivo.ai/careers#page) | 2026-09-27T06:59:39+00:00 | — |
+| [Movandi](https://movandi.com) | RF | US | Partial / needs review | [Source](https://movandi.com/careers/); [Source](https://movandi.com/careers/#ajax-content-wrap); [Source](https://movandi.com/careers/#slide-out-widget-area) | 2026-09-27T07:00:03+00:00 | — |
+| [Movellus](https://movellus.com) | ANALOG | US | Partial / needs review | [Source](https://www.movellus.com/careers/); [Source](https://www.googletagmanager.com/ns.html?id=GTM-PJGNMMN); [Source](https://www.movellus.com/zh-hans/careers/) | 2026-09-27T06:59:41+00:00 | — |
+| [Mythic](https://mythic-ai.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:59:38+00:00 | robots.txt unavailable: &lt;urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)&gt; |
+| [MZ Technologies](https://genioevo.com) | EDA | IT | Discovery blocked / needs review | — | 2026-09-27T06:59:44+00:00 | — |
+| [Nanopower](https://nanopowersemi.com) | ANALOG | NO | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-TV82GZ3); [Source](https://nanopowersemi.com/career); [Source](https://nanopowersemi.com/career#main-content) | 2026-09-27T06:59:42+00:00 | robots.txt disallows this URL |
+| [NcodiN](https://ncodin.com) | PHOTONICS | FR | API checked | [Source](https://job-boards.greenhouse.io/ncodin); [Source](https://ncodin.com/careers/); [Source](https://ncodin.com/job/chief-of-staff-to-the-gm/); [Source](https://ncodin.com/job/test-greenhouse/); [Source](https://ncodin.com/job/internship/); [Source](https://ncodin.com/careers/#jobs) | 2026-09-27T06:59:49+00:00 | — |
+| [Neologic](https://neologicvlsi.com) | MFG | IL | Partial / needs review | [Source](https://www.neologicvlsi.com/careers/); [Source](https://www.neologicvlsi.com/careers/#content) | 2026-09-27T06:59:49+00:00 | — |
+| [Netrasemi](https://netrasemi.com) | AI | IN | Partial / needs review | [Source](https://netrasemi.com/career) | 2026-09-27T06:59:48+00:00 | — |
+| [Neureality](https://neureality.ai) | AI | IL | Partial / needs review | [Source](https://www.neureality.ai/careers/); [Source](https://www.neureality.ai/careers/#content) | 2026-09-27T06:59:45+00:00 | — |
+| [NeuroBlade](https://neuroblade.com) | AI | IL | Discovery blocked / needs review | — | 2026-09-27T06:59:48+00:00 | HTTP Error 500: Internal Server Error |
+| [Neurophos](https://neurophos.com) | PHOTONICS | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/neurophos); [Source](https://neurophos.com/careers); [Source](https://neurophos.com/careers#open-roles) | 2026-09-27T06:59:46+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Neurxcore](https://neurxcore.com) | AI | FR | Discovery blocked / needs review | — | 2026-09-27T06:59:46+00:00 | — |
+| [Next Semiconductor](https://nextsemi.com) | SPACE | US | Discovery blocked / needs review | — | 2026-09-27T06:59:48+00:00 | HTTP Error 429: Too Many Requests |
+| [NextSilicon](https://nextsilicon.com) | HPC | IL | Partial / needs review | [Source](https://www.nextsilicon.com/careers/) | 2026-09-27T06:59:47+00:00 | HTTP Error 404: Not Found |
+| [Niobium Microsystems](https://niobiummicrosystems.com) | SECURITY | US | Partial / needs review | [Source](https://niobium.co/careers); [Source](https://niobium.bamboohr.com/careers) | 2026-09-27T06:59:50+00:00 | — |
+| [Novelda](https://novelda.com) | RF | NO | Partial / needs review | [Source](https://novelda.com/careers/); [Source](https://www.googletagmanager.com/ns.html?id=GTM-PLLNHJH); [Source](https://novelda.com/careers/#jupiterx-main) | 2026-09-27T06:59:52+00:00 | — |
+| [Novumind](https://novumind.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:59:46+00:00 | robots.txt unavailable: &lt;urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)&gt; |
+| [Nubis Communication](https://Nubis-inc.com) | NETWORKING | US | Discovery blocked / needs review | — | 2026-09-27T06:59:47+00:00 | robots.txt unavailable: HTTP Error 403: Forbidden |
+| [Olix](https://olix.com) | AI | UK | Partial / needs review | [Source](https://jobs.ashbyhq.com/olix); [Source](https://olix.com/careers); [Source](https://olix.com/careers#open-roles); [Source](https://olix.com/careers#benefits); [Source](https://olix.com/careersatolix/test-engineering-manager); [Source](https://olix.com/careersatolix/director-of-procurement) | 2026-09-27T06:59:50+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [OmniDesign](https://omnidesigntech.com) | ANALOG | US | Discovery blocked / needs review | — | 2026-09-27T06:59:48+00:00 | — |
+| [One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | CA | Discovery blocked / needs review | — | 2026-09-27T06:59:48+00:00 | robots.txt unavailable: &lt;urlopen error [Errno 111] Connection refused&gt; |
+| [OniO](https://onio.com) | RF | NO | Partial / needs review | [Source](https://www.onio.com/career); [Source](https://www.onio.com/career#video-popup); [Source](https://www.onio.com/career/field-application-engineer.html); [Source](https://www.onio.com/career/business-controller.html); [Source](https://www.onio.com/career/open-application.html) | 2026-09-27T06:59:54+00:00 | — |
+| [OpenMachine](https://openmachine.ai) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:59:49+00:00 | — |
+| [Optalysys](https://optalysys.com) | PHOTONICS | UK | Partial / needs review | [Source](https://optalysys.com/careers/); [Source](https://optalysys.com/wp-content/uploads/2026/07/Staff-Analogue-IC-Design-Engineer-HSCL-External-JD-Bangalore.pdf); [Source](https://optalysys.com/wp-content/uploads/2026/07/Senior-Principal-Analogue-IC-Design-Engineer-DCPD-Bangalore.pdf); [Source](https://optalysys-f033ff1fc1.careers.hibob.com/jobs/50ae2f34-e076-4126-8d00-be47ef2f56e3); [Source](https://optalysys-f033ff1fc1.careers.hibob.com/jobs/d85be745-5d04-4822-bfb2-14f6eeaa0321) | 2026-09-27T06:59:52+00:00 | — |
+| [optoML](https://optoml.ai) | AI | SG | Discovery blocked / needs review | — | 2026-09-27T06:59:50+00:00 | — |
+| [Oso Semiconductor](https://ososemi.com) | RF | US | Partial / needs review | [Source](https://www.ososemi.com/about#jobs) | 2026-09-27T06:59:51+00:00 | — |
+| [Owl](https://owlai.us) | SENSORS | US | Partial / needs review | [Source](https://www.owlai.us/about-owl-ai/careers/); [Source](https://www.owlai.us/about-owl-ai/careers/#content) | 2026-09-27T06:59:53+00:00 | HTTP Error 401: Unauthorized |
+| [Oxford Quantum Circuits](https://oxfordquantumcircuits.com) | QUANTUM | UK | Partial / needs review | [Source](https://oqc.tech/company/careers-at-oqc/); [Source](https://oqc.tech/company/careers-at-oqc/#ajax-content-wrap); [Source](https://oqc.tech/company/careers-at-oqc/#search-box); [Source](https://oqc.tech/company/careers-at-oqc/#slide-out-widget-area); [Source](https://apply.workable.com/oxford-quantum-circuits-8/?lng=en) | 2026-09-27T06:59:53+00:00 | — |
+| [Ozark ICs](https://ozarkic.com) | ANALOG | US | Discovery blocked / needs review | — | 2026-09-27T06:59:50+00:00 | robots.txt unavailable: &lt;urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ozarkic.com'. (_ssl.c:1010)&gt; |
+| [Panmnesia](https://panmnesia.com) | MEMORY | KR | Partial / needs review | [Source](https://panmnesia.com/careers_kr/); [Source](https://panmnesia.com/careers_kr/job-description/); [Source](https://panmnesia.com/careers_kr/culture/); [Source](https://panmnesia.com/careers_kr/apply/); [Source](https://panmnesia.com/careers_kr/#main-content) | 2026-09-27T06:59:52+00:00 | — |
+| [par.tcl](https://partcl.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:59:50+00:00 | — |
+| [persimmons](https://persimmons.ai) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:59:51+00:00 | — |
+| [Phanofi](https://phanofi.com) | PHOTONICS | DK | Partial / needs review | [Source](https://www.youtube.com/embed/8nqHFGkqMOA?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=0&color=white); [Source](https://www.phanofi.com/careers); [Source](https://app.dover.com/apply/phanofi/f4fb470a-04b2-4b88-b57b-0804802bac27) | 2026-09-27T06:59:53+00:00 | robots.txt disallows this URL |
+| [Phoenix Semiconductor](https://phoenixsemicorp.com) | ASIC | US | Partial / needs review | [Source](https://phoenixsemicorp.applytojob.com/apply); [Source](https://phoenixsemicorp.applytojob.com/apply#job-description); [Source](http://phoenixsemicorp.applytojob.com/apply/); [Source](https://www.jazzhr.com/job-seekers); [Source](http://phoenixsemicorp.applytojob.com/apply/#job-description) | 2026-09-27T06:59:55+00:00 | — |
+| [Picocom](https://picocom.com) | RF | UK | Partial / needs review | [Source](https://picocom.com/careers/); [Source](https://picocom.com/careers/#genesis-nav-primary); [Source](https://picocom.com/careers/#genesis-content) | 2026-09-27T07:00:09+00:00 | — |
+| [Piris Labs](https://pirislabs.io) | AI | US | Discovery blocked / needs review | — | 2026-09-27T06:59:51+00:00 | — |
+| [Plaid Semiconductor](https://plaidsemi.com) | CHIPLETS | US | Discovery blocked / needs review | — | 2026-09-27T06:59:52+00:00 | — |
+| [Pliops](https://pliops.com) | HPC | IL | Discovery blocked / needs review | — | 2026-09-27T06:59:53+00:00 | robots.txt unavailable: HTTP Error 503: Service Unavailable |
+| [PointCloud](https://point.cloud) | SENSORS | US | Partial / needs review | [Source](https://www.youtube.com/embed/xjYROQGAgb8?start=27) | 2026-09-27T06:59:54+00:00 | — |
+| [Polaris EO](https://polariseo.com) | PHOTONICS | US | Partial / needs review | [Source](https://polariseo.com/#careers) | 2026-09-27T06:59:54+00:00 | robots.txt disallows this URL |
+| [Polyn Technology](https://polyn.ai) | AI | IL | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-MBN34NWK) | 2026-09-27T06:59:55+00:00 | — |
+| [PQShield](https://pqshield.com) | QUANTUM | UK | Partial / needs review | [Source](https://pqshield.com/careers/); [Source](https://pqshield.com/careers/#page-row-18); [Source](https://www.youtube.com/embed/zb-koswTXXI?si=eAxGhL9QMoElR01X); [Source](https://pqshield.com/careers/#tab-0-we-are-open-minded); [Source](https://pqshield.com/careers/#tab-1-we-feel-empowered) | 2026-09-27T07:00:01+00:00 | — |
+| [PragmatiC](https://pragmaticsemi.com) | MFG | UK | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-M3GTQG74); [Source](https://www.pragmaticsemi.com/company/careers/); [Source](https://talent.pragmaticsemi.com/); [Source](https://www.pragmaticsemi.com/company/careers/#scroll-to-top) | 2026-09-27T07:00:00+00:00 | HTTP Error 401: Unauthorized |
+| [Precision Innovations](https://precisioninno.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:59:54+00:00 | — |
+| [Primemas](https://primemas.com) | CHIPLETS | US | Partial / needs review | [Source](https://www.primemas.com/company/job.php); [Source](https://www.primemas.com/company/job.php?ptype=view&idx=78&page=1&code=job); [Source](https://www.primemas.com/company/job.php?page=1&code=job); [Source](https://www.primemas.com/company/job.php?ptype=list&code=job&); [Source](https://www.primemas.com/company/job.php?ptype=list&code=job&idx=78&page=1&category=0) | 2026-09-27T07:00:06+00:00 | — |
+| [Primis](https://primis.ai) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T06:59:55+00:00 | — |
+| [proteanTecs](https://proteantecs.com) | ANALOG | IL | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-THNLCDCN); [Source](https://www.proteantecs.com/careers); [Source](https://www.proteantecs.com/careers#openpositions) | 2026-09-27T06:59:57+00:00 | — |
+| [PseudolithIC](https://pseudolithic.com) | MFG | US | Partial / needs review | [Source](https://www.pseudolithic.com/company) | 2026-09-27T06:59:55+00:00 | — |
+| [PsiQuantum](https://psiquantum.com) | QUANTUM | US | Partial / needs review | [Source](https://www.psiquantum.com/careers); [Source](https://www.psiquantum.com/careers#page) | 2026-09-27T06:59:57+00:00 | — |
+| [Qant](https://Qant.com) | PHOTONICS | DE | Partial / needs review | [Source](https://qant.com/career/); [Source](https://qant.com/career/#content); [Source](https://qant.com/career/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6OTMxMywidG9nZ2xlIjpmYWxzZX0%3D); [Source](https://qant.com/career/#positions); [Source](https://q-ant-gmbh.jobs.personio.de) | 2026-09-27T07:00:18+00:00 | — |
+| [Qromis](https://qromis.com) | MFG | US | Discovery blocked / needs review | — | 2026-09-27T06:59:55+00:00 | robots.txt unavailable: &lt;urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)&gt; |
+| [Qruise](https://qruise.com) | QUANTUM | DE | Partial / needs review | [Source](https://qruise.jobs.personio.de/) | 2026-09-27T06:59:58+00:00 | — |
+| [Quadric.io](https://quadric.io) | AI | US | Partial / needs review | [Source](https://quadric.ai/careers) | 2026-09-27T06:59:57+00:00 | — |
+| [Qualinx](https://qualinx.io) | RF | NL | API checked | [Source](https://qualinx.recruitee.com); [Source](https://www.qualinx.io/careers/jobs); [Source](https://www.qualinx.io/careers/life); [Source](https://www.qualinx.io/); [Source](https://www.qualinx.io/careers/jobs#page-top); [Source](https://www.qualinx.io/careers/life#wellbeing) | 2026-09-27T06:59:58+00:00 | — |
+| [Quantum Motion](https://quantummotion.com) | QUANTUM | UK | Partial / needs review | [Source](https://quantummotion.com/careers/); [Source](https://quantummotion.com/phd-opportunities/); [Source](https://quantummotion.com/early-career-opportunities/); [Source](https://quantummotion.com/early-career-opportunities/#quantum-engineer) | 2026-09-27T07:00:09+00:00 | HTTP Error 401: Unauthorized |
+| [Quera Computing](https://quera.com) | QUANTUM | US | Partial / needs review | [Source](https://www.quera.com/careers); [Source](https://www.quera.com/enterprise-innovators); [Source](https://www.quera.com/hpc-centers); [Source](https://www.quera.com/national-programs); [Source](https://www.quera.com/neutral-atom-platform) | 2026-09-27T07:00:00+00:00 | — |
+| [Quilter](https://quilter.ai) | EDA | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/quilter); [Source](https://www.quilter.ai/careers); [Source](https://www.quilter.ai/blog/the-joy-is-the-job-nancy-smith-on-crafting-beautiful-hardware-one-pcb-at-a-time); [Source](https://www.quilter.ai/ja/careers); [Source](https://www.quilter.ai/de/careers); [Source](https://www.quilter.ai/ja/blog/the-joy-is-the-job-nancy-smith-on-crafting-beautiful-hardware-one-pcb-at-a-time) | 2026-09-27T07:00:00+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Quintessent](https://quintessent.com) | PHOTONICS | US | Discovery blocked / needs review | — | 2026-09-27T07:00:01+00:00 | HTTP Error 429: Too Many Requests |
+| [Raaam](https://Raaam-tech.com) | MEMORY | IL | Partial / needs review | [Source](https://raaam-tech.com/careers/); [Source](https://raaam-tech.com/careers/#content) | 2026-09-27T07:00:00+00:00 | — |
+| [RaiderChip](https://raiderchip.ai) | AI | ES | Partial / needs review | [Source](https://raiderchip.ai/careers) | 2026-09-27T07:00:01+00:00 | — |
+| [Rain Neuromorphics](https://rain.ai) | AI | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/rain-ai-jobs); [Source](https://rain.ai/careers); [Source](https://rain.ai/careers#page) | 2026-09-27T07:00:04+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Ramon Space](https://ramon.space) | SPACE | IL | Partial / needs review | [Source](https://ramon.space/careers/); [Source](https://ramon.space/careers/#anchor-open-positions) | 2026-09-27T07:00:15+00:00 | HTTP Error 404: Not Found |
+| [Ranovus](https://ranovus.com) | PHOTONICS | CA | Partial / needs review | [Source](https://ranovus.com/careers/); [Source](https://play.gumlet.io/embed/6ab3babbd8e1eb6ecd72b915?background=true&autoplay=true&loop=true&disable_player_controls=true&muted=true&lock_highest_res=true); [Source](https://play.gumlet.io/embed/6ab42750456e563d43cf4c22?background=true&autoplay=true&loop=true&disable_player_controls=true&lock_highest_res=true); [Source](https://ranovus.com/careers/#roles); [Source](https://ranovus.com/careers/#culture) | 2026-09-27T07:00:04+00:00 | — |
+| [Rapid Photonics](https://rapidphotonics.com) | MFG | NL | Partial / needs review | [Source](https://rapidphotonics.com/#vacancies) | 2026-09-27T07:00:12+00:00 | — |
+| [RapidSilicon](https://rapidsilicon.com) | FPGA | US | Discovery blocked / needs review | — | 2026-09-27T07:00:02+00:00 | — |
+| [Rebellions](https://rebellions.ai) | AI | KR | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-PZS932VS); [Source](https://rebellions.ai/careers/); [Source](https://rebellions.career.greetinghr.com/en/accelerate-your-career); [Source](https://rebellions.career.greetinghr.com/en/accelerate-your-career#409e13bf-0988-49cf-855f-2ac129bd00c9) | 2026-09-27T07:00:14+00:00 | — |
+| [Recogni](https://recogni.com) | AI | US | Partial / needs review | [Source](https://www.tensordyne.ai/careers); [Source](https://www.tensordyne.ai/careers#jobs-section) | 2026-09-27T07:00:03+00:00 | — |
+| [RED Semiconductor](https://redsemiconductor.com) | HPC | UK | Discovery blocked / needs review | — | 2026-09-27T07:00:06+00:00 | — |
+| [Redwood EDA](https://redwoodeda.com) | EDA | US | Partial / needs review | [Source](https://www.redwoodeda.com/jobs) | 2026-09-27T07:00:05+00:00 | — |
+| [Retym](https://retym.com) | AI | US | Partial / needs review | [Source](https://retym.com/careers-2/); [Source](https://retym.com/careers-2/co/armenia/all/); [Source](https://retym.com/careers-2/co/armenia/70.369/analog-layout-designer-graduate/all/); [Source](https://retym.com/careers-2/co/armenia/80.360/asic-backend-designer-graduate/all/); [Source](https://retym.com/careers-2/co/armenia/14.060/senior-analog-layout-designer/all/) | 2026-09-27T07:00:43+00:00 | — |
+| [Ricursive Intelligence](https://ricursive.com) | EDA | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/Ricursive%20Intelligence); [Source](https://www.ricursive.com/careers) | 2026-09-27T07:00:06+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [RISE](https://Rise-da.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T07:00:06+00:00 | — |
+| [Riverlane](https://riverlane.com) | QUANTUM | UK | API checked | [Source](https://job-boards.greenhouse.io/riverlane); [Source](https://www.riverlane.com/culture-careers); [Source](https://www.riverlane.com/jobs#vacancies); [Source](https://www.riverlane.com/jobs/internships); [Source](https://www.riverlane.com/jobs/graduate-scheme) | 2026-09-27T07:00:09+00:00 | robots.txt disallows this URL |
+| [Rivos](https://rivosinc.com) | RISC-V | US | Discovery blocked / needs review | [Source](https://jobs.lever.co/rivosinc) | 2026-09-27T07:00:07+00:00 | HTTP Error 404: Not Found; robots.txt disallows this URL |
+| [RoboSense](https://robosense.ai) | SENSORS | CN | Discovery blocked / needs review | — | 2026-09-27T07:00:11+00:00 | — |
+| [Sagence AI](https://www.sagence-ai.com) | AI | US | Discovery blocked / needs review | — | 2026-09-27T07:00:17+00:00 | — |
+| [Salience Labs](https://saliencelabs.ai) | PHOTONICS | UK | Partial / needs review | [Source](https://player.vimeo.com/video/1172097731?autoplay=0&dnt=1&title=0&byline=0&portrait=0) | 2026-09-27T07:00:08+00:00 | HTTP Error 403: Forbidden |
+| [SambaNova](https://sambanova.ai) | AI | US | API checked | [Source](https://job-boards.greenhouse.io/sambanovasystems); [Source](https://www.googletagmanager.com/ns.html?id=GTM-MH8KN9S); [Source](https://sambanova.ai/company/careers); [Source](https://sambanova.ai/ja/company/careers); [Source](https://sambanova.ai/company/careers/job-openings) | 2026-09-27T07:00:09+00:00 | — |
+| [Saras Micro Devices](https://sarasmicro.com) | MFG | US | Partial / needs review | [Source](https://www.sarasmicro.com/careers/); [Source](https://www.sarasmicro.com/careers/#jupiterx-main); [Source](https://app.trinethire.com/companies/36178-saras-micro-devices/jobs); [Source](https://www.sarasmicro.com/careers/#values); [Source](https://www.sarasmicro.com/careers/benefits/) | 2026-09-27T07:00:14+00:00 | — |
+| [Scalinx](https://scalinx.com) | RF | FR | Partial / needs review | [Source](https://www.scalinx.com/careers/testimonials/); [Source](https://www.scalinx.com/careers/job-opportunities/); [Source](https://www.scalinx.com/); [Source](https://www.scalinx.com/careers/); [Source](https://www.scalinx.com/careers/testimonials/#top) | 2026-09-27T07:00:16+00:00 | — |
+| [Scintil](https://scintil-photonics.com) | PHOTONICS | FR | Partial / needs review | [Source](https://www.scintil-photonics.com/hiring); [Source](https://www.scintil-photonics.com/copie-de-hiring) | 2026-09-27T07:00:11+00:00 | robots.txt disallows this URL |
+| [Secqai](https://secqai.com) | QUANTUM | UK | Partial / needs review | [Source](https://www.secqai.com/join-us); [Source](https://www.secqai.com/join-us#page); [Source](https://www.secqai.com/opportunities/category/Bengaluru); [Source](https://www.secqai.com/opportunities/category/Bristol); [Source](https://www.secqai.com/opportunities/category/Hybrid) | 2026-09-27T07:00:16+00:00 | — |
+| [Semidynamics](https://semidynamics.com) | RISC-V | ES | Discovery blocked / needs review | — | 2026-09-27T07:00:11+00:00 | — |
+| [Semifive](https://semifive.com) | ASIC | KR | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-M8S592F); [Source](https://semifive.com/company/careers/culture-and-perks/); [Source](https://semifive.com/company/careers/open-roles/); [Source](https://semifive.com/company/careers/culture-and-perks/#wp--skip-link--target); [Source](https://semifive.com/ko/company/careers/culture-and-perks/) | 2026-09-27T07:00:18+00:00 | — |
+| [Semify](https://semify-eda.com) | EDA | DE | Partial / needs review | [Source](https://www.semify-eda.com/#career); [Source](https://www.semify-eda.com/new_assets/frontend_table); [Source](https://www.semify-eda.com/new_assets/backend_table) | 2026-09-27T07:00:14+00:00 | robots.txt disallows this URL |
+| [SemiQon](https://semiqon.tech) | QUANTUM | FI | Partial / needs review | [Source](https://www.semiqon.com/careers); [Source](https://www.youtube-nocookie.com/embed/nCLHtCQHlYM?rel=0&controls=1&autoplay=0&mute=0&start=0); [Source](https://www.semiqon.com/careers#positions); [Source](https://www.semiqon.com/job-openings/verification-technician) | 2026-09-27T07:00:14+00:00 | robots.txt unavailable: HTTP Error 403: Forbidden |
+| [Semron](https://semron.ai) | AI | DE | Partial / needs review | [Source](https://semron.jobs.personio.de/?language=en); [Source](https://semron.jobs.personio.de/job/1782870?language=en); [Source](https://semron.jobs.personio.de/job/2385356?language=en); [Source](https://semron.jobs.personio.de/job/1369490?language=en); [Source](https://semron.jobs.personio.de/job/1468108?language=en) | 2026-09-27T07:00:20+00:00 | — |
+| [SiFive](https://sifive.com) | RISC-V | US | Partial / needs review | [Source](https://www.sifive.com/careers); [Source](https://www.sifive.cn/careers); [Source](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers) | 2026-09-27T07:00:18+00:00 | — |
+| [SiLC](https://silc.com) | PHOTONICS | US | Partial / needs review | [Source](https://silc.com/join-us/); [Source](https://silc.com/join-us/#popForm1) | 2026-09-27T07:01:05+00:00 | — |
+| [Silicon Assurance](https://siliconassurance.com) | EDA | US | Partial / needs review | [Source](https://siliconassurance.com/careers/); [Source](https://siliconassurance.com/careers/#content); [Source](https://siliconassurance.com/jobs/offensive-security-engineer/); [Source](https://siliconassurance.com/jobs/director-of-software-engineering/); [Source](https://siliconassurance.com/jobs/offensive-security-engineer/#content) | 2026-09-27T07:00:31+00:00 | — |
+| [Silicon Box](https://Silicon-box.com) | MFG | SG | Discovery blocked / needs review | — | 2026-09-27T07:00:16+00:00 | HTTP Error 400: Bad Request |
+| [Siliconally](https://siliconally.com) | NETWORKING | DE | Discovery blocked / needs review | — | 2026-09-27T07:00:17+00:00 | HTTP Error 404: Not Found |
+| [SiliconSpace](https://siliconspace.org) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T07:00:17+00:00 | — |
+| [Silimate](https://silimate.com) | EDA | US | Partial / needs review | [Source](https://www.ycombinator.com/companies/silimate/jobs); [Source](https://www.ycombinator.com/jobs); [Source](https://www.ycombinator.com/companies/silimate/jobs/BUbLN9M-ai-research-intern); [Source](https://www.ycombinator.com/companies/silimate/jobs/xt2UihN-applied-ai-intern); [Source](https://www.ycombinator.com/companies/silimate/jobs/kxgYCET-chip-software-engineer) | 2026-09-27T07:00:21+00:00 | — |
+| [Silogy](https://silogy.io) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T07:00:17+00:00 | — |
+| [SiMa.ai](https://sima.ai) | AI | US | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-N6T69SQL); [Source](https://sima.ai/careers/); [Source](https://www.youtube.com/embed/pVblHQ5Lxoc?rel=0&modestbranding=1&playsinline=1&iv_load_policy=3&autoplay=1&mute=1&loop=1&playlist=pVblHQ5Lxoc); [Source](https://sima.ai/careers/?jobviteiframe=jobAlerts&nl=1) | 2026-09-27T07:00:20+00:00 | — |
+| [Simbricks](https://simbricks.io) | EDA | DE | Discovery blocked / needs review | — | 2026-09-27T07:00:19+00:00 | — |
+| [Singular Photonics](https://singularphotonics.com) | SENSORS | UK | Partial / needs review | [Source](https://singularphotonics.com/careers/) | 2026-09-27T07:00:20+00:00 | — |
+| [SiPearl](https://sipearl.com) | HPC | FR | Partial / needs review | [Source](https://careers.sipearl.com/); [Source](https://careers.sipearl.com/jobs); [Source](https://careers.sipearl.com/#jobs); [Source](https://careers.sipearl.com/fr/jobs/8268947-stage-alternance-fundraising-analyst); [Source](https://careers.sipearl.com/fr/jobs/8199358-gestionnaire-rh-h-f) | 2026-09-27T07:00:23+00:00 | — |
+| [Siphox](https://siphoxhealth.com) | HEALTH | US | Partial / needs review | [Source](https://www.youtube.com/embed/JQWB5ufVeIo?si=UgwMJqubsxWncbay&modestbranding=1&controls=0&rel=0); [Source](https://www.linkedin.com/company/siphox-health) | 2026-09-27T07:00:20+00:00 | robots.txt disallows this URL; robots.txt disallows this URL; robots.txt disallows this URL; robots.txt disallows this URL |
+| [Skycore Semiconductors](https://skycore-semi.com) | ANALOG | DK | Discovery blocked / needs review | — | 2026-09-27T07:00:21+00:00 | HTTP Error 429: Too Many Requests |
+| [Snowcap Compute](https://snowcapcompute.com) | HPC | US | Partial / needs review | [Source](https://jobs.snowcapcompute.com) | 2026-09-27T07:00:21+00:00 | — |
+| [Spark Micro](https://sparkmicro.com) | RF | CA | Partial / needs review | [Source](https://www.sparkmicro.com/careers/); [Source](https://www.sparkmicro.com/careers/why-join-spark/); [Source](https://www.sparkmicro.com/careers/life-at-spark/); [Source](https://www.sparkmicro.com/careers/open-roles/); [Source](https://www.sparkmicro.com/careers/university-recruit/) | 2026-09-27T07:00:28+00:00 | — |
+| [Speedata](https://speedata.io) | AI | IL | Discovery blocked / needs review | — | 2026-09-27T07:00:24+00:00 | HTTP Error 429: Too Many Requests |
+| [Spherical](https://Spherical-systems.com) | SPACE | NL | Partial / needs review | [Source](https://www.spherical.si/careers.html); [Source](https://www.spherical.si/careers.html#main); [Source](https://spherical.breezy.hr/) | 2026-09-27T07:00:27+00:00 | — |
+| [Spinncloud](https://spinncloud.com) | AI | DE | Partial / needs review | [Source](https://spinncloud.career.softgarden.de/); [Source](https://spinncloud.career.softgarden.de/jobs.feed.json) | 2026-09-27T07:00:27+00:00 | — |
+| [StarFive](https://starfivetech.com) | RISC-V | CN | Discovery blocked / needs review | — | 2026-09-27T07:00:24+00:00 | — |
+| [Swave](https://swave.io) | PHOTONICS | BE | Partial / needs review | [Source](https://jobs.eu.lever.co/swave); [Source](https://jobs.eu.lever.co/swave\); [Source](https://careers.swave.io); [Source](https://www.lever.co/job-seeker-support); [Source](https://www.googletagmanager.com/ns.html?id=GTM-WXKGRST) | 2026-09-27T07:00:31+00:00 | HTTP Error 404: Not Found; HTTP Error 400: Bad Request |
+| [SWIR Vision Systems](https://swirvisionsystems.com) | SENSORS | US | Partial / needs review | [Source](https://www.swirvisionsystems.com/about/careers/); [Source](https://www.googletagmanager.com/ns.html?id=GTM-TRH3N3X); [Source](https://www.onsemi.com/careers); [Source](https://www.onsemi.com/careers/start-your-career); [Source](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?selectedCategoriesFacet=300000006382320) | 2026-09-27T07:01:05+00:00 | — |
+| [Synthara](https://synthara.ai) | AI | CH | Partial / needs review | [Source](https://synthara.ai/jobs/); [Source](https://synthara.ai/jobs/#footer); [Source](https://synthara.ai/jobs/senior-software-engineer/); [Source](https://synthara.ai/jobs/lead-software-engineer-2/) | 2026-09-27T07:01:47+00:00 | robots.txt disallows this URL |
+| [Syntiant](https://syntiant.com) | AI | US | Partial / needs review | [Source](https://www.syntiant.com/company/careers/); [Source](https://www.syntiant.com/company/careers/#content); [Source](https://www.syntiant.com/company/careers/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwNzUwIiwidG9nZ2xlIjpmYWxzZX0%3D) | 2026-09-27T07:00:28+00:00 | — |
+| [Taalas](https://taalas.com) | AI | CA | Partial / needs review | [Source](https://taalas.com/position/) | 2026-09-27T07:00:27+00:00 | — |
+| [Tachyum](https://tachyum.com) | HPC | US | Partial / needs review | [Source](https://www.tachyum.com/jobs/); [Source](https://customer-7a9ylfuil8vmneo6.cloudflarestream.com/c5237ce059e998e18d2e489f3d833fe9/iframe?defaultTextTrack=&poster=https%3A%2F%2Fcustomer-7a9ylfuil8vmneo6.cloudflarestream.com%2Fc5237ce059e998e18d2e489f3d833fe9%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D43s%26height%3D600); [Source](https://www.tachyum.com/sk/jobs/); [Source](https://www.tachyum.com/de/jobs/); [Source](https://www.tachyum.com/zh-hans/jobs/) | 2026-09-27T07:00:27+00:00 | — |
+| [Tandem PV](https://tandempv.com) | MFG | US | Partial / needs review | [Source](https://www.tandempv.com/careers) | 2026-09-27T07:00:28+00:00 | — |
+| [Tenstorrent](https://tenstorrent.com) | AI | CA | API checked | [Source](https://job-boards.greenhouse.io/tenstorrentuniversity); [Source](https://job-boards.greenhouse.io/tenstorrent); [Source](https://tenstorrent.com/careers); [Source](https://tenstorrent.com/careers#main); [Source](https://job-boards.greenhouse.io/tenstorrent/jobs/5246792007); [Source](https://job-boards.greenhouse.io/tenstorrent/jobs/5231981007); [Source](https://job-boards.greenhouse.io/tenstorrent/jobs/5202618007) | 2026-09-27T07:00:30+00:00 | — |
+| [Teramount](https://teramount.com) | MFG | IL | Partial / needs review | [Source](https://teramount.com/careers/) | 2026-09-27T07:00:31+00:00 | — |
+| [Tetramem](https://tetramem.com) | AI | US | Partial / needs review | [Source](https://tetramem.com/job-openings/); [Source](https://tetramem.com/job-openings/#content); [Source](https://tetramem.hrmdirect.com/employment/job-openings.php?search=true&nohd); [Source](https://tetramem.com/jobs/ux-engineer/); [Source](https://tetramem.com/cookie-policy/) | 2026-09-27T07:00:34+00:00 | — |
+| [Thintronics](https://thintronics.com) | MFG | US | Discovery blocked / needs review | — | 2026-09-27T07:00:28+00:00 | robots.txt unavailable: HTTP Error 429: Too Many Requests |
+| [Trameto](https://trameto.com) | ANALOG | UK | Partial / needs review | [Source](https://e-peas.com/careers/); [Source](https://e-peas.com/careers/#content); [Source](https://e-peas.com/careers/#contact); [Source](https://e-peas.com/jobs/field-application-engineer/); [Source](https://e-peas.com/privacy-policy/) | 2026-09-27T07:01:59+00:00 | — |
+| [TriEye](https://trieye.tech) | SENSORS | IL | Partial / needs review | [Source](https://trieye.tech/careers/); [Source](https://trieye.tech/careers/co/chip-design/all/); [Source](https://trieye.tech/careers/co/tel-aviv/C2.275/senior-layout-designer/all/); [Source](https://trieye.tech/careers/co/development-engineering/all/); [Source](https://trieye.tech/careers/co/tel-aviv/7E.27B/fpga-and-embedded-sw-platform-team-lead/all/) | 2026-09-27T07:00:44+00:00 | — |
+| [Ubilite](https://ubilite.com) | RF | US | Partial / needs review | [Source](https://www.ubilite.com/careers) | 2026-09-27T07:00:30+00:00 | robots.txt disallows this URL |
+| [Ubitium](https://ubitium.com) | AI | DE | Partial / needs review | [Source](https://www.ubitium.com/career/); [Source](https://www.ubitium.com/career/#wp--skip-link--target); [Source](https://www.ubitium.com/senior-software-engineer-processor-software-stack/); [Source](https://www.ubitium.com/senior-processor-design-engineer-6/); [Source](https://www.ubitium.com/senior-junior-verification-engineer-3/) | 2026-09-27T07:00:39+00:00 | — |
+| [Uhnder](https://uhnder.com) | SENSORS | US | Partial / needs review | [Source](https://app.trinethire.com/companies/32235-uhnder-inc/jobs) | 2026-09-27T07:00:33+00:00 | — |
+| [Unconventional AI](https://unconv.ai) | AI | US | API checked | [Source](https://job-boards.greenhouse.io/unconventionalinc); [Source](https://www.googletagmanager.com/ns.html?id=GTM-TT6HH45V); [Source](https://unconv.ai/careers/); [Source](https://unconv.ai/careers/#content) | 2026-09-27T07:00:32+00:00 | — |
+| [Unifabrix](https://unifabrix.com) | NETWORKING | IL | Discovery blocked / needs review | — | 2026-09-27T07:00:35+00:00 | HTTP Error 429: Too Many Requests |
+| [Upmem](https://upmem.com) | AI | FR | Discovery blocked / needs review | — | 2026-09-27T07:00:31+00:00 | robots.txt unavailable: &lt;urlopen error [Errno -2] Name or service not known&gt; |
+| [Usound](https://usound.com) | MEMS | AU | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-K7X94DG); [Source](https://usound.com/careers/); [Source](https://usound.com/careers/#openPositions); [Source](https://usound-16.odoo.com/jobs/detail/machine-learning-engineer-acoustic-biosignal-analysis-232); [Source](https://usound-16.odoo.com/jobs/detail/senior-machine-learning-engineer-edge-ai-for-health-wearables-233) | 2026-09-27T07:00:46+00:00 | — |
+| [Vaire Computing](https://vaire.co) | ANALOG | UK | Discovery blocked / needs review | — | 2026-09-27T07:00:34+00:00 | — |
+| [Vayyar](https://vayyar.com) | SENSORS | IL | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-M8LVBQ5); [Source](https://vayyar.com?uael-modal-action=ae58399); [Source](https://iframe.videodelivery.net/a8b7362d5ef1aa930b31f16473a0b3b6?muted=true&loop=true&autoplay=true&poster=https%3A%2F%2Fastra.vayyar.com%2Fwp-content%2Fuploads%2F2023%2F06%2Ft11.png&controls=false); [Source](https://iframe.videodelivery.net/ec0510bd7c015178c02ecdba58c0b844?muted=true&loop=true&autoplay=true&poster=https%3A%2F%2Fastra.vayyar.com%2Fwp-content%2Fuploads%2F2023%2F06%2Ft11.png&controls=false) | 2026-09-27T07:00:37+00:00 | HTTP Error 403: Forbidden |
+| [Vector Photonics](https://vectorphotonics.co.uk) | PHOTONICS | UK | Partial / needs review | [Source](https://www.vectorphotonics.co.uk/careers/) | 2026-09-27T07:00:39+00:00 | — |
+| [VerifAI](https://verifai.ai) | EDA | US | Partial / needs review | [Source](https://www.youtube.com/embed/lznhKckEdWI?start=204) | 2026-09-27T07:00:36+00:00 | — |
+| [Verifaix](https://verifaix.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T07:00:35+00:00 | robots.txt disallows this URL |
+| [Vinci](https://getvinci.ai) | EDA | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/vinci); [Source](https://www.getvinci.ai/careers/); [Source](https://www.getvinci.ai/careers/#schedule-demo); [Source](https://www.getvinci.ai/careers/#open-positions) | 2026-09-27T07:00:38+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Viqthor](https://viqthor.com) | QUANTUM | FR | Discovery blocked / needs review | — | 2026-09-27T07:00:39+00:00 | — |
+| [Visblsemi](https://visiblsemi.com) | EDA | US | Discovery blocked / needs review | — | 2026-09-27T07:00:38+00:00 | — |
+| [Volantis Semiconductor](https://volantissemi.ai) | AI | US | Partial / needs review | [Source](https://volantissemi.ai/careers); [Source](https://volantissemi.ai/careers#open-roles); [Source](https://volantissemi.ai/careers/4329700009); [Source](https://volantissemi.ai/careers/4330137009); [Source](https://volantissemi.ai/careers/4330170009) | 2026-09-27T07:00:43+00:00 | — |
+| [VoltAI](https://voltai.com) | EDA | US | Partial / needs review | [Source](https://jobs.ashbyhq.com/voltai.careers) | 2026-09-27T07:00:39+00:00 | robots.txt unavailable: HTTP Error 401: Unauthorized |
+| [Vsora](https://vsora.com) | AI | FR | Discovery blocked / needs review | — | 2026-09-27T07:00:41+00:00 | — |
+| [Wave Photonics](https://wavephotonics.com) | PHOTONICS | UK | Partial / needs review | [Source](https://www.wavephotonics.com/careers); [Source](https://apply.workable.com/wavephotonics/) | 2026-09-27T07:00:41+00:00 | robots.txt unavailable: HTTP Error 403: Forbidden |
+| [Welinq](https://welinq.fr) | QUANTUM | FR | Partial / needs review | [Source](https://www.welinq.fr/career); [Source](https://www.welinq.fr/career/amo-physicist---neutral-atom-quantum-systems-and-optical-tweezers); [Source](https://www.welinq.fr/career/quantum-hardware-engineer); [Source](https://www.welinq.fr/career/quantum-error-correction-researcher) | 2026-09-27T07:00:43+00:00 | — |
+| [Xanadu](https://xanadu.ai) | PHOTONICS | US | Discovery blocked / needs review | — | 2026-09-27T07:00:40+00:00 | — |
+| [Xcelerium](https://xcelerium.com) | HPC | US | Partial / needs review | [Source](https://xcelerium.com/careers/); [Source](https://xcelerium.com/careers/#brx-content); [Source](https://xcelerium.com/careers/#brx-footer); [Source](https://xcelerium.com/job/senior-software-engineer-ai-compiler-runtime-infrastructure/); [Source](https://xcelerium.com/job/embedded-software-engineer/) | 2026-09-27T07:01:10+00:00 | — |
+| [XCENA](https://xcena.com) | MEMORY | KR | Partial / needs review | [Source](https://xcena.com/careers) | 2026-09-27T07:00:46+00:00 | — |
+| [Xconntech](https://xconn-tech.com) | HPC | US | Partial / needs review | [Source](https://www.marvell.com/company/careers.html); [Source](https://www.marvell.com/company/careers/university-recruiting.html); [Source](https://www.marvell.com/company/careers.html#mainSection); [Source](https://www.marvell.com/company/careers/recruitment-fraud-protection.html); [Source](https://www.marvell.com/company/careers/what-makes-marvell.html) | 2026-09-27T07:00:47+00:00 | — |
+| [ximplic](https://ximplic.com) | EDA | NL | Partial / needs review | [Source](https://ximplic.com/careers/); [Source](https://ximplic.com/careers/embedded-ai-intern/); [Source](https://ximplic.com/careers/embedded-ai-intern/apply/) | 2026-09-27T07:00:47+00:00 | — |
+| [Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | US | API checked | [Source](https://job-boards.greenhouse.io/xscapephotonicsinc); [Source](https://www.xscapephotonics.com/join-us) | 2026-09-27T07:00:44+00:00 | — |
+| [Xsight Labs](https://xsightlabs.com) | HPC | IL | Discovery blocked / needs review | — | 2026-09-27T07:00:43+00:00 | robots.txt unavailable: HTTP Error 429: Too Many Requests |
+| [Yorchip](https://yorchip.com) | CHIPLETS | US | Discovery blocked / needs review | — | 2026-09-27T07:00:44+00:00 | — |
+| [Zendar](https://zendar.io) | SENSORS | US | Partial / needs review | [Source](https://www.googletagmanager.com/ns.html?id=GTM-KKRVF2TG); [Source](https://zendar.ai/careers); [Source](https://zendar.ai/careers#main-content) | 2026-09-27T07:00:46+00:00 | — |
+| [Zero Point Motion](https://zeropointmotion.com) | MEMS | UK | Partial / needs review | [Source](https://www.zeropointmotion.com/joinus); [Source](https://www.zeropointmotion.com/joinus#page) | 2026-09-27T07:00:47+00:00 | — |
+| [ZeroASIC](https://zeroasic.com) | CHIPLETS | US | Partial / needs review | [Source](https://www.zeroasic.com/careers); [Source](https://www.zeroasic.com/jobs); [Source](https://www.zeroasic.com/jobs/principal-hw-engineer); [Source](https://www.zeroasic.com/jobs/digital-ic-designer); [Source](https://www.zeroasic.com/jobs/emulation-architect) | 2026-09-27T07:00:47+00:00 | — |
+| [ZeroPoint](https://zeropoint-tech.com) | MEMORY | US | Partial / needs review | [Source](https://www.zeropoint-tech.com/jobs) | 2026-09-27T07:00:49+00:00 | — |
+| [zeroRISC](https://zerorisc.com) | SECURITY | US | Partial / needs review | [Source](https://jobs.lever.co/zerorisc); [Source](https://jobs.lever.co/zerorisc\); [Source](https://www.zerorisc.com/careers) | 2026-09-27T07:00:51+00:00 | HTTP Error 404: Not Found |
