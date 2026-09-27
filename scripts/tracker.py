@@ -76,7 +76,8 @@ def get(url):
                 else: raise RuntimeError('robots.txt unavailable: '+str(exc))
         rp=ROBOTS[host]
         if rp and not rp.can_fetch(UA,url): raise RuntimeError('robots.txt disallows this URL')
-        delay=max(0.2,min((rp.crawl_delay(UA) or rp.crawl_delay('*') or 0) if rp else 0,30))
+        delay=max(0.2,(rp.crawl_delay(UA) or rp.crawl_delay('*') or 0) if rp else 0)
+        if delay>30: raise RuntimeError('Crawl delay exceeds budget; manual review required')
         time.sleep(delay)
         for attempt in range(2):
             try: return raw_get(url)
@@ -189,6 +190,14 @@ def fetch_board(b):
         payload=json_get(f'https://{token}.recruitee.com/api/offers/')
         if not isinstance(payload.get('offers'),list): raise ValueError('Missing Recruitee offers array')
         for j in payload['offers']: jobs.append(make_job(key,j['id'],j['title'],j['careers_url'],j.get('location'),j.get('description',''),j.get('published_at'),j.get('employment_type_code','')))
+    elif b['type']=='ayar':
+        content,_=get(b['url'])
+        marker='window.__AYAR_CAREER_JOBS__ ='
+        if marker not in content: raise ValueError('Ayar career data schema changed')
+        payload,_=json.JSONDecoder().raw_decode(content.split(marker,1)[1].lstrip())
+        if not isinstance(payload,list): raise ValueError('Invalid Ayar career data')
+        for j in payload:
+            jobs.append(make_job(key,j['id'],j['title'],urljoin(b['url'],j.get('url') or ('job/?jobID='+j['id'])),', '.join(filter(None,[j.get('city'),j.get('state'),j.get('country')])),j.get('summary',''),j.get('datePosted'),j.get('employmentType','')))
     elif b['type']=='personio':
         payload=ET.fromstring(get(f'https://{token}/xml?language=en')[0])
         if payload.tag!='workzag-jobs': raise ValueError('Invalid Personio XML job feed')
@@ -262,6 +271,7 @@ def scan_company(c, old, rediscover=False):
     for b in d['sources']:
         parsed=board_from_url(b['url'])
         if parsed: normalized[(parsed['type'],parsed['token'])]=parsed
+        elif b['type']=='ayar': normalized[(b['type'],b['token'])]=b
     for u in d['career_pages']:
         parsed=board_from_url(u)
         if parsed: normalized[(parsed['type'],parsed['token'])]=parsed
@@ -308,7 +318,8 @@ def reconcile(old_jobs,found,reports,stamp):
     by_company={r['company_id']:r for r in reports}
     for jid,j in jobs.items():
         if jid in seen or j.get('status')=='closed': continue
-        report=by_company.get(j['company_id'],{})
+        if j['company_id'] not in by_company: continue
+        report=by_company[j['company_id']]
         if j['source_id'] in report.get('successful_sources',[]):
             last=j.get('last_checked_at')
             # Require two successful absences separated by at least six hours.
@@ -337,7 +348,7 @@ def table(headers,rows): return '\n'.join(['| '+' | '.join(headers)+' |','| '+' 
 def render(companies,jobs,reports,stamp):
     opened=[j for j in jobs if j['status']=='open']; byid={r['company_id']:r for r in reports}
     complete=sum(r['coverage']=='API checked' for r in reports)
-    lines=['# Semiconductor Startup Internships','', '**US + international · all internship terms · technical roles**','',
+    lines=['# Semiconductor Startup Internships','', '**2027 watchlist + all other terms · US + international · technical roles**','',
     'A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).','',
     f'Latest scan: **{stamp}** · **{len(companies)} companies registered** · **{complete} with successful complete board API checks** · **{len(opened)} open technical internships found**.','',
     '**Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).','',
@@ -348,9 +359,10 @@ def render(companies,jobs,reports,stamp):
     '- **Open** means present in a successfully fetched public listing. Always confirm eligibility and availability on the application page.',
     '- Failed checks make previous roles unconfirmed. Closure requires two successful complete-board absences at least six hours apart.',
     '- Relevance tags are keyword hints based on hardware/debug/RTL/physical-design/embedded/software interests, not eligibility judgments. All technical internships are retained, including graduate roles.',
-    '- No resume, contact details, or application documents are included.','', '## Open internships','']
+    '- No resume, contact details, or application documents are included.','', '## Open internships','', '**Polling:** GitHub Actions checks every six hours. [View runs](https://github.com/sarva12/Semiconductor-Startup-Internships-2027/actions/workflows/update.yml). [Export CSV](data/internships.csv).','']
     headers=['Company','Role / apply','Location','Term','Posted','First found','Relevance']
     def rows(items): return [[j['company'],link(j['title'],j['url']),j['location'],j['term'],(j.get('employer_posted_at') or 'Unknown')[:10],j['first_seen_at'][:10],', '.join(j['fit_tags']) or 'Explore'] for j in sorted(items,key=lambda j:(j['first_seen_at'],j['company']),reverse=True)]
+    lines += ['**Jump to:** '+ ' · '.join(link(cat,'#'+cat.lower().replace('-','-')) for cat in CATEGORIES),'']
     for cat in CATEGORIES+sorted({c['category'] for c in companies}-set(CATEGORIES)):
         entries=[j for j in opened if j['category']==cat]
         lines+=['### '+cat+(' (additional category)' if cat not in CATEGORIES else ''),'',table(headers,rows(entries)) if entries else '_No verified matching openings found in successfully checked sources. See coverage before interpreting this._','']

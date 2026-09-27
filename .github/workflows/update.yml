@@ -31,6 +31,7 @@ jobs:
           git add README.md COVERAGE.md LEADS.md ARCHIVE.md CHANGELOG.md US.md INTERNATIONAL.md data
           if ! git diff --cached --quiet; then
             git commit -m 'Update semiconductor internship log'
+            git pull --rebase origin main
             git push
           fi
       - name: Save scan summary

@@ -73,5 +73,45 @@
       }
     ],
     "evidence": "Official employer job-board pages retrieved 2026-09-27; retain multiple published boards until migration is confirmed."
+  },
+  "ayar-labs": {
+    "sources": [
+      {
+        "type": "ayar",
+        "token": "ayarlabs",
+        "url": "https://ayarlabs.com/careers/"
+      }
+    ],
+    "evidence": "Official career page embeds window.__AYAR_CAREER_JOBS__; 66 records verified 2026-09-27."
+  },
+  "psiquantum": {
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "psiquantum",
+        "url": "https://job-boards.greenhouse.io/psiquantum"
+      }
+    ],
+    "evidence": "https://job-boards.greenhouse.io/embed/job_app?for=psiquantum&token=6594026003"
+  },
+  "extropic": {
+    "sources": [
+      {
+        "type": "lever",
+        "token": "extropic",
+        "url": "https://jobs.lever.co/extropic"
+      }
+    ],
+    "evidence": "https://jobs.lever.co/extropic"
+  },
+  "groq": {
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "groq",
+        "url": "https://job-boards.greenhouse.io/groq"
+      }
+    ],
+    "evidence": "https://job-boards.greenhouse.io/groq/jobs/6486304003"
   }
 }
