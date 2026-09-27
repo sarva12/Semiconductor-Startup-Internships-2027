@@ -71,4 +71,15 @@ class TrackerTests(unittest.TestCase):
         self.assertEqual(len(jobs),1); self.assertEqual(len(events),1)
         self.assertEqual(jobs[0]['company_aliases'],['Other alias'])
 
+    def test_aggregator_recommendation_not_misattributed(self):
+        wrong='https://www.ycombinator.com/companies/aviator/jobs/example'
+        company={'name':'Diode Computers','id':'diode-computers'}
+        self.assertFalse(t.company_scoped(wrong,company))
+        with patch.object(t,'get') as get:
+            self.assertEqual(t.fetch_generic(wrong,company),([],[]))
+            get.assert_not_called()
+        job=self.job()|{'company':'Diode Computers','company_id':'diode-computers','url':wrong,'first_seen_at':'2026-09-27T00:00:00+00:00'}
+        jobs,_=t.reconcile([job],[],[],'2026-09-28T00:00:00+00:00')
+        self.assertEqual(jobs[0]['status'],'excluded')
+
 if __name__=='__main__': unittest.main()

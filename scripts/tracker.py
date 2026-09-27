@@ -216,8 +216,19 @@ def walk_json(value):
     elif isinstance(value,list):
         for v in value: yield from walk_json(v)
 
+def company_scoped(url, company):
+    if not company or 'ycombinator.com/companies/' not in url: return True
+    employer=url.split('/companies/',1)[1].split('/')[0]
+    clean=lambda x: re.sub('[^a-z0-9]','',x.lower())
+    expected=[clean(company.get('name','')),clean(company.get('id',''))]
+    actual=clean(employer)
+    return len(actual)>=4 and any(x==actual or x.startswith(actual) or actual.startswith(x) for x in expected if len(x)>=4)
+
 def fetch_generic(url, company=None):
-    body,final=get(url); page=Page(body); jobs=[]
+    if not company_scoped(url,company): return [],[]
+    body,final=get(url)
+    if not company_scoped(final,company): return [],[]
+    page=Page(body); jobs=[]
     for blob in page.jsonld:
         for j in walk_json(blob):
             expiry=j.get('validThrough')
@@ -305,8 +316,13 @@ def scan_company(c, old, rediscover=False):
 
 def reconcile(old_jobs,found,reports,stamp):
     jobs={j['id']:dict(j) for j in old_jobs}; events=[]; seen=set()
+    for j in jobs.values():
+        if not company_scoped(j['url'],{'name':j['company'],'id':j['company_id']}):
+            j['status']='excluded'
+            j['exclusion_reason']='Unrelated employer suggested by an aggregator; not this company internship.'
     def event(j,kind): events.append({'at':stamp,'event':kind,'job_id':j['id'],'company':j['company'],'title':j['title'],'url':j['url']})
     for j in found:
+        if not company_scoped(j['url'],{'name':j['company'],'id':j['company_id']}): continue
         jid=j['id']; seen.add(jid); previous=jobs.get(jid)
         if previous:
             j['first_seen_at']=previous['first_seen_at']
@@ -317,7 +333,7 @@ def reconcile(old_jobs,found,reports,stamp):
         jobs[jid]=j
     by_company={r['company_id']:r for r in reports}
     for jid,j in jobs.items():
-        if jid in seen or j.get('status')=='closed': continue
+        if jid in seen or j.get('status') in ('closed','excluded'): continue
         if j['company_id'] not in by_company: continue
         report=by_company[j['company_id']]
         if j['source_id'] in report.get('successful_sources',[]):
@@ -375,7 +391,7 @@ def render(companies,jobs,reports,stamp):
         for l in r.get('leads',[]): leadrows.append([c['name'],link(l['title'],l['url']),'Unverified link; may be an old posting or general program'])
     (ROOT/'COVERAGE.md').write_text('# Company coverage\n\nEvery upstream startup is listed. Company country is headquarters, not job location. API checked means a supported public board was retrieved; it is not a guarantee of all-company coverage. Errors remain visible.\n\n'+table(['Company','Category','HQ','Coverage','Careers / boards','Checked UTC','Issues'],coverage)+'\n')
     (ROOT/'LEADS.md').write_text('# Internship leads requiring verification\n\nThese are not counted as open jobs.\n\n'+table(['Company','Link','Status'],leadrows)+'\n')
-    (ROOT/'ARCHIVE.md').write_text('# Closed and unconfirmed\n\n'+table(['Company','Role','Status','First found','Last seen','Closed at'],[[j['company'],link(j['title'],j['url']),j['status'],j['first_seen_at'],j['last_seen_at'],j.get('closed_at')] for j in jobs if j['status']!='open'])+'\n')
+    (ROOT/'ARCHIVE.md').write_text('# Closed, unconfirmed, and excluded\n\nExcluded means a listing was attributed to the wrong employer; it is not an opening at the listed startup.\n\n'+table(['Company','Role','Status','First found','Last seen','Closed at'],[[j['company'],link(j['title'],j['url']),j['status'],j['first_seen_at'],j['last_seen_at'],j.get('closed_at')] for j in jobs if j['status']!='open'])+'\n')
     us=re.compile(r'\b(united states|usa|u\.s\.|california|texas|new york|massachusetts|oregon|washington|pennsylvania|colorado|arizona|georgia|san francisco|san jose|santa clara|austin|boston|pittsburgh|seattle|cupertino|sunnyvale|mountain view|san diego|durham|raleigh|portland|boulder|cambridge,? ma)\b|,\s*(CA|TX|MA|NY|WA|OR|PA|CO|AZ|GA|NC)\b',re.I)
     for filename,title,items in [('US.md','US location matches',[j for j in opened if us.search(j['location'])]),('INTERNATIONAL.md','International / other / unspecified locations',[j for j in opened if not us.search(j['location'])])]:
         (ROOT/filename).write_text('# '+title+'\n\nLocation keyword grouping only. Multi-country roles may appear in US results; remote eligibility is not inferred. Consult the full README and employer listing.\n\n'+table(headers,rows(items))+'\n')
