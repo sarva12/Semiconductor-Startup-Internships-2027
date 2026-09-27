@@ -1,10 +1,10 @@
 # Semiconductor Startup Internships
 
-**US + international · all internship terms · technical roles**
+**2027 watchlist + all other terms · US + international · technical roles**
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-09-27T07:15:21+00:00** · **320 companies registered** · **44 with successful complete board API checks** · **38 open technical internships found**.
+Latest scan: **2026-09-27T07:19:40+00:00** · **320 companies registered** · **48 with successful complete board API checks** · **44 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -20,6 +20,10 @@ Latest scan: **2026-09-27T07:15:21+00:00** · **320 companies registered** · **
 - No resume, contact details, or application documents are included.
 
 ## Open internships
+
+**Polling:** GitHub Actions checks every six hours. [View runs](https://github.com/sarva12/Semiconductor-Startup-Internships-2027/actions/workflows/update.yml). [Export CSV](data/internships.csv).
+
+**Jump to:** [ASIC](#asic) · [AI](#ai) · [CHIPLETS](#chiplets) · [EDA](#eda) · [FPGA](#fpga) · [HPC](#hpc) · [MEMORY](#memory) · [MEMS](#mems) · [MFG](#mfg) · [NETWORKING](#networking) · [PHOTONICS](#photonics) · [QUANTUM](#quantum) · [RISC-V](#risc-v) · [SECURITY](#security) · [SENSORS](#sensors)
 
 ### ASIC
 
@@ -111,7 +115,14 @@ _No verified matching openings found in successfully checked sources. See covera
 
 ### QUANTUM
 
-_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
+| Company | Role / apply | Location | Term | Posted | First found | Relevance |
+| --- | --- | --- | --- | --- | --- | --- |
+| PsiQuantum | [Intern, Optical Packaging and Characterization Engineer](https://www.psiquantum.com/apply?gh_jid=7761881003) | Milpitas, California, United States | Not specified | 2026-06-02 | 2026-09-27 | Interconnect / networking, AI / software |
+| PsiQuantum | [Intern, Quantum Algorithms and Compilation](https://www.psiquantum.com/apply?gh_jid=7695559003) | Palo Alto, California, United States; Remote | Not specified | 2026-04-15 | 2026-09-27 | Interconnect / networking, AI / software |
+| PsiQuantum | [Intern, Quantum Applications](https://www.psiquantum.com/apply?gh_jid=7821980003) | Brisbane, Queensland, Australia | Not specified | 2026-08-12 | 2026-09-27 | Interconnect / networking, AI / software |
+| PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) | Brisbane, Queensland, Australia; Palo Alto, California, United States; Remote | Not specified | 2025-04-24 | 2026-09-27 | RTL / verification, Interconnect / networking, AI / software |
+| PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) | Daresbury, England, United Kingdom; Palo Alto, California, United States; Remote | Not specified | 2026-06-23 | 2026-09-27 | Interconnect / networking, AI / software |
+| PsiQuantum | [Internship Resume Submission – Australia only](https://www.psiquantum.com/apply?gh_jid=7519464003) | Brisbane, Queensland, Australia | Not specified | 2025-11-05 | 2026-09-27 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 
 ### RISC-V
 

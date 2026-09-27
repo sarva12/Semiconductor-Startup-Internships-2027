@@ -4,6 +4,10 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| PsiQuantum | [Intern, Optical Packaging and Characterization Engineer](https://www.psiquantum.com/apply?gh_jid=7761881003) | Milpitas, California, United States | Not specified | 2026-06-02 | 2026-09-27 | Interconnect / networking, AI / software |
+| PsiQuantum | [Intern, Quantum Algorithms and Compilation](https://www.psiquantum.com/apply?gh_jid=7695559003) | Palo Alto, California, United States; Remote | Not specified | 2026-04-15 | 2026-09-27 | Interconnect / networking, AI / software |
+| PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) | Brisbane, Queensland, Australia; Palo Alto, California, United States; Remote | Not specified | 2025-04-24 | 2026-09-27 | RTL / verification, Interconnect / networking, AI / software |
+| PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) | Daresbury, England, United Kingdom; Palo Alto, California, United States; Remote | Not specified | 2026-06-23 | 2026-09-27 | Interconnect / networking, AI / software |
 | Silimate | [Chip/EDA/Software Intern](https://www.ycombinator.com/companies/silimate/jobs/6CTGk7H-chip-eda-software-intern) | Mountain View, California, US | Not specified | 2026-08-04 | 2026-09-27 | AI / software |
 | Matx | [Laboratory Operations Intern](https://jobs.ashbyhq.com/matx/d74c72e7-49ec-4a04-9405-04ef0f0d87c6) | Mountain View (HQ) or Remote | Not specified | 2026-07-20 | 2026-09-27 | Server / validation, AI / software |
 | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |

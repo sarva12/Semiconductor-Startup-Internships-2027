@@ -4,6 +4,12 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-09-27T07:19:40+00:00 | new | PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) |
+| 2026-09-27T07:19:40+00:00 | new | PsiQuantum | [Internship Resume Submission – Australia only](https://www.psiquantum.com/apply?gh_jid=7519464003) |
+| 2026-09-27T07:19:40+00:00 | new | PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) |
+| 2026-09-27T07:19:40+00:00 | new | PsiQuantum | [Intern, Quantum Applications](https://www.psiquantum.com/apply?gh_jid=7821980003) |
+| 2026-09-27T07:19:40+00:00 | new | PsiQuantum | [Intern, Quantum Algorithms and Compilation](https://www.psiquantum.com/apply?gh_jid=7695559003) |
+| 2026-09-27T07:19:40+00:00 | new | PsiQuantum | [Intern, Optical Packaging and Characterization Engineer](https://www.psiquantum.com/apply?gh_jid=7761881003) |
 | 2026-09-27T07:15:21+00:00 | new | Silimate | [Chip/EDA/Software Intern](https://www.ycombinator.com/companies/silimate/jobs/6CTGk7H-chip-eda-software-intern) |
 | 2026-09-27T07:15:21+00:00 | updated | Silimate | [AI Research Intern](https://www.ycombinator.com/companies/silimate/jobs/BUbLN9M-ai-research-intern) |
 | 2026-09-27T07:15:21+00:00 | new | Matx | [Laboratory Operations Intern](https://jobs.ashbyhq.com/matx/d74c72e7-49ec-4a04-9405-04ef0f0d87c6) |
