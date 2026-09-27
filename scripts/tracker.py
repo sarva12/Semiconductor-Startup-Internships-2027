@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Public career-source discovery and conservative internship tracking. Python 3.11+."""
 import argparse, concurrent.futures, csv, datetime as dt, hashlib, html, io, json, re, sys, threading, time
+import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urljoin, urlparse, parse_qs, urlencode
+from urllib.parse import urljoin, urlparse, parse_qs, urlencode, urldefrag
 from urllib.request import Request, urlopen
 from urllib.robotparser import RobotFileParser
 
@@ -12,7 +13,7 @@ UPSTREAM = 'https://raw.githubusercontent.com/aolofsson/awesome-semiconductor-st
 CATEGORIES = ['ASIC','AI','CHIPLETS','EDA','FPGA','HPC','MEMORY','MEMS','MFG','NETWORKING','PHOTONICS','QUANTUM','RISC-V','SECURITY','SENSORS']
 UA = 'SemiconductorInternshipTracker/1.0 (public job listings; low frequency)'
 INTERN = re.compile(r'\b(intern(?:ship)?s?|co[ -]?op|working student|werkstudent\w*|student researcher|placement student|stage|stagiaire|praktikum)\b', re.I)
-NONTECH = re.compile(r'\b(marketing|human resources|recruit(?:ing|ment)|finance|accounting|sales|legal|communications|graphic design|business development)\b',re.I)
+NONTECH = re.compile(r'\b(marketing|human resources|recruit(?:ing|ment)|finance|accounting|sales|legal|communications|graphic design|business development|people operations|growth ops|fundraising|investor relations|recruiting|hr)\b',re.I)
 CAREER = re.compile(r'career|\bjobs?\b|join.{0,15}(team|us)|open positions|vacancies|opportunities|work with us', re.I)
 ATS = re.compile(r'https?://(?:[\w.-]*greenhouse\.io|(?:jobs|jobs\.eu)\.lever\.co|jobs\.ashbyhq\.com|apply\.workable\.com|[\w-]+\.recruitee\.com)/[^\s<>"\']*', re.I)
 FIT = {
@@ -40,7 +41,7 @@ class Page(HTMLParser):
     def handle_starttag(self, tag, attrs):
         a=dict(attrs)
         if tag=='a' and a.get('href'): self.a=[a['href'],'']
-        if tag=='iframe' and a.get('src'): self.links.append((a['src'],'embedded jobs'))
+        if tag=='iframe' and a.get('src') and (ATS.search(a['src']) or CAREER.search(a['src'])): self.links.append((a['src'],'embedded jobs'))
         if tag=='script' and a.get('type')=='application/ld+json': self.script=''
     def handle_data(self, data):
         if self.a is not None: self.a[1]+=data
@@ -83,7 +84,18 @@ def get(url):
                 if attempt==0 and getattr(exc,'code',None) in (429,500,502,503,504): time.sleep(2); continue
                 raise
 
-def json_get(url): return json.loads(get(url)[0])
+def json_get(url):
+    # These are documented anonymous job-posting APIs, not HTML crawling.
+    # api.ashbyhq.com/robots.txt requires auth; /posting-api/job-board does not.
+    # Only the explicit public API paths below use this route. Never retry a
+    # protected endpoint with alternate credentials or bypass a denied job page.
+    p=urlparse(url)
+    public=(p.hostname=='api.ashbyhq.com' and p.path.startswith('/posting-api/job-board/'))
+    if not public: return json.loads(get(url)[0])
+    with GLOBAL_LOCK: lock=LOCKS.setdefault(p.netloc,threading.Lock())
+    with lock:
+        time.sleep(0.25)
+        return json.loads(raw_get(url)[0])
 def plain(s): return html.unescape(re.sub('<[^>]+>',' ',str(s or '')))
 def slug(s): return re.sub('[^a-z0-9]+','-',s.lower()).strip('-')
 
@@ -106,15 +118,16 @@ def sync_companies(refresh=False):
     return companies
 
 def board_from_url(url):
-    p=urlparse(html.unescape(url)); parts=p.path.strip('/').split('/'); host=p.netloc.lower()
+    p=urlparse(html.unescape(url).rstrip('\\')); parts=p.path.strip('/').split('/'); host=p.netloc.lower()
     if host.endswith('greenhouse.io'):
         token=parse_qs(p.query).get('for',[None])[0]
-        if not token and parts and parts[0] not in ('embed','v1'): token=parts[0]
-        if token: return {'type':'greenhouse','token':token,'url':f'https://job-boards.greenhouse.io/{token}'}
+        if not token and parts and parts[0] not in ('embed','v1','assets','external_greenhouse_job_boards','ai_opt_out_request'): token=parts[0]
+        if token: return {'type':'greenhouse','token':token,'region':'eu' if '.eu.' in host else 'global','url':f'https://{host}/{token}'}
     if host in ('jobs.lever.co','jobs.eu.lever.co') and parts[0]:
         return {'type':'lever','token':parts[0],'region':'eu' if '.eu.' in host else 'global','url':f'https://{host}/{parts[0]}'}
     if host=='jobs.ashbyhq.com' and parts[0]: return {'type':'ashby','token':parts[0],'url':f'https://{host}/{parts[0]}'}
     if host.endswith('.recruitee.com'): return {'type':'recruitee','token':host.split('.')[0],'url':f'https://{host}'}
+    if re.search(r'\.jobs\.personio\.(de|com)$',host): return {'type':'personio','token':host,'url':f'https://{host}'}
     return None
 
 def discover(c, previous=None):
@@ -133,10 +146,10 @@ def discover(c, previous=None):
                 b=board_from_url(raw.rstrip(').,;'))
                 if b: sources[(b['type'],b['token'])]=b
             for href,label in page.links:
-                absolute=urljoin(final,href)
+                absolute=urldefrag(urljoin(final,href))[0]
                 b=board_from_url(absolute)
                 if b: sources[(b['type'],b['token'])]=b
-                if CAREER.search(label+' '+urlparse(absolute).path) and absolute.startswith(('https://','http://')):
+                if CAREER.search(label+' '+urlparse(absolute).path) and absolute.startswith(('https://','http://')) and not urlparse(absolute).username:
                     # Follow only career links; no speculative ATS account names.
                     if absolute not in queue and absolute not in visited and len(queue)<8: queue.append(absolute)
         except Exception as exc: errors.append({'url':url,'error':str(exc)[:240]})
@@ -149,7 +162,7 @@ def make_job(source, id_, title, url, location='',description='',posted=None, em
 def fetch_board(b):
     token=b['token']; key=b['type']+':'+token; jobs=[]
     if b['type']=='greenhouse':
-        payload=json_get(f'https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true')
+        payload=json_get(f'https://boards-api{".eu" if b.get("region")=="eu" else ""}.greenhouse.io/v1/boards/{token}/jobs?content=true')
         if not isinstance(payload.get('jobs'),list): raise ValueError('Missing Greenhouse jobs array')
         for j in payload['jobs']:
             # updated_at is explicitly NOT a publication date.
@@ -171,11 +184,18 @@ def fetch_board(b):
         payload=json_get(f'https://api.ashbyhq.com/posting-api/job-board/{token}?includeCompensation=true')
         if not isinstance(payload.get('jobs'),list): raise ValueError('Missing Ashby jobs array')
         for j in payload['jobs']:
-            if j.get('isListed',True): jobs.append(make_job(key,j['id'],j['title'],j['jobUrl'],j.get('location'),j.get('descriptionPlain',''),j.get('publishedAt'),j.get('employmentType','')))
+            if j.get('isListed',True): jobs.append(make_job(key,j['id'],j['title'],j['jobUrl'],'; '.join(filter(None,[j.get('location')]+[x.get('location') for x in j.get('secondaryLocations',[])])),j.get('descriptionPlain',''),j.get('publishedAt'),j.get('employmentType','')))
     elif b['type']=='recruitee':
         payload=json_get(f'https://{token}.recruitee.com/api/offers/')
         if not isinstance(payload.get('offers'),list): raise ValueError('Missing Recruitee offers array')
         for j in payload['offers']: jobs.append(make_job(key,j['id'],j['title'],j['careers_url'],j.get('location'),j.get('description',''),j.get('published_at'),j.get('employment_type_code','')))
+    elif b['type']=='personio':
+        payload=ET.fromstring(get(f'https://{token}/xml?language=en')[0])
+        if payload.tag!='workzag-jobs': raise ValueError('Invalid Personio XML job feed')
+        for j in payload.findall('position'):
+            jid=j.findtext('id'); title=j.findtext('name')
+            if not jid or not title: raise ValueError('Invalid Personio position')
+            jobs.append(make_job(key,jid,title,f'https://{token}/job/{jid}?language=en',j.findtext('office'), ' '.join(j.itertext()),None,j.findtext('employmentType') or ''))
     else: raise ValueError('Unsupported board')
     if any(not j['title'] or not j['url'] for j in jobs): raise ValueError('Invalid job record')
     return jobs
@@ -187,16 +207,35 @@ def walk_json(value):
     elif isinstance(value,list):
         for v in value: yield from walk_json(v)
 
-def fetch_generic(url):
+def fetch_generic(url, company=None):
     body,final=get(url); page=Page(body); jobs=[]
     for blob in page.jsonld:
         for j in walk_json(blob):
+            expiry=j.get('validThrough')
+            if expiry:
+                try:
+                    expires=dt.datetime.fromisoformat(expiry.replace('Z','+00:00'))
+                    if expires.tzinfo is None: expires=expires.replace(tzinfo=dt.timezone.utc)
+                    if expires<dt.datetime.now(dt.timezone.utc): continue
+                except ValueError: continue
+            # Aggregators can contain unrelated suggested jobs: keep company-scoped URLs only.
+            candidate=urljoin(final,j.get('url') or final)
+            if 'ycombinator.com/companies/' in final:
+                prefix=final.split('/jobs')[0]
+                if not candidate.startswith(prefix+'/jobs/'): continue
             loc=j.get('jobLocation',[]); loc=loc if isinstance(loc,list) else [loc]
-            location='; '.join(', '.join(str(v) for v in l.get('address',{}).values() if isinstance(v,str)) for l in loc if isinstance(l,dict) and isinstance(l.get('address',{}),dict))
+            location='; '.join(', '.join(str(v) for k,v in l.get('address',{}).items() if isinstance(v,str) and not k.startswith('@')) for l in loc if isinstance(l,dict) and isinstance(l.get('address',{}),dict))
             job_url=urljoin(final,j.get('url') or final)
             jobs.append(make_job('page:'+url,job_url,j.get('title',''),job_url,location,j.get('description',''),j.get('datePosted'),str(j.get('employmentType',''))))
     # Unstructured links are leads, never presented as verified open jobs.
-    leads=[{'title':plain(label).strip(),'url':urljoin(final,href)} for href,label in page.links if INTERN.search(label) and href and not href.startswith(('mailto:','#'))]
+    leads=[]
+    for href,label in page.links:
+        target=urldefrag(urljoin(final,href))[0]; title=plain(label).strip()
+        if not INTERN.search(title) or NONTECH.search(title) or not target.startswith(('http://','https://')): continue
+        if 'ycombinator.com/companies/' in final and not target.startswith(final.split('/jobs')[0]+'/jobs/'): continue
+        if urlparse(target).hostname in ('www.teamtailor.com','teamtailor.com'): continue
+        if len(title)>180 or re.search(r'hear from|story|stories|blog|news|experience|life at',title,re.I): continue
+        leads.append({'title':title,'url':target})
     return jobs,leads
 
 def qualifies(j):
@@ -217,7 +256,16 @@ def scan_company(c, old, rediscover=False):
     d=discover(c,old) if rediscover or stale else {k:old.get(k,[]) for k in ['sources','career_pages','discovery_errors'] } | {'discovered_at':old['discovered_at']}
     overrides=read_json(ROOT/'data/source_overrides.json',{}).get(c['id'],{})
     if overrides.get('sources') is not None: d['sources']=overrides['sources']
-    d['career_pages']=list(dict.fromkeys(d['career_pages']+overrides.get('career_pages',[])))
+    d['career_pages']=list(dict.fromkeys(urldefrag(u)[0] for u in d['career_pages']+overrides.get('career_pages',[]) if 'googletagmanager.com' not in u))
+    # Migrate cached sources through the improved parser, dropping asset URLs.
+    normalized={}
+    for b in d['sources']:
+        parsed=board_from_url(b['url'])
+        if parsed: normalized[(parsed['type'],parsed['token'])]=parsed
+    for u in d['career_pages']:
+        parsed=board_from_url(u)
+        if parsed: normalized[(parsed['type'],parsed['token'])]=parsed
+    d['sources']=list(normalized.values())
     jobs=[]; success=[]; errors=[]; leads=[]
     for b in d['sources']:
         key=b['type']+':'+b['token']
@@ -227,8 +275,19 @@ def scan_company(c, old, rediscover=False):
     if not success:
         for url in d['career_pages'][:3]:
             try:
-                js,ls=fetch_generic(url); jobs.extend(js); leads.extend(ls)
+                js,ls=fetch_generic(url,c); jobs.extend(js); leads.extend(ls)
             except Exception as exc: errors.append({'source':'page:'+url,'url':url,'error':str(exc)[:240]})
+    verified_urls={j['url'] for j in jobs}
+    unique_leads={l['url']:l for l in leads if l['url'] not in verified_urls}
+    # Follow promising internship detail links, not only the listing landing page.
+    if not success:
+        for url in list(unique_leads)[:15]:
+            if url in d['career_pages']: continue
+            try:
+                js,_=fetch_generic(url,c); jobs.extend(js)
+                for j in js: unique_leads.pop(j['url'],None)
+            except Exception as exc: errors.append({'source':'page:'+url,'url':url,'error':str(exc)[:240]})
+    leads=list(unique_leads.values())
     d.update({'company_id':c['id'],'checked_at':now(),'successful_sources':success,'errors':errors,'leads':leads,
               'coverage':'API checked' if success and not errors else ('Partial / needs review' if d['career_pages'] or success else 'Discovery blocked / needs review'),
               'total_board_jobs':len(jobs)})
@@ -258,7 +317,18 @@ def reconcile(old_jobs,found,reports,stamp):
             if j.get('missing_checks',0)>=2: j.update(status='closed',closed_at=stamp); event(j,'closed')
             else: j['status']='unconfirmed'
         else: j['status']='unconfirmed'  # Failed/partial scans never close a role.
-    return sorted(jobs.values(),key=lambda j:(j['company'].lower(),j['title'])),events
+    # Consolidate shared boards listed under company aliases (e.g. a rebrand).
+    # Preserve all names as aliases while keeping one row per source job.
+    canonical={}
+    for j in jobs.values():
+        key=(j['source_id'],j['external_id'])
+        if key not in canonical: canonical[key]=j; continue
+        previous=canonical[key]
+        if j['first_seen_at']<previous['first_seen_at']: canonical[key]=j; j,previous=previous,j
+        previous['company_aliases']=sorted(set(previous.get('company_aliases',[])+[j['company']]))
+    kept=list(canonical.values()); kept_ids={j['id'] for j in kept}
+    events=[e for e in events if e['job_id'] in kept_ids]
+    return sorted(kept,key=lambda j:(j['company'].lower(),j['title'])),events
 
 def cell(value): return str(value or '—').replace('|','\\|').replace('\n',' ').replace('<','&lt;').replace('>','&gt;')
 def link(label,url): return '['+cell(label).replace('[','\\[').replace(']','\\]')+']('+url.replace(' ','%20').replace(')','%29')+')'

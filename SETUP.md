@@ -43,7 +43,7 @@ Edit `data/source_overrides.json` using a board linked by the employer or verifi
 }
 ```
 
-Supported complete-board adapters: Greenhouse, Lever (global and EU), Ashby, Recruitee. Other pages can supply structured JobPosting data; unstructured internship links become leads needing review. Workday, Workable, custom apps and JavaScript-only sources are not fully supported. Their companies remain visible in coverage. No CAPTCHA, sign-in wall or robots restriction is bypassed.
+Supported complete-board adapters: Greenhouse, Lever (global and EU), Ashby, Recruitee, Personio XML. Other pages can supply structured JobPosting data; unstructured internship links become leads needing review. Workday, Workable, custom apps and JavaScript-only sources are not fully supported. Their companies remain visible in coverage. HTML crawling honors robots rules. Ashby uses its documented anonymous posting API; the unrelated authenticated robots endpoint is not needed for that public API. No CAPTCHA or protected job endpoint is bypassed.
 
 ## How history works
 

@@ -48,4 +48,27 @@ class TrackerTests(unittest.TestCase):
         p=t.Page('<a href="/jobs/1">ASIC Intern</a><script type="application/ld+json">{"@type":"JobPosting","title":"Intern"}</script>')
         self.assertEqual(p.links,[('/jobs/1','ASIC Intern')]); self.assertEqual(len(list(t.walk_json(p.jsonld))),1)
 
+    def test_asset_urls_are_not_boards(self):
+        self.assertIsNone(t.board_from_url('https://job-boards.greenhouse.io/assets/logo.svg'))
+        self.assertIsNone(t.board_from_url('https://job-boards.greenhouse.io/external_greenhouse_job_boards/main.js'))
+        self.assertEqual(t.board_from_url('https://job-boards.eu.greenhouse.io/fractile')['region'],'eu')
+    def test_tracking_iframe_not_a_career_link(self):
+        p=t.Page('<iframe src="https://www.googletagmanager.com/ns.html?id=1"></iframe>')
+        self.assertEqual(p.links,[])
+    def test_personio_feed(self):
+        xml='<workzag-jobs><position><id>123</id><name>FPGA Intern</name><office>Dresden</office><employmentType>intern</employmentType></position></workzag-jobs>'
+        with patch.object(t,'get',return_value=(xml,'https://example.jobs.personio.de/xml')):
+            jobs=t.fetch_board({'type':'personio','token':'example.jobs.personio.de'})
+        self.assertEqual(jobs[0]['title'],'FPGA Intern')
+        self.assertTrue(t.qualifies(jobs[0]))
+    def test_expired_structured_job_ignored(self):
+        html='<script type="application/ld+json">{"@type":"JobPosting","title":"Intern","validThrough":"2020-01-01","url":"https://example.com/job"}</script>'
+        with patch.object(t,'get',return_value=(html,'https://example.com/job')):
+            self.assertEqual(t.fetch_generic('https://example.com/job')[0],[])
+    def test_shared_board_alias_dedup(self):
+        a=self.job(); b=self.job()|{'id':'2','company':'Other alias','company_id':'other'}
+        jobs,events=t.reconcile([],[a,b],[],'2026-09-27T00:00:00+00:00')
+        self.assertEqual(len(jobs),1); self.assertEqual(len(events),1)
+        self.assertEqual(jobs[0]['company_aliases'],['Other alias'])
+
 if __name__=='__main__': unittest.main()
