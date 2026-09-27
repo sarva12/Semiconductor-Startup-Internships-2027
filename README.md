@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-09-27T07:19:40+00:00** · **320 companies registered** · **48 with successful complete board API checks** · **44 open technical internships found**.
+Latest scan: **2026-09-27T07:25:42+00:00** · **320 companies registered** · **48 with successful complete board API checks** · **43 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -66,7 +66,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
 | Silimate | [Chip/EDA/Software Intern](https://www.ycombinator.com/companies/silimate/jobs/6CTGk7H-chip-eda-software-intern) | Mountain View, California, US | Not specified | 2026-08-04 | 2026-09-27 | AI / software |
-| Diode Computers | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | San Francisco, US | Not specified | 2022-03-03 | 2026-09-27 | Server / validation, AI / software |
 | Silimate | [AI Research Intern](https://www.ycombinator.com/companies/silimate/jobs/BUbLN9M-ai-research-intern) | Mountain View, California, US | Not specified | 2026-08-05 | 2026-09-27 | AI / software |
 
 ### FPGA
