@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-09-29T13:08:34+00:00** · **320 companies registered** · **48 with successful complete board API checks** · **41 open technical internships found**.
+Latest scan: **2026-09-29T22:26:54+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **39 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -33,7 +33,6 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| Matx | [Laboratory Operations Intern](https://jobs.ashbyhq.com/matx/d74c72e7-49ec-4a04-9405-04ef0f0d87c6) | Mountain View (HQ) or Remote | Not specified | 2026-07-20 | 2026-09-27 | Server / validation, AI / software |
 | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
 | Etched | [Core Engineering Intern](https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8) | San Jose | Not specified | 2026-09-15 | 2026-09-27 | Server / validation, AI / software |
 | Etched | [DFT Intern](https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d) | San Jose | Not specified | 2026-04-13 | 2026-09-27 | RTL / verification, Physical design, AI / software |
@@ -51,7 +50,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Axelera | [Intern - ML Inference Performance Engineer](https://jobs.ashbyhq.com/axelera/5d48cd6c-5c5b-45e2-973e-1017a70a5485) | Eindhoven (hybrid) | Not specified | 2026-09-21 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
 | Tenstorrent | [AI Compiler Software Intern (PEY)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) | Toronto, Ontario, Canada | Not specified | 2025-09-12 | 2026-09-27 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Tenstorrent | [Inference Server – Product Software Intern (Oct 2026 start)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5065140007) | Belgrade, Serbia | Not specified | 2026-03-02 | 2026-09-27 | Server / validation, Interconnect / networking, AI / software |
-| Tenstorrent | [Infrastructure Automation Engineering Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5165445007) | Warszawa, Masovian Voivodeship, Poland | Not specified | 2026-06-16 | 2026-09-27 | Server / validation, Interconnect / networking, AI / software |
 | Tenstorrent | [Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007) | Austin, Texas, United States; Santa Clara, California, United States | Not specified | 2024-09-25 | 2026-09-27 | Server / validation, RTL / verification, Physical design, Interconnect / networking, AI / software |
 | Furiosa | [Algorithm - AI Research Engineer Intern](https://job-boards.anz.greenhouse.io/furiosaai/jobs/4005768201) | Seoul, South Korea | Not specified | 2026-08-19 | 2026-09-27 | Server / validation, AI / software |
 

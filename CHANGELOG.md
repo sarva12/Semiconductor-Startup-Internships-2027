@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-09-29T22:26:54+00:00 | closed | Tenstorrent | [Software Engineer Intern, AI Compiler (Serbia)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5080887007) |
 | 2026-09-29T05:55:12+00:00 | closed | Axelera | [UK Electronics Skills Foundation (UKESF)](https://jobs.ashbyhq.com/axelera/7f6172b1-76d9-4289-9e79-b935ef753d33) |
 | 2026-09-27T07:19:40+00:00 | new | PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) |
 | 2026-09-27T07:19:40+00:00 | new | PsiQuantum | [Internship Resume Submission – Australia only](https://www.psiquantum.com/apply?gh_jid=7519464003) |
