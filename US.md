@@ -4,6 +4,10 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) | Burlingame, CA (HQ) | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
+| Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) | Burlingame, CA (HQ) | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
+| Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) | Burlingame, CA (HQ) | Not specified | 2026-09-22 | 2026-09-30 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
+| Quadric.io | [RTL SoC Design Intern](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2) | Burlingame, CA (HQ) | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
 | PsiQuantum | [Intern, Optical Packaging and Characterization Engineer](https://www.psiquantum.com/apply?gh_jid=7761881003) | Milpitas, California, United States | Not specified | 2026-06-02 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Algorithms and Compilation](https://www.psiquantum.com/apply?gh_jid=7695559003) | Palo Alto, California, United States; Remote | Not specified | 2026-04-15 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) | Brisbane, Queensland, Australia; Palo Alto, California, United States; Remote | Not specified | 2025-04-24 | 2026-09-27 | RTL / verification, Interconnect / networking, AI / software |
