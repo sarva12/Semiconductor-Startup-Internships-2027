@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-01T06:11:20+00:00** · **320 companies registered** · **49 with successful complete board API checks** · **42 open technical internships found**.
+Latest scan: **2026-10-01T13:34:21+00:00** · **320 companies registered** · **48 with successful complete board API checks** · **45 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -59,7 +59,11 @@ _No verified matching openings found in successfully checked sources. See covera
 
 ### CHIPLETS
 
-_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
+| Company | Role / apply | Location | Term | Posted | First found | Relevance |
+| --- | --- | --- | --- | --- | --- | --- |
+| DreamBig | [Hardware Designer Intern - Solutions Engineering](https://careers.arm.com/job/budapest/hardware-designer-intern-solutions-engineering/33099/101386258464) | Budapest, , Hungary, Budapest - Corvin Crystal Tower (5th floor), 1082 Budapest  Budapest,  43-45 Hungary ,  | Not specified | 2026-9-30 | 2026-10-01 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
+| DreamBig | [Hardware Verification Intern - Solutions Engineering](https://careers.arm.com/job/budapest/hardware-verification-intern-solutions-engineering/33099/101386258432) | Budapest, , Hungary, Budapest - Corvin Crystal Tower (5th floor), 1082 Budapest  Budapest,  43-45 Hungary ,  | Not specified | 2026-9-30 | 2026-10-01 | RTL / verification, Interconnect / networking, AI / software |
+| DreamBig | [Intern, System IP Engineering](https://careers.arm.com/job/budapest/intern-system-ip-engineering/33099/101386258528) | Budapest, , Hungary, Budapest - Corvin Crystal Tower (5th floor), 1082 Budapest  Budapest,  43-45 Hungary ,  | Not specified | 2026-9-30 | 2026-10-01 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 
 ### EDA
 
