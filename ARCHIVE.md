@@ -6,6 +6,7 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 | --- | --- | --- | --- | --- | --- |
 | Axelera | [UK Electronics Skills Foundation (UKESF)](https://jobs.ashbyhq.com/axelera/7f6172b1-76d9-4289-9e79-b935ef753d33) | closed | 2026-09-27T07:15:21+00:00 | 2026-09-28T14:13:14+00:00 | 2026-09-29T05:55:12+00:00 |
 | Diode Computers | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | excluded | 2026-09-27T07:15:21+00:00 | 2026-09-27T07:19:40+00:00 | — |
+| DreamBig | [FPGA Intern](https://careers.arm.com/job/trondheim/fpga-intern/33099/101434822768) | unconfirmed | 2026-10-02T12:53:04+00:00 | 2026-10-03T05:30:25+00:00 | — |
 | DreamBig | [Hardware Designer Intern - Solutions Engineering](https://careers.arm.com/job/budapest/hardware-designer-intern-solutions-engineering/33099/101386258464) | unconfirmed | 2026-10-01T13:34:21+00:00 | 2026-10-02T05:54:57+00:00 | — |
 | DreamBig | [Hardware Verification Intern - Solutions Engineering](https://careers.arm.com/job/budapest/hardware-verification-intern-solutions-engineering/33099/101386258432) | unconfirmed | 2026-10-01T13:34:21+00:00 | 2026-10-02T05:54:57+00:00 | — |
 | DreamBig | [Intern, System IP Engineering](https://careers.arm.com/job/budapest/intern-system-ip-engineering/33099/101386258528) | unconfirmed | 2026-10-01T13:34:21+00:00 | 2026-10-02T05:54:57+00:00 | — |

@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-03T05:30:25+00:00** · **320 companies registered** · **48 with successful complete board API checks** · **41 open technical internships found**.
+Latest scan: **2026-10-03T11:52:01+00:00** · **320 companies registered** · **48 with successful complete board API checks** · **40 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -58,9 +58,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 ### CHIPLETS
 
-| Company | Role / apply | Location | Term | Posted | First found | Relevance |
-| --- | --- | --- | --- | --- | --- | --- |
-| DreamBig | [FPGA Intern](https://careers.arm.com/job/trondheim/fpga-intern/33099/101434822768) | Trondheim, , Norway, Trondheim - Professor Brochs gate 8A  Trondheim,  7030 Norway ,  | Not specified | 2026-10-2 | 2026-10-02 | RTL / verification, Interconnect / networking, AI / software |
+_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
 
 ### EDA
 

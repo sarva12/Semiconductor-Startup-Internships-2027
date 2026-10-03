@@ -4,7 +4,6 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| DreamBig | [FPGA Intern](https://careers.arm.com/job/trondheim/fpga-intern/33099/101434822768) | Trondheim, , Norway, Trondheim - Professor Brochs gate 8A  Trondheim,  7030 Norway ,  | Not specified | 2026-10-2 | 2026-10-02 | RTL / verification, Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Applications](https://www.psiquantum.com/apply?gh_jid=7821980003) | Brisbane, Queensland, Australia | Not specified | 2026-08-12 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Internship Resume Submission – Australia only](https://www.psiquantum.com/apply?gh_jid=7519464003) | Brisbane, Queensland, Australia | Not specified | 2025-11-05 | 2026-09-27 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 | Kandou | [Advanced R&D - Internship - Analog Design](https://jobs.ashbyhq.com/kandou-ai/f5e36d84-8555-4c94-b2f1-da0905a08f7b) | Saint-Sulpice | Not specified | 2026-08-19 | 2026-09-27 | Interconnect / networking, AI / software |
