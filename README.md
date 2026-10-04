@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-04T06:06:20+00:00** · **320 companies registered** · **49 with successful complete board API checks** · **40 open technical internships found**.
+Latest scan: **2026-10-04T12:35:58+00:00** · **320 companies registered** · **45 with successful complete board API checks** · **39 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -104,7 +104,6 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| NcodiN | [Spontaneous application - Internship](https://job-boards.eu.greenhouse.io/ncodin/jobs/4802207101) | 42 Cr Pierre Vasseur 91120 Palaiseau, France | Not specified | 2026-03-09 | 2026-09-27 | Interconnect / networking, AI / software |
 | Lightmatter | [Photonics Characterization Intern & New Grad](https://boards.greenhouse.io/lightmatter/jobs/5374627008?gh_jid=5374627008) | Boston, MA | Not specified | 2026-09-10 | 2026-09-27 | Interconnect / networking, Embedded / boards, AI / software |
 | Lightmatter | [Silicon Packaging Engineer - Intern & New Grad](https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008) | Mountain View, CA | Not specified | 2026-09-11 | 2026-09-27 | Physical design, Interconnect / networking, AI / software |
 
