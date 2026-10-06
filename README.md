@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-06T06:35:02+00:00** · **320 companies registered** · **46 with successful complete board API checks** · **40 open technical internships found**.
+Latest scan: **2026-10-06T18:32:01+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **40 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -33,6 +33,8 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Tenstorrent | [AI SW Intern, Infrastructure & Data Centre Deployment](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) | Toronto, Ontario, Canada | Not specified | 2026-10-06 | 2026-10-06 | Server / validation, Interconnect / networking, AI / software |
+| Tenstorrent | [Hardware Intern - AI HW & System on a Chip](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Ottawa, Ontario, Canada; Toronto, Ontario, Canada | Not specified | 2026-10-06 | 2026-10-06 | Server / validation, RTL / verification, Physical design, Interconnect / networking, AI / software |
 | Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) | Burlingame, CA (HQ); Pune, Maharashtra, INDIA | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) | Burlingame, CA (HQ); Pune, Maharashtra, INDIA | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) | Burlingame, CA (HQ) | Not specified | 2026-09-22 | 2026-09-30 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
@@ -52,15 +54,12 @@ _No verified matching openings found in successfully checked sources. See covera
 | Etched | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Axelera | [Intern - AIPU Board Development](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-09-21 | 2026-09-27 | Server / validation, Physical design, Embedded / boards, AI / software |
 | Axelera | [Intern - ML Inference Performance Engineer](https://jobs.ashbyhq.com/axelera/5d48cd6c-5c5b-45e2-973e-1017a70a5485) | Eindhoven (hybrid) | Not specified | 2026-09-21 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
-| Tenstorrent | [AI Compiler Software Intern (PEY)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) | Toronto, Ontario, Canada | Not specified | 2025-09-12 | 2026-09-27 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Tenstorrent | [Inference Server – Product Software Intern (Oct 2026 start)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5065140007) | Belgrade, Serbia | Not specified | 2026-03-02 | 2026-09-27 | Server / validation, Interconnect / networking, AI / software |
 | Furiosa | [Algorithm - AI Research Engineer Intern](https://job-boards.anz.greenhouse.io/furiosaai/jobs/4005768201) | Seoul, South Korea | Not specified | 2026-08-19 | 2026-09-27 | Server / validation, AI / software |
 
 ### CHIPLETS
 
-| Company | Role / apply | Location | Term | Posted | First found | Relevance |
-| --- | --- | --- | --- | --- | --- | --- |
-| DreamBig | [Intern Program - Engineering Pathways](https://careers.arm.com/job/manchester/intern-program-engineering-pathways/33099/101556166016) | Manchester, , United Kingdom, Manchester - No.1 St Michael’s 36 Jackson’s Row Manchester,  M2 5WD United Kingdom , ; Cambridge, England, United Kingdom, , ; Bristol, England, United Kingdom, , ; Sheffield, England, United Kingdom, ,  | Not specified | 2026-10-5 | 2026-10-05 | Server / validation, Physical design, Interconnect / networking, Embedded / boards, AI / software |
+_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
 
 ### EDA
 

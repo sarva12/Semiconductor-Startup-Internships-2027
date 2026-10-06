@@ -4,6 +4,8 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-06T18:32:01+00:00 | new | Tenstorrent | [Hardware Intern - AI HW & System on a Chip](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
+| 2026-10-06T18:32:01+00:00 | new | Tenstorrent | [AI SW Intern, Infrastructure & Data Centre Deployment](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) |
 | 2026-10-06T06:35:02+00:00 | updated | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) |
 | 2026-10-06T00:12:23+00:00 | updated | Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) |
 | 2026-10-06T00:12:23+00:00 | updated | Etched | [Mechanical / Thermal Intern](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229) |
