@@ -4,6 +4,8 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-06T00:12:23+00:00 | updated | Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) |
+| 2026-10-06T00:12:23+00:00 | updated | Etched | [Mechanical / Thermal Intern](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229) |
 | 2026-10-05T15:00:31+00:00 | new | DreamBig | [Intern Program - Engineering Pathways](https://careers.arm.com/job/manchester/intern-program-engineering-pathways/33099/101556166016) |
 | 2026-10-03T05:30:25+00:00 | closed | Tenstorrent | [Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007) |
 | 2026-10-02T12:53:04+00:00 | new | DreamBig | [FPGA Intern](https://careers.arm.com/job/trondheim/fpga-intern/33099/101434822768) |

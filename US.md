@@ -4,7 +4,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) | Burlingame, CA (HQ) | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
+| Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) | Burlingame, CA (HQ); Pune, Maharashtra, INDIA | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) | Burlingame, CA (HQ) | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) | Burlingame, CA (HQ) | Not specified | 2026-09-22 | 2026-09-30 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [RTL SoC Design Intern](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2) | Burlingame, CA (HQ) | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
@@ -21,7 +21,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 | Etched | [Firmware Intern](https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc) | San Jose | Not specified | 2026-02-07 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
 | Etched | [Inference Intern](https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3) | San Jose | Not specified | 2025-12-08 | 2026-09-27 | Interconnect / networking, AI / software |
 | Etched | [Lab Operations Intern](https://jobs.ashbyhq.com/Etched/7d400861-c124-475f-8cef-73b9fd5199cf) | San Jose | Not specified | 2026-09-15 | 2026-09-27 | AI / software |
-| Etched | [Mechancial / Thermal Intern](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | San Jose | Not specified | 2026-02-07 | 2026-09-27 | Server / validation, RTL / verification, Embedded / boards, AI / software |
+| Etched | [Mechanical / Thermal Intern](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | San Jose | Not specified | 2026-02-07 | 2026-09-27 | Server / validation, RTL / verification, Embedded / boards, AI / software |
 | Etched | [PD Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | RTL / verification, Physical design, AI / software |
 | Etched | [Performance Tools Intern](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) | San Jose | Not specified | 2026-08-03 | 2026-09-27 | Interconnect / networking, Embedded / boards, AI / software |
 | Etched | [RTL Intern](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) | San Jose | Not specified | 2026-09-18 | 2026-09-27 | RTL / verification, Physical design, AI / software |
