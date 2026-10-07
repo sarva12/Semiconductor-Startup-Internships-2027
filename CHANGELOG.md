@@ -4,6 +4,13 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [Software Engineering Intern: Training, Models, Kernel/Ops](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) |
+| 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [Software Engineering Intern: DC Deployment and Infrastructure](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) |
+| 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [Intern, RISC-V CPU](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) |
+| 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [Intern, Physical Design & DFT](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) |
+| 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [Hardware Intern - Architecture, AI HW & System on a Chip](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007) |
+| 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [AI SW Intern, Cloud, Infrastructure & Data Centre Deployment](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) |
+| 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [AI Software Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) |
 | 2026-10-07T06:13:43+00:00 | closed | Tenstorrent | [AI Compiler Software Intern (PEY)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) |
 | 2026-10-06T18:32:01+00:00 | new | Tenstorrent | [Hardware Intern - AI HW & System on a Chip](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
 | 2026-10-06T18:32:01+00:00 | new | Tenstorrent | [AI SW Intern, Infrastructure & Data Centre Deployment](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) |
