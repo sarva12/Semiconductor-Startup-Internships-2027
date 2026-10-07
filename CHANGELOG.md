@@ -4,6 +4,9 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-07T23:14:13+00:00 | closed | Tenstorrent | [Inference Server – Product Software Intern (Oct 2026 start)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5065140007) |
+| 2026-10-07T23:14:13+00:00 | new | Matx | [MatX Internships 2027](https://jobs.ashbyhq.com/matx/cfa41603-e9dd-4bb5-a45e-969e62b14e3b) |
+| 2026-10-07T23:14:13+00:00 | updated | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5374627008?gh_jid=5374627008) |
 | 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [Software Engineering Intern: Training, Models, Kernel/Ops](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) |
 | 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [Software Engineering Intern: DC Deployment and Infrastructure](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) |
 | 2026-10-07T13:39:32+00:00 | new | Tenstorrent | [Intern, RISC-V CPU](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) |
