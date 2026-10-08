@@ -614,5 +614,29 @@
     "company": "Efficient Computer",
     "title": "Hardware/Silicon Internship",
     "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009"
+  },
+  {
+    "at": "2026-10-08T13:45:15+00:00",
+    "event": "new",
+    "job_id": "706f0b395892836ce4ef",
+    "company": "Tenstorrent",
+    "title": "AI Software Intern (Canada)",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007"
+  },
+  {
+    "at": "2026-10-08T13:45:15+00:00",
+    "event": "updated",
+    "job_id": "1f1010330f09c610b153",
+    "company": "Tenstorrent",
+    "title": "Software Engineering Intern: DC Deployment and Infrastructure (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007"
+  },
+  {
+    "at": "2026-10-08T13:45:15+00:00",
+    "event": "updated",
+    "job_id": "04404b78e57315bcff65",
+    "company": "Tenstorrent",
+    "title": "Software Engineering Intern: Training, Models, Kernel/Ops (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007"
   }
 ]

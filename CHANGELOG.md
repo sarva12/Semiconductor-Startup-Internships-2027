@@ -4,6 +4,9 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-08T13:45:15+00:00 | updated | Tenstorrent | [Software Engineering Intern: Training, Models, Kernel/Ops (Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) |
+| 2026-10-08T13:45:15+00:00 | updated | Tenstorrent | [Software Engineering Intern: DC Deployment and Infrastructure (Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) |
+| 2026-10-08T13:45:15+00:00 | new | Tenstorrent | [AI Software Intern (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
 | 2026-10-08T06:22:17+00:00 | closed | Efficient Computer | [Hardware/Silicon Internship](https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009) |
 | 2026-10-07T23:14:13+00:00 | closed | Tenstorrent | [Inference Server – Product Software Intern (Oct 2026 start)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5065140007) |
 | 2026-10-07T23:14:13+00:00 | new | Matx | [MatX Internships 2027](https://jobs.ashbyhq.com/matx/cfa41603-e9dd-4bb5-a45e-969e62b14e3b) |
