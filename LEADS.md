@@ -14,7 +14,7 @@ These are not counted as open jobs.
 | Rebellions | [Talent Pool (Internship)](https://rebellions.career.greetinghr.com/o/152709) | Unverified link; may be an old posting or general program |
 | Rebellions | [Talent Pool (Internship)Talent PoolRebellions \\| Korea](https://rebellions.career.greetinghr.com/en/o/152709) | Unverified link; may be an old posting or general program |
 | Riverlane | [Internships](https://www.riverlane.com/jobs/internships) | Unverified link; may be an old posting or general program |
-| Riverlane | [Applications for 2026 internship and graduate positions are now closed.  We will begin hiring for our 2027 early career programs in October 2026.](https://www.riverlane.com/jobs) | Unverified link; may be an old posting or general program |
+| Riverlane | [Applications for 2026 internship and graduate positions are now open! Closing date 6 Nov.Apply now!](https://www.riverlane.com/jobs) | Unverified link; may be an old posting or general program |
 | Silimate | [Applied AI Intern](https://www.ycombinator.com/companies/silimate/jobs/xt2UihN-applied-ai-intern) | Unverified link; may be an old posting or general program |
 | Silimate | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
 | SWIR Vision Systems | [Internships](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=Intern) | Unverified link; may be an old posting or general program |
