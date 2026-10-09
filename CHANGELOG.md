@@ -4,6 +4,15 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [Silicon Intern - Physical Design & DFT (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) |
+| 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [Intern, RISC-V CPU (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) |
+| 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [Hardware Intern - Architecture, AI HW & SoC (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007) |
+| 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [Hardware Intern - AI HW & SoC (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
+| 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [AI Software Intern (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) |
+| 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [AI Software Intern - Training, Models, Kernel/Ops (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) |
+| 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [AI Software Intern - DC Deployment and Infrastructure (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) |
+| 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) |
+| 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) |
 | 2026-10-08T13:45:15+00:00 | updated | Tenstorrent | [Software Engineering Intern: Training, Models, Kernel/Ops (Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) |
 | 2026-10-08T13:45:15+00:00 | updated | Tenstorrent | [Software Engineering Intern: DC Deployment and Infrastructure (Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) |
 | 2026-10-08T13:45:15+00:00 | new | Tenstorrent | [AI Software Intern (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
