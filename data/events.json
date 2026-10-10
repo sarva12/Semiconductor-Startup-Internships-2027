@@ -710,5 +710,29 @@
     "company": "Tenstorrent",
     "title": "Silicon Intern - Physical Design & DFT (USA)",
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007"
+  },
+  {
+    "at": "2026-10-10T12:46:16+00:00",
+    "event": "new",
+    "job_id": "e07c74b9f0975136fec6",
+    "company": "DreamBig",
+    "title": "Software Engineer Intern",
+    "url": "https://careers.arm.com/job/sophia-antipolis/software-engineer-intern/33099/101742818304"
+  },
+  {
+    "at": "2026-10-10T12:46:16+00:00",
+    "event": "new",
+    "job_id": "9a233c4985eea575cd34",
+    "company": "DreamBig",
+    "title": "Software Engineering Intern",
+    "url": "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288"
+  },
+  {
+    "at": "2026-10-10T12:46:16+00:00",
+    "event": "new",
+    "job_id": "88fd9803b9ac4f859bd3",
+    "company": "DreamBig",
+    "title": "Physical Design Intern",
+    "url": "https://careers.arm.com/job/sophia-antipolis/physical-design-intern/33099/101742818272"
   }
 ]

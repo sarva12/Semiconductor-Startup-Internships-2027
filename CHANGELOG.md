@@ -4,6 +4,9 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-10T12:46:16+00:00 | new | DreamBig | [Physical Design Intern](https://careers.arm.com/job/sophia-antipolis/physical-design-intern/33099/101742818272) |
+| 2026-10-10T12:46:16+00:00 | new | DreamBig | [Software Engineering Intern](https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288) |
+| 2026-10-10T12:46:16+00:00 | new | DreamBig | [Software Engineer Intern](https://careers.arm.com/job/sophia-antipolis/software-engineer-intern/33099/101742818304) |
 | 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [Silicon Intern - Physical Design & DFT (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) |
 | 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [Intern, RISC-V CPU (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) |
 | 2026-10-09T13:32:30+00:00 | updated | Tenstorrent | [Hardware Intern - Architecture, AI HW & SoC (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007) |
