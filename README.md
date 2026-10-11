@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-11T13:08:46+00:00** · **320 companies registered** · **46 with successful complete board API checks** · **47 open technical internships found**.
+Latest scan: **2026-10-11T22:10:45+00:00** · **320 companies registered** · **46 with successful complete board API checks** · **46 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -59,7 +59,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Etched | [Mechanical / Thermal Intern](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | San Jose | Not specified | 2026-02-07 | 2026-09-27 | Server / validation, RTL / verification, Embedded / boards, AI / software |
 | Etched | [PD Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | RTL / verification, Physical design, AI / software |
 | Etched | [Performance Tools Intern](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) | San Jose | Not specified | 2026-08-03 | 2026-09-27 | Interconnect / networking, Embedded / boards, AI / software |
-| Etched | [RTL Intern](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) | San Jose | Not specified | 2026-09-18 | 2026-09-27 | RTL / verification, Physical design, AI / software |
 | Etched | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Axelera | [Intern - AIPU Board Development](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-09-21 | 2026-09-27 | Server / validation, Physical design, Embedded / boards, AI / software |
 | Axelera | [Intern - ML Inference Performance Engineer](https://jobs.ashbyhq.com/axelera/5d48cd6c-5c5b-45e2-973e-1017a70a5485) | Eindhoven (hybrid) | Not specified | 2026-09-21 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
