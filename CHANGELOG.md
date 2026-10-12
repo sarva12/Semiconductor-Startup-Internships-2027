@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-12T06:13:13+00:00 | closed | Etched | [RTL Intern](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) |
 | 2026-10-10T12:46:16+00:00 | new | DreamBig | [Physical Design Intern](https://careers.arm.com/job/sophia-antipolis/physical-design-intern/33099/101742818272) |
 | 2026-10-10T12:46:16+00:00 | new | DreamBig | [Software Engineering Intern](https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288) |
 | 2026-10-10T12:46:16+00:00 | new | DreamBig | [Software Engineer Intern](https://careers.arm.com/job/sophia-antipolis/software-engineer-intern/33099/101742818304) |
