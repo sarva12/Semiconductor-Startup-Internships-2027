@@ -9,6 +9,7 @@ These are not counted as open jobs.
 | DreamBig | [Interns](https://careers.arm.com/internships) | Unverified link; may be an old posting or general program |
 | DreamBig | [Education Team Interns](https://careers.arm.com/andrew-and-taya-intern-journeys) | Unverified link; may be an old posting or general program |
 | HyperAccel | [Talent Pool 등록(Internship)인재풀R&DHW외HW Engineer외인턴](https://hyperaccel.career.greetinghr.com/ko/o/220411) | Unverified link; may be an old posting or general program |
+| Mobilint | [Research Assistant (Intern)StrategyEntry LevelIntern모빌린트 본사](https://mobilinthire.career.greetinghr.com/en/o/240233) | Unverified link; may be an old posting or general program |
 | NcodiN | [← Spontaneous application – Internship](https://ncodin.com/job/internship/) | Unverified link; may be an old posting or general program |
 | PragmatiC | [Internships](https://talent.pragmaticsemi.com/departments/internships) | Unverified link; may be an old posting or general program |
 | Rebellions | [Talent Pool (Internship)](https://rebellions.career.greetinghr.com/o/152709) | Unverified link; may be an old posting or general program |

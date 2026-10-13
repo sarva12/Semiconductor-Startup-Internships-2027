@@ -4,6 +4,11 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-13T14:26:17+00:00 | new | DreamBig | [Data Analytics Intern](https://careers.arm.com/job/cambridge/data-analytics-intern/33099/101898105744) |
+| 2026-10-13T14:26:17+00:00 | new | DreamBig | [Quality & Reliability Engineering Intern](https://careers.arm.com/job/cambridge/quality-and-reliability-engineering-intern/33099/101898105792) |
+| 2026-10-13T14:26:17+00:00 | new | DreamBig | [Quality & Compliance Intern](https://careers.arm.com/job/cambridge/quality-and-compliance-intern/33099/101898108368) |
+| 2026-10-13T14:26:17+00:00 | new | DreamBig | [QA/DevOps Intern](https://careers.arm.com/job/sophia-antipolis/qa-devops-intern/33099/101899425056) |
+| 2026-10-13T14:26:17+00:00 | new | DreamBig | [Agile Project Management Intern](https://careers.arm.com/job/budapest/agile-project-management-intern/33099/101856114656) |
 | 2026-10-12T06:13:13+00:00 | closed | Etched | [RTL Intern](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) |
 | 2026-10-10T12:46:16+00:00 | new | DreamBig | [Physical Design Intern](https://careers.arm.com/job/sophia-antipolis/physical-design-intern/33099/101742818272) |
 | 2026-10-10T12:46:16+00:00 | new | DreamBig | [Software Engineering Intern](https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288) |
