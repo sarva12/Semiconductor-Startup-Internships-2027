@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-13T22:58:08+00:00** · **320 companies registered** · **45 with successful complete board API checks** · **51 open technical internships found**.
+Latest scan: **2026-10-14T05:06:00+00:00** · **320 companies registered** · **46 with successful complete board API checks** · **48 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -69,10 +69,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
 | DreamBig | [Agile Project Management Intern](https://careers.arm.com/job/budapest/agile-project-management-intern/33099/101856114656) | Budapest, , Hungary, Budapest - Corvin Crystal Tower (5th floor), 1082 Budapest  Budapest,  43-45 Hungary ,  | Not specified | 2026-10-12 | 2026-10-13 | Interconnect / networking, AI / software |
-| DreamBig | [Data Analytics Intern](https://careers.arm.com/job/cambridge/data-analytics-intern/33099/101898105744) | Cambridge, , United Kingdom, Cambridge - Global Headquarters: 110 Fulbourn Road  Cambridge,  CB1 9NJ United Kingdom ,  | Not specified | 2026-10-13 | 2026-10-13 | Interconnect / networking, AI / software |
 | DreamBig | [QA/DevOps Intern](https://careers.arm.com/job/sophia-antipolis/qa-devops-intern/33099/101899425056) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-13 | 2026-10-13 | Interconnect / networking, AI / software |
-| DreamBig | [Quality & Compliance Intern](https://careers.arm.com/job/cambridge/quality-and-compliance-intern/33099/101898108368) | Cambridge, , United Kingdom, Cambridge - Global Headquarters: 110 Fulbourn Road  Cambridge,  CB1 9NJ United Kingdom ,  | Not specified | 2026-10-13 | 2026-10-13 | RTL / verification, Interconnect / networking, AI / software |
-| DreamBig | [Quality & Reliability Engineering Intern](https://careers.arm.com/job/cambridge/quality-and-reliability-engineering-intern/33099/101898105792) | Cambridge, , United Kingdom, Cambridge - Global Headquarters: 110 Fulbourn Road  Cambridge,  CB1 9NJ United Kingdom ,  | Not specified | 2026-10-13 | 2026-10-13 | Interconnect / networking, AI / software |
 
 ### EDA
 
