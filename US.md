@@ -4,6 +4,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) | Austin, Texas, United States; Santa Clara, California, United States | Not specified | 2026-10-14 | 2026-10-14 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Matx | [MatX Internships 2027](https://jobs.ashbyhq.com/matx/cfa41603-e9dd-4bb5-a45e-969e62b14e3b) | Mountain View | Not specified | 2026-10-07 | 2026-10-07 | AI / software |
 | Tenstorrent | [AI Software Intern (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) | Austin, Texas, United States; Santa Clara, California, United States | Not specified | 2026-10-07 | 2026-10-07 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 | Tenstorrent | [AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) | Austin, Texas, United States; Santa Clara, California, United States | Not specified | 2026-10-07 | 2026-10-07 | Server / validation, Interconnect / networking, AI / software |

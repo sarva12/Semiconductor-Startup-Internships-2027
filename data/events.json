@@ -782,5 +782,21 @@
     "company": "DreamBig",
     "title": "Data Analytics Intern",
     "url": "https://careers.arm.com/job/cambridge/data-analytics-intern/33099/101898105744"
+  },
+  {
+    "at": "2026-10-14T12:09:20+00:00",
+    "event": "new",
+    "job_id": "35b9519cb0e89a5a21ca",
+    "company": "Tenstorrent",
+    "title": "Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada)",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007"
+  },
+  {
+    "at": "2026-10-14T12:09:20+00:00",
+    "event": "new",
+    "job_id": "0dcfa85b0a8b440b2ece",
+    "company": "Tenstorrent",
+    "title": "Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007"
   }
 ]
