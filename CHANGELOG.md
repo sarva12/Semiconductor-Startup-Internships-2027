@@ -4,6 +4,14 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-14T21:51:14+00:00 | new | DreamBig | [CPU Physical Implementation Intern](https://careers.arm.com/job/sophia-antipolis/cpu-physical-implementation-intern/33099/101949968368) |
+| 2026-10-14T21:51:14+00:00 | new | DreamBig | [CPU Microarchitecture and Design Intern](https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-and-design-intern/33099/101949968400) |
+| 2026-10-14T21:51:14+00:00 | new | DreamBig | [CPU Microarchitecture Modelling and Performance Analysis Intern](https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-modelling-and-performance-analysis-intern/33099/101949968432) |
+| 2026-10-14T21:51:14+00:00 | new | DreamBig | [CPU Verification Intern](https://careers.arm.com/job/sophia-antipolis/cpu-verification-intern/33099/101949968944) |
+| 2026-10-14T21:51:14+00:00 | new | DreamBig | [Technical Writer Intern - Stagiaire Rédacteur Technique](https://careers.arm.com/job/sophia-antipolis/technical-writer-intern-stagiaire-redacteur-technique/33099/101946112448) |
+| 2026-10-14T21:51:14+00:00 | new | DreamBig | [SoC Architect Intern](https://careers.arm.com/job/sophia-antipolis/soc-architect-intern/33099/101751692512) |
+| 2026-10-14T21:51:14+00:00 | new | DreamBig | [Project Operations Intern (Productivity Engineering)](https://careers.arm.com/job/sophia-antipolis/project-operations-intern-productivity-engineering/33099/101751692528) |
+| 2026-10-14T21:51:14+00:00 | new | DreamBig | [Media Systems Architecture Intern](https://careers.arm.com/job/sophia-antipolis/media-systems-architecture-intern/33099/101751692544) |
 | 2026-10-14T17:23:32+00:00 | new | DreamBig | [CPU Technology Intern](https://careers.arm.com/job/sophia-antipolis/cpu-technology-intern/33099/101751692592) |
 | 2026-10-14T12:09:20+00:00 | new | Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) |
 | 2026-10-14T12:09:20+00:00 | new | Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) |
