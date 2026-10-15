@@ -17,6 +17,7 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 | DreamBig | [Quality & Reliability Engineering Intern](https://careers.arm.com/job/cambridge/quality-and-reliability-engineering-intern/33099/101898105792) | unconfirmed | 2026-10-13T14:26:17+00:00 | 2026-10-14T12:09:20+00:00 | — |
 | DreamBig | [Software Engineering Intern](https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288) | unconfirmed | 2026-10-10T12:46:16+00:00 | 2026-10-10T12:46:16+00:00 | — |
 | Efficient Computer | [Hardware/Silicon Internship](https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009) | closed | 2026-09-27T07:01:59+00:00 | 2026-10-07T13:39:32+00:00 | 2026-10-08T06:22:17+00:00 |
+| Etched | [Core Engineering Intern](https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8) | unconfirmed | 2026-09-27T07:15:21+00:00 | 2026-10-15T04:54:58+00:00 | — |
 | Etched | [RTL Intern](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) | closed | 2026-09-27T07:15:21+00:00 | 2026-10-11T13:08:46+00:00 | 2026-10-12T06:13:13+00:00 |
 | FMC | [Working student IT](https://ferroelectric-memory-gmbh.jobs.personio.de/job/2813776?language=en&enable-new-page=true) | unconfirmed | 2026-09-27T07:15:21+00:00 | 2026-10-02T05:54:57+00:00 | — |
 | Lightmatter | [Silicon, Hardware, & Photonics Engineering - Internship](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) | closed | 2026-09-27T07:01:59+00:00 | 2026-09-29T22:26:54+00:00 | 2026-09-30T12:49:29+00:00 |
