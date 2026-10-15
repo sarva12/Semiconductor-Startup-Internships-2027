@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-15T21:34:33+00:00 | closed | Etched | [Core Engineering Intern](https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8) |
 | 2026-10-14T21:51:14+00:00 | new | DreamBig | [CPU Physical Implementation Intern](https://careers.arm.com/job/sophia-antipolis/cpu-physical-implementation-intern/33099/101949968368) |
 | 2026-10-14T21:51:14+00:00 | new | DreamBig | [CPU Microarchitecture and Design Intern](https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-and-design-intern/33099/101949968400) |
 | 2026-10-14T21:51:14+00:00 | new | DreamBig | [CPU Microarchitecture Modelling and Performance Analysis Intern](https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-modelling-and-performance-analysis-intern/33099/101949968432) |

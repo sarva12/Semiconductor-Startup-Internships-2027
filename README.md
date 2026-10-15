@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-15T17:13:19+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **59 open technical internships found**.
+Latest scan: **2026-10-15T21:34:33+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **47 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -67,20 +67,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 ### CHIPLETS
 
-| Company | Role / apply | Location | Term | Posted | First found | Relevance |
-| --- | --- | --- | --- | --- | --- | --- |
-| DreamBig | [CPU Microarchitecture Modelling and Performance Analysis Intern](https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-modelling-and-performance-analysis-intern/33099/101949968432) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-14 | 2026-10-14 | RTL / verification, Interconnect / networking, AI / software |
-| DreamBig | [CPU Microarchitecture and Design Intern](https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-and-design-intern/33099/101949968400) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-14 | 2026-10-14 | RTL / verification, Interconnect / networking, AI / software |
-| DreamBig | [CPU Physical Implementation Intern](https://careers.arm.com/job/sophia-antipolis/cpu-physical-implementation-intern/33099/101949968368) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-14 | 2026-10-14 | RTL / verification, Interconnect / networking, AI / software |
-| DreamBig | [CPU Verification Intern](https://careers.arm.com/job/sophia-antipolis/cpu-verification-intern/33099/101949968944) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-14 | 2026-10-14 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
-| DreamBig | [Media Systems Architecture Intern](https://careers.arm.com/job/sophia-antipolis/media-systems-architecture-intern/33099/101751692544) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-09 | 2026-10-14 | RTL / verification, Interconnect / networking, AI / software |
-| DreamBig | [Project Operations Intern (Productivity Engineering)](https://careers.arm.com/job/sophia-antipolis/project-operations-intern-productivity-engineering/33099/101751692528) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-09 | 2026-10-14 | Interconnect / networking, AI / software |
-| DreamBig | [SoC Architect Intern](https://careers.arm.com/job/sophia-antipolis/soc-architect-intern/33099/101751692512) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-09 | 2026-10-14 | RTL / verification, Interconnect / networking, AI / software |
-| DreamBig | [Technical Writer Intern - Stagiaire Rédacteur Technique](https://careers.arm.com/job/sophia-antipolis/technical-writer-intern-stagiaire-redacteur-technique/33099/101946112448) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-14 | 2026-10-14 | Interconnect / networking, AI / software |
-| DreamBig | [CPU Technology Intern](https://careers.arm.com/job/sophia-antipolis/cpu-technology-intern/33099/101751692592) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-09 | 2026-10-14 | Interconnect / networking, AI / software |
-| DreamBig | [QA/DevOps Intern](https://careers.arm.com/job/sophia-antipolis/qa-devops-intern/33099/101899425056) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-13 | 2026-10-13 | Interconnect / networking, AI / software |
-| DreamBig | [Physical Design Intern](https://careers.arm.com/job/sophia-antipolis/physical-design-intern/33099/101742818272) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-09 | 2026-10-10 | Physical design, Interconnect / networking, AI / software |
-| DreamBig | [Software Engineer Intern](https://careers.arm.com/job/sophia-antipolis/software-engineer-intern/33099/101742818304) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-09 | 2026-10-10 | Interconnect / networking, Embedded / boards, AI / software |
+_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
 
 ### EDA
 
