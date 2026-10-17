@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-17T04:43:05+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **50 open technical internships found**.
+Latest scan: **2026-10-17T10:59:13+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **48 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -69,8 +69,6 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| DreamBig | [Software Applications Intern](https://careers.arm.com/job/taipei/software-applications-intern/33099/102027382976) | Taipei, , Taiwan, Taipei - 9F., No. 55, Zouzi St.  Taipei,  114, Taiwan (R.O Taiwan ,  | Not specified | 2026-10-16 | 2026-10-17 | Interconnect / networking, Embedded / boards, AI / software |
-| DreamBig | [Tools & Flows Applications Engineering Intern](https://careers.arm.com/job/sophia-antipolis/tools-and-flows-applications-engineering-intern/33099/102025873968) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-16 | 2026-10-17 | RTL / verification, Interconnect / networking, AI / software |
 | DreamBig | [Software Engineering Intern – Workflow Monitoring and Analytics](https://careers.arm.com/job/sophia-antipolis/software-engineering-intern-workflow-monitoring-and-analytics/33099/102035670144) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-16 | 2026-10-16 | RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 
 ### EDA
