@@ -4,6 +4,8 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-17T04:43:05+00:00 | new | DreamBig | [Tools & Flows Applications Engineering Intern](https://careers.arm.com/job/sophia-antipolis/tools-and-flows-applications-engineering-intern/33099/102025873968) |
+| 2026-10-17T04:43:05+00:00 | new | DreamBig | [Software Applications Intern](https://careers.arm.com/job/taipei/software-applications-intern/33099/102027382976) |
 | 2026-10-16T16:49:42+00:00 | new | DreamBig | [Software Engineering Intern – Workflow Monitoring and Analytics](https://careers.arm.com/job/sophia-antipolis/software-engineering-intern-workflow-monitoring-and-analytics/33099/102035670144) |
 | 2026-10-15T21:34:33+00:00 | closed | Etched | [Core Engineering Intern](https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8) |
 | 2026-10-14T21:51:14+00:00 | new | DreamBig | [CPU Physical Implementation Intern](https://careers.arm.com/job/sophia-antipolis/cpu-physical-implementation-intern/33099/101949968368) |
