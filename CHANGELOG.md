@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-19T22:31:33+00:00 | updated | Quadric.io | [RTL Intern](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2) |
 | 2026-10-19T13:39:39+00:00 | new | DreamBig | [GPU Software Applications Engineer Intern (3 months)](https://careers.arm.com/job/seoul/gpu-software-applications-engineer-intern-3-months/33099/102148485392) |
 | 2026-10-17T04:43:05+00:00 | new | DreamBig | [Tools & Flows Applications Engineering Intern](https://careers.arm.com/job/sophia-antipolis/tools-and-flows-applications-engineering-intern/33099/102025873968) |
 | 2026-10-17T04:43:05+00:00 | new | DreamBig | [Software Applications Intern](https://careers.arm.com/job/taipei/software-applications-intern/33099/102027382976) |

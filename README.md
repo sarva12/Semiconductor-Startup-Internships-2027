@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-19T13:39:39+00:00** · **320 companies registered** · **45 with successful complete board API checks** · **48 open technical internships found**.
+Latest scan: **2026-10-19T22:31:33+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **48 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -49,7 +49,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) | Burlingame, CA (HQ); Pune, Maharashtra, INDIA | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) | Burlingame, CA (HQ); Pune, Maharashtra, INDIA | Not specified | 2026-10-07 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) | Burlingame, CA (HQ) | Not specified | 2026-09-22 | 2026-09-30 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
-| Quadric.io | [RTL SoC Design Intern](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2) | Burlingame, CA (HQ) | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
+| Quadric.io | [RTL Intern](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2) | Burlingame, CA (HQ) | Not specified | 2026-09-23 | 2026-09-30 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
 | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
 | Etched | [DFT Intern](https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d) | San Jose | Not specified | 2026-04-13 | 2026-09-27 | RTL / verification, Physical design, AI / software |
 | Etched | [DV Intern](https://jobs.ashbyhq.com/Etched/dacedaca-c4ca-4964-85a7-8df1738005bb) | San Jose | Not specified | 2026-02-07 | 2026-09-27 | RTL / verification, Physical design, AI / software |
