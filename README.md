@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-20T05:03:24+00:00** · **320 companies registered** · **46 with successful complete board API checks** · **47 open technical internships found**.
+Latest scan: **2026-10-20T11:53:44+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **46 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -67,9 +67,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 ### CHIPLETS
 
-| Company | Role / apply | Location | Term | Posted | First found | Relevance |
-| --- | --- | --- | --- | --- | --- | --- |
-| DreamBig | [GPU Software Applications Engineer Intern (3 months)](https://careers.arm.com/job/seoul/gpu-software-applications-engineer-intern-3-months/33099/102148485392) | Seoul, , Korea, South, Seoul - 7th Floor KyungDong B/D 4, SunaeRo 46 BeonGil BunDangGu  Seoul,  Korea 13595 Korea, South ,  | Not specified | 2026-10-19 | 2026-10-19 | AI / software |
+_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
 
 ### EDA
 
