@@ -35,6 +35,7 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 | Etched | [Core Engineering Intern](https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8) | closed | 2026-09-27T07:15:21+00:00 | 2026-10-15T04:54:58+00:00 | 2026-10-15T21:34:33+00:00 |
 | Etched | [RTL Intern](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) | closed | 2026-09-27T07:15:21+00:00 | 2026-10-11T13:08:46+00:00 | 2026-10-12T06:13:13+00:00 |
 | FMC | [Working student IT](https://ferroelectric-memory-gmbh.jobs.personio.de/job/2813776?language=en&enable-new-page=true) | unconfirmed | 2026-09-27T07:15:21+00:00 | 2026-10-02T05:54:57+00:00 | — |
+| Lightmatter | [Silicon Packaging Engineer - Intern & New Grad](https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008) | unconfirmed | 2026-09-27T07:01:59+00:00 | 2026-10-19T22:31:33+00:00 | — |
 | Lightmatter | [Silicon, Hardware, & Photonics Engineering - Internship](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) | closed | 2026-09-27T07:01:59+00:00 | 2026-09-29T22:26:54+00:00 | 2026-09-30T12:49:29+00:00 |
 | Matx | [Laboratory Operations Intern](https://jobs.ashbyhq.com/matx/d74c72e7-49ec-4a04-9405-04ef0f0d87c6) | closed | 2026-09-27T07:15:21+00:00 | 2026-09-29T13:08:34+00:00 | 2026-09-30T05:45:50+00:00 |
 | NcodiN | [Spontaneous application - Internship](https://job-boards.eu.greenhouse.io/ncodin/jobs/4802207101) | unconfirmed | 2026-09-27T07:01:59+00:00 | 2026-10-04T06:06:20+00:00 | — |

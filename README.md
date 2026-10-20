@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-19T22:31:33+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **48 open technical internships found**.
+Latest scan: **2026-10-20T05:03:24+00:00** · **320 companies registered** · **46 with successful complete board API checks** · **47 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -114,7 +114,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5374627008?gh_jid=5374627008) | Boston, MA | Winter 2026 | 2026-09-10 | 2026-09-27 | Interconnect / networking, Embedded / boards, AI / software |
-| Lightmatter | [Silicon Packaging Engineer - Intern & New Grad](https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008) | Mountain View, CA | Not specified | 2026-09-11 | 2026-09-27 | Physical design, Interconnect / networking, AI / software |
 
 ### QUANTUM
 
