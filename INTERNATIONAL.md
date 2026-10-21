@@ -4,6 +4,8 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Quantum Motion | [Quantum Theory Internship Programme 2027](https://quantummotion.jobs.personio.com/job/2853487?language=en) | London, UK | Summer 2027 | Unknown | 2026-10-21 | Physical design, Embedded / boards, AI / software |
+| Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) | Milan (on-site) | Not specified | 2026-10-21 | 2026-10-21 | AI / software |
 | Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada | Not specified | 2026-10-14 | 2026-10-14 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Tenstorrent | [AI Software Intern (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Toronto, Ontario, Canada | Not specified | 2026-10-08 | 2026-10-08 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 | Tenstorrent | [AI Software Intern - DC Deployment and Infrastructure (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) | Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland | Summer 2027 | 2026-10-07 | 2026-10-07 | Server / validation, Interconnect / networking, AI / software |
@@ -22,4 +24,4 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 | Kandou | [Internship - AI Engineer](https://jobs.ashbyhq.com/kandou-ai/19c7570c-8941-4777-9e61-dbacd81b94e8) | Saint-Sulpice | Not specified | 2026-09-09 | 2026-09-27 | RTL / verification, Interconnect / networking, AI / software |
 | Kandou | [Internship - Semiconductor Engineering](https://jobs.ashbyhq.com/kandou-ai/0e0b89a5-9e6e-455b-a0ba-3cd8d028f168) | Dortmund | Not specified | 2026-09-01 | 2026-09-27 | RTL / verification, Physical design, Interconnect / networking, AI / software |
 | Axelera | [Intern - AIPU Board Development](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-09-21 | 2026-09-27 | Server / validation, Physical design, Embedded / boards, AI / software |
-| Furiosa | [Algorithm - AI Research Engineer Intern](https://job-boards.anz.greenhouse.io/furiosaai/jobs/4005768201) | Seoul, South Korea | Not specified | 2026-08-19 | 2026-09-27 | Server / validation, AI / software |
+| Furiosa | [Algorithm - AI Research Engineer Intern](https://furiosa.ai/careers?gh_jid=4005768201) | Seoul, South Korea | Not specified | 2026-08-19 | 2026-09-27 | Server / validation, AI / software |

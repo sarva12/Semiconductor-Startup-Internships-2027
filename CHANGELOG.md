@@ -4,6 +4,9 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-21T17:25:07+00:00 | new | Quantum Motion | [Quantum Theory Internship Programme 2027](https://quantummotion.jobs.personio.com/job/2853487?language=en) |
+| 2026-10-21T17:25:07+00:00 | updated | Furiosa | [Algorithm - AI Research Engineer Intern](https://furiosa.ai/careers?gh_jid=4005768201) |
+| 2026-10-21T17:25:07+00:00 | new | Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) |
 | 2026-10-21T12:05:39+00:00 | closed | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) |
 | 2026-10-21T12:05:39+00:00 | closed | Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) |
 | 2026-10-21T05:03:17+00:00 | closed | Axelera | [Intern - ML Inference Performance Engineer](https://jobs.ashbyhq.com/axelera/5d48cd6c-5c5b-45e2-973e-1017a70a5485) |

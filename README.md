@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-21T12:05:39+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **43 open technical internships found**.
+Latest scan: **2026-10-21T17:25:07+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **45 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -33,6 +33,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) | Milan (on-site) | Not specified | 2026-10-21 | 2026-10-21 | AI / software |
 | Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada | Not specified | 2026-10-14 | 2026-10-14 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) | Austin, Texas, United States; Santa Clara, California, United States | Not specified | 2026-10-14 | 2026-10-14 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Tenstorrent | [AI Software Intern (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Toronto, Ontario, Canada | Not specified | 2026-10-08 | 2026-10-08 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
@@ -60,7 +61,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | Etched | [Performance Tools Intern](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) | San Jose | Not specified | 2026-08-03 | 2026-09-27 | Interconnect / networking, Embedded / boards, AI / software |
 | Etched | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Axelera | [Intern - AIPU Board Development](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-09-21 | 2026-09-27 | Server / validation, Physical design, Embedded / boards, AI / software |
-| Furiosa | [Algorithm - AI Research Engineer Intern](https://job-boards.anz.greenhouse.io/furiosaai/jobs/4005768201) | Seoul, South Korea | Not specified | 2026-08-19 | 2026-09-27 | Server / validation, AI / software |
+| Furiosa | [Algorithm - AI Research Engineer Intern](https://furiosa.ai/careers?gh_jid=4005768201) | Seoul, South Korea | Not specified | 2026-08-19 | 2026-09-27 | Server / validation, AI / software |
 
 ### CHIPLETS
 
@@ -114,6 +115,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Quantum Motion | [Quantum Theory Internship Programme 2027](https://quantummotion.jobs.personio.com/job/2853487?language=en) | London, UK | Summer 2027 | Unknown | 2026-10-21 | Physical design, Embedded / boards, AI / software |
 | PsiQuantum | [Intern, Optical Packaging and Characterization Engineer](https://www.psiquantum.com/apply?gh_jid=7761881003) | Milpitas, California | Not specified | 2026-06-02 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Algorithms and Compilation](https://www.psiquantum.com/apply?gh_jid=7695559003) | Remote | Not specified | 2026-04-15 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Applications](https://www.psiquantum.com/apply?gh_jid=7821980003) | Australia | Not specified | 2026-08-12 | 2026-09-27 | Interconnect / networking, AI / software |
