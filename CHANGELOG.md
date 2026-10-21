@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-21T05:03:17+00:00 | closed | Axelera | [Intern - ML Inference Performance Engineer](https://jobs.ashbyhq.com/axelera/5d48cd6c-5c5b-45e2-973e-1017a70a5485) |
 | 2026-10-20T17:22:23+00:00 | updated | PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) |
 | 2026-10-20T17:22:23+00:00 | updated | PsiQuantum | [Internship Resume Submission – Australia only](https://www.psiquantum.com/apply?gh_jid=7519464003) |
 | 2026-10-20T17:22:23+00:00 | updated | PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) |
