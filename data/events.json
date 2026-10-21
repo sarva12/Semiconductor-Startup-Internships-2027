@@ -1022,5 +1022,53 @@
     "company": "Quantum Motion",
     "title": "Quantum Theory Internship Programme 2027",
     "url": "https://quantummotion.jobs.personio.com/job/2853487?language=en"
+  },
+  {
+    "at": "2026-10-21T21:52:19+00:00",
+    "event": "new",
+    "job_id": "ff4a647a4e17f26be8b9",
+    "company": "DreamBig",
+    "title": "Graphics Software Intern, Vulkan",
+    "url": "https://careers.arm.com/job/trondheim/graphics-software-intern-vulkan/33099/100604944240"
+  },
+  {
+    "at": "2026-10-21T21:52:19+00:00",
+    "event": "new",
+    "job_id": "6b49f18f00ef0ba7b8bc",
+    "company": "DreamBig",
+    "title": "GPU Modelling Intern",
+    "url": "https://careers.arm.com/job/trondheim/gpu-modelling-intern/33099/100604944192"
+  },
+  {
+    "at": "2026-10-21T21:52:19+00:00",
+    "event": "new",
+    "job_id": "6692e250d62aa42658d5",
+    "company": "DreamBig",
+    "title": "Performance Analysis Intern",
+    "url": "https://careers.arm.com/job/trondheim/performance-analysis-intern/33099/100604944144"
+  },
+  {
+    "at": "2026-10-21T21:52:19+00:00",
+    "event": "new",
+    "job_id": "3b6b8974c65c704cf223",
+    "company": "DreamBig",
+    "title": "Architecture and Technology Intern",
+    "url": "https://careers.arm.com/job/sophia-antipolis/architecture-and-technology-intern/33099/101751692640"
+  },
+  {
+    "at": "2026-10-21T21:52:19+00:00",
+    "event": "new",
+    "job_id": "bb07f539f4d232f4f0f6",
+    "company": "DreamBig",
+    "title": "Dependability Intern",
+    "url": "https://careers.arm.com/job/sophia-antipolis/dependability-intern/33099/101742818240"
+  },
+  {
+    "at": "2026-10-21T21:52:19+00:00",
+    "event": "new",
+    "job_id": "eabeb413e7aee12c6884",
+    "company": "DreamBig",
+    "title": "Verification Intern - Solutions Engineering",
+    "url": "https://careers.arm.com/job/sophia-antipolis/verification-intern-solutions-engineering/33099/101751692480"
   }
 ]

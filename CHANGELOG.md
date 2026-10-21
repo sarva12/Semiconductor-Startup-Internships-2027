@@ -4,6 +4,12 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-21T21:52:19+00:00 | new | DreamBig | [Verification Intern - Solutions Engineering](https://careers.arm.com/job/sophia-antipolis/verification-intern-solutions-engineering/33099/101751692480) |
+| 2026-10-21T21:52:19+00:00 | new | DreamBig | [Dependability Intern](https://careers.arm.com/job/sophia-antipolis/dependability-intern/33099/101742818240) |
+| 2026-10-21T21:52:19+00:00 | new | DreamBig | [Architecture and Technology Intern](https://careers.arm.com/job/sophia-antipolis/architecture-and-technology-intern/33099/101751692640) |
+| 2026-10-21T21:52:19+00:00 | new | DreamBig | [Performance Analysis Intern](https://careers.arm.com/job/trondheim/performance-analysis-intern/33099/100604944144) |
+| 2026-10-21T21:52:19+00:00 | new | DreamBig | [GPU Modelling Intern](https://careers.arm.com/job/trondheim/gpu-modelling-intern/33099/100604944192) |
+| 2026-10-21T21:52:19+00:00 | new | DreamBig | [Graphics Software Intern, Vulkan](https://careers.arm.com/job/trondheim/graphics-software-intern-vulkan/33099/100604944240) |
 | 2026-10-21T17:25:07+00:00 | new | Quantum Motion | [Quantum Theory Internship Programme 2027](https://quantummotion.jobs.personio.com/job/2853487?language=en) |
 | 2026-10-21T17:25:07+00:00 | updated | Furiosa | [Algorithm - AI Research Engineer Intern](https://furiosa.ai/careers?gh_jid=4005768201) |
 | 2026-10-21T17:25:07+00:00 | new | Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) |
