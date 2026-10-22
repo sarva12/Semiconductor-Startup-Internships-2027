@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-22T17:22:19+00:00 | updated | Axelera | [Stage - Perito Elettronico](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) |
 | 2026-10-22T12:08:32+00:00 | new | Black Semiconductor | [ALD Lab - Working Student](https://jobs.ashbyhq.com/blacksemiconductor/666cb4f0-9c87-4c6a-977a-d175fd29bc47) |
 | 2026-10-21T21:52:19+00:00 | new | DreamBig | [Verification Intern - Solutions Engineering](https://careers.arm.com/job/sophia-antipolis/verification-intern-solutions-engineering/33099/101751692480) |
 | 2026-10-21T21:52:19+00:00 | new | DreamBig | [Dependability Intern](https://careers.arm.com/job/sophia-antipolis/dependability-intern/33099/101742818240) |

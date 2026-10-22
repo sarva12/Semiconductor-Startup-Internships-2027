@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-22T12:08:32+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **46 open technical internships found**.
+Latest scan: **2026-10-22T17:22:19+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **46 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -60,7 +60,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | Etched | [PD Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | RTL / verification, Physical design, AI / software |
 | Etched | [Performance Tools Intern](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) | San Jose | Not specified | 2026-08-03 | 2026-09-27 | Interconnect / networking, Embedded / boards, AI / software |
 | Etched | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
-| Axelera | [Intern - AIPU Board Development](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-09-21 | 2026-09-27 | Server / validation, Physical design, Embedded / boards, AI / software |
+| Axelera | [Stage - Perito Elettronico](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-10-22 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
 | Furiosa | [Algorithm - AI Research Engineer Intern](https://furiosa.ai/careers?gh_jid=4005768201) | Seoul, South Korea | Not specified | 2026-08-19 | 2026-09-27 | Server / validation, AI / software |
 
 ### CHIPLETS
