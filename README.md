@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-23T21:34:19+00:00** · **320 companies registered** · **47 with successful complete board API checks** · **46 open technical internships found**.
+Latest scan: **2026-10-24T04:50:39+00:00** · **322 companies registered** · **48 with successful complete board API checks** · **49 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -47,6 +47,9 @@ _No verified matching openings found in successfully checked sources. See covera
 | Tenstorrent | [Silicon Intern - Physical Design & DFT (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | Not specified | 2026-10-07 | 2026-10-07 | Server / validation, RTL / verification, Physical design, Interconnect / networking, AI / software |
 | Tenstorrent | [AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) | Toronto, Ontario, Canada | Not specified | 2026-10-06 | 2026-10-06 | Server / validation, Interconnect / networking, AI / software |
 | Tenstorrent | [Hardware Intern - AI HW & SoC (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Ottawa, Ontario, Canada; Toronto, Ontario, Canada | Not specified | 2026-10-06 | 2026-10-06 | Server / validation, RTL / verification, Physical design, Interconnect / networking, AI / software |
+| Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) | Burlingame, CA (HQ) | Not specified | 2026-10-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
+| Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) | Burlingame, CA (HQ) | Not specified | 2026-10-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
+| Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) | Burlingame, CA (HQ) | Not specified | 2026-10-23 | 2026-09-30 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [RTL Intern](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2) | Burlingame, CA (HQ) | Not specified | 2026-10-23 | 2026-09-30 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
 | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
 | Etched | [DFT Intern](https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d) | San Jose | Not specified | 2026-04-13 | 2026-09-27 | RTL / verification, Physical design, AI / software |

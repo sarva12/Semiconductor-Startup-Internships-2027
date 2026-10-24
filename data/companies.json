@@ -280,6 +280,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "ayo-semiconductor",
+    "name": "Ayo Semiconductor",
+    "website": "https://ayosemi.com",
+    "category": "PHOTONICS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "azimuth-ai",
     "name": "Azimuth AI",
     "website": "https://azimuth-ai.com",
@@ -485,6 +493,14 @@
     "website": "https://chipagents.ai",
     "category": "EDA",
     "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "chipcraft",
+    "name": "ChipCraft",
+    "website": "https://chipcraft-ic.com",
+    "category": "ASIC",
+    "country": "PL",
     "in_requested_categories": true
   },
   {
