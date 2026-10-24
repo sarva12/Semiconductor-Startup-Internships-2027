@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-24T11:19:10+00:00** · **322 companies registered** · **48 with successful complete board API checks** · **49 open technical internships found**.
+Latest scan: **2026-10-24T16:07:17+00:00** · **322 companies registered** · **48 with successful complete board API checks** · **48 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -67,9 +67,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 ### CHIPLETS
 
-| Company | Role / apply | Location | Term | Posted | First found | Relevance |
-| --- | --- | --- | --- | --- | --- | --- |
-| DreamBig | [CPU Technology Intern](https://careers.arm.com/job/sophia-antipolis/cpu-technology-intern/33099/101751692592) | Sophia Antipolis, , France, Sophia Antipolis - 738 Avenue de Roumanille  Sophia Antipolis,  06410 France ,  | Not specified | 2026-10-09 | 2026-10-14 | Interconnect / networking, AI / software |
+_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
 
 ### EDA
 
