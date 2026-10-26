@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-26T22:49:37+00:00 | new | Tenstorrent | [Business Operations & Program Management Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007) |
 | 2026-10-24T04:50:39+00:00 | reopened | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) |
 | 2026-10-24T04:50:39+00:00 | reopened | Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) |
 | 2026-10-24T04:50:39+00:00 | reopened | Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) |

@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-26T13:21:25+00:00** · **322 companies registered** · **48 with successful complete board API checks** · **48 open technical internships found**.
+Latest scan: **2026-10-26T22:49:37+00:00** · **322 companies registered** · **48 with successful complete board API checks** · **49 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -33,6 +33,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Tenstorrent | [Business Operations & Program Management Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007) | Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | 2026-10-26 | 2026-10-26 | Server / validation, Interconnect / networking, AI / software |
 | Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) | Milan (on-site) | Not specified | 2026-10-21 | 2026-10-21 | AI / software |
 | Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada | Not specified | 2026-10-14 | 2026-10-14 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) | Austin, Texas, United States; Santa Clara, California, United States | Not specified | 2026-10-14 | 2026-10-14 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
