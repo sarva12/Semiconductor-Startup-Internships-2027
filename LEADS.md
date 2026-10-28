@@ -8,6 +8,8 @@ These are not counted as open jobs.
 | Diode Computers | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
 | DreamBig | [Interns](https://careers.arm.com/internships) | Unverified link; may be an old posting or general program |
 | DreamBig | [Education Team Interns](https://careers.arm.com/andrew-and-taya-intern-journeys) | Unverified link; may be an old posting or general program |
+| Eridu AI | [Lab Intern](https://ats.rippling.com/en-GB/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Unverified link; may be an old posting or general program |
+| Eridu AI | [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Unverified link; may be an old posting or general program |
 | HyperAccel | [Talent Pool 등록(Internship)인재풀R&DHW외HW Engineer외인턴](https://hyperaccel.career.greetinghr.com/ko/o/220411) | Unverified link; may be an old posting or general program |
 | Mobilint | [Research Assistant (Intern)StrategyEntry LevelIntern모빌린트 본사](https://mobilinthire.career.greetinghr.com/en/o/240233) | Unverified link; may be an old posting or general program |
 | NcodiN | [← Spontaneous application – Internship](https://ncodin.com/job/internship/) | Unverified link; may be an old posting or general program |

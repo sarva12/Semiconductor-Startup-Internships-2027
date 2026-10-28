@@ -1142,5 +1142,29 @@
     "company": "Etched",
     "title": "Supercomputing Intern",
     "url": "https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71"
+  },
+  {
+    "at": "2026-10-28T22:45:18+00:00",
+    "event": "new",
+    "job_id": "14dfedb3b68eca076e36",
+    "company": "DreamBig",
+    "title": "Physical AI Quality Intern",
+    "url": "https://careers.arm.com/job/cambridge/physical-ai-quality-intern/33099/101898108368"
+  },
+  {
+    "at": "2026-10-28T22:45:18+00:00",
+    "event": "new",
+    "job_id": "41f45e48fb80e4204684",
+    "company": "DreamBig",
+    "title": "GPU Compiler Intern",
+    "url": "https://careers.arm.com/job/lund/gpu-compiler-intern/33099/102539121920"
+  },
+  {
+    "at": "2026-10-28T22:45:18+00:00",
+    "event": "new",
+    "job_id": "740ae6628668fe884874",
+    "company": "Tenstorrent",
+    "title": "GTM (FAE & Customer Success) and Product Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5274249007"
   }
 ]

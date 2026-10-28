@@ -4,6 +4,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Tenstorrent | [GTM (FAE & Customer Success) and Product Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5274249007) | Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | 2026-10-28 | 2026-10-28 | Server / validation, Interconnect / networking, AI / software |
 | Tenstorrent | [Business Operations & Program Management Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007) | Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | 2026-10-26 | 2026-10-26 | Server / validation, Interconnect / networking, AI / software |
 | Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) | Austin, Texas, United States; Santa Clara, California, United States | Not specified | 2026-10-14 | 2026-10-14 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Matx | [MatX Internships 2027](https://jobs.ashbyhq.com/matx/cfa41603-e9dd-4bb5-a45e-969e62b14e3b) | Mountain View | Not specified | 2026-10-07 | 2026-10-07 | AI / software |

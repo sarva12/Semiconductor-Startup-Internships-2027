@@ -4,6 +4,9 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-28T22:45:18+00:00 | new | Tenstorrent | [GTM (FAE & Customer Success) and Product Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5274249007) |
+| 2026-10-28T22:45:18+00:00 | new | DreamBig | [GPU Compiler Intern](https://careers.arm.com/job/lund/gpu-compiler-intern/33099/102539121920) |
+| 2026-10-28T22:45:18+00:00 | new | DreamBig | [Physical AI Quality Intern](https://careers.arm.com/job/cambridge/physical-ai-quality-intern/33099/101898108368) |
 | 2026-10-28T13:15:40+00:00 | closed | Etched | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) |
 | 2026-10-28T05:59:10+00:00 | updated | PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) |
 | 2026-10-26T22:49:37+00:00 | new | Tenstorrent | [Business Operations & Program Management Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007) |
