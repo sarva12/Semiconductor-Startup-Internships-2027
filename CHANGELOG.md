@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-10-28T13:15:40+00:00 | closed | Etched | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) |
 | 2026-10-28T05:59:10+00:00 | updated | PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) |
 | 2026-10-26T22:49:37+00:00 | new | Tenstorrent | [Business Operations & Program Management Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007) |
 | 2026-10-24T04:50:39+00:00 | reopened | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) |
