@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-10-29T06:02:54+00:00** · **322 companies registered** · **48 with successful complete board API checks** · **52 open technical internships found**.
+Latest scan: **2026-10-29T13:22:42+00:00** · **322 companies registered** · **47 with successful complete board API checks** · **50 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -69,10 +69,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 ### CHIPLETS
 
-| Company | Role / apply | Location | Term | Posted | First found | Relevance |
-| --- | --- | --- | --- | --- | --- | --- |
-| DreamBig | [GPU Compiler Intern](https://careers.arm.com/job/lund/gpu-compiler-intern/33099/102539121920) | Lund, , Sweden, Lund - Arm Sweden AB, Beta 1-2, Ideon Scheelevägen 17 Lund,  SE-223 69 Sweden ,  | Not specified | 2026-10-28 | 2026-10-28 | Interconnect / networking, AI / software |
-| DreamBig | [Physical AI Quality Intern](https://careers.arm.com/job/cambridge/physical-ai-quality-intern/33099/101898108368) | Cambridge, , United Kingdom, Cambridge - Global Headquarters: 110 Fulbourn Road  Cambridge,  CB1 9NJ United Kingdom ,  | Not specified | 2026-10-13 | 2026-10-28 | RTL / verification, Interconnect / networking, AI / software |
+_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
 
 ### EDA
 

@@ -17,6 +17,7 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 | DreamBig | [Data Analytics Intern](https://careers.arm.com/job/cambridge/data-analytics-intern/33099/101898105744) | unconfirmed | 2026-10-13T14:26:17+00:00 | 2026-10-14T12:09:20+00:00 | — |
 | DreamBig | [Dependability Intern](https://careers.arm.com/job/sophia-antipolis/dependability-intern/33099/101742818240) | unconfirmed | 2026-10-21T21:52:19+00:00 | 2026-10-21T21:52:19+00:00 | — |
 | DreamBig | [FPGA Intern](https://careers.arm.com/job/trondheim/fpga-intern/33099/101434822768) | unconfirmed | 2026-10-02T12:53:04+00:00 | 2026-10-03T05:30:25+00:00 | — |
+| DreamBig | [GPU Compiler Intern](https://careers.arm.com/job/lund/gpu-compiler-intern/33099/102539121920) | unconfirmed | 2026-10-28T22:45:18+00:00 | 2026-10-29T06:02:54+00:00 | — |
 | DreamBig | [GPU Modelling Intern](https://careers.arm.com/job/trondheim/gpu-modelling-intern/33099/100604944192) | unconfirmed | 2026-10-21T21:52:19+00:00 | 2026-10-21T21:52:19+00:00 | — |
 | DreamBig | [GPU Software Applications Engineer Intern (3 months)](https://careers.arm.com/job/seoul/gpu-software-applications-engineer-intern-3-months/33099/102148485392) | unconfirmed | 2026-10-19T13:39:39+00:00 | 2026-10-20T05:03:24+00:00 | — |
 | DreamBig | [Graphics Software Intern, Vulkan](https://careers.arm.com/job/trondheim/graphics-software-intern-vulkan/33099/100604944240) | unconfirmed | 2026-10-21T21:52:19+00:00 | 2026-10-21T21:52:19+00:00 | — |
@@ -26,6 +27,7 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 | DreamBig | [Intern, System IP Engineering](https://careers.arm.com/job/budapest/intern-system-ip-engineering/33099/101386258528) | unconfirmed | 2026-10-01T13:34:21+00:00 | 2026-10-02T05:54:57+00:00 | — |
 | DreamBig | [Media Systems Architecture Intern](https://careers.arm.com/job/sophia-antipolis/media-systems-architecture-intern/33099/101751692544) | unconfirmed | 2026-10-14T21:51:14+00:00 | 2026-10-21T21:52:19+00:00 | — |
 | DreamBig | [Performance Analysis Intern](https://careers.arm.com/job/trondheim/performance-analysis-intern/33099/100604944144) | unconfirmed | 2026-10-21T21:52:19+00:00 | 2026-10-21T21:52:19+00:00 | — |
+| DreamBig | [Physical AI Quality Intern](https://careers.arm.com/job/cambridge/physical-ai-quality-intern/33099/101898108368) | unconfirmed | 2026-10-28T22:45:18+00:00 | 2026-10-29T06:02:54+00:00 | — |
 | DreamBig | [Physical Design Intern](https://careers.arm.com/job/sophia-antipolis/physical-design-intern/33099/101742818272) | unconfirmed | 2026-10-10T12:46:16+00:00 | 2026-10-21T21:52:19+00:00 | — |
 | DreamBig | [Project Operations Intern (Productivity Engineering)](https://careers.arm.com/job/sophia-antipolis/project-operations-intern-productivity-engineering/33099/101751692528) | unconfirmed | 2026-10-14T21:51:14+00:00 | 2026-10-21T21:52:19+00:00 | — |
 | DreamBig | [QA/DevOps Intern](https://careers.arm.com/job/sophia-antipolis/qa-devops-intern/33099/101899425056) | unconfirmed | 2026-10-13T14:26:17+00:00 | 2026-10-15T17:13:19+00:00 | — |
