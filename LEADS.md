@@ -20,5 +20,6 @@ These are not counted as open jobs.
 | Riverlane | [Applications for 2026 internship and graduate positions are now open! Closing date 6 Nov.Apply now!](https://www.riverlane.com/jobs) | Unverified link; may be an old posting or general program |
 | Silimate | [Applied AI Intern](https://www.ycombinator.com/companies/silimate/jobs/xt2UihN-applied-ai-intern) | Unverified link; may be an old posting or general program |
 | Silimate | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
+| Syntiant | [Internship - DevOps Machine Learning Infrastructure](https://apply.workable.com/j/468B53B345) | Unverified link; may be an old posting or general program |
 | Visblsemi | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
 | Xconntech | [SEARCH INTERNSHIPS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/2/refreshFacet/318c8bb6f553100021d223d9780d30be?_gl=1*1wugutp*_ga*MjA1MjM1NDg0MS4xNzgyMTUzMjky*_ga_TB06EFZKBK*czE3ODg1NTI5NTMkbzIwOCRnMSR0MTc4ODU1NTY5OCRqMjckbDAkaDA.) | Unverified link; may be an old posting or general program |
