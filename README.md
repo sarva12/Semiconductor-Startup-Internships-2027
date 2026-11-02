@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-02T06:28:23+00:00** · **322 companies registered** · **48 with successful complete board API checks** · **51 open technical internships found**.
+Latest scan: **2026-11-02T21:51:24+00:00** · **322 companies registered** · **48 with successful complete board API checks** · **46 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -33,7 +33,6 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| Olix | [Software Engineering Intern](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e) | London, UK | Summer 2027 | 2026-10-29 | 2026-10-29 | RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Tenstorrent | [GTM (FAE & Customer Success) and Product Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5274249007) | Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | 2026-10-28 | 2026-10-28 | Server / validation, Interconnect / networking, AI / software |
 | Tenstorrent | [Business Operations & Program Management Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007) | Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | 2026-10-26 | 2026-10-26 | Server / validation, Interconnect / networking, AI / software |
 | Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) | Milan (on-site) | Not specified | 2026-10-21 | 2026-10-21 | AI / software |
@@ -43,8 +42,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Matx | [MatX Internships 2027](https://jobs.ashbyhq.com/matx/cfa41603-e9dd-4bb5-a45e-969e62b14e3b) | Mountain View | Not specified | 2026-10-07 | 2026-10-07 | AI / software |
 | Tenstorrent | [AI Software Intern (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) | Austin, Texas, United States; Santa Clara, California, United States | Not specified | 2026-10-07 | 2026-10-07 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 | Tenstorrent | [AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) | Austin, Texas, United States; Santa Clara, California, United States | Not specified | 2026-10-07 | 2026-10-07 | Server / validation, Interconnect / networking, AI / software |
-| Tenstorrent | [AI Software Intern - DC Deployment and Infrastructure (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) | Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland | Summer 2027 | 2026-10-07 | 2026-10-07 | Server / validation, Interconnect / networking, AI / software |
-| Tenstorrent | [AI Software Intern - Training, Models, Kernel/Ops (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) | Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland | Summer 2027 | 2026-10-07 | 2026-10-07 | Server / validation, Interconnect / networking, AI / software |
 | Tenstorrent | [Hardware Intern - Architecture, AI HW & SoC (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007) | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | Not specified | 2026-10-07 | 2026-10-07 | Server / validation, RTL / verification, Physical design, Interconnect / networking, AI / software |
 | Tenstorrent | [Intern, RISC-V CPU (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | Not specified | 2026-10-07 | 2026-10-07 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Tenstorrent | [Silicon Intern - Physical Design & DFT (USA)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | Not specified | 2026-10-07 | 2026-10-07 | Server / validation, RTL / verification, Physical design, Interconnect / networking, AI / software |
@@ -54,7 +51,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) | Burlingame, CA (HQ) | Not specified | 2026-10-23 | 2026-09-30 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) | Burlingame, CA (HQ) | Not specified | 2026-10-23 | 2026-09-30 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
 | Quadric.io | [RTL Intern](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2) | Burlingame, CA (HQ) | Not specified | 2026-10-23 | 2026-09-30 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
-| Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
 | Etched | [Core Engineering Intern](https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8) | San Jose | Not specified | 2026-10-29 | 2026-09-27 | Server / validation, AI / software |
 | Etched | [DFT Intern](https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d) | San Jose | Not specified | 2026-04-13 | 2026-09-27 | RTL / verification, Physical design, AI / software |
 | Etched | [DV Intern](https://jobs.ashbyhq.com/Etched/dacedaca-c4ca-4964-85a7-8df1738005bb) | San Jose | Not specified | 2026-02-07 | 2026-09-27 | RTL / verification, Physical design, AI / software |
@@ -63,9 +59,8 @@ _No verified matching openings found in successfully checked sources. See covera
 | Etched | [Inference Intern](https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3) | San Jose | Not specified | 2025-12-08 | 2026-09-27 | Interconnect / networking, AI / software |
 | Etched | [Lab Operations Intern](https://jobs.ashbyhq.com/Etched/7d400861-c124-475f-8cef-73b9fd5199cf) | San Jose | Not specified | 2026-09-15 | 2026-09-27 | AI / software |
 | Etched | [Mechanical / Thermal Intern](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | San Jose | Not specified | 2026-02-07 | 2026-09-27 | Server / validation, RTL / verification, Embedded / boards, AI / software |
-| Etched | [PD Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) | San Jose | Not specified | 2026-05-19 | 2026-09-27 | RTL / verification, Physical design, AI / software |
 | Etched | [Performance Tools Intern](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) | San Jose | Not specified | 2026-08-03 | 2026-09-27 | Interconnect / networking, Embedded / boards, AI / software |
-| Axelera | [Stage - Perito Elettronico](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-10-22 | 2026-09-27 | Server / validation, Embedded / boards, AI / software |
+| Axelera | [Hardware Lab Engineer Intern](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-11-02 | 2026-09-27 | Server / validation, Physical design, Embedded / boards, AI / software |
 | Furiosa | [Algorithm - AI Research Engineer Intern](https://furiosa.ai/careers?gh_jid=4005768201) | Seoul, South Korea | Not specified | 2026-08-19 | 2026-09-27 | Server / validation, AI / software |
 
 ### CHIPLETS
