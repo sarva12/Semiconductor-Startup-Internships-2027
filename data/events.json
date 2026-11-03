@@ -1190,5 +1190,45 @@
     "company": "Axelera",
     "title": "Hardware Lab Engineer Intern",
     "url": "https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16"
+  },
+  {
+    "at": "2026-11-03T07:01:32+00:00",
+    "event": "closed",
+    "job_id": "831d12c93dcdf477d6c3",
+    "company": "Etched",
+    "title": "Chip Simulation Software Intern",
+    "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8"
+  },
+  {
+    "at": "2026-11-03T07:01:32+00:00",
+    "event": "closed",
+    "job_id": "75aceb151245d571b134",
+    "company": "Etched",
+    "title": "PD Intern",
+    "url": "https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77"
+  },
+  {
+    "at": "2026-11-03T07:01:32+00:00",
+    "event": "closed",
+    "job_id": "d7d95fe39ef537f59793",
+    "company": "Olix",
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e"
+  },
+  {
+    "at": "2026-11-03T07:01:32+00:00",
+    "event": "closed",
+    "job_id": "1f1010330f09c610b153",
+    "company": "Tenstorrent",
+    "title": "AI Software Intern - DC Deployment and Infrastructure (Poland - Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007"
+  },
+  {
+    "at": "2026-11-03T07:01:32+00:00",
+    "event": "closed",
+    "job_id": "04404b78e57315bcff65",
+    "company": "Tenstorrent",
+    "title": "AI Software Intern - Training, Models, Kernel/Ops (Poland - Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007"
   }
 ]

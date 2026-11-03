@@ -4,6 +4,11 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-03T07:01:32+00:00 | closed | Tenstorrent | [AI Software Intern - Training, Models, Kernel/Ops (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) |
+| 2026-11-03T07:01:32+00:00 | closed | Tenstorrent | [AI Software Intern - DC Deployment and Infrastructure (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) |
+| 2026-11-03T07:01:32+00:00 | closed | Olix | [Software Engineering Intern](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e) |
+| 2026-11-03T07:01:32+00:00 | closed | Etched | [PD Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) |
+| 2026-11-03T07:01:32+00:00 | closed | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
 | 2026-11-02T21:51:24+00:00 | updated | Axelera | [Hardware Lab Engineer Intern](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) |
 | 2026-10-29T22:53:54+00:00 | new | Olix | [Software Engineering Intern](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e) |
 | 2026-10-29T06:02:54+00:00 | reopened | Etched | [Core Engineering Intern](https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8) |
