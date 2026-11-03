@@ -4,6 +4,15 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-03T19:40:40+00:00 | new | Syenta | [Intern - Electrodeposition](https://employmenthero.com/jobs/position/syenta-intern-electrodeposition-57ljj/) |
+| 2026-11-03T19:40:40+00:00 | new | Nuvacore | [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c) |
+| 2026-11-03T19:40:40+00:00 | new | Ayar Labs | [Intern, Firmware](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dc4631d64a5) |
+| 2026-11-03T19:40:40+00:00 | new | Ayar Labs | [Intern,  Free-Space Optical Test Systems](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dd71c066bc3) |
+| 2026-11-03T19:40:40+00:00 | new | Ayar Labs | [Intern, Laser Source Reliability](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dfb6b7c7b97) |
+| 2026-11-03T19:40:40+00:00 | new | Ayar Labs | [Intern, Architect - Analysis of AI Workloads & Network Communication Protocols](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e05d38100ec) |
+| 2026-11-03T19:40:40+00:00 | new | Ayar Labs | [Intern, Architect - Link Architecture and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e095cfd0260) |
+| 2026-11-03T19:40:40+00:00 | new | Ayar Labs | [Intern, Laser Die Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e0f78b5051e) |
+| 2026-11-03T19:40:40+00:00 | new | Ayar Labs | [Intern, Module Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e161a600702) |
 | 2026-11-03T07:01:32+00:00 | closed | Tenstorrent | [AI Software Intern - Training, Models, Kernel/Ops (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) |
 | 2026-11-03T07:01:32+00:00 | closed | Tenstorrent | [AI Software Intern - DC Deployment and Infrastructure (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) |
 | 2026-11-03T07:01:32+00:00 | closed | Olix | [Software Engineering Intern](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e) |

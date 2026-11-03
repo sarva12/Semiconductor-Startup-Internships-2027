@@ -4,6 +4,7 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 
 | Company | Role | Status | First found | Last seen | Closed at |
 | --- | --- | --- | --- | --- | --- |
+| Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) | unconfirmed | 2026-10-21T17:25:07+00:00 | 2026-11-03T07:01:32+00:00 | — |
 | Axelera | [Intern - ML Inference Performance Engineer](https://jobs.ashbyhq.com/axelera/5d48cd6c-5c5b-45e2-973e-1017a70a5485) | closed | 2026-09-27T07:15:21+00:00 | 2026-10-20T11:53:44+00:00 | 2026-10-21T05:03:17+00:00 |
 | Axelera | [UK Electronics Skills Foundation (UKESF)](https://jobs.ashbyhq.com/axelera/7f6172b1-76d9-4289-9e79-b935ef753d33) | closed | 2026-09-27T07:15:21+00:00 | 2026-09-28T14:13:14+00:00 | 2026-09-29T05:55:12+00:00 |
 | Diode Computers | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | excluded | 2026-09-27T07:15:21+00:00 | 2026-09-27T07:19:40+00:00 | — |
@@ -52,7 +53,6 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 | Matx | [Laboratory Operations Intern](https://jobs.ashbyhq.com/matx/d74c72e7-49ec-4a04-9405-04ef0f0d87c6) | closed | 2026-09-27T07:15:21+00:00 | 2026-09-29T13:08:34+00:00 | 2026-09-30T05:45:50+00:00 |
 | NcodiN | [Spontaneous application - Internship](https://job-boards.eu.greenhouse.io/ncodin/jobs/4802207101) | unconfirmed | 2026-09-27T07:01:59+00:00 | 2026-10-04T06:06:20+00:00 | — |
 | Olix | [Software Engineering Intern](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e) | closed | 2026-10-29T22:53:54+00:00 | 2026-11-02T06:28:23+00:00 | 2026-11-03T07:01:32+00:00 |
-| Quantum Motion | [Quantum Theory Internship Programme 2027](https://quantummotion.jobs.personio.com/job/2853487?language=en) | unconfirmed | 2026-10-21T17:25:07+00:00 | 2026-11-02T21:51:24+00:00 | — |
 | Tenstorrent | [AI Compiler Software Intern (PEY)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) | closed | 2026-09-27T07:01:59+00:00 | 2026-10-06T06:35:02+00:00 | 2026-10-07T06:13:43+00:00 |
 | Tenstorrent | [AI Software Intern - DC Deployment and Infrastructure (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) | closed | 2026-10-07T13:39:32+00:00 | 2026-11-02T06:28:23+00:00 | 2026-11-03T07:01:32+00:00 |
 | Tenstorrent | [AI Software Intern - Training, Models, Kernel/Ops (Poland - Summer 2027)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) | closed | 2026-10-07T13:39:32+00:00 | 2026-11-02T06:28:23+00:00 | 2026-11-03T07:01:32+00:00 |

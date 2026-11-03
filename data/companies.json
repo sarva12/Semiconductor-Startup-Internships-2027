@@ -2,17 +2,17 @@
   {
     "id": "abacus-semiconductor",
     "name": "Abacus Semiconductor",
-    "website": "https://Abacus-semi.com",
+    "website": "https://abacus-semi.com",
     "category": "HPC",
     "country": "US",
     "in_requested_categories": true
   },
   {
-    "id": "accelercom",
-    "name": "Accelercom",
+    "id": "accelercomm",
+    "name": "AccelerComm",
     "website": "https://accelercomm.com",
     "category": "RF",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": false
   },
   {
@@ -28,7 +28,7 @@
     "name": "Agile Analog",
     "website": "https://agileanalog.com",
     "category": "EDA",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -64,14 +64,6 @@
     "in_requested_categories": true
   },
   {
-    "id": "akeana",
-    "name": "Akeana",
-    "website": "https://akeana.com",
-    "category": "RISC-V",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "akhetonics",
     "name": "Akhetonics",
     "website": "https://akhetonics.com",
@@ -80,25 +72,9 @@
     "in_requested_categories": true
   },
   {
-    "id": "alif-semiconductor",
-    "name": "Alif Semiconductor",
-    "website": "https://alifsemi.com",
-    "category": "AI",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "allspice-io",
     "name": "Allspice.io",
     "website": "https://allspice.io",
-    "category": "EDA",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
-    "id": "alpha-design-ai",
-    "name": "Alpha Design AI",
-    "website": "https://alphadesign.ai",
     "category": "EDA",
     "country": "US",
     "in_requested_categories": true
@@ -208,14 +184,6 @@
     "in_requested_categories": true
   },
   {
-    "id": "athos-silicon",
-    "name": "Athos Silicon",
-    "website": "https://athossilicon.com",
-    "category": "CHIPLETS",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "atlant-3d",
     "name": "Atlant 3D",
     "website": "https://atlant3d.com",
@@ -224,12 +192,12 @@
     "in_requested_categories": true
   },
   {
-    "id": "atlantic-quantum",
-    "name": "Atlantic Quantum",
-    "website": "https://atlantic-quantum.com",
-    "category": "QUANTUM",
+    "id": "atlas-magnetics",
+    "name": "Atlas Magnetics",
+    "website": "https://atlasmagnetics.com",
+    "category": "ANALOG",
     "country": "US",
-    "in_requested_categories": true
+    "in_requested_categories": false
   },
   {
     "id": "atmosic",
@@ -244,6 +212,14 @@
     "name": "Atoms AI",
     "website": "https://atomsai.net",
     "category": "EDA",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "attotude",
+    "name": "Attotude",
+    "website": "https://attotude.com",
+    "category": "NETWORKING",
     "country": "US",
     "in_requested_categories": true
   },
@@ -269,6 +245,14 @@
     "website": "https://axelera.ai",
     "category": "AI",
     "country": "NL",
+    "in_requested_categories": true
+  },
+  {
+    "id": "axonne",
+    "name": "Axonne",
+    "website": "https://axonne.com",
+    "category": "NETWORKING",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -340,7 +324,7 @@
     "name": "Blueshift Memory",
     "website": "https://blueshiftmemory.com",
     "category": "MEMORY",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -416,6 +400,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "cambridge-terahertz",
+    "name": "Cambridge Terahertz",
+    "website": "https://thzcorp.com",
+    "category": "SENSORS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "cassia-ai",
     "name": "cassia.ai",
     "website": "https://cassia.ai",
@@ -424,8 +416,8 @@
     "in_requested_categories": true
   },
   {
-    "id": "celera",
-    "name": "Celera",
+    "id": "celera-semiconductor",
+    "name": "Celera Semiconductor",
     "website": "https://celeratechnologies.com",
     "category": "EDA",
     "country": "US",
@@ -436,14 +428,6 @@
     "name": "Celero Communications",
     "website": "https://celero.inc",
     "category": "NETWORKING",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
-    "id": "celestial-ai",
-    "name": "Celestial AI",
-    "website": "https://celestial.ai",
-    "category": "PHOTONICS",
     "country": "US",
     "in_requested_categories": true
   },
@@ -508,7 +492,7 @@
     "name": "Chipflow",
     "website": "https://chipflow.io",
     "category": "ASIC",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -528,19 +512,11 @@
     "in_requested_categories": true
   },
   {
-    "id": "chipstack",
-    "name": "Chipstack",
-    "website": "https://chipstack.com",
-    "category": "EDA",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "circuit-mind",
     "name": "Circuit Mind",
     "website": "https://circuitmind.io",
     "category": "EDA",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -576,26 +552,10 @@
     "in_requested_categories": true
   },
   {
-    "id": "condor-computing",
-    "name": "Condor Computing",
-    "website": "https://condorcomputing.com",
-    "category": "RISC-V",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "cornami",
     "name": "Cornami",
     "website": "https://cornami.com",
     "category": "HPC",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
-    "id": "cycuity",
-    "name": "Cycuity",
-    "website": "https://cycuity.com",
-    "category": "EDA",
     "country": "US",
     "in_requested_categories": true
   },
@@ -648,10 +608,10 @@
     "in_requested_categories": true
   },
   {
-    "id": "dfiant",
-    "name": "Dfiant",
-    "website": "https://dfiant.works",
-    "category": "EDA",
+    "id": "densityai",
+    "name": "DensityAI",
+    "website": "https://densityai.com",
+    "category": "AI",
     "country": "US",
     "in_requested_categories": true
   },
@@ -677,22 +637,6 @@
     "website": "https://dovermicrosystems.com",
     "category": "SECURITY",
     "country": "US",
-    "in_requested_categories": true
-  },
-  {
-    "id": "dreambig",
-    "name": "DreamBig",
-    "website": "https://dreambigsemi.com",
-    "category": "CHIPLETS",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
-    "id": "dust-photonics",
-    "name": "Dust Photonics",
-    "website": "https://dustphotonics.com",
-    "category": "PHOTONICS",
-    "country": "IL",
     "in_requested_categories": true
   },
   {
@@ -748,7 +692,7 @@
     "name": "Enlightra",
     "website": "https://enlightra.com",
     "category": "PHOTONICS",
-    "country": "US",
+    "country": "CH",
     "in_requested_categories": true
   },
   {
@@ -808,11 +752,11 @@
     "in_requested_categories": true
   },
   {
-    "id": "evacorp",
-    "name": "Evacorp",
-    "website": "https://evacorp.ai",
+    "id": "euclyd",
+    "name": "Euclyd",
+    "website": "https://euclyd.ai",
     "category": "AI",
-    "country": "US",
+    "country": "NL",
     "in_requested_categories": true
   },
   {
@@ -820,14 +764,6 @@
     "name": "Everactive",
     "website": "https://everactive.com",
     "category": "SENSORS",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
-    "id": "exa-laboratories",
-    "name": "Exa Laboratories",
-    "website": "https://exalaboratories.com",
-    "category": "AI",
     "country": "US",
     "in_requested_categories": true
   },
@@ -872,19 +808,11 @@
     "in_requested_categories": false
   },
   {
-    "id": "ferric",
-    "name": "Ferric",
-    "website": "https://ferric.com",
-    "category": "ANALOG",
-    "country": "US",
-    "in_requested_categories": false
-  },
-  {
     "id": "finchetto",
     "name": "Finchetto",
     "website": "https://finchetto.com",
     "category": "PHOTONICS",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -916,7 +844,7 @@
     "name": "Forefrontrf",
     "website": "https://forefrontrf.com",
     "category": "RF",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": false
   },
   {
@@ -924,7 +852,7 @@
     "name": "Fractile",
     "website": "https://fractile.ai",
     "category": "AI",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -952,14 +880,6 @@
     "in_requested_categories": true
   },
   {
-    "id": "getinstachip",
-    "name": "getinstachip",
-    "website": "https://getinstachip.com",
-    "category": "EDA",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "gowin",
     "name": "Gowin",
     "website": "https://gowinsemi.com",
@@ -968,9 +888,9 @@
     "in_requested_categories": true
   },
   {
-    "id": "groq",
-    "name": "Groq",
-    "website": "https://groq.com",
+    "id": "gyrfalcon",
+    "name": "Gyrfalcon",
+    "website": "https://gyrfalcontech.ai",
     "category": "AI",
     "country": "US",
     "in_requested_categories": true
@@ -982,14 +902,6 @@
     "category": "RF",
     "country": "CA",
     "in_requested_categories": false
-  },
-  {
-    "id": "hailo",
-    "name": "Hailo",
-    "website": "https://hailo.ai",
-    "category": "AI",
-    "country": "IL",
-    "in_requested_categories": true
   },
   {
     "id": "hawai-tech",
@@ -1004,7 +916,7 @@
     "name": "Heronic",
     "website": "https://heronic.ai",
     "category": "EDA",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1020,15 +932,7 @@
     "name": "HyperCIM",
     "website": "https://hypercim.com",
     "category": "AI",
-    "country": "UK",
-    "in_requested_categories": true
-  },
-  {
-    "id": "hyperlume",
-    "name": "Hyperlume",
-    "website": "https://hyperlume.com",
-    "category": "PHOTONICS",
-    "country": "CA",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1056,14 +960,6 @@
     "in_requested_categories": true
   },
   {
-    "id": "inspire-semi",
-    "name": "Inspire Semi",
-    "website": "https://inspiresemi.com",
-    "category": "HPC",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "ipronics",
     "name": "Ipronics",
     "website": "https://ipronics.com",
@@ -1088,8 +984,8 @@
     "in_requested_categories": true
   },
   {
-    "id": "kandou",
-    "name": "Kandou",
+    "id": "kandou-ai",
+    "name": "Kandou AI",
     "website": "https://kandou.com",
     "category": "NETWORKING",
     "country": "CH",
@@ -1112,14 +1008,6 @@
     "in_requested_categories": true
   },
   {
-    "id": "kittycad",
-    "name": "Kittycad",
-    "website": "https://zoo.dev",
-    "category": "EDA",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "kneron",
     "name": "Kneron",
     "website": "https://kneron.com",
@@ -1133,6 +1021,22 @@
     "website": "https://olakrutrim.com",
     "category": "AI",
     "country": "IN",
+    "in_requested_categories": true
+  },
+  {
+    "id": "lace-lithography",
+    "name": "Lace Lithography",
+    "website": "https://lacelithography.com",
+    "category": "MFG",
+    "country": "NO",
+    "in_requested_categories": true
+  },
+  {
+    "id": "lamb-labs",
+    "name": "Lamb Labs",
+    "website": "https://lamb-labs.com",
+    "category": "AI",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -1156,7 +1060,7 @@
     "name": "Light Trace Photonics",
     "website": "https://ltphotonics.co.uk",
     "category": "PHOTONICS",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1176,12 +1080,12 @@
     "in_requested_categories": true
   },
   {
-    "id": "linctrinsic",
-    "name": "Linctrinsic",
-    "website": "https://lintrinsicsemi.com",
-    "category": "RF",
+    "id": "lightxcelerate",
+    "name": "LightXcelerate",
+    "website": "https://lightxcelerate.com",
+    "category": "PHOTONICS",
     "country": "US",
-    "in_requested_categories": false
+    "in_requested_categories": true
   },
   {
     "id": "linque",
@@ -1194,25 +1098,33 @@
   {
     "id": "literal-labs",
     "name": "Literal Labs",
-    "website": "https://Literal-labs.ai",
+    "website": "https://literal-labs.ai",
     "category": "AI",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
     "id": "lubis-eda",
     "name": "Lubis EDA",
-    "website": "https://Lubis-eda.com",
+    "website": "https://lubis-eda.com",
     "category": "EDA",
     "country": "DE",
     "in_requested_categories": true
   },
   {
+    "id": "ludwig-computing",
+    "name": "Ludwig Computing",
+    "website": "https://ludwigcomputing.com",
+    "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "lumai",
     "name": "Lumai",
-    "website": "https://luma.ai",
+    "website": "https://lumai.ai",
     "category": "PHOTONICS",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1296,19 +1208,11 @@
     "in_requested_categories": true
   },
   {
-    "id": "metisx",
-    "name": "MetisX",
-    "website": "https://metix.com",
-    "category": "MEMORY",
-    "country": "KR",
-    "in_requested_categories": true
-  },
-  {
     "id": "mintneuro",
     "name": "Mintneuro",
     "website": "https://mintneuro.com",
     "category": "HEALTH",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": false
   },
   {
@@ -1338,7 +1242,7 @@
   {
     "id": "mosaic-soc",
     "name": "Mosaic SoC",
-    "website": "https://mosaic-soc.com",
+    "website": "https://mosaicsoc.ch",
     "category": "ASIC",
     "country": "CH",
     "in_requested_categories": true
@@ -1366,6 +1270,14 @@
     "category": "ANALOG",
     "country": "US",
     "in_requested_categories": false
+  },
+  {
+    "id": "mueon",
+    "name": "Mueon",
+    "website": "https://mueon.com",
+    "category": "CHIPLETS",
+    "country": "US",
+    "in_requested_categories": true
   },
   {
     "id": "mythic",
@@ -1400,6 +1312,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "nellow",
+    "name": "Nellow",
+    "website": "https://nellow.eu",
+    "category": "AI",
+    "country": "FR",
+    "in_requested_categories": true
+  },
+  {
     "id": "neologic",
     "name": "Neologic",
     "website": "https://neologicvlsi.com",
@@ -1413,22 +1333,6 @@
     "website": "https://netrasemi.com",
     "category": "AI",
     "country": "IN",
-    "in_requested_categories": true
-  },
-  {
-    "id": "neureality",
-    "name": "Neureality",
-    "website": "https://neureality.ai",
-    "category": "AI",
-    "country": "IL",
-    "in_requested_categories": true
-  },
-  {
-    "id": "neuroblade",
-    "name": "NeuroBlade",
-    "website": "https://neuroblade.com",
-    "category": "AI",
-    "country": "IL",
     "in_requested_categories": true
   },
   {
@@ -1472,26 +1376,10 @@
     "in_requested_categories": true
   },
   {
-    "id": "novelda",
-    "name": "Novelda",
-    "website": "https://novelda.com",
-    "category": "RF",
-    "country": "NO",
-    "in_requested_categories": false
-  },
-  {
-    "id": "novumind",
-    "name": "Novumind",
-    "website": "https://novumind.com",
-    "category": "AI",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
-    "id": "nubis-communication",
-    "name": "Nubis Communication",
-    "website": "https://Nubis-inc.com",
-    "category": "NETWORKING",
+    "id": "nuvacore",
+    "name": "Nuvacore",
+    "website": "https://nuvacore.ai",
+    "category": "HPC",
     "country": "US",
     "in_requested_categories": true
   },
@@ -1500,7 +1388,7 @@
     "name": "Olix",
     "website": "https://olix.com",
     "category": "AI",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1528,6 +1416,14 @@
     "in_requested_categories": false
   },
   {
+    "id": "openlight",
+    "name": "OpenLight",
+    "website": "https://openlightphotonics.com",
+    "category": "PHOTONICS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "openmachine",
     "name": "OpenMachine",
     "website": "https://openmachine.ai",
@@ -1540,7 +1436,7 @@
     "name": "Optalysys",
     "website": "https://optalysys.com",
     "category": "PHOTONICS",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1572,7 +1468,15 @@
     "name": "Oxford Quantum Circuits",
     "website": "https://oxfordquantumcircuits.com",
     "category": "QUANTUM",
-    "country": "UK",
+    "country": "GB",
+    "in_requested_categories": true
+  },
+  {
+    "id": "oxmiq",
+    "name": "Oxmiq",
+    "website": "https://oxmiq.ai",
+    "category": "AI",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -1597,6 +1501,14 @@
     "website": "https://partcl.com",
     "category": "EDA",
     "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "paragraf",
+    "name": "Paragraf",
+    "website": "https://paragraf.com",
+    "category": "SENSORS",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1628,7 +1540,7 @@
     "name": "Picocom",
     "website": "https://picocom.com",
     "category": "RF",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": false
   },
   {
@@ -1680,11 +1592,19 @@
     "in_requested_categories": true
   },
   {
+    "id": "powerlattice",
+    "name": "Powerlattice",
+    "website": "https://powerlatticeinc.com",
+    "category": "ANALOG",
+    "country": "US",
+    "in_requested_categories": false
+  },
+  {
     "id": "pqshield",
     "name": "PQShield",
     "website": "https://pqshield.com",
     "category": "QUANTUM",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1692,7 +1612,7 @@
     "name": "PragmatiC",
     "website": "https://pragmaticsemi.com",
     "category": "MFG",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1746,7 +1666,7 @@
   {
     "id": "qant",
     "name": "Qant",
-    "website": "https://Qant.com",
+    "website": "https://qant.com",
     "category": "PHOTONICS",
     "country": "DE",
     "in_requested_categories": true
@@ -1784,11 +1704,19 @@
     "in_requested_categories": false
   },
   {
+    "id": "quamcore",
+    "name": "QuamCore",
+    "website": "https://quamcore.com",
+    "category": "QUANTUM",
+    "country": "IL",
+    "in_requested_categories": true
+  },
+  {
     "id": "quantum-motion",
     "name": "Quantum Motion",
     "website": "https://quantummotion.com",
     "category": "QUANTUM",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1816,9 +1744,25 @@
     "in_requested_categories": true
   },
   {
+    "id": "quix-quantum",
+    "name": "QuiX Quantum",
+    "website": "https://quixquantum.com",
+    "category": "QUANTUM",
+    "country": "NL",
+    "in_requested_categories": true
+  },
+  {
+    "id": "quobly",
+    "name": "Quobly",
+    "website": "https://quobly.io",
+    "category": "QUANTUM",
+    "country": "FR",
+    "in_requested_categories": true
+  },
+  {
     "id": "raaam",
     "name": "Raaam",
-    "website": "https://Raaam-tech.com",
+    "website": "https://raaam-tech.com",
     "category": "MEMORY",
     "country": "IL",
     "in_requested_categories": true
@@ -1829,14 +1773,6 @@
     "website": "https://raiderchip.ai",
     "category": "AI",
     "country": "ES",
-    "in_requested_categories": true
-  },
-  {
-    "id": "rain-neuromorphics",
-    "name": "Rain Neuromorphics",
-    "website": "https://rain.ai",
-    "category": "AI",
-    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -1880,19 +1816,11 @@
     "in_requested_categories": true
   },
   {
-    "id": "recogni",
-    "name": "Recogni",
-    "website": "https://recogni.com",
-    "category": "AI",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "red-semiconductor",
     "name": "RED Semiconductor",
     "website": "https://redsemiconductor.com",
     "category": "HPC",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1922,7 +1850,7 @@
   {
     "id": "rise",
     "name": "RISE",
-    "website": "https://Rise-da.com",
+    "website": "https://rise-da.com",
     "category": "EDA",
     "country": "US",
     "in_requested_categories": true
@@ -1932,29 +1860,13 @@
     "name": "Riverlane",
     "website": "https://riverlane.com",
     "category": "QUANTUM",
-    "country": "UK",
-    "in_requested_categories": true
-  },
-  {
-    "id": "rivos",
-    "name": "Rivos",
-    "website": "https://rivosinc.com",
-    "category": "RISC-V",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
-    "id": "robosense",
-    "name": "RoboSense",
-    "website": "https://robosense.ai",
-    "category": "SENSORS",
-    "country": "CN",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
     "id": "sagence-ai",
     "name": "Sagence AI",
-    "website": "https://www.sagence-ai.com",
+    "website": "https://sagence-ai.com",
     "category": "AI",
     "country": "US",
     "in_requested_categories": true
@@ -1964,7 +1876,7 @@
     "name": "Salience Labs",
     "website": "https://saliencelabs.ai",
     "category": "PHOTONICS",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -1992,6 +1904,14 @@
     "in_requested_categories": false
   },
   {
+    "id": "sci-semiconductor",
+    "name": "SCI Semiconductor",
+    "website": "https://scisemi.com",
+    "category": "SECURITY",
+    "country": "GB",
+    "in_requested_categories": true
+  },
+  {
     "id": "scintil",
     "name": "Scintil",
     "website": "https://scintil-photonics.com",
@@ -2004,7 +1924,7 @@
     "name": "Secqai",
     "website": "https://secqai.com",
     "category": "QUANTUM",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -2016,19 +1936,19 @@
     "in_requested_categories": true
   },
   {
-    "id": "semifive",
-    "name": "Semifive",
-    "website": "https://semifive.com",
-    "category": "ASIC",
-    "country": "KR",
-    "in_requested_categories": true
-  },
-  {
     "id": "semify",
     "name": "Semify",
     "website": "https://semify-eda.com",
     "category": "EDA",
     "country": "DE",
+    "in_requested_categories": true
+  },
+  {
+    "id": "semiqa",
+    "name": "SemiQA",
+    "website": "https://semiqa.com",
+    "category": "AI",
+    "country": "PL",
     "in_requested_categories": true
   },
   {
@@ -2056,6 +1976,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "sigmantic-ai",
+    "name": "Sigmantic AI",
+    "website": "https://sigmanticai.com",
+    "category": "EDA",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "silc",
     "name": "SiLC",
     "website": "https://silc.com",
@@ -2074,17 +2002,9 @@
   {
     "id": "silicon-box",
     "name": "Silicon Box",
-    "website": "https://Silicon-box.com",
+    "website": "https://silicon-box.com",
     "category": "MFG",
     "country": "SG",
-    "in_requested_categories": true
-  },
-  {
-    "id": "siliconally",
-    "name": "Siliconally",
-    "website": "https://siliconally.com",
-    "category": "NETWORKING",
-    "country": "DE",
     "in_requested_categories": true
   },
   {
@@ -2132,7 +2052,7 @@
     "name": "Singular Photonics",
     "website": "https://singularphotonics.com",
     "category": "SENSORS",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -2186,7 +2106,7 @@
   {
     "id": "spherical",
     "name": "Spherical",
-    "website": "https://Spherical-systems.com",
+    "website": "https://spherical-systems.com",
     "category": "SPACE",
     "country": "NL",
     "in_requested_categories": false
@@ -2208,6 +2128,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "stathera",
+    "name": "Stathera",
+    "website": "https://stathera.com",
+    "category": "MEMS",
+    "country": "CA",
+    "in_requested_categories": true
+  },
+  {
     "id": "swave",
     "name": "Swave",
     "website": "https://swave.io",
@@ -2216,10 +2144,26 @@
     "in_requested_categories": true
   },
   {
-    "id": "swir-vision-systems",
-    "name": "SWIR Vision Systems",
-    "website": "https://swirvisionsystems.com",
-    "category": "SENSORS",
+    "id": "syenta",
+    "name": "Syenta",
+    "website": "https://syenta.com",
+    "category": "MFG",
+    "country": "AU",
+    "in_requested_categories": true
+  },
+  {
+    "id": "sylvarisai",
+    "name": "SylvarisAI",
+    "website": "https://sylvaris.ai",
+    "category": "EDA",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "synseis",
+    "name": "Synseis",
+    "website": "https://synseis.com",
+    "category": "EDA",
     "country": "US",
     "in_requested_categories": true
   },
@@ -2240,14 +2184,6 @@
     "in_requested_categories": true
   },
   {
-    "id": "taalas",
-    "name": "Taalas",
-    "website": "https://taalas.com",
-    "category": "AI",
-    "country": "CA",
-    "in_requested_categories": true
-  },
-  {
     "id": "tachyum",
     "name": "Tachyum",
     "website": "https://tachyum.com",
@@ -2264,6 +2200,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "tensordyne",
+    "name": "Tensordyne",
+    "website": "https://tensordyne.ai",
+    "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "tenstorrent",
     "name": "Tenstorrent",
     "website": "https://tenstorrent.com",
@@ -2272,11 +2216,11 @@
     "in_requested_categories": true
   },
   {
-    "id": "teramount",
-    "name": "Teramount",
-    "website": "https://teramount.com",
-    "category": "MFG",
-    "country": "IL",
+    "id": "tenx-semi",
+    "name": "TenX Semi",
+    "website": "https://tenxsemi.com",
+    "category": "EDA",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -2300,7 +2244,7 @@
     "name": "Trameto",
     "website": "https://trameto.com",
     "category": "ANALOG",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": false
   },
   {
@@ -2309,6 +2253,30 @@
     "website": "https://trieye.tech",
     "category": "SENSORS",
     "country": "IL",
+    "in_requested_categories": true
+  },
+  {
+    "id": "trimagnetix",
+    "name": "TriMagnetix",
+    "website": "https://trimagnetix.com",
+    "category": "HPC",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "tsavorite-scalable-intelligence",
+    "name": "Tsavorite Scalable Intelligence",
+    "website": "https://tsavoritesi.com",
+    "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "tylsemi",
+    "name": "TYLsemi",
+    "website": "https://tylsemi.ai",
+    "category": "CHIPLETS",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -2352,11 +2320,11 @@
     "in_requested_categories": true
   },
   {
-    "id": "upmem",
-    "name": "Upmem",
-    "website": "https://upmem.com",
-    "category": "AI",
-    "country": "FR",
+    "id": "upscale-ai",
+    "name": "Upscale AI",
+    "website": "https://upscale.com",
+    "category": "NETWORKING",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -2364,7 +2332,7 @@
     "name": "Usound",
     "website": "https://usound.com",
     "category": "MEMS",
-    "country": "AU",
+    "country": "AT",
     "in_requested_categories": true
   },
   {
@@ -2372,7 +2340,7 @@
     "name": "Vaire Computing",
     "website": "https://vaire.co",
     "category": "ANALOG",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": false
   },
   {
@@ -2388,7 +2356,7 @@
     "name": "Vector Photonics",
     "website": "https://vectorphotonics.co.uk",
     "category": "PHOTONICS",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -2424,8 +2392,8 @@
     "in_requested_categories": true
   },
   {
-    "id": "visblsemi",
-    "name": "Visblsemi",
+    "id": "visibl-semiconductors",
+    "name": "Visibl Semiconductors",
     "website": "https://visiblsemi.com",
     "category": "EDA",
     "country": "US",
@@ -2460,7 +2428,15 @@
     "name": "Wave Photonics",
     "website": "https://wavephotonics.com",
     "category": "PHOTONICS",
-    "country": "UK",
+    "country": "GB",
+    "in_requested_categories": true
+  },
+  {
+    "id": "waveforge",
+    "name": "Waveforge",
+    "website": "https://waveforgeda.com",
+    "category": "EDA",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -2469,14 +2445,6 @@
     "website": "https://welinq.fr",
     "category": "QUANTUM",
     "country": "FR",
-    "in_requested_categories": true
-  },
-  {
-    "id": "xanadu",
-    "name": "Xanadu",
-    "website": "https://xanadu.ai",
-    "category": "PHOTONICS",
-    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -2509,6 +2477,14 @@
     "website": "https://ximplic.com",
     "category": "EDA",
     "country": "NL",
+    "in_requested_categories": true
+  },
+  {
+    "id": "xlight",
+    "name": "xLight",
+    "website": "https://xlight.com",
+    "category": "MFG",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -2548,7 +2524,7 @@
     "name": "Zero Point Motion",
     "website": "https://zeropointmotion.com",
     "category": "MEMS",
-    "country": "UK",
+    "country": "GB",
     "in_requested_categories": true
   },
   {
@@ -2572,6 +2548,22 @@
     "name": "zeroRISC",
     "website": "https://zerorisc.com",
     "category": "SECURITY",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "zettascale-computing",
+    "name": "Zettascale Computing",
+    "website": "https://zscc.ai",
+    "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "zoo",
+    "name": "Zoo",
+    "website": "https://zoo.dev",
+    "category": "EDA",
     "country": "US",
     "in_requested_categories": true
   }
