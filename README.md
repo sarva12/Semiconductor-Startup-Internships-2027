@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-03T19:40:40+00:00** · **321 companies registered** · **55 with successful complete board API checks** · **54 open technical internships found**.
+Latest scan: **2026-11-04T06:44:34+00:00** · **344 companies registered** · **59 with successful complete board API checks** · **55 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -33,6 +33,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Etched | [IA Research Engineer (Kernels) Intern](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) | San Jose | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
 | Tenstorrent | [GTM (FAE & Customer Success) and Product Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5274249007) | Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | 2026-10-28 | 2026-10-28 | Server / validation, Interconnect / networking, AI / software |
 | Tenstorrent | [Business Operations & Program Management Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007) | Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | 2026-10-26 | 2026-10-26 | Server / validation, Interconnect / networking, AI / software |
 | Tenstorrent | [Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada | Not specified | 2026-10-14 | 2026-10-14 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
@@ -95,7 +96,6 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| Syenta | [Intern - Electrodeposition](https://employmenthero.com/jobs/position/syenta-intern-electrodeposition-57ljj/) | Tempe, 85280, US | Not specified | 2026-10-22 | 2026-11-03 | Interconnect / networking, Embedded / boards |
 | Black Semiconductor | [ALD Lab - Working Student](https://jobs.ashbyhq.com/blacksemiconductor/666cb4f0-9c87-4c6a-977a-d175fd29bc47) | Aachen, Germany | Not specified | 2026-10-22 | 2026-10-22 | Interconnect / networking, AI / software |
 
 ### NETWORKING
@@ -113,6 +113,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Ayar Labs | [Intern, Photonics Test Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a37b339f065e) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-04 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Ayar Labs | [Intern,  Free-Space Optical Test Systems](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dd71c066bc3) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Architect - Analysis of AI Workloads & Network Communication Protocols](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e05d38100ec) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Architect - Link Architecture and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e095cfd0260) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
@@ -126,11 +127,11 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Atom Computing | [Research Intern](https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc) | Berkeley, CA | Not specified | 2026-10-14 | 2026-11-04 | AI / software |
 | Quantum Motion | [Quantum Theory Internship Programme 2027](https://quantummotion.jobs.personio.com/job/2853487?language=en) | London, UK | Summer 2027 | Unknown | 2026-10-21 | Physical design, Embedded / boards, AI / software |
 | PsiQuantum | [Intern, Optical Packaging and Characterization Engineer](https://www.psiquantum.com/apply?gh_jid=7761881003) | Milpitas, California | Not specified | 2026-06-02 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Algorithms and Compilation](https://www.psiquantum.com/apply?gh_jid=7695559003) | Remote | Not specified | 2026-04-15 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Applications](https://www.psiquantum.com/apply?gh_jid=7821980003) | Australia | Not specified | 2026-08-12 | 2026-09-27 | Interconnect / networking, AI / software |
-| PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) | Remote | Not specified | 2025-04-24 | 2026-09-27 | RTL / verification, Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) | Brisbane, Queensland, Australia | Not specified | 2026-06-23 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Internship Resume Submission – Australia only](https://www.psiquantum.com/apply?gh_jid=7519464003) | Australia | Not specified | 2025-11-05 | 2026-09-27 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 

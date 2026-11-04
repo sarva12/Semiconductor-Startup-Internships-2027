@@ -4,7 +4,6 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| Syenta | [Intern - Electrodeposition](https://employmenthero.com/jobs/position/syenta-intern-electrodeposition-57ljj/) | Tempe, 85280, US | Not specified | 2026-10-22 | 2026-11-03 | Interconnect / networking, Embedded / boards |
 | Nuvacore | [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c) | Markham, ON | Not specified | 2026-10-26 | 2026-11-03 | Server / validation, RTL / verification, Physical design, Embedded / boards, AI / software |
 | Black Semiconductor | [ALD Lab - Working Student](https://jobs.ashbyhq.com/blacksemiconductor/666cb4f0-9c87-4c6a-977a-d175fd29bc47) | Aachen, Germany | Not specified | 2026-10-22 | 2026-10-22 | Interconnect / networking, AI / software |
 | Quantum Motion | [Quantum Theory Internship Programme 2027](https://quantummotion.jobs.personio.com/job/2853487?language=en) | London, UK | Summer 2027 | Unknown | 2026-10-21 | Physical design, Embedded / boards, AI / software |
@@ -14,7 +13,6 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 | Tenstorrent | [Hardware Intern - AI HW & SoC (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Ottawa, Ontario, Canada; Toronto, Ontario, Canada | Not specified | 2026-10-06 | 2026-10-06 | Server / validation, RTL / verification, Physical design, Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Algorithms and Compilation](https://www.psiquantum.com/apply?gh_jid=7695559003) | Remote | Not specified | 2026-04-15 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Applications](https://www.psiquantum.com/apply?gh_jid=7821980003) | Australia | Not specified | 2026-08-12 | 2026-09-27 | Interconnect / networking, AI / software |
-| PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) | Remote | Not specified | 2025-04-24 | 2026-09-27 | RTL / verification, Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) | Brisbane, Queensland, Australia | Not specified | 2026-06-23 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Internship Resume Submission – Australia only](https://www.psiquantum.com/apply?gh_jid=7519464003) | Australia | Not specified | 2025-11-05 | 2026-09-27 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 | Kandou | [Advanced R&D - Internship - Analog Design](https://jobs.ashbyhq.com/kandou-ai/f5e36d84-8555-4c94-b2f1-da0905a08f7b) | Saint-Sulpice | Not specified | 2026-08-19 | 2026-09-27 | Interconnect / networking, AI / software |

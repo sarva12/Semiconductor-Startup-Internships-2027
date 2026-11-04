@@ -4,6 +4,10 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-04T06:44:34+00:00 | closed | Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) |
+| 2026-11-04T06:44:34+00:00 | new | Etched | [IA Research Engineer (Kernels) Intern](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) |
+| 2026-11-04T06:44:34+00:00 | new | Ayar Labs | [Intern, Photonics Test Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a37b339f065e) |
+| 2026-11-04T06:44:34+00:00 | new | Atom Computing | [Research Intern](https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc) |
 | 2026-11-03T19:40:40+00:00 | new | Syenta | [Intern - Electrodeposition](https://employmenthero.com/jobs/position/syenta-intern-electrodeposition-57ljj/) |
 | 2026-11-03T19:40:40+00:00 | new | Nuvacore | [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c) |
 | 2026-11-03T19:40:40+00:00 | new | Ayar Labs | [Intern, Firmware](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dc4631d64a5) |

@@ -1,5 +1,13 @@
 [
   {
+    "id": "3d-glass-solutions",
+    "name": "3D Glass Solutions",
+    "website": "https://3dgsinc.com",
+    "category": "MFG",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "abacus-semiconductor",
     "name": "Abacus Semiconductor",
     "website": "https://abacus-semi.com",
@@ -14,6 +22,14 @@
     "category": "RF",
     "country": "GB",
     "in_requested_categories": false
+  },
+  {
+    "id": "active-layer-parametrics",
+    "name": "Active Layer Parametrics",
+    "website": "https://alpinc.net",
+    "category": "MFG",
+    "country": "US",
+    "in_requested_categories": true
   },
   {
     "id": "agentrys",
@@ -208,6 +224,14 @@
     "in_requested_categories": false
   },
   {
+    "id": "atom-computing",
+    "name": "Atom Computing",
+    "website": "https://atom-computing.com",
+    "category": "QUANTUM",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "atoms-ai",
     "name": "Atoms AI",
     "website": "https://atomsai.net",
@@ -236,6 +260,14 @@
     "name": "Avicena",
     "website": "https://avicena.tech",
     "category": "PHOTONICS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "avronna",
+    "name": "Avronna",
+    "website": "https://avronna.com",
+    "category": "EDA",
     "country": "US",
     "in_requested_categories": true
   },
@@ -560,6 +592,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "cortisonic",
+    "name": "Cortisonic",
+    "website": "https://cortisonic.com",
+    "category": "AI",
+    "country": "AU",
+    "in_requested_categories": true
+  },
+  {
     "id": "cyrillic",
     "name": "Cyrillic",
     "website": "https://cyrillic.tech",
@@ -612,6 +652,14 @@
     "name": "DensityAI",
     "website": "https://densityai.com",
     "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "diamond-quanta",
+    "name": "Diamond Quanta",
+    "website": "https://diamondquanta.com",
+    "category": "MFG",
     "country": "US",
     "in_requested_categories": true
   },
@@ -702,6 +750,14 @@
     "category": "EDA",
     "country": "US",
     "in_requested_categories": true
+  },
+  {
+    "id": "epic-microsystems",
+    "name": "EPIC Microsystems",
+    "website": "https://epicmicro.com",
+    "category": "ANALOG",
+    "country": "US",
+    "in_requested_categories": false
   },
   {
     "id": "equal1",
@@ -880,6 +936,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "gigantor-technologies",
+    "name": "Gigantor Technologies",
+    "website": "https://gigantor.com",
+    "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "gowin",
     "name": "Gowin",
     "website": "https://gowinsemi.com",
@@ -981,6 +1045,14 @@
     "website": "https://jitx.com",
     "category": "EDA",
     "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "jmem-tek",
+    "name": "Jmem Tek",
+    "website": "https://jmemtek.com",
+    "category": "SECURITY",
+    "country": "TW",
     "in_requested_categories": true
   },
   {
@@ -1144,6 +1216,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "lux-semiconductors",
+    "name": "Lux Semiconductors",
+    "website": "https://luxsemiconductors.com",
+    "category": "MFG",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "lyte-ai",
     "name": "Lyte AI",
     "website": "https://lyte.ai",
@@ -1200,6 +1280,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "mentium-technologies",
+    "name": "Mentium Technologies",
+    "website": "https://mentium.tech",
+    "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "mesa-quantum",
     "name": "Mesa Quantum",
     "website": "https://mesaquantum.com",
@@ -1213,6 +1301,14 @@
     "website": "https://mintneuro.com",
     "category": "HEALTH",
     "country": "GB",
+    "in_requested_categories": false
+  },
+  {
+    "id": "mmtron",
+    "name": "mmTron",
+    "website": "https://mmtron.com",
+    "category": "RF",
+    "country": "US",
     "in_requested_categories": false
   },
   {
@@ -1272,6 +1368,14 @@
     "in_requested_categories": false
   },
   {
+    "id": "mpower-technology",
+    "name": "mPower Technology",
+    "website": "https://mpowertech.com",
+    "category": "SPACE",
+    "country": "US",
+    "in_requested_categories": false
+  },
+  {
     "id": "mueon",
     "name": "Mueon",
     "website": "https://mueon.com",
@@ -1282,7 +1386,7 @@
   {
     "id": "mythic",
     "name": "Mythic",
-    "website": "https://mythic-ai.com",
+    "website": "https://mythic.ai",
     "category": "AI",
     "country": "US",
     "in_requested_categories": true
@@ -1325,6 +1429,14 @@
     "website": "https://neologicvlsi.com",
     "category": "MFG",
     "country": "IL",
+    "in_requested_categories": true
+  },
+  {
+    "id": "netpreme",
+    "name": "Netpreme",
+    "website": "https://netpreme.com",
+    "category": "MEMORY",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -1664,6 +1776,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "q-pixel",
+    "name": "Q-Pixel",
+    "website": "https://quantum-pixel.com",
+    "category": "PHOTONICS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "qant",
     "name": "Qant",
     "website": "https://qant.com",
@@ -1984,6 +2104,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "sigmasense",
+    "name": "SigmaSense",
+    "website": "https://sigmasense.com",
+    "category": "SENSORS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "silc",
     "name": "SiLC",
     "website": "https://silc.com",
@@ -2048,6 +2176,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "simplex-micro",
+    "name": "SimplEx Micro",
+    "website": "https://simplexmicro.com",
+    "category": "RISC-V",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "singular-photonics",
     "name": "Singular Photonics",
     "website": "https://singularphotonics.com",
@@ -2088,12 +2224,28 @@
     "in_requested_categories": true
   },
   {
+    "id": "sofant-technologies",
+    "name": "Sofant Technologies",
+    "website": "https://sofant.com",
+    "category": "RF",
+    "country": "GB",
+    "in_requested_categories": false
+  },
+  {
     "id": "spark-micro",
     "name": "Spark Micro",
     "website": "https://sparkmicro.com",
     "category": "RF",
     "country": "CA",
     "in_requested_categories": false
+  },
+  {
+    "id": "sparxity",
+    "name": "Sparxity",
+    "website": "https://sparxity.ai",
+    "category": "AI",
+    "country": "DE",
+    "in_requested_categories": true
   },
   {
     "id": "speedata",
@@ -2110,14 +2262,6 @@
     "category": "SPACE",
     "country": "NL",
     "in_requested_categories": false
-  },
-  {
-    "id": "spinncloud",
-    "name": "Spinncloud",
-    "website": "https://spinncloud.com",
-    "category": "AI",
-    "country": "DE",
-    "in_requested_categories": true
   },
   {
     "id": "starfive",
@@ -2222,6 +2366,22 @@
     "category": "EDA",
     "country": "US",
     "in_requested_categories": true
+  },
+  {
+    "id": "teradar",
+    "name": "Teradar",
+    "website": "https://teradar.com",
+    "category": "SENSORS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "teraspatial",
+    "name": "TeraSpatial",
+    "website": "https://teraspatial.ai",
+    "category": "RF",
+    "country": "US",
+    "in_requested_categories": false
   },
   {
     "id": "tetramem",
@@ -2400,6 +2560,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "visic-technologies",
+    "name": "VisIC Technologies",
+    "website": "https://visic-tech.com",
+    "category": "ANALOG",
+    "country": "IL",
+    "in_requested_categories": false
+  },
+  {
     "id": "volantis-semiconductor",
     "name": "Volantis Semiconductor",
     "website": "https://volantissemi.ai",
@@ -2436,6 +2604,14 @@
     "name": "Waveforge",
     "website": "https://waveforgeda.com",
     "category": "EDA",
+    "country": "GB",
+    "in_requested_categories": true
+  },
+  {
+    "id": "weeteq",
+    "name": "weeteq",
+    "website": "https://weeteq.com",
+    "category": "AI",
     "country": "GB",
     "in_requested_categories": true
   },
@@ -2515,6 +2691,14 @@
     "id": "zendar",
     "name": "Zendar",
     "website": "https://zendar.io",
+    "category": "SENSORS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "zepsor",
+    "name": "Zepsor",
+    "website": "https://zepsor.com",
     "category": "SENSORS",
     "country": "US",
     "in_requested_categories": true
