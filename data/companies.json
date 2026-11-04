@@ -1,5 +1,13 @@
 [
   {
+    "id": "2d-photonics",
+    "name": "2D Photonics",
+    "website": "https://2dphotonics.com",
+    "category": "PHOTONICS",
+    "country": "IT",
+    "in_requested_categories": true
+  },
+  {
     "id": "3d-glass-solutions",
     "name": "3D Glass Solutions",
     "website": "https://3dgsinc.com",
@@ -72,6 +80,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "ainekko",
+    "name": "AiNEKKO",
+    "website": "https://nekko.ai",
+    "category": "RISC-V",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "aistorm",
     "name": "Aistorm",
     "website": "https://aistorm.ai",
@@ -85,6 +101,14 @@
     "website": "https://akhetonics.com",
     "category": "PHOTONICS",
     "country": "DE",
+    "in_requested_categories": true
+  },
+  {
+    "id": "alixlabs",
+    "name": "AlixLabs",
+    "website": "https://alixlabs.com",
+    "category": "MFG",
+    "country": "SE",
     "in_requested_categories": true
   },
   {
@@ -168,12 +192,28 @@
     "in_requested_categories": true
   },
   {
+    "id": "architect-labs",
+    "name": "Architect Labs",
+    "website": "https://architectlabs.com",
+    "category": "EDA",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "argus-space",
     "name": "Argus Space",
     "website": "https://argus-space.ch",
     "category": "RF",
     "country": "CH",
     "in_requested_categories": false
+  },
+  {
+    "id": "arycs-technologies",
+    "name": "Arycs Technologies",
+    "website": "https://arycs-tech.com",
+    "category": "PHOTONICS",
+    "country": "US",
+    "in_requested_categories": true
   },
   {
     "id": "ascenium",
@@ -346,7 +386,7 @@
   {
     "id": "black-semiconductor",
     "name": "Black Semiconductor",
-    "website": "https://blacksemiconductor.de",
+    "website": "https://blacksemi.com",
     "category": "MFG",
     "country": "DE",
     "in_requested_categories": true
@@ -397,6 +437,14 @@
     "website": "https://bos-semi.com",
     "category": "ASIC",
     "country": "KR",
+    "in_requested_categories": true
+  },
+  {
+    "id": "brilliance-rgb",
+    "name": "Brilliance RGB",
+    "website": "https://brilliancergb.com",
+    "category": "PHOTONICS",
+    "country": "NL",
     "in_requested_categories": true
   },
   {
@@ -544,6 +592,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "chipnexus",
+    "name": "ChipNexus",
+    "website": "https://chipnexus.ai",
+    "category": "EDA",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "circuit-mind",
     "name": "Circuit Mind",
     "website": "https://circuitmind.io",
@@ -656,6 +712,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "deteqt",
+    "name": "Deteqt",
+    "website": "https://deteqt.tech",
+    "category": "SENSORS",
+    "country": "AU",
+    "in_requested_categories": true
+  },
+  {
     "id": "diamond-quanta",
     "name": "Diamond Quanta",
     "website": "https://diamondquanta.com",
@@ -669,6 +733,14 @@
     "website": "https://diode.computer",
     "category": "EDA",
     "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "diraq",
+    "name": "Diraq",
+    "website": "https://diraq.com",
+    "category": "QUANTUM",
+    "country": "AU",
     "in_requested_categories": true
   },
   {
@@ -702,6 +774,14 @@
     "category": "RF",
     "country": "US",
     "in_requested_categories": false
+  },
+  {
+    "id": "effect-photonics",
+    "name": "EFFECT Photonics",
+    "website": "https://effectphotonics.com",
+    "category": "PHOTONICS",
+    "country": "NL",
+    "in_requested_categories": true
   },
   {
     "id": "efficient-computer",
@@ -856,6 +936,14 @@
     "in_requested_categories": false
   },
   {
+    "id": "femtoai",
+    "name": "femtoAI",
+    "website": "https://femto.ai",
+    "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "fermionic",
     "name": "Fermionic",
     "website": "https://fermionic.design",
@@ -870,6 +958,14 @@
     "category": "PHOTONICS",
     "country": "GB",
     "in_requested_categories": true
+  },
+  {
+    "id": "finwave-semiconductor",
+    "name": "Finwave Semiconductor",
+    "website": "https://finwavesemi.com",
+    "category": "RF",
+    "country": "US",
+    "in_requested_categories": false
   },
   {
     "id": "flow-computing",
@@ -902,6 +998,14 @@
     "category": "RF",
     "country": "GB",
     "in_requested_categories": false
+  },
+  {
+    "id": "fractal-semiconductor",
+    "name": "Fractal Semiconductor",
+    "website": "https://fractalsemi.com",
+    "category": "MFG",
+    "country": "US",
+    "in_requested_categories": true
   },
   {
     "id": "fractile",
@@ -984,6 +1088,22 @@
     "in_requested_categories": true
   },
   {
+    "id": "hilight-semiconductor",
+    "name": "HiLight Semiconductor",
+    "website": "https://hilight-semi.com",
+    "category": "ANALOG",
+    "country": "GB",
+    "in_requested_categories": false
+  },
+  {
+    "id": "hyfix",
+    "name": "HYFIX",
+    "website": "https://hyfix.ai",
+    "category": "ASIC",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "hyperaccel",
     "name": "HyperAccel",
     "website": "https://hyperaccel.ai",
@@ -1000,11 +1120,27 @@
     "in_requested_categories": true
   },
   {
+    "id": "hyperlight",
+    "name": "HyperLight",
+    "website": "https://hyperlightcorp.com",
+    "category": "PHOTONICS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "incore-semi",
     "name": "InCore Semi",
     "website": "https://incoresemi.com",
     "category": "RISC-V",
     "country": "IN",
+    "in_requested_categories": true
+  },
+  {
+    "id": "ingage",
+    "name": "iNGage",
+    "website": "https://ingage-mems.com",
+    "category": "MEMS",
+    "country": "FR",
     "in_requested_categories": true
   },
   {
@@ -1061,6 +1197,14 @@
     "website": "https://kandou.com",
     "category": "NETWORKING",
     "country": "CH",
+    "in_requested_categories": true
+  },
+  {
+    "id": "kd",
+    "name": "KD",
+    "website": "https://kd.tech",
+    "category": "PHOTONICS",
+    "country": "ES",
     "in_requested_categories": true
   },
   {
@@ -1138,7 +1282,7 @@
   {
     "id": "lightium",
     "name": "Lightium",
-    "website": "https://lightium.co",
+    "website": "https://lightium.com",
     "category": "MFG",
     "country": "CH",
     "in_requested_categories": true
@@ -1280,6 +1424,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "menlo-microsystems",
+    "name": "Menlo Microsystems",
+    "website": "https://menlomicro.com",
+    "category": "MEMS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "mentium-technologies",
     "name": "Mentium Technologies",
     "website": "https://mentium.tech",
@@ -1293,6 +1445,22 @@
     "website": "https://mesaquantum.com",
     "category": "QUANTUM",
     "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "metalenz",
+    "name": "Metalenz",
+    "website": "https://metalenz.com",
+    "category": "PHOTONICS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "microalign",
+    "name": "MicroAlign",
+    "website": "https://microalign.nl",
+    "category": "PHOTONICS",
+    "country": "NL",
     "in_requested_categories": true
   },
   {
@@ -1408,6 +1576,14 @@
     "in_requested_categories": false
   },
   {
+    "id": "nanusens",
+    "name": "Nanusens",
+    "website": "https://nanusens.com",
+    "category": "MEMS",
+    "country": "GB",
+    "in_requested_categories": true
+  },
+  {
     "id": "ncodin",
     "name": "NcodiN",
     "website": "https://ncodin.com",
@@ -1464,6 +1640,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "nexstrom",
+    "name": "Nexstrom",
+    "website": "https://nexstrom.com",
+    "category": "MFG",
+    "country": "SG",
+    "in_requested_categories": true
+  },
+  {
     "id": "next-semiconductor",
     "name": "Next Semiconductor",
     "website": "https://nextsemi.com",
@@ -1484,6 +1668,22 @@
     "name": "Niobium Microsystems",
     "website": "https://niobiummicrosystems.com",
     "category": "SECURITY",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "nlm-photonics",
+    "name": "NLM Photonics",
+    "website": "https://nlmphotonics.com",
+    "category": "PHOTONICS",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "normal-computing",
+    "name": "Normal Computing",
+    "website": "https://normalcomputing.com",
+    "category": "AI",
     "country": "US",
     "in_requested_categories": true
   },
@@ -1672,11 +1872,27 @@
     "in_requested_categories": true
   },
   {
+    "id": "planqc",
+    "name": "planqc",
+    "website": "https://planqc.eu",
+    "category": "QUANTUM",
+    "country": "DE",
+    "in_requested_categories": true
+  },
+  {
     "id": "pliops",
     "name": "Pliops",
     "website": "https://pliops.com",
     "category": "HPC",
     "country": "IL",
+    "in_requested_categories": true
+  },
+  {
+    "id": "point2-technology",
+    "name": "Point2 Technology",
+    "website": "https://point2tech.com",
+    "category": "NETWORKING",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -1744,14 +1960,6 @@
     "in_requested_categories": true
   },
   {
-    "id": "primis",
-    "name": "Primis",
-    "website": "https://primis.ai",
-    "category": "EDA",
-    "country": "US",
-    "in_requested_categories": true
-  },
-  {
     "id": "proteantecs",
     "name": "proteanTecs",
     "website": "https://proteantecs.com",
@@ -1810,7 +2018,7 @@
   {
     "id": "quadric-io",
     "name": "Quadric.io",
-    "website": "https://quadric.io",
+    "website": "https://quadric.ai",
     "category": "AI",
     "country": "US",
     "in_requested_categories": true
@@ -1832,11 +2040,35 @@
     "in_requested_categories": true
   },
   {
+    "id": "quandela",
+    "name": "Quandela",
+    "website": "https://quandela.com",
+    "category": "QUANTUM",
+    "country": "FR",
+    "in_requested_categories": true
+  },
+  {
+    "id": "quantum-brilliance",
+    "name": "Quantum Brilliance",
+    "website": "https://quantumbrilliance.com",
+    "category": "QUANTUM",
+    "country": "AU",
+    "in_requested_categories": true
+  },
+  {
     "id": "quantum-motion",
     "name": "Quantum Motion",
     "website": "https://quantummotion.com",
     "category": "QUANTUM",
     "country": "GB",
+    "in_requested_categories": true
+  },
+  {
+    "id": "quantware",
+    "name": "QuantWare",
+    "website": "https://quantware.com",
+    "category": "QUANTUM",
+    "country": "NL",
     "in_requested_categories": true
   },
   {
@@ -1885,6 +2117,14 @@
     "website": "https://raaam-tech.com",
     "category": "MEMORY",
     "country": "IL",
+    "in_requested_categories": true
+  },
+  {
+    "id": "raana-semiconductors",
+    "name": "Raana Semiconductors",
+    "website": "https://raana.in",
+    "category": "MFG",
+    "country": "IN",
     "in_requested_categories": true
   },
   {
@@ -2048,6 +2288,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "seeqc",
+    "name": "SEEQC",
+    "website": "https://seeqc.com",
+    "category": "QUANTUM",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "semidynamics",
     "name": "Semidynamics",
     "website": "https://semidynamics.com",
@@ -2208,12 +2456,28 @@
     "in_requested_categories": false
   },
   {
+    "id": "sisusemi",
+    "name": "SisuSemi",
+    "website": "https://sisusemi.com",
+    "category": "MFG",
+    "country": "FI",
+    "in_requested_categories": true
+  },
+  {
     "id": "skycore-semiconductors",
     "name": "Skycore Semiconductors",
     "website": "https://skycore-semi.com",
     "category": "ANALOG",
     "country": "DK",
     "in_requested_categories": false
+  },
+  {
+    "id": "smart-photonics",
+    "name": "SMART Photonics",
+    "website": "https://smartphotonics.nl",
+    "category": "PHOTONICS",
+    "country": "NL",
+    "in_requested_categories": true
   },
   {
     "id": "snowcap-compute",
@@ -2230,6 +2494,14 @@
     "category": "RF",
     "country": "GB",
     "in_requested_categories": false
+  },
+  {
+    "id": "space-forge",
+    "name": "Space Forge",
+    "website": "https://spaceforge.com",
+    "category": "MFG",
+    "country": "GB",
+    "in_requested_categories": true
   },
   {
     "id": "spark-micro",
@@ -2254,6 +2526,14 @@
     "category": "AI",
     "country": "IL",
     "in_requested_categories": true
+  },
+  {
+    "id": "sphere-semi",
+    "name": "Sphere Semi",
+    "website": "https://spheresemi.com",
+    "category": "ANALOG",
+    "country": "US",
+    "in_requested_categories": false
   },
   {
     "id": "spherical",
@@ -2285,6 +2565,14 @@
     "website": "https://swave.io",
     "category": "PHOTONICS",
     "country": "BE",
+    "in_requested_categories": true
+  },
+  {
+    "id": "swegan",
+    "name": "SweGaN",
+    "website": "https://swegan.se",
+    "category": "MFG",
+    "country": "SE",
     "in_requested_categories": true
   },
   {
@@ -2344,6 +2632,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "tattvam-ai",
+    "name": "Tattvam AI",
+    "website": "https://tattvamlabs.ai",
+    "category": "EDA",
+    "country": "GB",
+    "in_requested_categories": true
+  },
+  {
     "id": "tensordyne",
     "name": "Tensordyne",
     "website": "https://tensordyne.ai",
@@ -2392,6 +2688,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "thinktrans-semiconductor",
+    "name": "Thinktrans Semiconductor",
+    "website": "https://en.thinktrans.cn",
+    "category": "MFG",
+    "country": "CN",
+    "in_requested_categories": true
+  },
+  {
     "id": "thintronics",
     "name": "Thintronics",
     "website": "https://thintronics.com",
@@ -2430,6 +2734,14 @@
     "category": "AI",
     "country": "US",
     "in_requested_categories": true
+  },
+  {
+    "id": "tusk-ic",
+    "name": "TUSK IC",
+    "website": "https://tusk-ic.com",
+    "category": "RF",
+    "country": "BE",
+    "in_requested_categories": false
   },
   {
     "id": "tylsemi",
@@ -2534,6 +2846,22 @@
     "category": "EDA",
     "country": "US",
     "in_requested_categories": true
+  },
+  {
+    "id": "vertical-semiconductor",
+    "name": "Vertical Semiconductor",
+    "website": "https://verticalsemi.com",
+    "category": "ANALOG",
+    "country": "US",
+    "in_requested_categories": false
+  },
+  {
+    "id": "vervesemi",
+    "name": "Vervesemi",
+    "website": "https://vervesemi.com",
+    "category": "ANALOG",
+    "country": "IN",
+    "in_requested_categories": false
   },
   {
     "id": "vinci",

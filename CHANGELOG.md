@@ -4,6 +4,14 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-04T19:56:22+00:00 | closed | PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) |
+| 2026-11-04T19:56:22+00:00 | new | SiPearl | [\[INTERNSHIP\] Benchmark Cloud Application on SiPearl Processors](https://careers.sipearl.com/jobs/8660372-internship-benchmark-cloud-application-on-sipearl-processors) |
+| 2026-11-04T19:56:22+00:00 | new | SiPearl | [\[INTERNSHIP\] AI Performance Engineering Internship — CPU Benchmarking and Optimization](https://careers.sipearl.com/jobs/8667833-internship-ai-performance-engineering-internship-cpu-benchmarking-and-optimization) |
+| 2026-11-04T19:56:22+00:00 | new | SiPearl | [\[INTERNSHIP\] Compilers, libs and Tools Internship](https://careers.sipearl.com/jobs/8667917-internship-compilers-libs-and-tools-internship) |
+| 2026-11-04T19:56:22+00:00 | new | SiPearl | [\[Stage\] Génération de patterns en vue du test sur ATE](https://careers.sipearl.com/fr/jobs/8668086-stage-generation-de-patterns-en-vue-du-test-sur-ate) |
+| 2026-11-04T19:56:22+00:00 | new | Ayar Labs | [Intern, Digital Verification](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a72032bf4b89) |
+| 2026-11-04T19:56:22+00:00 | new | Ayar Labs | [Intern, Laser Control & Validation Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a748188b5d3d) |
+| 2026-11-04T19:56:22+00:00 | new | Architect Labs | [Member of Technical Staff - Research Intern](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1) |
 | 2026-11-04T06:44:34+00:00 | closed | Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) |
 | 2026-11-04T06:44:34+00:00 | new | Etched | [IA Research Engineer (Kernels) Intern](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) |
 | 2026-11-04T06:44:34+00:00 | new | Ayar Labs | [Intern, Photonics Test Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a37b339f065e) |

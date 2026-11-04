@@ -1334,5 +1334,69 @@
     "company": "Axelera",
     "title": "Career Day Start Up - Politecnico Milano",
     "url": "https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3"
+  },
+  {
+    "at": "2026-11-04T19:56:22+00:00",
+    "event": "new",
+    "job_id": "b2eaf91a6a352beab225",
+    "company": "Architect Labs",
+    "title": "Member of Technical Staff - Research Intern",
+    "url": "https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1"
+  },
+  {
+    "at": "2026-11-04T19:56:22+00:00",
+    "event": "new",
+    "job_id": "9b4d599b193198b04fab",
+    "company": "Ayar Labs",
+    "title": "Intern, Laser Control & Validation Engineering",
+    "url": "https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a748188b5d3d"
+  },
+  {
+    "at": "2026-11-04T19:56:22+00:00",
+    "event": "new",
+    "job_id": "b2b9a164a6412c69b6e2",
+    "company": "Ayar Labs",
+    "title": "Intern, Digital Verification",
+    "url": "https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a72032bf4b89"
+  },
+  {
+    "at": "2026-11-04T19:56:22+00:00",
+    "event": "new",
+    "job_id": "cb96121b4e1696ea3f54",
+    "company": "SiPearl",
+    "title": "[Stage] Génération de patterns en vue du test sur ATE",
+    "url": "https://careers.sipearl.com/fr/jobs/8668086-stage-generation-de-patterns-en-vue-du-test-sur-ate"
+  },
+  {
+    "at": "2026-11-04T19:56:22+00:00",
+    "event": "new",
+    "job_id": "3a83e4a8123d473d2eed",
+    "company": "SiPearl",
+    "title": "[INTERNSHIP] Compilers, libs and Tools Internship",
+    "url": "https://careers.sipearl.com/jobs/8667917-internship-compilers-libs-and-tools-internship"
+  },
+  {
+    "at": "2026-11-04T19:56:22+00:00",
+    "event": "new",
+    "job_id": "bc5517a91dc23c35cd3a",
+    "company": "SiPearl",
+    "title": "[INTERNSHIP] AI Performance Engineering Internship — CPU Benchmarking and Optimization",
+    "url": "https://careers.sipearl.com/jobs/8667833-internship-ai-performance-engineering-internship-cpu-benchmarking-and-optimization"
+  },
+  {
+    "at": "2026-11-04T19:56:22+00:00",
+    "event": "new",
+    "job_id": "f8bf48fdc1a153b256d6",
+    "company": "SiPearl",
+    "title": "[INTERNSHIP] Benchmark Cloud Application on SiPearl Processors",
+    "url": "https://careers.sipearl.com/jobs/8660372-internship-benchmark-cloud-application-on-sipearl-processors"
+  },
+  {
+    "at": "2026-11-04T19:56:22+00:00",
+    "event": "closed",
+    "job_id": "066c36663bad13f88593",
+    "company": "PsiQuantum",
+    "title": "Intern, Quantum Architecture",
+    "url": "https://www.psiquantum.com/apply?gh_jid=6536805003"
   }
 ]
