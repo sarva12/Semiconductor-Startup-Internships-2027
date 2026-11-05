@@ -1520,6 +1520,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "melten",
+    "name": "Melten",
+    "website": "https://melten.ai",
+    "category": "EDA",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "memryx",
     "name": "Memryx",
     "website": "https://memryx.com",
@@ -2851,6 +2859,14 @@
     "id": "tensordyne",
     "name": "Tensordyne",
     "website": "https://tensordyne.ai",
+    "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "tenspresso",
+    "name": "Tenspresso",
+    "website": "https://tenspresso.com",
     "category": "AI",
     "country": "US",
     "in_requested_categories": true

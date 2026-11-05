@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-05T20:09:03+00:00 | new | SiPearl | [\[STAGE\] - Interconnect design](https://careers.sipearl.com/fr/jobs/6791202-stage-interconnect-design) |
 | 2026-11-05T07:03:03+00:00 | new | Sygaldry | [Internship/Research Engineer](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) |
 | 2026-11-05T07:03:03+00:00 | updated | Etched | [IA Research Engineer Intern](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) |
 | 2026-11-04T19:56:22+00:00 | closed | PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) |

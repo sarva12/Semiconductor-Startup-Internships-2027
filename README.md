@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-05T07:03:03+00:00** · **412 companies registered** · **67 with successful complete board API checks** · **63 open technical internships found**.
+Latest scan: **2026-11-05T20:09:03+00:00** · **414 companies registered** · **67 with successful complete board API checks** · **62 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -83,10 +83,10 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| SiPearl | [\[STAGE\] - Interconnect design](https://careers.sipearl.com/fr/jobs/6791202-stage-interconnect-design) | 4 Pl. Robert Schuman, Grenoble, 38000, FR, Auvergne Rhones Alpes | Not specified | 2025-11-18 | 2026-11-05 | RTL / verification, Interconnect / networking |
 | SiPearl | [\[INTERNSHIP\] AI Performance Engineering Internship — CPU Benchmarking and Optimization](https://careers.sipearl.com/jobs/8667833-internship-ai-performance-engineering-internship-cpu-benchmarking-and-optimization) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
 | SiPearl | [\[INTERNSHIP\] Benchmark Cloud Application on SiPearl Processors](https://careers.sipearl.com/jobs/8660372-internship-benchmark-cloud-application-on-sipearl-processors) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-03 | 2026-11-04 | AI / software |
 | SiPearl | [\[INTERNSHIP\] Compilers, libs and Tools Internship](https://careers.sipearl.com/jobs/8667917-internship-compilers-libs-and-tools-internship) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
-| SiPearl | [\[Stage\] Génération de patterns en vue du test sur ATE](https://careers.sipearl.com/fr/jobs/8668086-stage-generation-de-patterns-en-vue-du-test-sur-ate) | 4 Pl. Robert Schuman, Grenoble, 38000, FR, Auvergne Rhones Alpes | Not specified | 2026-11-04 | 2026-11-04 | Explore |
 | Nuvacore | [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c) | Markham, ON | Not specified | 2026-10-26 | 2026-11-03 | Server / validation, RTL / verification, Physical design, Embedded / boards, AI / software |
 
 ### MEMORY
@@ -128,7 +128,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Ayar Labs | [Intern, Laser Die Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e0f78b5051e) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Laser Source Reliability](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dfb6b7c7b97) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Module Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e161a600702) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
-| Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5374627008?gh_jid=5374627008) | Boston, MA | Winter 2026 | 2026-09-10 | 2026-09-27 | Interconnect / networking, Embedded / boards, AI / software |
 
 ### QUANTUM
 
