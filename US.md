@@ -6,7 +6,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 | --- | --- | --- | --- | --- | --- | --- |
 | Ayar Labs | [Intern, Digital Verification](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a72032bf4b89) | San Jose, CA, United States | Not specified | 2026-11-04 | 2026-11-04 | RTL / verification, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Laser Control & Validation Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a748188b5d3d) | San Jose, CA, United States | Not specified | 2026-11-04 | 2026-11-04 | Server / validation, Interconnect / networking, AI / software |
-| Etched | [IA Research Engineer (Kernels) Intern](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) | San Jose | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
+| Etched | [IA Research Engineer Intern](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) | San Jose | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
 | Ayar Labs | [Intern, Photonics Test Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a37b339f065e) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-04 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Atom Computing | [Research Intern](https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc) | Berkeley, CA | Not specified | 2026-10-14 | 2026-11-04 | AI / software |
 | Ayar Labs | [Intern,  Free-Space Optical Test Systems](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dd71c066bc3) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |

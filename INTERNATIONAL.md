@@ -4,6 +4,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Sygaldry | [Internship/Research Engineer](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) | Ann Arbor | Not specified | 2026-10-21 | 2026-11-05 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
 | SiPearl | [\[INTERNSHIP\] AI Performance Engineering Internship — CPU Benchmarking and Optimization](https://careers.sipearl.com/jobs/8667833-internship-ai-performance-engineering-internship-cpu-benchmarking-and-optimization) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
 | SiPearl | [\[INTERNSHIP\] Benchmark Cloud Application on SiPearl Processors](https://careers.sipearl.com/jobs/8660372-internship-benchmark-cloud-application-on-sipearl-processors) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-03 | 2026-11-04 | AI / software |
 | SiPearl | [\[INTERNSHIP\] Compilers, libs and Tools Internship](https://careers.sipearl.com/jobs/8667917-internship-compilers-libs-and-tools-internship) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
