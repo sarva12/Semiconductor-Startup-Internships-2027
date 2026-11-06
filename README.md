@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-06T07:02:41+00:00** · **415 companies registered** · **67 with successful complete board API checks** · **62 open technical internships found**.
+Latest scan: **2026-11-06T19:34:42+00:00** · **415 companies registered** · **67 with successful complete board API checks** · **70 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -88,6 +88,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | SiPearl | [\[INTERNSHIP\] AI Performance Engineering Internship — CPU Benchmarking and Optimization](https://careers.sipearl.com/jobs/8667833-internship-ai-performance-engineering-internship-cpu-benchmarking-and-optimization) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
 | SiPearl | [\[INTERNSHIP\] Benchmark Cloud Application on SiPearl Processors](https://careers.sipearl.com/jobs/8660372-internship-benchmark-cloud-application-on-sipearl-processors) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-03 | 2026-11-04 | AI / software |
 | SiPearl | [\[INTERNSHIP\] Compilers, libs and Tools Internship](https://careers.sipearl.com/jobs/8667917-internship-compilers-libs-and-tools-internship) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
+| SiPearl | [\[Stage\] Génération de patterns en vue du test sur ATE](https://careers.sipearl.com/fr/jobs/8668086-stage-generation-de-patterns-en-vue-du-test-sur-ate) | 4 Pl. Robert Schuman, Grenoble, 38000, FR, Auvergne Rhones Alpes | Not specified | 2026-11-04 | 2026-11-04 | Explore |
 
 ### MEMORY
 
@@ -118,6 +119,13 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Ayar Labs | [Intern, Experimentalist, Lasers and Opto-electronic System](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b16d4967169e) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Server / validation, Interconnect / networking, AI / software |
+| Ayar Labs | [Intern, Link Modeling/Architecture - Mixed Signal Modeling and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b18b825027ef) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | RTL / verification, Interconnect / networking, AI / software |
+| Ayar Labs | [Intern, Link Modeling/Architecture - Statistical Analysis & Modeling](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b1970fbb2d82) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Interconnect / networking, AI / software |
+| Ayar Labs | [Intern, Photonic Device Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b17fd72122cb) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Server / validation, Interconnect / networking, AI / software |
+| Ayar Labs | [Intern, Photonics Design - Advanced Filter Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b174c1a41e2a) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Interconnect / networking, AI / software |
+| Ayar Labs | [Intern, Photonics Design - Multiphysics Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b1789e972004) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
+| Ayar Labs | [Intern, Semiconductor Laser Modeling and Characterization](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b165bd2e12e1) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Interconnect / networking, AI / software |
 | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5473572008?gh_jid=5473572008) | Boston, MA | Winter 2026 | 2026-11-05 | 2026-11-06 | Interconnect / networking, Embedded / boards, AI / software |
 | Ayar Labs | [Intern, Digital Verification](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a72032bf4b89) | San Jose, CA, United States | Not specified | 2026-11-04 | 2026-11-04 | RTL / verification, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Laser Control & Validation Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a748188b5d3d) | San Jose, CA, United States | Not specified | 2026-11-04 | 2026-11-04 | Server / validation, Interconnect / networking, AI / software |
@@ -139,7 +147,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | PsiQuantum | [Intern, Optical Packaging and Characterization Engineer](https://www.psiquantum.com/apply?gh_jid=7761881003) | Milpitas, California | Not specified | 2026-06-02 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Algorithms and Compilation](https://www.psiquantum.com/apply?gh_jid=7695559003) | Remote | Not specified | 2026-04-15 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Intern, Quantum Applications](https://www.psiquantum.com/apply?gh_jid=7821980003) | Australia | Not specified | 2026-08-12 | 2026-09-27 | Interconnect / networking, AI / software |
-| PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) | Brisbane, Queensland, Australia | Not specified | 2026-06-23 | 2026-09-27 | Interconnect / networking, AI / software |
+| PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) | Brisbane, Queensland, Australia; Daresbury, England | Not specified | 2026-06-23 | 2026-09-27 | Interconnect / networking, AI / software |
 | PsiQuantum | [Internship Resume Submission – Australia only](https://www.psiquantum.com/apply?gh_jid=7519464003) | Australia | Not specified | 2025-11-05 | 2026-09-27 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 
 ### RISC-V

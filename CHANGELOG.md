@@ -4,6 +4,16 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-06T19:34:42+00:00 | closed | Nuvacore | [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c) |
+| 2026-11-06T19:34:42+00:00 | closed | Ayar Labs | [Intern, Laser Source Reliability](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dfb6b7c7b97) |
+| 2026-11-06T19:34:42+00:00 | updated | PsiQuantum | [Intern, System Architecture](https://www.psiquantum.com/apply?gh_jid=7695577003) |
+| 2026-11-06T19:34:42+00:00 | new | Ayar Labs | [Intern, Semiconductor Laser Modeling and Characterization](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b165bd2e12e1) |
+| 2026-11-06T19:34:42+00:00 | new | Ayar Labs | [Intern, Experimentalist, Lasers and Opto-electronic System](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b16d4967169e) |
+| 2026-11-06T19:34:42+00:00 | new | Ayar Labs | [Intern, Photonics Design - Advanced Filter Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b174c1a41e2a) |
+| 2026-11-06T19:34:42+00:00 | new | Ayar Labs | [Intern, Photonics Design - Multiphysics Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b1789e972004) |
+| 2026-11-06T19:34:42+00:00 | new | Ayar Labs | [Intern, Photonic Device Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b17fd72122cb) |
+| 2026-11-06T19:34:42+00:00 | new | Ayar Labs | [Intern, Link Modeling/Architecture - Statistical Analysis & Modeling](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b1970fbb2d82) |
+| 2026-11-06T19:34:42+00:00 | new | Ayar Labs | [Intern, Link Modeling/Architecture - Mixed Signal Modeling and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b18b825027ef) |
 | 2026-11-06T07:02:41+00:00 | closed | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5374627008?gh_jid=5374627008) |
 | 2026-11-06T07:02:41+00:00 | new | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5473572008?gh_jid=5473572008) |
 | 2026-11-06T07:02:41+00:00 | new | Etched | [Infrastructure Engineering & Projects Intern](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) |
