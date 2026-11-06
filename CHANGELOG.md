@@ -4,6 +4,9 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-06T07:02:41+00:00 | closed | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5374627008?gh_jid=5374627008) |
+| 2026-11-06T07:02:41+00:00 | new | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5473572008?gh_jid=5473572008) |
+| 2026-11-06T07:02:41+00:00 | new | Etched | [Infrastructure Engineering & Projects Intern](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) |
 | 2026-11-05T20:09:03+00:00 | new | SiPearl | [\[STAGE\] - Interconnect design](https://careers.sipearl.com/fr/jobs/6791202-stage-interconnect-design) |
 | 2026-11-05T07:03:03+00:00 | new | Sygaldry | [Internship/Research Engineer](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) |
 | 2026-11-05T07:03:03+00:00 | updated | Etched | [IA Research Engineer Intern](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) |

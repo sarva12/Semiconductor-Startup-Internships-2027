@@ -2624,6 +2624,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "simra",
+    "name": "Simra",
+    "website": "https://simratech.com",
+    "category": "EDA",
+    "country": "DE",
+    "in_requested_categories": true
+  },
+  {
     "id": "singular-photonics",
     "name": "Singular Photonics",
     "website": "https://singularphotonics.com",

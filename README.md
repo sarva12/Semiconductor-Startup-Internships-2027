@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-05T20:09:03+00:00** · **414 companies registered** · **67 with successful complete board API checks** · **62 open technical internships found**.
+Latest scan: **2026-11-06T07:02:41+00:00** · **415 companies registered** · **67 with successful complete board API checks** · **62 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -33,6 +33,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Etched | [Infrastructure Engineering & Projects Intern](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) | San Jose | Not specified | 2026-11-06 | 2026-11-06 | AI / software |
 | Etched | [IA Research Engineer Intern](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) | San Jose | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
 | Tenstorrent | [GTM (FAE & Customer Success) and Product Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5274249007) | Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | 2026-10-28 | 2026-10-28 | Server / validation, Interconnect / networking, AI / software |
 | Tenstorrent | [Business Operations & Program Management Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007) | Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | 2026-10-26 | 2026-10-26 | Server / validation, Interconnect / networking, AI / software |
@@ -87,7 +88,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | SiPearl | [\[INTERNSHIP\] AI Performance Engineering Internship — CPU Benchmarking and Optimization](https://careers.sipearl.com/jobs/8667833-internship-ai-performance-engineering-internship-cpu-benchmarking-and-optimization) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
 | SiPearl | [\[INTERNSHIP\] Benchmark Cloud Application on SiPearl Processors](https://careers.sipearl.com/jobs/8660372-internship-benchmark-cloud-application-on-sipearl-processors) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-03 | 2026-11-04 | AI / software |
 | SiPearl | [\[INTERNSHIP\] Compilers, libs and Tools Internship](https://careers.sipearl.com/jobs/8667917-internship-compilers-libs-and-tools-internship) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
-| Nuvacore | [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c) | Markham, ON | Not specified | 2026-10-26 | 2026-11-03 | Server / validation, RTL / verification, Physical design, Embedded / boards, AI / software |
 
 ### MEMORY
 
@@ -118,6 +118,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5473572008?gh_jid=5473572008) | Boston, MA | Winter 2026 | 2026-11-05 | 2026-11-06 | Interconnect / networking, Embedded / boards, AI / software |
 | Ayar Labs | [Intern, Digital Verification](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a72032bf4b89) | San Jose, CA, United States | Not specified | 2026-11-04 | 2026-11-04 | RTL / verification, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Laser Control & Validation Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a748188b5d3d) | San Jose, CA, United States | Not specified | 2026-11-04 | 2026-11-04 | Server / validation, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Photonics Test Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a37b339f065e) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-04 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
@@ -126,7 +127,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Ayar Labs | [Intern, Architect - Link Architecture and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e095cfd0260) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Firmware](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dc4631d64a5) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Ayar Labs | [Intern, Laser Die Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e0f78b5051e) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Laser Source Reliability](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dfb6b7c7b97) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Module Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e161a600702) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
 
 ### QUANTUM

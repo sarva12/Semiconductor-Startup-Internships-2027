@@ -4,9 +4,7 @@ These are not counted as open jobs.
 
 | Company | Link | Status |
 | --- | --- | --- |
-| Diode Computers | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | Unverified link; may be an old posting or general program |
 | Diode Computers | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
-| Discovered Materials | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | Unverified link; may be an old posting or general program |
 | Discovered Materials | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
 | Eridu AI | [Lab Intern](https://ats.rippling.com/en-GB/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Unverified link; may be an old posting or general program |
 | Eridu AI | [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Unverified link; may be an old posting or general program |
@@ -22,7 +20,6 @@ These are not counted as open jobs.
 | Riverlane | [Internships](https://www.riverlane.com/jobs/internships) | Unverified link; may be an old posting or general program |
 | Riverlane | [Applications for 2026 internship and graduate positions are now open! Closing date 6 Nov.Apply now!](https://www.riverlane.com/jobs) | Unverified link; may be an old posting or general program |
 | Silimate | [Applied AI Intern](https://www.ycombinator.com/companies/silimate/jobs/xt2UihN-applied-ai-intern) | Unverified link; may be an old posting or general program |
-| Silimate | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | Unverified link; may be an old posting or general program |
 | Silimate | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
 | SiPearl | [\[Stage\] Génération de patterns en vue du test s...                         SoC & IP engineering    ·      Grenoble      ·        Hybrid](https://careers.sipearl.com/fr/jobs/8668086-stage-generation-de-patterns-en-vue-du-test-sur-ate) | Unverified link; may be an old posting or general program |
 | Syntiant | [Internship - DevOps Machine Learning Infrastructure](https://apply.workable.com/j/468B53B345) | Unverified link; may be an old posting or general program |
