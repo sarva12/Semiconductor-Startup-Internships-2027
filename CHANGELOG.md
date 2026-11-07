@@ -4,6 +4,8 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-07T22:03:04+00:00 | closed | Ayar Labs | [Intern, Firmware](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dc4631d64a5) |
+| 2026-11-07T22:03:04+00:00 | closed | Ayar Labs | [Intern, Digital Verification](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a72032bf4b89) |
 | 2026-11-07T13:20:09+00:00 | closed | Atom Computing | [Research Intern](https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc) |
 | 2026-11-06T19:34:42+00:00 | closed | Nuvacore | [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c) |
 | 2026-11-06T19:34:42+00:00 | closed | Ayar Labs | [Intern, Laser Source Reliability](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dfb6b7c7b97) |
