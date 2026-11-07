@@ -2960,6 +2960,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "tropic-square",
+    "name": "Tropic Square",
+    "website": "https://tropicsquare.com",
+    "category": "SECURITY",
+    "country": "CZ",
+    "in_requested_categories": true
+  },
+  {
     "id": "tsavorite-scalable-intelligence",
     "name": "Tsavorite Scalable Intelligence",
     "website": "https://tsavoritesi.com",

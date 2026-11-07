@@ -4,10 +4,27 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 
 | Company | Role | Status | First found | Last seen | Closed at |
 | --- | --- | --- | --- | --- | --- |
+| Atom Computing | [Research Intern](https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc) | unconfirmed | 2026-11-04T06:44:34+00:00 | 2026-11-06T19:34:42+00:00 | — |
 | Axelera | [Career Day Start Up - Politecnico Milano](https://jobs.ashbyhq.com/axelera/1ccc621f-953a-42e4-abde-8e0b0dba1fd3) | closed | 2026-10-21T17:25:07+00:00 | 2026-11-03T07:01:32+00:00 | 2026-11-04T06:44:34+00:00 |
 | Axelera | [Intern - ML Inference Performance Engineer](https://jobs.ashbyhq.com/axelera/5d48cd6c-5c5b-45e2-973e-1017a70a5485) | closed | 2026-09-27T07:15:21+00:00 | 2026-10-20T11:53:44+00:00 | 2026-10-21T05:03:17+00:00 |
 | Axelera | [UK Electronics Skills Foundation (UKESF)](https://jobs.ashbyhq.com/axelera/7f6172b1-76d9-4289-9e79-b935ef753d33) | closed | 2026-09-27T07:15:21+00:00 | 2026-09-28T14:13:14+00:00 | 2026-09-29T05:55:12+00:00 |
+| Ayar Labs | [Intern,  Free-Space Optical Test Systems](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dd71c066bc3) | unconfirmed | 2026-11-03T19:40:40+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Architect - Analysis of AI Workloads & Network Communication Protocols](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e05d38100ec) | unconfirmed | 2026-11-03T19:40:40+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Architect - Link Architecture and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e095cfd0260) | unconfirmed | 2026-11-03T19:40:40+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Digital Verification](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a72032bf4b89) | unconfirmed | 2026-11-04T19:56:22+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Experimentalist, Lasers and Opto-electronic System](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b16d4967169e) | unconfirmed | 2026-11-06T19:34:42+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Firmware](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dc4631d64a5) | unconfirmed | 2026-11-03T19:40:40+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Laser Control & Validation Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a748188b5d3d) | unconfirmed | 2026-11-04T19:56:22+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Laser Die Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e0f78b5051e) | unconfirmed | 2026-11-03T19:40:40+00:00 | 2026-11-06T19:34:42+00:00 | — |
 | Ayar Labs | [Intern, Laser Source Reliability](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dfb6b7c7b97) | closed | 2026-11-03T19:40:40+00:00 | 2026-11-05T20:09:03+00:00 | 2026-11-06T19:34:42+00:00 |
+| Ayar Labs | [Intern, Link Modeling/Architecture - Mixed Signal Modeling and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b18b825027ef) | unconfirmed | 2026-11-06T19:34:42+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Link Modeling/Architecture - Statistical Analysis & Modeling](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b1970fbb2d82) | unconfirmed | 2026-11-06T19:34:42+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Module Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e161a600702) | unconfirmed | 2026-11-03T19:40:40+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Photonic Device Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b17fd72122cb) | unconfirmed | 2026-11-06T19:34:42+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Photonics Design - Advanced Filter Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b174c1a41e2a) | unconfirmed | 2026-11-06T19:34:42+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Photonics Design - Multiphysics Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b1789e972004) | unconfirmed | 2026-11-06T19:34:42+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Photonics Test Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a37b339f065e) | unconfirmed | 2026-11-04T06:44:34+00:00 | 2026-11-06T19:34:42+00:00 | — |
+| Ayar Labs | [Intern, Semiconductor Laser Modeling and Characterization](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b165bd2e12e1) | unconfirmed | 2026-11-06T19:34:42+00:00 | 2026-11-06T19:34:42+00:00 | — |
 | Diode Computers | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | excluded | 2026-09-27T07:15:21+00:00 | 2026-09-27T07:19:40+00:00 | — |
 | DreamBig | [Agile Project Management Intern](https://careers.arm.com/job/budapest/agile-project-management-intern/33099/101856114656) | unconfirmed | 2026-10-13T14:26:17+00:00 | 2026-10-14T17:23:32+00:00 | — |
 | DreamBig | [Architecture and Technology Intern](https://careers.arm.com/job/sophia-antipolis/architecture-and-technology-intern/33099/101751692640) | unconfirmed | 2026-10-21T21:52:19+00:00 | 2026-10-21T21:52:19+00:00 | — |
