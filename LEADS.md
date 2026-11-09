@@ -14,7 +14,6 @@ These are not counted as open jobs.
 | Paragraf | [Internships](https://www.paragraf.com/careers/internships/) | Unverified link; may be an old posting or general program |
 | PragmatiC | [Internships](https://talent.pragmaticsemi.com/departments/internships) | Unverified link; may be an old posting or general program |
 | Quobly | [Generative AI Internship for Scientific DataProducts & TechnologyGrenoble, France/Internship/Oct 15, 2026See position details](https://www.quobly.io/careers/jobs/generative-ai-internship-for-scientific-data) | Unverified link; may be an old posting or general program |
-| Quobly | [Stage IA générative pour données scientifiquesProducts & TechnologyGrenoble, France/Internship/Oct 15, 2026See position details](https://www.quobly.io/careers/jobs/stage-ia-generative-pour-donnees-scientifiques) | Unverified link; may be an old posting or general program |
 | Rebellions | [Talent Pool (Internship)](https://rebellions.career.greetinghr.com/o/152709) | Unverified link; may be an old posting or general program |
 | Rebellions | [Talent Pool (Internship)Talent PoolRebellions \\| Korea](https://rebellions.career.greetinghr.com/en/o/152709) | Unverified link; may be an old posting or general program |
 | Riverlane | [Internships](https://www.riverlane.com/jobs/internships) | Unverified link; may be an old posting or general program |
