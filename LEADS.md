@@ -4,9 +4,7 @@ These are not counted as open jobs.
 
 | Company | Link | Status |
 | --- | --- | --- |
-| Diode Computers | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | Unverified link; may be an old posting or general program |
 | Diode Computers | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
-| Discovered Materials | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | Unverified link; may be an old posting or general program |
 | Discovered Materials | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
 | Eridu AI | [Lab Intern](https://ats.rippling.com/en-GB/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Unverified link; may be an old posting or general program |
 | Eridu AI | [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Unverified link; may be an old posting or general program |
@@ -15,13 +13,11 @@ These are not counted as open jobs.
 | NcodiN | [← Spontaneous application – Internship](https://ncodin.com/job/internship/) | Unverified link; may be an old posting or general program |
 | Paragraf | [Internships](https://www.paragraf.com/careers/internships/) | Unverified link; may be an old posting or general program |
 | PragmatiC | [Internships](https://talent.pragmaticsemi.com/departments/internships) | Unverified link; may be an old posting or general program |
-| Quobly | [Generative AI Internship for Scientific DataProducts & TechnologyGrenoble, France/Internship/Oct 15, 2026See position details](https://www.quobly.io/careers/jobs/generative-ai-internship-for-scientific-data) | Unverified link; may be an old posting or general program |
 | Rebellions | [Talent Pool (Internship)](https://rebellions.career.greetinghr.com/o/152709) | Unverified link; may be an old posting or general program |
 | Rebellions | [Talent Pool (Internship)Talent PoolRebellions \\| Korea](https://rebellions.career.greetinghr.com/en/o/152709) | Unverified link; may be an old posting or general program |
 | Riverlane | [Internships](https://www.riverlane.com/jobs/internships) | Unverified link; may be an old posting or general program |
 | Riverlane | [Applications for 2026 internship and graduate positions are now open! Closing date 6 Nov.Apply now!](https://www.riverlane.com/jobs) | Unverified link; may be an old posting or general program |
 | Silimate | [Applied AI Intern](https://www.ycombinator.com/companies/silimate/jobs/xt2UihN-applied-ai-intern) | Unverified link; may be an old posting or general program |
-| Silimate | [Software Engineering Intern](https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern) | Unverified link; may be an old posting or general program |
 | Silimate | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
 | SiPearl | [\[INTERNSHIP\] Study, integration and deployment ...                         System validation    ·      Grenoble      ·        Hybrid](https://careers.sipearl.com/jobs/8679005-internship-study-integration-and-deployment-of-a-power-estimation-tool-on-hardware-emulator) | Unverified link; may be an old posting or general program |
 | Syntiant | [Internship - DevOps Machine Learning Infrastructure](https://apply.workable.com/j/468B53B345) | Unverified link; may be an old posting or general program |

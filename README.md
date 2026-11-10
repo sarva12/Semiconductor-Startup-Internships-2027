@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-10T07:33:01+00:00** · **416 companies registered** · **67 with successful complete board API checks** · **68 open technical internships found**.
+Latest scan: **2026-11-10T19:54:42+00:00** · **416 companies registered** · **67 with successful complete board API checks** · **69 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -135,6 +135,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | Ayar Labs | [Intern, Architect - Link Architecture and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e095cfd0260) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Laser Die Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e0f78b5051e) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Module Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e161a600702) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
+| Lightmatter | [Silicon, Hardware, & Photonics Engineering - Internship](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) | Boston, MA; Mountain View, CA | Not specified | 2026-09-15 | 2026-09-27 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
 
 ### QUANTUM
 
