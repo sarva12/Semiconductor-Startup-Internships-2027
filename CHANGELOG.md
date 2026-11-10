@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-10T07:33:01+00:00 | reopened | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
 | 2026-11-07T22:03:04+00:00 | closed | Ayar Labs | [Intern, Firmware](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dc4631d64a5) |
 | 2026-11-07T22:03:04+00:00 | closed | Ayar Labs | [Intern, Digital Verification](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a72032bf4b89) |
 | 2026-11-07T13:20:09+00:00 | closed | Atom Computing | [Research Intern](https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc) |
