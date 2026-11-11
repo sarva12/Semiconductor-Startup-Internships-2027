@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-11T06:48:35+00:00 | updated | Lightmatter | [Silicon, Hardware, & Photonics Engineering Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) |
 | 2026-11-10T19:54:42+00:00 | reopened | Lightmatter | [Silicon, Hardware, & Photonics Engineering - Internship](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) |
 | 2026-11-10T07:33:01+00:00 | reopened | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
 | 2026-11-07T22:03:04+00:00 | closed | Ayar Labs | [Intern, Firmware](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dc4631d64a5) |
