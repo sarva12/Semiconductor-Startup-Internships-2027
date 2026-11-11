@@ -4,6 +4,15 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-11T19:46:42+00:00 | closed | Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) |
+| 2026-11-11T19:46:42+00:00 | new | Metalenz | [Optical Metrology Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4) |
+| 2026-11-11T19:46:42+00:00 | new | Metalenz | [Camera Software Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6) |
+| 2026-11-11T19:46:42+00:00 | new | Metalenz | [Meta-Optics Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206) |
+| 2026-11-11T19:46:42+00:00 | new | Ayar Labs | [Intern, Hardware Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1caf9d72300f4) |
+| 2026-11-11T19:46:42+00:00 | new | Ayar Labs | [Intern, Program Management Office (PMO)](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb04b3660421) |
+| 2026-11-11T19:46:42+00:00 | new | Ayar Labs | [Intern, ASIC Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb1bdcab0c46) |
+| 2026-11-11T19:46:42+00:00 | new | Ayar Labs | [Intern, System Validation 1](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb21713b0deb) |
+| 2026-11-11T19:46:42+00:00 | new | Ayar Labs | [Intern, Laser Module Test Engineer](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb2a439c1151) |
 | 2026-11-11T06:48:35+00:00 | updated | Lightmatter | [Silicon, Hardware, & Photonics Engineering Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) |
 | 2026-11-10T19:54:42+00:00 | reopened | Lightmatter | [Silicon, Hardware, & Photonics Engineering - Internship](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) |
 | 2026-11-10T07:33:01+00:00 | reopened | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |

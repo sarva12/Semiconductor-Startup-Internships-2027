@@ -4,6 +4,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Ayar Labs | [Intern, Laser Module Test Engineer](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb2a439c1151) | Hsinchu, Taiwan | Not specified | 2026-11-11 | 2026-11-11 | Server / validation, Interconnect / networking, AI / software |
 | SiPearl | [\[STAGE\] - Interconnect design](https://careers.sipearl.com/fr/jobs/6791202-stage-interconnect-design) | 4 Pl. Robert Schuman, Grenoble, 38000, FR, Auvergne Rhones Alpes | Not specified | 2025-11-18 | 2026-11-05 | RTL / verification, Interconnect / networking |
 | Sygaldry | [Internship/Research Engineer](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) | Ann Arbor | Not specified | 2026-10-21 | 2026-11-05 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
 | SiPearl | [\[INTERNSHIP\] AI Performance Engineering Internship — CPU Benchmarking and Optimization](https://careers.sipearl.com/jobs/8667833-internship-ai-performance-engineering-internship-cpu-benchmarking-and-optimization) | Rue Jean Mermoz, Maisons-Laffitte, 78600, FR, Ile-de-France | Not specified | 2026-11-04 | 2026-11-04 | AI / software |
