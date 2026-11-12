@@ -4,6 +4,13 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Supply Chain Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5475089008?gh_jid=5475089008) |
+| 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Photonics Layout Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479611008?gh_jid=5479611008) |
+| 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Photonics Engineer Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479605008?gh_jid=5479605008) |
+| 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Packaging Thermal and Mechanical Analysis Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473871008?gh_jid=5473871008) |
+| 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Packaging Mechanical Design Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479684008?gh_jid=5479684008) |
+| 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Package Layout Automation Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473740008?gh_jid=5473740008) |
+| 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Laser Firmware Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008) |
 | 2026-11-11T19:46:42+00:00 | closed | Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) |
 | 2026-11-11T19:46:42+00:00 | new | Metalenz | [Optical Metrology Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4) |
 | 2026-11-11T19:46:42+00:00 | new | Metalenz | [Camera Software Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6) |

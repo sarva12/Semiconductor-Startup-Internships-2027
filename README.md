@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-11T19:46:42+00:00** · **416 companies registered** · **68 with successful complete board API checks** · **76 open technical internships found**.
+Latest scan: **2026-11-12T07:27:54+00:00** · **416 companies registered** · **67 with successful complete board API checks** · **83 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -119,6 +119,13 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lightmatter | [Laser Firmware Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008) | Boston, MA | Summer 2027 | 2026-11-11 | 2026-11-12 | Interconnect / networking, Embedded / boards, AI / software |
+| Lightmatter | [Package Layout Automation Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473740008?gh_jid=5473740008) | Mountain View, CA | Summer 2027 | 2026-11-11 | 2026-11-12 | RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
+| Lightmatter | [Packaging Mechanical Design Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479684008?gh_jid=5479684008) | Mountain View, CA | Summer 2027 | 2026-11-11 | 2026-11-12 | Interconnect / networking, AI / software |
+| Lightmatter | [Packaging Thermal and Mechanical Analysis Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473871008?gh_jid=5473871008) | Mountain View, CA | Summer 2027 | 2026-11-11 | 2026-11-12 | Server / validation, Interconnect / networking, AI / software |
+| Lightmatter | [Photonics Engineer Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479605008?gh_jid=5479605008) | Boston, MA | Summer 2027 | 2026-11-11 | 2026-11-12 | Physical design, Interconnect / networking, AI / software |
+| Lightmatter | [Photonics Layout Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479611008?gh_jid=5479611008) | Boston, MA | Summer 2027 | 2026-11-11 | 2026-11-12 | RTL / verification, Interconnect / networking, AI / software |
+| Lightmatter | [Supply Chain Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5475089008?gh_jid=5475089008) | Mountain View, CA | Summer 2027 | 2026-11-11 | 2026-11-12 | Interconnect / networking, AI / software |
 | Metalenz | [Camera Software Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6) | Boston, MA | Summer 2027 | 2026-10-21 | 2026-11-11 | Embedded / boards, AI / software |
 | Metalenz | [Meta-Optics Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206) | Boston, MA | Summer 2027 | 2026-11-02 | 2026-11-11 | Interconnect / networking, AI / software |
 | Metalenz | [Optical Metrology Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4) | Boston, MA | Summer 2027 | 2026-11-05 | 2026-11-11 | Interconnect / networking, AI / software |
