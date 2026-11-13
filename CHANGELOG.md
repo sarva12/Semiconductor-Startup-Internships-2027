@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-13T07:00:12+00:00 | new | Lightmatter | [Quality & Reliability, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474812008?gh_jid=5474812008) |
 | 2026-11-12T20:10:12+00:00 | new | SiPearl | [\[INTERNSHIP\] Study, integration and deployment of a power estimation tool on hardware emulator](https://careers.sipearl.com/jobs/8679005-internship-study-integration-and-deployment-of-a-power-estimation-tool-on-hardware-emulator) |
 | 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Supply Chain Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5475089008?gh_jid=5475089008) |
 | 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Photonics Layout Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479611008?gh_jid=5479611008) |
