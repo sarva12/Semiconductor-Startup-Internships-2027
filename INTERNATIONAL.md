@@ -4,6 +4,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Black Semiconductor | [Working Student – Data & AI  (f/m/d)](https://jobs.ashbyhq.com/blacksemiconductor/50026967-6217-4f32-a07b-887f8d8aa5eb) | Aachen, Germany | Not specified | 2026-11-13 | 2026-11-13 | AI / software |
 | SiPearl | [\[INTERNSHIP\] Study, integration and deployment of a power estimation tool on hardware emulator](https://careers.sipearl.com/jobs/8679005-internship-study-integration-and-deployment-of-a-power-estimation-tool-on-hardware-emulator) | 4 Pl. Robert Schuman, Grenoble, 38000, FR, Auvergne Rhones Alpes | Not specified | 2026-11-06 | 2026-11-12 | Server / validation, RTL / verification, Embedded / boards, AI / software |
 | Ayar Labs | [Intern, Laser Module Test Engineer](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb2a439c1151) | Hsinchu, Taiwan | Not specified | 2026-11-11 | 2026-11-11 | Server / validation, Interconnect / networking, AI / software |
 | Sygaldry | [Internship/Research Engineer](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) | Ann Arbor | Not specified | 2026-10-21 | 2026-11-05 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |

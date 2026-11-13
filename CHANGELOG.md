@@ -4,6 +4,14 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-13T19:55:27+00:00 | closed | Ayar Labs | [Intern, Hardware Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1caf9d72300f4) |
+| 2026-11-13T19:55:27+00:00 | new | Zendar | [PhD Research Intern — Learned End-to-End Driving and Actuation](https://zendar.breezy.hr/p/16cbc991ca25-phd-research-intern-learned-end-to-end-driving-and-actuation?source=GoogleJobs) |
+| 2026-11-13T19:55:27+00:00 | new | Lightmatter | [Physical Design, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008) |
+| 2026-11-13T19:55:27+00:00 | new | Ayar Labs | [Intern, Optical Packaging - Optical Characterization & Automation](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5eb2e3f33bd) |
+| 2026-11-13T19:55:27+00:00 | new | Ayar Labs | [Intern, Optical Packaging - Optical Validation & Statistical Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5f1ce793685) |
+| 2026-11-13T19:55:27+00:00 | updated | Ayar Labs | [Intern, System Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb21713b0deb) |
+| 2026-11-13T19:55:27+00:00 | new | Ayar Labs | [Intern, Si Photonics Validation Engineer](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5fc24373a2f) |
+| 2026-11-13T19:55:27+00:00 | new | Black Semiconductor | [Working Student – Data & AI  (f/m/d)](https://jobs.ashbyhq.com/blacksemiconductor/50026967-6217-4f32-a07b-887f8d8aa5eb) |
 | 2026-11-13T07:00:12+00:00 | new | Lightmatter | [Quality & Reliability, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474812008?gh_jid=5474812008) |
 | 2026-11-12T20:10:12+00:00 | new | SiPearl | [\[INTERNSHIP\] Study, integration and deployment of a power estimation tool on hardware emulator](https://careers.sipearl.com/jobs/8679005-internship-study-integration-and-deployment-of-a-power-estimation-tool-on-hardware-emulator) |
 | 2026-11-12T07:27:54+00:00 | new | Lightmatter | [Supply Chain Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5475089008?gh_jid=5475089008) |

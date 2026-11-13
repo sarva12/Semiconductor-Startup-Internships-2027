@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-13T07:00:12+00:00** · **416 companies registered** · **67 with successful complete board API checks** · **83 open technical internships found**.
+Latest scan: **2026-11-13T19:55:27+00:00** · **416 companies registered** · **68 with successful complete board API checks** · **89 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -102,6 +102,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Black Semiconductor | [Working Student – Data & AI  (f/m/d)](https://jobs.ashbyhq.com/blacksemiconductor/50026967-6217-4f32-a07b-887f8d8aa5eb) | Aachen, Germany | Not specified | 2026-11-13 | 2026-11-13 | AI / software |
 | Black Semiconductor | [ALD Lab - Working Student](https://jobs.ashbyhq.com/blacksemiconductor/666cb4f0-9c87-4c6a-977a-d175fd29bc47) | Aachen, Germany | Not specified | 2026-10-22 | 2026-10-22 | Interconnect / networking, AI / software |
 
 ### NETWORKING
@@ -119,6 +120,10 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lightmatter | [Physical Design, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008) | Boston, MA | Summer 2027 | 2026-11-13 | 2026-11-13 | Physical design, Interconnect / networking, AI / software |
+| Ayar Labs | [Intern, Optical Packaging - Optical Characterization & Automation](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5eb2e3f33bd) | San Jose, CA, United States | Not specified | 2026-11-13 | 2026-11-13 | Interconnect / networking, AI / software |
+| Ayar Labs | [Intern, Optical Packaging - Optical Validation & Statistical Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5f1ce793685) | San Jose, CA, United States | Not specified | 2026-11-13 | 2026-11-13 | Server / validation, Interconnect / networking, AI / software |
+| Ayar Labs | [Intern, Si Photonics Validation Engineer](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5fc24373a2f) | San Jose, CA, United States | Not specified | 2026-11-13 | 2026-11-13 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Lightmatter | [Quality & Reliability, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474812008?gh_jid=5474812008) | Mountain View, CA | Summer 2027 | 2026-11-12 | 2026-11-13 | Interconnect / networking, Embedded / boards, AI / software |
 | Lightmatter | [Laser Firmware Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008) | Boston, MA | Summer 2027 | 2026-11-11 | 2026-11-12 | Interconnect / networking, Embedded / boards, AI / software |
 | Lightmatter | [Package Layout Automation Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473740008?gh_jid=5473740008) | Mountain View, CA | Summer 2027 | 2026-11-11 | 2026-11-12 | RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
@@ -133,7 +138,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | Ayar Labs | [Intern, ASIC Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb1bdcab0c46) | San Jose, CA, United States | Not specified | 2026-11-11 | 2026-11-11 | RTL / verification, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Laser Module Test Engineer](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb2a439c1151) | Hsinchu, Taiwan | Not specified | 2026-11-11 | 2026-11-11 | Server / validation, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Program Management Office (PMO)](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb04b3660421) | San Jose, CA, United States | Not specified | 2026-11-11 | 2026-11-11 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, System Validation 1](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb21713b0deb) | San Jose, CA, United States | Not specified | 2026-11-11 | 2026-11-11 | Server / validation, Interconnect / networking, AI / software |
+| Ayar Labs | [Intern, System Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb21713b0deb) | San Jose, CA, United States | Not specified | 2026-11-11 | 2026-11-11 | Server / validation, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Experimentalist, Lasers and Opto-electronic System](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b16d4967169e) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Server / validation, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Link Modeling/Architecture - Mixed Signal Modeling and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b18b825027ef) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | RTL / verification, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Link Modeling/Architecture - Statistical Analysis & Modeling](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b1970fbb2d82) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Interconnect / networking, AI / software |
@@ -173,7 +178,9 @@ _No verified matching openings found in successfully checked sources. See covera
 
 ### SENSORS
 
-_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
+| Company | Role / apply | Location | Term | Posted | First found | Relevance |
+| --- | --- | --- | --- | --- | --- | --- |
+| Zendar | [PhD Research Intern — Learned End-to-End Driving and Actuation](https://zendar.breezy.hr/p/16cbc991ca25-phd-research-intern-learned-end-to-end-driving-and-actuation?source=GoogleJobs) | US, CA, Berkeley | Not specified | 2026-10-13 | 2026-11-13 | AI / software |
 
 ### ANALOG (additional category)
 
