@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-16T06:51:29+00:00** · **416 companies registered** · **68 with successful complete board API checks** · **90 open technical internships found**.
+Latest scan: **2026-11-16T22:22:14+00:00** · **416 companies registered** · **68 with successful complete board API checks** · **87 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -102,7 +102,6 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| Black Semiconductor | [Working Student – Data & AI  (f/m/d)](https://jobs.ashbyhq.com/blacksemiconductor/50026967-6217-4f32-a07b-887f8d8aa5eb) | Aachen, Germany | Not specified | 2026-11-13 | 2026-11-13 | AI / software |
 | Black Semiconductor | [ALD Lab - Working Student](https://jobs.ashbyhq.com/blacksemiconductor/666cb4f0-9c87-4c6a-977a-d175fd29bc47) | Aachen, Germany | Not specified | 2026-10-22 | 2026-10-22 | Interconnect / networking, AI / software |
 
 ### NETWORKING
@@ -120,6 +119,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lightmatter | [Data & AI Platform, Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008) | Boston, MA | Summer 2027 | 2026-11-12 | 2026-11-16 | Server / validation, Interconnect / networking, AI / software |
 | Lightmatter | [Hardware Test Engineering, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) | Mountain View, CA | Summer 2027 | 2026-11-13 | 2026-11-14 | Interconnect / networking, AI / software |
 | Lightmatter | [Physical Design, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008) | Boston, MA | Summer 2027 | 2026-11-13 | 2026-11-13 | Physical design, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Optical Packaging - Optical Characterization & Automation](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5eb2e3f33bd) | San Jose, CA, United States | Not specified | 2026-11-13 | 2026-11-13 | Interconnect / networking, AI / software |
@@ -136,7 +136,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Metalenz | [Camera Software Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6) | Boston, MA | Summer 2027 | 2026-10-21 | 2026-11-11 | Embedded / boards, AI / software |
 | Metalenz | [Meta-Optics Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206) | Boston, MA | Summer 2027 | 2026-11-02 | 2026-11-11 | Interconnect / networking, AI / software |
 | Metalenz | [Optical Metrology Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4) | Boston, MA | Summer 2027 | 2026-11-05 | 2026-11-11 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, ASIC Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb1bdcab0c46) | San Jose, CA, United States | Not specified | 2026-11-11 | 2026-11-11 | RTL / verification, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Laser Module Test Engineer](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb2a439c1151) | Hsinchu, Taiwan | Not specified | 2026-11-11 | 2026-11-11 | Server / validation, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Program Management Office (PMO)](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb04b3660421) | San Jose, CA, United States | Not specified | 2026-11-11 | 2026-11-11 | Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, System Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb21713b0deb) | San Jose, CA, United States | Not specified | 2026-11-11 | 2026-11-11 | Server / validation, Interconnect / networking, AI / software |
@@ -149,18 +148,16 @@ _No verified matching openings found in successfully checked sources. See covera
 | Ayar Labs | [Intern, Semiconductor Laser Modeling and Characterization](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b165bd2e12e1) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Interconnect / networking, AI / software |
 | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5473572008?gh_jid=5473572008) | Boston, MA | Winter 2026 | 2026-11-05 | 2026-11-06 | Interconnect / networking, Embedded / boards, AI / software |
 | Ayar Labs | [Intern, Laser Control & Validation Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a748188b5d3d) | San Jose, CA, United States | Not specified | 2026-11-04 | 2026-11-04 | Server / validation, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Photonics Test Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a37b339f065e) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-04 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Ayar Labs | [Intern,  Free-Space Optical Test Systems](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dd71c066bc3) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Architect - Analysis of AI Workloads & Network Communication Protocols](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e05d38100ec) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Architect - Link Architecture and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e095cfd0260) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Laser Die Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e0f78b5051e) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
 | Ayar Labs | [Intern, Module Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e161a600702) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
-| Lightmatter | [Silicon, Hardware, & Photonics Engineering Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) | Boston, MA; Mountain View, CA | Summer 2027 | 2026-09-15 | 2026-09-27 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
 
 ### QUANTUM
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Quantum Motion | [PhD Programme - 2027/2028 Academic Year](https://quantummotion.jobs.personio.com/job/2890172?language=en) | London, UK | Not specified | Unknown | 2026-11-16 | Server / validation, Physical design, AI / software |
 | Sygaldry | [Internship/Research Engineer](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) | Ann Arbor | Not specified | 2026-10-21 | 2026-11-05 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
 | Quantum Motion | [Quantum Theory Internship Programme 2027](https://quantummotion.jobs.personio.com/job/2853487?language=en) | London, UK | Summer 2027 | Unknown | 2026-10-21 | Physical design, Embedded / boards, AI / software |
 | PsiQuantum | [Intern, Optical Packaging and Characterization Engineer](https://www.psiquantum.com/apply?gh_jid=7761881003) | Milpitas, California | Not specified | 2026-06-02 | 2026-09-27 | Interconnect / networking, AI / software |

@@ -6,8 +6,6 @@ These are not counted as open jobs.
 | --- | --- | --- |
 | Chipmind | [Internship](https://www.chipmind.ai/careers/internship) | Unverified link; may be an old posting or general program |
 | Discovered Materials | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
-| Eridu AI | [Lab Intern](https://ats.rippling.com/en-GB/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Unverified link; may be an old posting or general program |
-| Eridu AI | [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Unverified link; may be an old posting or general program |
 | HyperAccel | [Talent Pool 등록(Internship)인재풀R&DHW외HW Engineer외인턴](https://hyperaccel.career.greetinghr.com/ko/o/220411) | Unverified link; may be an old posting or general program |
 | Ludwig Computing | [ML Research Intern - Model EfficiencyInternship · SF Bay Area · On-site / RemoteApply→](https://ludwigcomputing.com/careers/ml-research-intern-model-efficiency) | Unverified link; may be an old posting or general program |
 | NcodiN | [← Spontaneous application – Internship](https://ncodin.com/job/internship/) | Unverified link; may be an old posting or general program |

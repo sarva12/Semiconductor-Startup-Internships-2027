@@ -4,6 +4,8 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-16T22:22:14+00:00 | new | Quantum Motion | [PhD Programme - 2027/2028 Academic Year](https://quantummotion.jobs.personio.com/job/2890172?language=en) |
+| 2026-11-16T22:22:14+00:00 | new | Lightmatter | [Data & AI Platform, Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008) |
 | 2026-11-14T06:46:02+00:00 | new | Lightmatter | [Hardware Test Engineering, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) |
 | 2026-11-13T19:55:27+00:00 | closed | Ayar Labs | [Intern, Hardware Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1caf9d72300f4) |
 | 2026-11-13T19:55:27+00:00 | new | Zendar | [PhD Research Intern — Learned End-to-End Driving and Actuation](https://zendar.breezy.hr/p/16cbc991ca25-phd-research-intern-learned-end-to-end-driving-and-actuation?source=GoogleJobs) |
