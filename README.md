@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-17T08:11:19+00:00** · **416 companies registered** · **68 with successful complete board API checks** · **88 open technical internships found**.
+Latest scan: **2026-11-17T21:08:25+00:00** · **416 companies registered** · **69 with successful complete board API checks** · **89 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -61,7 +61,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | Etched | [Lab Operations Intern](https://jobs.ashbyhq.com/Etched/7d400861-c124-475f-8cef-73b9fd5199cf) | San Jose | Not specified | 2026-09-15 | 2026-09-27 | AI / software |
 | Etched | [Mechanical / Thermal Intern](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | San Jose | Not specified | 2026-02-07 | 2026-09-27 | Server / validation, RTL / verification, Embedded / boards, AI / software |
 | Etched | [Performance Tools Intern](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) | San Jose | Not specified | 2026-08-03 | 2026-09-27 | Interconnect / networking, Embedded / boards, AI / software |
-| Axelera | [Hardware Lab Engineer Intern](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-11-02 | 2026-09-27 | Server / validation, Physical design, Embedded / boards, AI / software |
+| Axelera | [Hardware Lab Engineer - Internship](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) | Not specified | 2026-11-02 | 2026-09-27 | Server / validation, Physical design, Embedded / boards, AI / software |
 | Furiosa | [Algorithm - AI Research Engineer Intern](https://furiosa.ai/careers?gh_jid=4005768201) | Seoul, South Korea | Not specified | 2026-08-19 | 2026-09-27 | Server / validation, AI / software |
 
 ### CHIPLETS
@@ -100,9 +100,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 ### MFG
 
-| Company | Role / apply | Location | Term | Posted | First found | Relevance |
-| --- | --- | --- | --- | --- | --- | --- |
-| Black Semiconductor | [ALD Lab - Working Student](https://jobs.ashbyhq.com/blacksemiconductor/666cb4f0-9c87-4c6a-977a-d175fd29bc47) | Aachen, Germany | Not specified | 2026-10-22 | 2026-10-22 | Interconnect / networking, AI / software |
+_No verified matching openings found in successfully checked sources. See coverage before interpreting this._
 
 ### NETWORKING
 
@@ -119,6 +117,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lightmatter | [Product & Test Engineering, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) | Mountain View, CA | Summer 2027 | 2026-11-17 | 2026-11-17 | Server / validation, Interconnect / networking, AI / software |
 | Lightmatter | [Optical Packaging Integration Internship – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5478834008?gh_jid=5478834008) | Mountain View, CA | Summer 2027 | 2026-11-16 | 2026-11-17 | Interconnect / networking, AI / software |
 | Lightmatter | [Data & AI Platform, Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008) | Boston, MA | Summer 2027 | 2026-11-12 | 2026-11-16 | Server / validation, Interconnect / networking, AI / software |
 | Lightmatter | [Hardware Test Engineering, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) | Mountain View, CA | Summer 2027 | 2026-11-13 | 2026-11-14 | Interconnect / networking, AI / software |
@@ -158,6 +157,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Quobly | [Generative AI Internship](https://careers.quobly.io/o/generative-ai-internship) | Grenoble, Auvergne-Rhône-Alpes, France | Not specified | 2026-10-27 | 2026-11-17 | AI / software |
 | Quantum Motion | [PhD Programme - 2027/2028 Academic Year](https://quantummotion.jobs.personio.com/job/2890172?language=en) | London, UK | Not specified | Unknown | 2026-11-16 | Server / validation, Physical design, AI / software |
 | Sygaldry | [Internship/Research Engineer](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) | Ann Arbor | Not specified | 2026-10-21 | 2026-11-05 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
 | Quantum Motion | [Quantum Theory Internship Programme 2027](https://quantummotion.jobs.personio.com/job/2853487?language=en) | London, UK | Summer 2027 | Unknown | 2026-10-21 | Physical design, Embedded / boards, AI / software |
