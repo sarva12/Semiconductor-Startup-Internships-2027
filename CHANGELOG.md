@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-18T07:45:48+00:00 | closed | Black Semiconductor | [ALD Lab - Working Student](https://jobs.ashbyhq.com/blacksemiconductor/666cb4f0-9c87-4c6a-977a-d175fd29bc47) |
 | 2026-11-17T21:08:25+00:00 | new | Quobly | [Generative AI Internship](https://careers.quobly.io/o/generative-ai-internship) |
 | 2026-11-17T21:08:25+00:00 | new | Lightmatter | [Product & Test Engineering, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) |
 | 2026-11-17T21:08:25+00:00 | updated | Axelera | [Hardware Lab Engineer - Internship](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) |
