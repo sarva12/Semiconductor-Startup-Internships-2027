@@ -4,6 +4,10 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-19T07:42:16+00:00 | new | Syenta | [Process Engineer Internship](https://jobs.ashbyhq.com/syenta/3f34acdc-aeac-4846-9efc-fd6d56e704d6) |
+| 2026-11-19T07:42:16+00:00 | reopened | PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) |
+| 2026-11-19T07:42:16+00:00 | new | Lightmatter | [Photonics Circuit Simulation Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) |
+| 2026-11-19T07:42:16+00:00 | new | Etched | [Production Intern](https://jobs.ashbyhq.com/Etched/bd570162-4143-42ac-be87-a473075749b9) |
 | 2026-11-18T07:45:48+00:00 | closed | Black Semiconductor | [ALD Lab - Working Student](https://jobs.ashbyhq.com/blacksemiconductor/666cb4f0-9c87-4c6a-977a-d175fd29bc47) |
 | 2026-11-17T21:08:25+00:00 | new | Quobly | [Generative AI Internship](https://careers.quobly.io/o/generative-ai-internship) |
 | 2026-11-17T21:08:25+00:00 | new | Lightmatter | [Product & Test Engineering, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) |

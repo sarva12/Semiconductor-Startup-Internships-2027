@@ -4,6 +4,8 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lightmatter | [Photonics Circuit Simulation Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) | Mountain View, CA | Summer 2027 | 2026-11-18 | 2026-11-19 | RTL / verification, Interconnect / networking, AI / software |
+| Etched | [Production Intern](https://jobs.ashbyhq.com/Etched/bd570162-4143-42ac-be87-a473075749b9) | San Jose | Not specified | 2026-11-19 | 2026-11-19 | AI / software |
 | Lightmatter | [Product & Test Engineering, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) | Mountain View, CA | Summer 2027 | 2026-11-17 | 2026-11-17 | Server / validation, Interconnect / networking, AI / software |
 | Lightmatter | [Optical Packaging Integration Internship – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5478834008?gh_jid=5478834008) | Mountain View, CA | Summer 2027 | 2026-11-16 | 2026-11-17 | Interconnect / networking, AI / software |
 | Lightmatter | [Data & AI Platform, Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008) | Boston, MA | Summer 2027 | 2026-11-12 | 2026-11-16 | Server / validation, Interconnect / networking, AI / software |
