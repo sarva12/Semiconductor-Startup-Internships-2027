@@ -4,6 +4,16 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Systems Engineering, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473822008?gh_jid=5473822008) |
+| 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Silicon Validation & Test Automation, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473832008?gh_jid=5473832008) |
+| 2026-11-19T20:51:14+00:00 | updated | Lightmatter | [Product & Test Engineering, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) |
+| 2026-11-19T20:51:14+00:00 | new | Lightmatter | [IT and Security Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473539008?gh_jid=5473539008) |
+| 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Electrical Engineering Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479814008?gh_jid=5479814008) |
+| 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Electrical Engineering Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473816008?gh_jid=5473816008) |
+| 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Chip Architecture Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5468924008?gh_jid=5468924008) |
+| 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Analog Engineering Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473774008?gh_jid=5473774008) |
+| 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Analog Engineering Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5475081008?gh_jid=5475081008) |
+| 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Analog Engineering Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473749008?gh_jid=5473749008) |
 | 2026-11-19T07:42:16+00:00 | new | Syenta | [Process Engineer Internship](https://jobs.ashbyhq.com/syenta/3f34acdc-aeac-4846-9efc-fd6d56e704d6) |
 | 2026-11-19T07:42:16+00:00 | reopened | PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) |
 | 2026-11-19T07:42:16+00:00 | new | Lightmatter | [Photonics Circuit Simulation Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) |

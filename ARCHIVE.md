@@ -57,6 +57,7 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 | Etched | [RTL Intern](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) | closed | 2026-09-27T07:15:21+00:00 | 2026-10-11T13:08:46+00:00 | 2026-10-12T06:13:13+00:00 |
 | Etched | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) | closed | 2026-09-27T07:15:21+00:00 | 2026-10-27T22:27:14+00:00 | 2026-10-28T13:15:40+00:00 |
 | FMC | [Working student IT](https://ferroelectric-memory-gmbh.jobs.personio.de/job/2813776?language=en&enable-new-page=true) | unconfirmed | 2026-09-27T07:15:21+00:00 | 2026-10-02T05:54:57+00:00 | — |
+| Lightmatter | [Hardware Test Engineering, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) | unconfirmed | 2026-11-14T06:46:02+00:00 | 2026-11-19T07:42:16+00:00 | — |
 | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5374627008?gh_jid=5374627008) | closed | 2026-09-27T07:01:59+00:00 | 2026-11-05T07:03:03+00:00 | 2026-11-06T07:02:41+00:00 |
 | Lightmatter | [Silicon Packaging Engineer - Intern & New Grad](https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008) | closed | 2026-09-27T07:01:59+00:00 | 2026-10-19T22:31:33+00:00 | 2026-10-20T11:53:44+00:00 |
 | Lightmatter | [Silicon, Hardware, & Photonics Engineering Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) | closed | 2026-09-27T07:01:59+00:00 | 2026-11-16T06:51:29+00:00 | 2026-11-17T08:11:19+00:00 |
@@ -64,6 +65,7 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 | NcodiN | [Spontaneous application - Internship](https://job-boards.eu.greenhouse.io/ncodin/jobs/4802207101) | unconfirmed | 2026-09-27T07:01:59+00:00 | 2026-10-04T06:06:20+00:00 | — |
 | Nuvacore | [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c) | closed | 2026-11-03T19:40:40+00:00 | 2026-11-05T20:09:03+00:00 | 2026-11-06T19:34:42+00:00 |
 | Olix | [Software Engineering Intern](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e) | closed | 2026-10-29T22:53:54+00:00 | 2026-11-02T06:28:23+00:00 | 2026-11-03T07:01:32+00:00 |
+| Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) | unconfirmed | 2026-09-30T22:25:49+00:00 | 2026-11-19T07:42:16+00:00 | — |
 | Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) | closed | 2026-09-30T22:25:49+00:00 | 2026-11-10T19:54:42+00:00 | 2026-11-11T19:46:42+00:00 |
 | SiPearl | [\[STAGE\] - Interconnect design](https://careers.sipearl.com/fr/jobs/6791202-stage-interconnect-design) | unconfirmed | 2026-11-05T20:09:03+00:00 | 2026-11-12T07:27:54+00:00 | — |
 | Syenta | [Intern - Electrodeposition](https://employmenthero.com/jobs/position/syenta-intern-electrodeposition-57ljj/) | unconfirmed | 2026-11-03T19:40:40+00:00 | 2026-11-03T19:40:40+00:00 | — |
