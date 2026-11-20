@@ -4,6 +4,25 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-20T07:33:49+00:00 | closed | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) |
+| 2026-11-20T07:33:49+00:00 | closed | Lightmatter | [Hardware Test Engineering, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Infrastructure Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Packaging Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/832baa82-d5e1-44b9-bd6f-ef9dbf200a54) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Rust Software Engineering Intern, Chip Design Tools - Summer](https://jobs.ashbyhq.com/Fab2/2b0ab443-c7d8-4547-9766-111747f0b361) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Fab Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Embedded Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/15020e6e-be1c-4455-95a3-aa798474cec4) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Process Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/c8c9b760-8c9f-4481-8566-27282f8c0a07) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Electrical Engineering Intern, High Frequency Power Electronics - Summer](https://jobs.ashbyhq.com/Fab2/b3628272-a336-4dd6-968d-041bc4de5bc5) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Electrical Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/aec19ef8-2257-4295-abc2-87afd05224ae) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Automation Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Mechanical Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/ada329fa-d8f5-4210-9722-82b1a33487df) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Fab Software Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Automation Software Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Packaging Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/96e96a9c-8419-4a67-ba4a-4b28e87b3f16) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Rust Software Engineering Intern, Chip Design Tools - Winter](https://jobs.ashbyhq.com/Fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Embedded Software Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Mechanical Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/49926e1f-ef43-41fc-bce5-1d9a0a7b295b) |
+| 2026-11-20T07:33:49+00:00 | new | Fab2 | [Process Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/476007f4-4f8c-4160-86c2-8be11c5efee4) |
 | 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Systems Engineering, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473822008?gh_jid=5473822008) |
 | 2026-11-19T20:51:14+00:00 | new | Lightmatter | [Silicon Validation & Test Automation, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473832008?gh_jid=5473832008) |
 | 2026-11-19T20:51:14+00:00 | updated | Lightmatter | [Product & Test Engineering, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) |

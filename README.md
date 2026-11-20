@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-19T20:51:14+00:00** · **416 companies registered** · **69 with successful complete board API checks** · **100 open technical internships found**.
+Latest scan: **2026-11-20T07:33:49+00:00** · **421 companies registered** · **70 with successful complete board API checks** · **99 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -102,6 +102,23 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Fab2 | [Automation Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | AI / software |
+| Fab2 | [Automation Software Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765) | Austin; San Francisco Office | Not specified | 2026-08-28 | 2026-11-20 | AI / software |
+| Fab2 | [Electrical Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/aec19ef8-2257-4295-abc2-87afd05224ae) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | Embedded / boards, AI / software |
+| Fab2 | [Electrical Engineering Intern, High Frequency Power Electronics - Summer](https://jobs.ashbyhq.com/Fab2/b3628272-a336-4dd6-968d-041bc4de5bc5) | Austin | Not specified | 2026-09-05 | 2026-11-20 | Embedded / boards, AI / software |
+| Fab2 | [Embedded Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/15020e6e-be1c-4455-95a3-aa798474cec4) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | Server / validation, Embedded / boards, AI / software |
+| Fab2 | [Embedded Software Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da) | Austin | Not specified | 2026-08-28 | 2026-11-20 | Server / validation, Embedded / boards, AI / software |
+| Fab2 | [Fab Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | AI / software |
+| Fab2 | [Fab Software Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95) | Austin; San Francisco Office | Not specified | 2026-08-28 | 2026-11-20 | AI / software |
+| Fab2 | [Infrastructure Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | Server / validation, Interconnect / networking, AI / software |
+| Fab2 | [Mechanical Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/ada329fa-d8f5-4210-9722-82b1a33487df) | Austin | Not specified | 2026-09-05 | 2026-11-20 | Interconnect / networking, Embedded / boards, AI / software |
+| Fab2 | [Mechanical Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/49926e1f-ef43-41fc-bce5-1d9a0a7b295b) | Austin | Not specified | 2026-08-27 | 2026-11-20 | Interconnect / networking, Embedded / boards, AI / software |
+| Fab2 | [Packaging Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/832baa82-d5e1-44b9-bd6f-ef9dbf200a54) | Austin | Not specified | 2026-09-05 | 2026-11-20 | Interconnect / networking, AI / software |
+| Fab2 | [Packaging Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/96e96a9c-8419-4a67-ba4a-4b28e87b3f16) | Austin | Not specified | 2026-08-27 | 2026-11-20 | Interconnect / networking, AI / software |
+| Fab2 | [Process Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/c8c9b760-8c9f-4481-8566-27282f8c0a07) | Austin | Not specified | 2026-09-05 | 2026-11-20 | AI / software |
+| Fab2 | [Process Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/476007f4-4f8c-4160-86c2-8be11c5efee4) | Austin | Not specified | 2026-08-28 | 2026-11-20 | AI / software |
+| Fab2 | [Rust Software Engineering Intern, Chip Design Tools - Summer](https://jobs.ashbyhq.com/Fab2/2b0ab443-c7d8-4547-9766-111747f0b361) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | Server / validation, AI / software |
+| Fab2 | [Rust Software Engineering Intern, Chip Design Tools - Winter](https://jobs.ashbyhq.com/Fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904) | Austin; San Francisco Office | Not specified | 2026-08-28 | 2026-11-20 | Server / validation, AI / software |
 | Syenta | [Process Engineer Internship](https://jobs.ashbyhq.com/syenta/3f34acdc-aeac-4846-9efc-fd6d56e704d6) | Sydney | Not specified | 2026-11-18 | 2026-11-19 | Interconnect / networking, Embedded / boards |
 
 ### NETWORKING
@@ -133,9 +150,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Lightmatter | [Optical Packaging Integration Internship – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5478834008?gh_jid=5478834008) | Mountain View, CA | Summer 2027 | 2026-11-16 | 2026-11-17 | Interconnect / networking, AI / software |
 | Lightmatter | [Data & AI Platform, Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008) | Boston, MA | Summer 2027 | 2026-11-12 | 2026-11-16 | Server / validation, Interconnect / networking, AI / software |
 | Lightmatter | [Physical Design, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008) | Boston, MA | Summer 2027 | 2026-11-13 | 2026-11-13 | Physical design, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Optical Packaging - Optical Characterization & Automation](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5eb2e3f33bd) | San Jose, CA, United States | Not specified | 2026-11-13 | 2026-11-13 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Optical Packaging - Optical Validation & Statistical Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5f1ce793685) | San Jose, CA, United States | Not specified | 2026-11-13 | 2026-11-13 | Server / validation, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Si Photonics Validation Engineer](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5fc24373a2f) | San Jose, CA, United States | Not specified | 2026-11-13 | 2026-11-13 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Lightmatter | [Quality & Reliability, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474812008?gh_jid=5474812008) | Mountain View, CA | Summer 2027 | 2026-11-12 | 2026-11-13 | Interconnect / networking, Embedded / boards, AI / software |
 | Lightmatter | [Laser Firmware Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008) | Boston, MA | Summer 2027 | 2026-11-11 | 2026-11-12 | Interconnect / networking, Embedded / boards, AI / software |
 | Lightmatter | [Package Layout Automation Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473740008?gh_jid=5473740008) | Mountain View, CA | Summer 2027 | 2026-11-11 | 2026-11-12 | RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
@@ -147,22 +161,7 @@ _No verified matching openings found in successfully checked sources. See covera
 | Metalenz | [Camera Software Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6) | Boston, MA | Summer 2027 | 2026-10-21 | 2026-11-11 | Embedded / boards, AI / software |
 | Metalenz | [Meta-Optics Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206) | Boston, MA | Summer 2027 | 2026-11-02 | 2026-11-11 | Interconnect / networking, AI / software |
 | Metalenz | [Optical Metrology Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4) | Boston, MA | Summer 2027 | 2026-11-05 | 2026-11-11 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Laser Module Test Engineer](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb2a439c1151) | Hsinchu, Taiwan | Not specified | 2026-11-11 | 2026-11-11 | Server / validation, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Program Management Office (PMO)](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb04b3660421) | San Jose, CA, United States | Not specified | 2026-11-11 | 2026-11-11 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, System Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb21713b0deb) | San Jose, CA, United States | Not specified | 2026-11-11 | 2026-11-11 | Server / validation, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Experimentalist, Lasers and Opto-electronic System](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b16d4967169e) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Server / validation, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Link Modeling/Architecture - Mixed Signal Modeling and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b18b825027ef) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | RTL / verification, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Link Modeling/Architecture - Statistical Analysis & Modeling](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b1970fbb2d82) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Photonic Device Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b17fd72122cb) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Server / validation, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Photonics Design - Advanced Filter Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b174c1a41e2a) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Photonics Design - Multiphysics Design](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b1789e972004) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
-| Ayar Labs | [Intern, Semiconductor Laser Modeling and Characterization](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b165bd2e12e1) | San Jose, CA, United States | Not specified | 2026-11-06 | 2026-11-06 | Interconnect / networking, AI / software |
 | Lightmatter | [Photonics Characterization Intern- Winter 2026](https://boards.greenhouse.io/lightmatter/jobs/5473572008?gh_jid=5473572008) | Boston, MA | Winter 2026 | 2026-11-05 | 2026-11-06 | Interconnect / networking, Embedded / boards, AI / software |
-| Ayar Labs | [Intern, Laser Control & Validation Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a748188b5d3d) | San Jose, CA, United States | Not specified | 2026-11-04 | 2026-11-04 | Server / validation, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern,  Free-Space Optical Test Systems](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19dd71c066bc3) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Architect - Link Architecture and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e095cfd0260) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Laser Die Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e0f78b5051e) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
-| Ayar Labs | [Intern, Module Validation](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e161a600702) | San Jose, CA, United States | Not specified | 2026-11-03 | 2026-11-03 | Server / validation, Interconnect / networking, AI / software |
 
 ### QUANTUM
 

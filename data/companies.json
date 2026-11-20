@@ -424,6 +424,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "bharat-semi",
+    "name": "Bharat Semi",
+    "website": "https://bharatsemi.ai",
+    "category": "SENSORS",
+    "country": "IN",
+    "in_requested_categories": true
+  },
+  {
     "id": "black-semiconductor",
     "name": "Black Semiconductor",
     "website": "https://blacksemi.com",
@@ -980,6 +988,14 @@
     "name": "Extropic",
     "website": "https://extropic.ai",
     "category": "AI",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "fab2",
+    "name": "Fab2",
+    "website": "https://fab2.com",
+    "category": "MFG",
     "country": "US",
     "in_requested_categories": true
   },
@@ -1565,6 +1581,14 @@
     "website": "https://metalenz.com",
     "category": "PHOTONICS",
     "country": "US",
+    "in_requested_categories": true
+  },
+  {
+    "id": "microalchemy",
+    "name": "MicroAlchemy",
+    "website": "https://microalchemy.xyz",
+    "category": "MFG",
+    "country": "CA",
     "in_requested_categories": true
   },
   {
@@ -2213,6 +2237,14 @@
     "website": "https://quandela.com",
     "category": "QUANTUM",
     "country": "FR",
+    "in_requested_categories": true
+  },
+  {
+    "id": "quanfluence",
+    "name": "Quanfluence",
+    "website": "https://quanfluence.com",
+    "category": "QUANTUM",
+    "country": "IN",
     "in_requested_categories": true
   },
   {
@@ -3069,6 +3101,14 @@
     "website": "https://vectorphotonics.co.uk",
     "category": "PHOTONICS",
     "country": "GB",
+    "in_requested_categories": true
+  },
+  {
+    "id": "velaura-ai",
+    "name": "Velaura AI",
+    "website": "https://velaura.ai",
+    "category": "AI",
+    "country": "US",
     "in_requested_categories": true
   },
   {
