@@ -2158,5 +2158,29 @@
     "company": "Arago",
     "title": "Software Engineer Intern",
     "url": "https://jobs.ashbyhq.com/arago/6b00541c-fdf2-4bfd-be7a-4ee74cc100c2"
+  },
+  {
+    "at": "2026-11-21T07:28:28+00:00",
+    "event": "new",
+    "job_id": "1d16464af3bf194aa440",
+    "company": "Etched",
+    "title": "SI/PI Intern",
+    "url": "https://jobs.ashbyhq.com/Etched/45639738-0414-43e2-a5e7-b4acc928d62d"
+  },
+  {
+    "at": "2026-11-21T07:28:28+00:00",
+    "event": "closed",
+    "job_id": "13f93f81bafdcb426949",
+    "company": "Fab2",
+    "title": "Embedded Software Engineering Intern - Winter",
+    "url": "https://jobs.ashbyhq.com/Fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da"
+  },
+  {
+    "at": "2026-11-21T07:28:28+00:00",
+    "event": "closed",
+    "job_id": "a54d64941d35cc1b427d",
+    "company": "Lightmatter",
+    "title": "Laser Firmware Intern - Summer 2027",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008"
   }
 ]

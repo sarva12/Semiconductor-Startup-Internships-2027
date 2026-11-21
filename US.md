@@ -4,6 +4,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Etched | [SI/PI Intern](https://jobs.ashbyhq.com/Etched/45639738-0414-43e2-a5e7-b4acc928d62d) | San Jose | Not specified | 2026-11-21 | 2026-11-21 | Server / validation, RTL / verification, Embedded / boards, AI / software |
 | Fab2 | [Automation Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | AI / software |
 | Fab2 | [Automation Software Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765) | Austin; San Francisco Office | Not specified | 2026-08-28 | 2026-11-20 | AI / software |
 | Fab2 | [Electrical Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/aec19ef8-2257-4295-abc2-87afd05224ae) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | Embedded / boards, AI / software |

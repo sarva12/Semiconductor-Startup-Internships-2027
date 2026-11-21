@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-20T20:35:11+00:00** · **421 companies registered** · **71 with successful complete board API checks** · **116 open technical internships found**.
+Latest scan: **2026-11-21T07:28:28+00:00** · **421 companies registered** · **71 with successful complete board API checks** · **117 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -33,6 +33,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Etched | [SI/PI Intern](https://jobs.ashbyhq.com/Etched/45639738-0414-43e2-a5e7-b4acc928d62d) | San Jose | Not specified | 2026-11-21 | 2026-11-21 | Server / validation, RTL / verification, Embedded / boards, AI / software |
 | Etched | [Production Intern](https://jobs.ashbyhq.com/Etched/bd570162-4143-42ac-be87-a473075749b9) | San Jose | Not specified | 2026-11-19 | 2026-11-19 | AI / software |
 | Etched | [Infrastructure Engineering & Projects Intern](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) | San Jose | Not specified | 2026-11-06 | 2026-11-06 | AI / software |
 | Etched | [IA Research Engineer Intern](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) | San Jose | Not specified | 2026-11-04 | 2026-11-04 | AI / software |

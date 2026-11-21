@@ -4,6 +4,9 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-21T07:28:28+00:00 | closed | Lightmatter | [Laser Firmware Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008) |
+| 2026-11-21T07:28:28+00:00 | closed | Fab2 | [Embedded Software Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da) |
+| 2026-11-21T07:28:28+00:00 | new | Etched | [SI/PI Intern](https://jobs.ashbyhq.com/Etched/45639738-0414-43e2-a5e7-b4acc928d62d) |
 | 2026-11-20T20:35:11+00:00 | new | Arago | [Software Engineer Intern](https://jobs.ashbyhq.com/arago/6b00541c-fdf2-4bfd-be7a-4ee74cc100c2) |
 | 2026-11-20T07:33:49+00:00 | closed | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) |
 | 2026-11-20T07:33:49+00:00 | closed | Lightmatter | [Hardware Test Engineering, Intern (Summer 2027)](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) |
