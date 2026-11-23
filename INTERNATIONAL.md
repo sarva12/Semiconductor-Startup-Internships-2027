@@ -5,7 +5,6 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
 | Arago | [Software Engineer Intern](https://jobs.ashbyhq.com/arago/6b00541c-fdf2-4bfd-be7a-4ee74cc100c2) | Paris Office | Not specified | 2026-11-20 | 2026-11-20 | Interconnect / networking, Embedded / boards, AI / software |
-| Syenta | [Process Engineer Internship](https://jobs.ashbyhq.com/syenta/3f34acdc-aeac-4846-9efc-fd6d56e704d6) | Sydney | Not specified | 2026-11-18 | 2026-11-19 | Interconnect / networking, Embedded / boards |
 | Quobly | [Generative AI Internship](https://careers.quobly.io/o/generative-ai-internship) | Grenoble, Auvergne-Rhône-Alpes, France | Not specified | 2026-10-27 | 2026-11-17 | AI / software |
 | Quantum Motion | [PhD Programme - 2027/2028 Academic Year](https://quantummotion.jobs.personio.com/job/2890172?language=en) | London, UK | Not specified | Unknown | 2026-11-16 | Server / validation, Physical design, AI / software |
 | SiPearl | [\[INTERNSHIP\] Study, integration and deployment of a power estimation tool on hardware emulator](https://careers.sipearl.com/jobs/8679005-internship-study-integration-and-deployment-of-a-power-estimation-tool-on-hardware-emulator) | 4 Pl. Robert Schuman, Grenoble, 38000, FR, Auvergne Rhones Alpes | Not specified | 2026-11-06 | 2026-11-12 | Server / validation, RTL / verification, Embedded / boards, AI / software |

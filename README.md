@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-22T19:53:45+00:00** · **421 companies registered** · **71 with successful complete board API checks** · **117 open technical internships found**.
+Latest scan: **2026-11-23T07:56:19+00:00** · **421 companies registered** · **71 with successful complete board API checks** · **116 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -119,7 +119,6 @@ _No verified matching openings found in successfully checked sources. See covera
 | Fab2 | [Process Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/476007f4-4f8c-4160-86c2-8be11c5efee4) | Austin | Not specified | 2026-08-28 | 2026-11-20 | AI / software |
 | Fab2 | [Rust Software Engineering Intern, Chip Design Tools - Summer](https://jobs.ashbyhq.com/Fab2/2b0ab443-c7d8-4547-9766-111747f0b361) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | Server / validation, AI / software |
 | Fab2 | [Rust Software Engineering Intern, Chip Design Tools - Winter](https://jobs.ashbyhq.com/Fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904) | Austin; San Francisco Office | Not specified | 2026-08-28 | 2026-11-20 | Server / validation, AI / software |
-| Syenta | [Process Engineer Internship](https://jobs.ashbyhq.com/syenta/3f34acdc-aeac-4846-9efc-fd6d56e704d6) | Sydney | Not specified | 2026-11-18 | 2026-11-19 | Interconnect / networking, Embedded / boards |
 
 ### NETWORKING
 
