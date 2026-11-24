@@ -5,6 +5,7 @@ These are not counted as open jobs.
 | Company | Link | Status |
 | --- | --- | --- |
 | Chipmind | [Internship](https://www.chipmind.ai/careers/internship) | Unverified link; may be an old posting or general program |
+| Discovered Materials | [Applied AI Intern](https://www.ycombinator.com/companies/silimate/jobs/xt2UihN-applied-ai-intern) | Unverified link; may be an old posting or general program |
 | Discovered Materials | [Internships](https://www.workatastartup.com/internships) | Unverified link; may be an old posting or general program |
 | HyperAccel | [Talent Pool 등록(Internship)인재풀R&DHW외HW Engineer외인턴](https://hyperaccel.career.greetinghr.com/ko/o/220411) | Unverified link; may be an old posting or general program |
 | Ludwig Computing | [ML Research Intern - Model EfficiencyInternship · SF Bay Area · On-site / RemoteApply→](https://ludwigcomputing.com/careers/ml-research-intern-model-efficiency) | Unverified link; may be an old posting or general program |
