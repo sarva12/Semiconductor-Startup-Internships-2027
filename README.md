@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-24T00:06:55+00:00** · **421 companies registered** · **71 with successful complete board API checks** · **114 open technical internships found**.
+Latest scan: **2026-11-24T10:08:52+00:00** · **421 companies registered** · **71 with successful complete board API checks** · **115 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -103,6 +103,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Syenta | [Metrology Technician (Part Time - Internship)](https://jobs.ashbyhq.com/syenta/70407901-b4e8-4da2-a762-24763280d299) | Sydney | Not specified | 2026-11-24 | 2026-11-24 | RTL / verification, Interconnect / networking, AI / software |
 | Fab2 | [Automation Software Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | AI / software |
 | Fab2 | [Automation Software Engineering Intern - Winter](https://jobs.ashbyhq.com/Fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765) | Austin; San Francisco Office | Not specified | 2026-08-28 | 2026-11-20 | AI / software |
 | Fab2 | [Electrical Engineering Intern - Summer](https://jobs.ashbyhq.com/Fab2/aec19ef8-2257-4295-abc2-87afd05224ae) | Austin; San Francisco Office | Not specified | 2026-09-05 | 2026-11-20 | Embedded / boards, AI / software |

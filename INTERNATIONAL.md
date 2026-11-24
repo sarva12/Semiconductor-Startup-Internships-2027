@@ -4,6 +4,7 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Syenta | [Metrology Technician (Part Time - Internship)](https://jobs.ashbyhq.com/syenta/70407901-b4e8-4da2-a762-24763280d299) | Sydney | Not specified | 2026-11-24 | 2026-11-24 | RTL / verification, Interconnect / networking, AI / software |
 | Arago | [Software Engineer Intern](https://jobs.ashbyhq.com/arago/6b00541c-fdf2-4bfd-be7a-4ee74cc100c2) | Paris Office | Not specified | 2026-11-20 | 2026-11-20 | Interconnect / networking, Embedded / boards, AI / software |
 | Quobly | [Generative AI Internship](https://careers.quobly.io/o/generative-ai-internship) | Grenoble, Auvergne-Rhône-Alpes, France | Not specified | 2026-10-27 | 2026-11-17 | AI / software |
 | Quantum Motion | [PhD Programme - 2027/2028 Academic Year](https://quantummotion.jobs.personio.com/job/2890172?language=en) | London, UK | Not specified | Unknown | 2026-11-16 | Server / validation, Physical design, AI / software |
