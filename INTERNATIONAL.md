@@ -4,7 +4,6 @@ Location keyword grouping only. Multi-country roles may appear in US results; re
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| PsiQuantum | [Intern - Site Operations, Australia](https://www.psiquantum.com/apply?gh_jid=8198317003) | Brisbane, Queensland, Australia | Not specified | 2026-11-24 | 2026-11-25 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Syenta | [Metrology Technician (Part Time - Internship)](https://jobs.ashbyhq.com/syenta/70407901-b4e8-4da2-a762-24763280d299) | Sydney | Not specified | 2026-11-24 | 2026-11-24 | RTL / verification, Interconnect / networking, AI / software |
 | Arago | [Software Engineer Intern](https://jobs.ashbyhq.com/arago/6b00541c-fdf2-4bfd-be7a-4ee74cc100c2) | Paris Office | Not specified | 2026-11-20 | 2026-11-20 | Interconnect / networking, Embedded / boards, AI / software |
 | Quobly | [Generative AI Internship](https://careers.quobly.io/o/generative-ai-internship) | Grenoble, Auvergne-Rhône-Alpes, France | Not specified | 2026-10-27 | 2026-11-17 | AI / software |

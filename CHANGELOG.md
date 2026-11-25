@@ -4,6 +4,19 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-25T21:53:03+00:00 | closed | Quadric.io | [RTL Intern](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2) |
+| 2026-11-25T21:53:03+00:00 | closed | Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [RTL Design Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271328004) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [Post-Silicon Validation Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [Physical Design Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [ML Infrastructure Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [Machine Learning Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [DFT Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [Design Verification Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271308004) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [Compiler Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270729004) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [Cloud Platform Engineer Intern (San Jose)](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271352004) |
+| 2026-11-25T21:53:03+00:00 | new | SambaNova | [AI Performance Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004) |
+| 2026-11-25T21:53:03+00:00 | new | Lightmatter | [Firmware Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008) |
 | 2026-11-25T08:54:42+00:00 | new | SambaNova | [Runtime Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) |
 | 2026-11-25T08:54:42+00:00 | new | PsiQuantum | [Intern - Site Operations, Australia](https://www.psiquantum.com/apply?gh_jid=8198317003) |
 | 2026-11-25T08:54:42+00:00 | new | Lightmatter | [Design Verification, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474684008?gh_jid=5474684008) |

@@ -4,7 +4,7 @@
 
 A GitHub internship log inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), using the company universe from [Andreas Olofsson’s semiconductor startup database](https://github.com/aolofsson/awesome-semiconductor-startups).
 
-Latest scan: **2026-11-25T08:54:42+00:00** · **421 companies registered** · **71 with successful complete board API checks** · **117 open technical internships found**.
+Latest scan: **2026-11-25T21:53:03+00:00** · **421 companies registered** · **71 with successful complete board API checks** · **127 open technical internships found**.
 
 **Coverage is not exhaustive.** Every company is registered and discovery is attempted. Unsupported, inaccessible, JavaScript-only and unstructured career pages remain in the [coverage report](COVERAGE.md). A successful API check covers that board, not every possible company source. Unverified internship links are in [leads](LEADS.md).
 
@@ -33,6 +33,16 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| SambaNova | [AI Performance Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004) | Austin, Texas, United States; San Jose, California, United States | Not specified | 2026-11-25 | 2026-11-25 | Server / validation, AI / software |
+| SambaNova | [Cloud Platform Engineer Intern (San Jose)](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271352004) | San Jose, California, United States | Not specified | 2026-11-25 | 2026-11-25 | Server / validation, Interconnect / networking, AI / software |
+| SambaNova | [Compiler Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270729004) | Austin, Texas, United States; San Jose, California, United States | Not specified | 2026-11-25 | 2026-11-25 | Server / validation, AI / software |
+| SambaNova | [DFT Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004) | Austin, Texas, United States; San Jose, California, United States | Summer 2027 | 2026-11-25 | 2026-11-25 | Server / validation, RTL / verification, Physical design, AI / software |
+| SambaNova | [Design Verification Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271308004) | Austin, Texas, United States; San Jose, California, United States | Not specified | 2026-11-25 | 2026-11-25 | Server / validation, RTL / verification, Embedded / boards, AI / software |
+| SambaNova | [ML Infrastructure Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004) | Austin, Texas, United States; San Jose, California, United States | Not specified | 2026-11-25 | 2026-11-25 | Server / validation, RTL / verification, AI / software |
+| SambaNova | [Machine Learning Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) | Austin, Texas, United States; San Jose, California, United States | Not specified | 2026-11-25 | 2026-11-25 | Server / validation, AI / software |
+| SambaNova | [Physical Design Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004) | Austin, Texas, United States; San Jose, California, United States | Summer 2027 | 2026-11-25 | 2026-11-25 | Server / validation, RTL / verification, Physical design, AI / software |
+| SambaNova | [Post-Silicon Validation Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004) | Austin, Texas, United States; San Jose, California, United States | Summer 2027 | 2026-11-25 | 2026-11-25 | Server / validation, RTL / verification, Interconnect / networking, Embedded / boards, AI / software |
+| SambaNova | [RTL Design Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271328004) | Austin, Texas, United States; San Jose, California, United States | Not specified | 2026-11-25 | 2026-11-25 | Server / validation, RTL / verification, Physical design, Interconnect / networking, AI / software |
 | SambaNova | [Runtime Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) | Austin, Texas, United States; San Jose, California, United States | Summer 2027 | 2026-11-24 | 2026-11-25 | Server / validation, Interconnect / networking, AI / software |
 | Etched | [SI/PI Intern](https://jobs.ashbyhq.com/Etched/45639738-0414-43e2-a5e7-b4acc928d62d) | San Jose | Not specified | 2026-11-21 | 2026-11-21 | Server / validation, RTL / verification, Embedded / boards, AI / software |
 | Etched | [Production Intern](https://jobs.ashbyhq.com/Etched/bd570162-4143-42ac-be87-a473075749b9) | San Jose | Not specified | 2026-11-19 | 2026-11-19 | AI / software |
@@ -135,6 +145,7 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lightmatter | [Firmware Intern – Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008) | Boston, MA | Summer 2027 | 2026-11-25 | 2026-11-25 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Lightmatter | [Design Verification, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5493962008?gh_jid=5493962008) | Boston, MA | Summer 2027 | 2026-11-24 | 2026-11-25 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 | Lightmatter | [Design Verification, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474684008?gh_jid=5474684008) | Mountain View, CA | Summer 2027 | 2026-11-24 | 2026-11-25 | Server / validation, RTL / verification, Interconnect / networking, AI / software |
 | Arago | [Software Engineer Intern](https://jobs.ashbyhq.com/arago/6b00541c-fdf2-4bfd-be7a-4ee74cc100c2) | Paris Office | Not specified | 2026-11-20 | 2026-11-20 | Interconnect / networking, Embedded / boards, AI / software |
@@ -184,7 +195,6 @@ _No verified matching openings found in successfully checked sources. See covera
 
 | Company | Role / apply | Location | Term | Posted | First found | Relevance |
 | --- | --- | --- | --- | --- | --- | --- |
-| PsiQuantum | [Intern - Site Operations, Australia](https://www.psiquantum.com/apply?gh_jid=8198317003) | Brisbane, Queensland, Australia | Not specified | 2026-11-24 | 2026-11-25 | Server / validation, Interconnect / networking, Embedded / boards, AI / software |
 | Quobly | [Generative AI Internship](https://careers.quobly.io/o/generative-ai-internship) | Grenoble, Auvergne-Rhône-Alpes, France | Not specified | 2026-10-27 | 2026-11-17 | AI / software |
 | Quantum Motion | [PhD Programme - 2027/2028 Academic Year](https://quantummotion.jobs.personio.com/job/2890172?language=en) | London, UK | Not specified | Unknown | 2026-11-16 | Server / validation, Physical design, AI / software |
 | Sygaldry | [Internship/Research Engineer](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) | Ann Arbor | Not specified | 2026-10-21 | 2026-11-05 | Server / validation, RTL / verification, Physical design, Interconnect / networking, Embedded / boards, AI / software |
