@@ -4,6 +4,10 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-25T08:54:42+00:00 | new | SambaNova | [Runtime Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) |
+| 2026-11-25T08:54:42+00:00 | new | PsiQuantum | [Intern - Site Operations, Australia](https://www.psiquantum.com/apply?gh_jid=8198317003) |
+| 2026-11-25T08:54:42+00:00 | new | Lightmatter | [Design Verification, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474684008?gh_jid=5474684008) |
+| 2026-11-25T08:54:42+00:00 | new | Lightmatter | [Design Verification, Intern Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5493962008?gh_jid=5493962008) |
 | 2026-11-24T10:08:52+00:00 | closed | Ayar Labs | [Intern, Program Management Office (PMO)](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb04b3660421) |
 | 2026-11-24T10:08:52+00:00 | closed | Ayar Labs | [Intern, Link Modeling/Architecture - Mixed Signal Modeling and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1b18b825027ef) |
 | 2026-11-24T10:08:52+00:00 | new | Syenta | [Metrology Technician (Part Time - Internship)](https://jobs.ashbyhq.com/syenta/70407901-b4e8-4da2-a762-24763280d299) |
