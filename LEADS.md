@@ -11,6 +11,8 @@ These are not counted as open jobs.
 | NcodiN | [← Spontaneous application – Internship](https://ncodin.com/job/internship/) | Unverified link; may be an old posting or general program |
 | Paragraf | [Internships](https://www.paragraf.com/careers/internships/) | Unverified link; may be an old posting or general program |
 | Paragraf | [2027 12 Month Internships](https://apply.workable.com/paragraf-1/j/4B57634530) | Unverified link; may be an old posting or general program |
+| PQShield | [Internship - Hardware Engineer (Placement Year 2027) View and apply → Engineering · Oxford preferred](https://pqshield.com/careers/apply/5049819101/?gh_jid=5049819101) | Unverified link; may be an old posting or general program |
+| PQShield | [Internship - Software Engineer (Placement Year 2027) View and apply → Engineering · Oxford preferred](https://pqshield.com/careers/apply/5049820101/?gh_jid=5049820101) | Unverified link; may be an old posting or general program |
 | PragmatiC | [Internships](https://talent.pragmaticsemi.com/departments/internships) | Unverified link; may be an old posting or general program |
 | Rebellions | [Talent Pool (Internship)](https://rebellions.career.greetinghr.com/o/152709) | Unverified link; may be an old posting or general program |
 | Rebellions | [Talent Pool (Internship)Talent PoolRebellions \\| Korea](https://rebellions.career.greetinghr.com/en/o/152709) | Unverified link; may be an old posting or general program |
