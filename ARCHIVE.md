@@ -69,7 +69,7 @@ Excluded means a listing was attributed to the wrong employer; it is not an open
 | NcodiN | [Spontaneous application - Internship](https://job-boards.eu.greenhouse.io/ncodin/jobs/4802207101) | unconfirmed | 2026-09-27T07:01:59+00:00 | 2026-10-04T06:06:20+00:00 | — |
 | Nuvacore | [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c) | closed | 2026-11-03T19:40:40+00:00 | 2026-11-05T20:09:03+00:00 | 2026-11-06T19:34:42+00:00 |
 | Olix | [Software Engineering Intern](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e) | closed | 2026-10-29T22:53:54+00:00 | 2026-11-02T06:28:23+00:00 | 2026-11-03T07:01:32+00:00 |
-| PsiQuantum | [Intern - Site Operations, Australia](https://www.psiquantum.com/apply?gh_jid=8198317003) | unconfirmed | 2026-11-25T08:54:42+00:00 | 2026-11-25T08:54:42+00:00 | — |
+| PsiQuantum | [Intern - Site Operations, Australia](https://www.psiquantum.com/apply?gh_jid=8198317003) | closed | 2026-11-25T08:54:42+00:00 | 2026-11-25T08:54:42+00:00 | 2026-11-26T08:40:06+00:00 |
 | Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) | closed | 2026-09-30T22:25:49+00:00 | 2026-11-24T22:39:28+00:00 | 2026-11-25T21:53:03+00:00 |
 | Quadric.io | [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52) | closed | 2026-09-30T22:25:49+00:00 | 2026-11-19T07:42:16+00:00 | 2026-11-20T07:33:49+00:00 |
 | Quadric.io | [Design Verification Intern](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168) | closed | 2026-09-30T22:25:49+00:00 | 2026-11-10T19:54:42+00:00 | 2026-11-11T19:46:42+00:00 |

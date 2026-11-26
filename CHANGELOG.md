@@ -4,6 +4,7 @@ Events use observation time in UTC, not employer publication time.
 
 | Observed UTC | Event | Company | Role |
 | --- | --- | --- | --- |
+| 2026-11-26T08:40:06+00:00 | closed | PsiQuantum | [Intern - Site Operations, Australia](https://www.psiquantum.com/apply?gh_jid=8198317003) |
 | 2026-11-25T21:53:03+00:00 | closed | Quadric.io | [RTL Intern](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2) |
 | 2026-11-25T21:53:03+00:00 | closed | Quadric.io | [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) |
 | 2026-11-25T21:53:03+00:00 | new | SambaNova | [RTL Design Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271328004) |
