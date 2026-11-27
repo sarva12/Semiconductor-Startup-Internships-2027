@@ -760,6 +760,14 @@
     "in_requested_categories": true
   },
   {
+    "id": "delos-data",
+    "name": "Delos Data",
+    "website": "https://delosdata.com",
+    "category": "NETWORKING",
+    "country": "US",
+    "in_requested_categories": true
+  },
+  {
     "id": "denpaflux",
     "name": "Denpaflux",
     "website": "https://denpaflux.com",
@@ -1093,6 +1101,14 @@
     "website": "https://fractile.ai",
     "category": "AI",
     "country": "GB",
+    "in_requested_categories": true
+  },
+  {
+    "id": "fricxel",
+    "name": "Fricxel",
+    "website": "https://fricxel.com",
+    "category": "EDA",
+    "country": "US",
     "in_requested_categories": true
   },
   {
@@ -2133,14 +2149,6 @@
     "website": "https://pragmaticsemi.com",
     "category": "MFG",
     "country": "GB",
-    "in_requested_categories": true
-  },
-  {
-    "id": "precision-innovations",
-    "name": "Precision Innovations",
-    "website": "https://precisioninno.com",
-    "category": "EDA",
-    "country": "US",
     "in_requested_categories": true
   },
   {

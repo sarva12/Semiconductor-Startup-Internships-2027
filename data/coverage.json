@@ -59,24 +59,17 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://aistorm.ai",
-        "error": "HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://aistorm.ai/careers/",
-        "error": "HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://aistorm.ai/careers/"
     ],
-    "discovered_at": "2026-11-27T08:47:39+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:27:34+00:00",
     "company_id": "aistorm",
-    "checked_at": "2026-11-27T08:47:39+00:00",
+    "checked_at": "2026-11-27T21:27:36+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
+    "coverage": "Partial / needs review",
     "total_board_jobs": 0
   },
   {
@@ -89,9 +82,9 @@
       "https://www.aheadcomputing.com/career/silicon-debug-architect"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:40+00:00",
+    "discovered_at": "2026-11-27T21:27:28+00:00",
     "company_id": "ahead-computing",
-    "checked_at": "2026-11-27T08:47:41+00:00",
+    "checked_at": "2026-11-27T21:27:28+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -102,15 +95,17 @@
     "sources": [],
     "career_pages": [
       "https://www.agileanalog.com/careers",
-      "https://www.agileanalog.com/careers/open-roles",
-      "https://careers.agileanalog.com/jobs/3185797-senior-staff-analog-engineer?utm_campaign=jobs-widget&utm_source=careers.agileanalog.com&utm_content=jobs&utm_medium=web",
-      "https://careers.agileanalog.com/jobs",
-      "https://careers.agileanalog.com/jobs/8544767-senior-project-management-engineering-manager"
+      "https://www.agileanalog.com/careers/open-roles"
     ],
-    "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:42+00:00",
+    "discovery_errors": [
+      {
+        "url": "https://careers.agileanalog.com/jobs/3185797-senior-staff-analog-engineer?utm_campaign=jobs-widget&utm_source=careers.agileanalog.com&utm_content=jobs&utm_medium=web",
+        "error": "robots.txt disallows this URL"
+      }
+    ],
+    "discovered_at": "2026-11-27T21:27:27+00:00",
     "company_id": "agile-analog",
-    "checked_at": "2026-11-27T08:47:43+00:00",
+    "checked_at": "2026-11-27T21:27:27+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -128,9 +123,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:39+00:00",
+    "discovered_at": "2026-11-27T21:27:27+00:00",
     "company_id": "agnit-semiconductor",
-    "checked_at": "2026-11-27T08:47:40+00:00",
+    "checked_at": "2026-11-27T21:27:27+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -151,7 +146,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:52:32+00:00",
     "company_id": "allspice-io",
-    "checked_at": "2026-11-27T08:47:39+00:00",
+    "checked_at": "2026-11-27T21:27:27+00:00",
     "successful_sources": [
       "ashby:allspice"
     ],
@@ -170,9 +165,9 @@
       "https://agentrys.ai/careers/solutions-engineer"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:40+00:00",
+    "discovered_at": "2026-11-27T21:27:27+00:00",
     "company_id": "agentrys",
-    "checked_at": "2026-11-27T08:47:41+00:00",
+    "checked_at": "2026-11-27T21:27:28+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -183,9 +178,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:38+00:00",
+    "discovered_at": "2026-11-27T21:27:26+00:00",
     "company_id": "abacus-semiconductor",
-    "checked_at": "2026-11-27T08:47:38+00:00",
+    "checked_at": "2026-11-27T21:27:26+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -199,9 +194,9 @@
       "https://agitalabs.com/jobs/embedded-privacy-technology-entrepreneur/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:40+00:00",
+    "discovered_at": "2026-11-27T21:27:28+00:00",
     "company_id": "agita-labs",
-    "checked_at": "2026-11-27T08:47:42+00:00",
+    "checked_at": "2026-11-27T21:27:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -237,7 +232,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:52:31+00:00",
     "company_id": "akhetonics",
-    "checked_at": "2026-11-27T08:47:40+00:00",
+    "checked_at": "2026-11-27T21:27:27+00:00",
     "successful_sources": [],
     "errors": [
       {
@@ -257,9 +252,9 @@
       "https://ambientscientific.ai/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:47+00:00",
+    "discovered_at": "2026-11-27T21:27:34+00:00",
     "company_id": "ambient-scientific",
-    "checked_at": "2026-11-27T08:47:51+00:00",
+    "checked_at": "2026-11-27T21:27:38+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -268,32 +263,20 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://amsimcel.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://hyperpv.com/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://hyperpv.com/careers/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://hyperpv.com/job/engineering-manager/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://hyperpv.com/",
+      "https://hyperpv.com/careers/",
+      "https://hyperpv.com/job/engineering-manager/",
+      "https://hyperpv.com/job/product-designer/"
     ],
-    "discovered_at": "2026-11-27T08:47:42+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:27:40+00:00",
     "company_id": "amsimcel",
-    "checked_at": "2026-11-27T08:47:42+00:00",
+    "checked_at": "2026-11-27T21:27:45+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
+    "coverage": "Partial / needs review",
     "total_board_jobs": 0
   },
   {
@@ -305,9 +288,9 @@
       "https://anabrid.com/career/digital-asic-designer-m-w-d"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:44+00:00",
+    "discovered_at": "2026-11-27T21:27:31+00:00",
     "company_id": "anabrid",
-    "checked_at": "2026-11-27T08:47:46+00:00",
+    "checked_at": "2026-11-27T21:27:33+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -341,9 +324,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:44+00:00",
+    "discovered_at": "2026-11-27T21:27:32+00:00",
     "company_id": "atoms-ai",
-    "checked_at": "2026-11-27T08:47:44+00:00",
+    "checked_at": "2026-11-27T21:27:32+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -359,9 +342,9 @@
         "error": "robots.txt unavailable: <urlopen error [Errno 111] Connection refused>"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:40+00:00",
+    "discovered_at": "2026-11-27T21:27:27+00:00",
     "company_id": "andapt",
-    "checked_at": "2026-11-27T08:47:40+00:00",
+    "checked_at": "2026-11-27T21:27:27+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -377,9 +360,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:43+00:00",
+    "discovered_at": "2026-11-27T21:27:30+00:00",
     "company_id": "atlant-3d",
-    "checked_at": "2026-11-27T08:47:43+00:00",
+    "checked_at": "2026-11-27T21:27:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -405,7 +388,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:52:35+00:00",
     "company_id": "anello",
-    "checked_at": "2026-11-27T08:47:41+00:00",
+    "checked_at": "2026-11-27T21:27:28+00:00",
     "successful_sources": [
       "greenhouse:anellophotonics"
     ],
@@ -429,22 +412,22 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:52:35+00:00",
     "company_id": "arago",
-    "checked_at": "2026-11-27T08:47:41+00:00",
+    "checked_at": "2026-11-27T21:27:29+00:00",
     "successful_sources": [
       "ashby:arago"
     ],
     "errors": [],
     "leads": [],
     "coverage": "API checked",
-    "total_board_jobs": 15
+    "total_board_jobs": 16
   },
   {
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:45+00:00",
+    "discovered_at": "2026-11-27T21:27:33+00:00",
     "company_id": "aule-technologies",
-    "checked_at": "2026-11-27T08:47:45+00:00",
+    "checked_at": "2026-11-27T21:27:33+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -457,9 +440,9 @@
       "https://ascenium.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:44+00:00",
+    "discovered_at": "2026-11-27T21:27:31+00:00",
     "company_id": "ascenium",
-    "checked_at": "2026-11-27T08:47:45+00:00",
+    "checked_at": "2026-11-27T21:27:32+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -470,9 +453,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:53+00:00",
+    "discovered_at": "2026-11-27T21:27:40+00:00",
     "company_id": "argus-space",
-    "checked_at": "2026-11-27T08:47:53+00:00",
+    "checked_at": "2026-11-27T21:27:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -496,9 +479,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:43+00:00",
+    "discovered_at": "2026-11-27T21:27:30+00:00",
     "company_id": "aspinity",
-    "checked_at": "2026-11-27T08:47:43+00:00",
+    "checked_at": "2026-11-27T21:27:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -518,9 +501,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:45+00:00",
+    "discovered_at": "2026-11-27T21:27:32+00:00",
     "company_id": "atmosic",
-    "checked_at": "2026-11-27T08:47:45+00:00",
+    "checked_at": "2026-11-27T21:27:33+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -533,9 +516,24 @@
       "https://beamshaping.io/jobs/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:47+00:00",
+    "discovered_at": "2026-11-27T21:27:36+00:00",
     "company_id": "beam",
-    "checked_at": "2026-11-27T08:47:48+00:00",
+    "checked_at": "2026-11-27T21:27:36+00:00",
+    "successful_sources": [],
+    "errors": [],
+    "leads": [],
+    "coverage": "Partial / needs review",
+    "total_board_jobs": 0
+  },
+  {
+    "sources": [],
+    "career_pages": [
+      "https://azimuth-ai.com/careers.html"
+    ],
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:27:37+00:00",
+    "company_id": "azimuth-ai",
+    "checked_at": "2026-11-27T21:27:38+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -545,32 +543,10 @@
   {
     "sources": [],
     "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://azimuth-ai.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://azimuth-ai.com/careers.html",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
-    ],
-    "discovered_at": "2026-11-27T08:47:47+00:00",
-    "company_id": "azimuth-ai",
-    "checked_at": "2026-11-27T08:47:47+00:00",
-    "successful_sources": [],
-    "errors": [],
-    "leads": [],
-    "coverage": "Discovery blocked / needs review",
-    "total_board_jobs": 0
-  },
-  {
-    "sources": [],
-    "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:48+00:00",
+    "discovered_at": "2026-11-27T21:27:37+00:00",
     "company_id": "bluespec",
-    "checked_at": "2026-11-27T08:47:48+00:00",
+    "checked_at": "2026-11-27T21:27:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -593,7 +569,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:52:45+00:00",
     "company_id": "black-semiconductor",
-    "checked_at": "2026-11-27T08:47:48+00:00",
+    "checked_at": "2026-11-27T21:27:36+00:00",
     "successful_sources": [
       "ashby:blacksemiconductor"
     ],
@@ -611,9 +587,9 @@
         "error": "HTTP Error 403: Forbidden"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:48+00:00",
+    "discovered_at": "2026-11-27T21:27:38+00:00",
     "company_id": "bolt-semiconductor",
-    "checked_at": "2026-11-27T08:47:48+00:00",
+    "checked_at": "2026-11-27T21:27:38+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -629,9 +605,9 @@
       "https://bossemiconductors.jobday.vn/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:54+00:00",
+    "discovered_at": "2026-11-27T21:27:43+00:00",
     "company_id": "bos-semiconductors",
-    "checked_at": "2026-11-27T08:47:54+00:00",
+    "checked_at": "2026-11-27T21:27:44+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -661,9 +637,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:48+00:00",
+    "discovered_at": "2026-11-27T21:27:36+00:00",
     "company_id": "beacon-photonics",
-    "checked_at": "2026-11-27T08:47:48+00:00",
+    "checked_at": "2026-11-27T21:27:36+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -681,9 +657,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:43+00:00",
+    "discovered_at": "2026-11-27T21:27:29+00:00",
     "company_id": "analog-photonics",
-    "checked_at": "2026-11-27T08:47:44+00:00",
+    "checked_at": "2026-11-27T21:27:29+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -696,9 +672,9 @@
       "https://www.astrus.ai/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:45+00:00",
+    "discovered_at": "2026-11-27T21:27:31+00:00",
     "company_id": "astrus",
-    "checked_at": "2026-11-27T08:47:45+00:00",
+    "checked_at": "2026-11-27T21:27:32+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -715,9 +691,9 @@
       "https://ats.rippling.com/bronco-ai/jobs/960be591-6a98-4129-ae6d-31614d0590a7/apply"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:51+00:00",
+    "discovered_at": "2026-11-27T21:27:42+00:00",
     "company_id": "bronco-ai",
-    "checked_at": "2026-11-27T08:47:52+00:00",
+    "checked_at": "2026-11-27T21:27:43+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -728,9 +704,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:51+00:00",
+    "discovered_at": "2026-11-27T21:27:40+00:00",
     "company_id": "build4sim-inc",
-    "checked_at": "2026-11-27T08:47:51+00:00",
+    "checked_at": "2026-11-27T21:27:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -746,9 +722,9 @@
         "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:52+00:00",
+    "discovered_at": "2026-11-27T21:27:42+00:00",
     "company_id": "celero-communications",
-    "checked_at": "2026-11-27T08:47:52+00:00",
+    "checked_at": "2026-11-27T21:27:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -759,9 +735,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:51+00:00",
+    "discovered_at": "2026-11-27T21:27:39+00:00",
     "company_id": "blueshift-memory",
-    "checked_at": "2026-11-27T08:47:51+00:00",
+    "checked_at": "2026-11-27T21:27:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -777,9 +753,9 @@
         "error": "robots.txt unavailable: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)>"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:51+00:00",
+    "discovered_at": "2026-11-27T21:27:42+00:00",
     "company_id": "cassia-ai",
-    "checked_at": "2026-11-27T08:47:51+00:00",
+    "checked_at": "2026-11-27T21:27:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -790,9 +766,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:53+00:00",
+    "discovered_at": "2026-11-27T21:27:44+00:00",
     "company_id": "cellium",
-    "checked_at": "2026-11-27T08:47:53+00:00",
+    "checked_at": "2026-11-27T21:27:44+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -814,9 +790,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:50+00:00",
+    "discovered_at": "2026-11-27T21:27:40+00:00",
     "company_id": "blumind",
-    "checked_at": "2026-11-27T08:47:51+00:00",
+    "checked_at": "2026-11-27T21:27:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -839,21 +815,13 @@
   {
     "sources": [],
     "career_pages": [
-      "https://www.youtube.com/embed/zG8z8o0_ggI?si=aeDjV8p8DeKB9PdI"
+      "https://www.youtube.com/embed/zG8z8o0_ggI?si=aeDjV8p8DeKB9PdI",
+      "https://avicena.tech/careers/"
     ],
-    "discovery_errors": [
-      {
-        "url": "https://avicena.tech",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://avicena.tech/careers/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
-    ],
-    "discovered_at": "2026-11-27T08:47:46+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:27:39+00:00",
     "company_id": "avicena",
-    "checked_at": "2026-11-27T08:47:46+00:00",
+    "checked_at": "2026-11-27T21:27:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -864,9 +832,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:56+00:00",
+    "discovered_at": "2026-11-27T21:27:48+00:00",
     "company_id": "celtro",
-    "checked_at": "2026-11-27T08:47:56+00:00",
+    "checked_at": "2026-11-27T21:27:48+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -888,14 +856,14 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:52:40+00:00",
     "company_id": "axelera",
-    "checked_at": "2026-11-27T08:47:45+00:00",
+    "checked_at": "2026-11-27T21:27:33+00:00",
     "successful_sources": [
       "ashby:axelera"
     ],
     "errors": [],
     "leads": [],
     "coverage": "API checked",
-    "total_board_jobs": 14
+    "total_board_jobs": 17
   },
   {
     "sources": [],
@@ -905,9 +873,9 @@
       "https://boolsi.com/careers-principal-robotics-engineer.html"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:50+00:00",
+    "discovered_at": "2026-11-27T21:27:39+00:00",
     "company_id": "boolsi",
-    "checked_at": "2026-11-27T08:47:51+00:00",
+    "checked_at": "2026-11-27T21:27:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -918,9 +886,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:54+00:00",
+    "discovered_at": "2026-11-27T21:27:43+00:00",
     "company_id": "cerfe-labs",
-    "checked_at": "2026-11-27T08:47:54+00:00",
+    "checked_at": "2026-11-27T21:27:43+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -939,9 +907,9 @@
         "error": "HTTP Error 403: Forbidden"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:43+00:00",
+    "discovered_at": "2026-11-27T21:27:31+00:00",
     "company_id": "aniah",
-    "checked_at": "2026-11-27T08:47:43+00:00",
+    "checked_at": "2026-11-27T21:27:31+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -954,9 +922,9 @@
       "https://ceremorphic.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:54+00:00",
+    "discovered_at": "2026-11-27T21:27:43+00:00",
     "company_id": "ceremorphic",
-    "checked_at": "2026-11-27T08:47:54+00:00",
+    "checked_at": "2026-11-27T21:27:43+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -969,9 +937,9 @@
       "https://circuitleap.ai/careers.html"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:56+00:00",
+    "discovered_at": "2026-11-27T21:27:44+00:00",
     "company_id": "circuitleap-ai",
-    "checked_at": "2026-11-27T08:47:56+00:00",
+    "checked_at": "2026-11-27T21:27:45+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -997,9 +965,9 @@
       "https://www.cadstrom.io/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:52+00:00",
+    "discovered_at": "2026-11-27T21:27:41+00:00",
     "company_id": "cadstrom",
-    "checked_at": "2026-11-27T08:47:52+00:00",
+    "checked_at": "2026-11-27T21:27:41+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1020,7 +988,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:52:49+00:00",
     "company_id": "chipagents",
-    "checked_at": "2026-11-27T08:47:54+00:00",
+    "checked_at": "2026-11-27T21:27:43+00:00",
     "successful_sources": [
       "ashby:alpha-design-ai-inc"
     ],
@@ -1039,9 +1007,9 @@
       "https://finsweet.com/jobs/home"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:49+00:00",
+    "discovered_at": "2026-11-27T21:27:38+00:00",
     "company_id": "belfort",
-    "checked_at": "2026-11-27T08:47:50+00:00",
+    "checked_at": "2026-11-27T21:27:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1056,9 +1024,9 @@
       "https://www.appliedbrainresearch.com/career/head-of-software-operations"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:02+00:00",
+    "discovered_at": "2026-11-27T21:27:52+00:00",
     "company_id": "applied-brain-research",
-    "checked_at": "2026-11-27T08:48:11+00:00",
+    "checked_at": "2026-11-27T21:28:01+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1074,9 +1042,9 @@
         "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:56+00:00",
+    "discovered_at": "2026-11-27T21:27:45+00:00",
     "company_id": "cornami",
-    "checked_at": "2026-11-27T08:47:56+00:00",
+    "checked_at": "2026-11-27T21:27:45+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1097,7 +1065,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:00+00:00",
     "company_id": "ayar-labs",
-    "checked_at": "2026-11-27T08:47:56+00:00",
+    "checked_at": "2026-11-27T21:27:44+00:00",
     "successful_sources": [
       "ayar:ayarlabs"
     ],
@@ -1112,9 +1080,9 @@
       "https://www.chipletz.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:55+00:00",
+    "discovered_at": "2026-11-27T21:27:44+00:00",
     "company_id": "chipletz",
-    "checked_at": "2026-11-27T08:47:55+00:00",
+    "checked_at": "2026-11-27T21:27:44+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1143,9 +1111,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:57+00:00",
+    "discovered_at": "2026-11-27T21:27:46+00:00",
     "company_id": "cyrillic",
-    "checked_at": "2026-11-27T08:47:57+00:00",
+    "checked_at": "2026-11-27T21:27:46+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1164,9 +1132,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:07+00:00",
+    "discovered_at": "2026-11-27T21:27:56+00:00",
     "company_id": "baya-systems",
-    "checked_at": "2026-11-27T08:48:18+00:00",
+    "checked_at": "2026-11-27T21:28:06+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1218,9 +1186,9 @@
       "https://denpaflux.factorial.com/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:01+00:00",
+    "discovered_at": "2026-11-27T21:27:50+00:00",
     "company_id": "denpaflux",
-    "checked_at": "2026-11-27T08:48:01+00:00",
+    "checked_at": "2026-11-27T21:27:51+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1260,9 +1228,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-20T20:32:05+00:00",
+    "discovered_at": "2026-11-27T21:27:54+00:00",
     "company_id": "diode-computers",
-    "checked_at": "2026-11-27T08:47:58+00:00",
+    "checked_at": "2026-11-27T21:27:54+00:00",
     "successful_sources": [
       "ashby:Diode"
     ],
@@ -1277,9 +1245,9 @@
       "https://dno.career.greetinghr.com/ko/home"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:02+00:00",
+    "discovered_at": "2026-11-27T21:27:52+00:00",
     "company_id": "dnotitia",
-    "checked_at": "2026-11-27T08:48:03+00:00",
+    "checked_at": "2026-11-27T21:27:54+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1290,9 +1258,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:58+00:00",
+    "discovered_at": "2026-11-27T21:27:48+00:00",
     "company_id": "degirum",
-    "checked_at": "2026-11-27T08:47:58+00:00",
+    "checked_at": "2026-11-27T21:27:48+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1307,9 +1275,9 @@
       "https://www.dovermicrosystems.com/about-us/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:01+00:00",
+    "discovered_at": "2026-11-27T21:27:51+00:00",
     "company_id": "dover",
-    "checked_at": "2026-11-27T08:48:02+00:00",
+    "checked_at": "2026-11-27T21:27:52+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1357,9 +1325,9 @@
       "https://dashtechic.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:57+00:00",
+    "discovered_at": "2026-11-27T21:27:46+00:00",
     "company_id": "dash-tech-ic",
-    "checked_at": "2026-11-27T08:47:58+00:00",
+    "checked_at": "2026-11-27T21:27:47+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1374,9 +1342,9 @@
       "https://www.chipmind.ai/careers/internship"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:55+00:00",
+    "discovered_at": "2026-11-27T21:27:45+00:00",
     "company_id": "chipmind",
-    "checked_at": "2026-11-27T08:47:56+00:00",
+    "checked_at": "2026-11-27T21:27:46+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -1417,9 +1385,9 @@
       "https://talent.octopyd.com/careers/cognichip/apply/5f9670d0-7850-4843-89c5-39c8d0911c6f"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:59+00:00",
+    "discovered_at": "2026-11-27T21:27:47+00:00",
     "company_id": "cognichip",
-    "checked_at": "2026-11-27T08:48:00+00:00",
+    "checked_at": "2026-11-27T21:27:48+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1432,9 +1400,9 @@
       "https://deepx.career.greetinghr.com/ko/career"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:01+00:00",
+    "discovered_at": "2026-11-27T21:27:51+00:00",
     "company_id": "deepx",
-    "checked_at": "2026-11-27T08:48:02+00:00",
+    "checked_at": "2026-11-27T21:27:53+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1449,9 +1417,9 @@
       "https://edgecortix.bamboohr.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:01+00:00",
+    "discovered_at": "2026-11-27T21:27:50+00:00",
     "company_id": "edgecortix",
-    "checked_at": "2026-11-27T08:48:02+00:00",
+    "checked_at": "2026-11-27T21:27:51+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1464,9 +1432,9 @@
       "https://edgeq.io/career/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:00+00:00",
+    "discovered_at": "2026-11-27T21:27:50+00:00",
     "company_id": "edgeq",
-    "checked_at": "2026-11-27T08:48:01+00:00",
+    "checked_at": "2026-11-27T21:27:50+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1494,9 +1462,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:03+00:00",
+    "discovered_at": "2026-11-27T21:27:53+00:00",
     "company_id": "enzzo",
-    "checked_at": "2026-11-27T08:48:03+00:00",
+    "checked_at": "2026-11-27T21:27:53+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1510,9 +1478,9 @@
       "https://www.youtube.com/embed/HgXkV11ANqc?rel=0&controls=0&autoplay=0&mute=0&start=0"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:53+00:00",
+    "discovered_at": "2026-11-27T21:27:41+00:00",
     "company_id": "cadlab-io",
-    "checked_at": "2026-11-27T08:47:53+00:00",
+    "checked_at": "2026-11-27T21:27:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1523,9 +1491,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:02+00:00",
+    "discovered_at": "2026-11-27T21:27:52+00:00",
     "company_id": "efinix",
-    "checked_at": "2026-11-27T08:48:02+00:00",
+    "checked_at": "2026-11-27T21:27:52+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1552,7 +1520,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:04+00:00",
     "company_id": "etched",
-    "checked_at": "2026-11-27T08:48:04+00:00",
+    "checked_at": "2026-11-27T21:27:54+00:00",
     "successful_sources": [
       "ashby:Etched",
       "greenhouse:etchedai"
@@ -1581,7 +1549,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:08+00:00",
     "company_id": "ethernovia",
-    "checked_at": "2026-11-27T08:48:04+00:00",
+    "checked_at": "2026-11-27T21:27:54+00:00",
     "successful_sources": [
       "greenhouse:ethernovia"
     ],
@@ -1599,9 +1567,9 @@
       "https://etopus.com/careers-socdesign/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:12+00:00",
+    "discovered_at": "2026-11-27T21:28:00+00:00",
     "company_id": "etopus",
-    "checked_at": "2026-11-27T08:48:13+00:00",
+    "checked_at": "2026-11-27T21:28:02+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1612,9 +1580,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:03+00:00",
+    "discovered_at": "2026-11-27T21:27:53+00:00",
     "company_id": "enlightra",
-    "checked_at": "2026-11-27T08:48:03+00:00",
+    "checked_at": "2026-11-27T21:27:53+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1653,7 +1621,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:52:50+00:00",
     "company_id": "celus",
-    "checked_at": "2026-11-27T08:47:53+00:00",
+    "checked_at": "2026-11-27T21:27:42+00:00",
     "successful_sources": [
       "personio:celus.jobs.personio.de"
     ],
@@ -1670,9 +1638,9 @@
       "https://careers.circuitmind.io"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:58+00:00",
+    "discovered_at": "2026-11-27T21:27:47+00:00",
     "company_id": "circuit-mind",
-    "checked_at": "2026-11-27T08:47:59+00:00",
+    "checked_at": "2026-11-27T21:27:48+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1690,9 +1658,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:55+00:00",
+    "discovered_at": "2026-11-27T21:27:44+00:00",
     "company_id": "chipflow",
-    "checked_at": "2026-11-27T08:47:55+00:00",
+    "checked_at": "2026-11-27T21:27:44+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1703,9 +1671,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:04+00:00",
+    "discovered_at": "2026-11-27T21:27:54+00:00",
     "company_id": "everactive",
-    "checked_at": "2026-11-27T08:48:04+00:00",
+    "checked_at": "2026-11-27T21:27:54+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1716,9 +1684,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:03+00:00",
+    "discovered_at": "2026-11-27T21:27:54+00:00",
     "company_id": "equal1",
-    "checked_at": "2026-11-27T08:48:03+00:00",
+    "checked_at": "2026-11-27T21:27:54+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1729,9 +1697,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:08+00:00",
+    "discovered_at": "2026-11-27T21:27:57+00:00",
     "company_id": "finchetto",
-    "checked_at": "2026-11-27T08:48:08+00:00",
+    "checked_at": "2026-11-27T21:27:57+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1753,7 +1721,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:07+00:00",
     "company_id": "extropic",
-    "checked_at": "2026-11-27T08:48:05+00:00",
+    "checked_at": "2026-11-27T21:27:55+00:00",
     "successful_sources": [
       "lever:extropic"
     ],
@@ -1777,7 +1745,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:11+00:00",
     "company_id": "eliyan",
-    "checked_at": "2026-11-27T08:48:03+00:00",
+    "checked_at": "2026-11-27T21:27:53+00:00",
     "successful_sources": [
       "lever:eliyan"
     ],
@@ -1790,9 +1758,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:08+00:00",
+    "discovered_at": "2026-11-27T21:27:58+00:00",
     "company_id": "fermionic",
-    "checked_at": "2026-11-27T08:48:08+00:00",
+    "checked_at": "2026-11-27T21:27:58+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1803,9 +1771,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:08+00:00",
+    "discovered_at": "2026-11-27T21:27:58+00:00",
     "company_id": "flow-computing",
-    "checked_at": "2026-11-27T08:48:08+00:00",
+    "checked_at": "2026-11-27T21:27:58+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1819,9 +1787,9 @@
       "https://forefrontrf.com/media/pages/careers/f42b9497c4-1772123633/forefront_corporate-brochure-v9-screen.pdf"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:11+00:00",
+    "discovered_at": "2026-11-27T21:28:00+00:00",
     "company_id": "forefrontrf",
-    "checked_at": "2026-11-27T08:48:13+00:00",
+    "checked_at": "2026-11-27T21:28:02+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1843,7 +1811,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:00+00:00",
     "company_id": "efficient-computer",
-    "checked_at": "2026-11-27T08:48:01+00:00",
+    "checked_at": "2026-11-27T21:27:51+00:00",
     "successful_sources": [
       "greenhouse:efficientcomputer"
     ],
@@ -1863,9 +1831,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:06+00:00",
+    "discovered_at": "2026-11-27T21:27:55+00:00",
     "company_id": "exo-imaging",
-    "checked_at": "2026-11-27T08:48:06+00:00",
+    "checked_at": "2026-11-27T21:27:56+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -1895,7 +1863,7 @@
     ],
     "discovered_at": "2026-11-23T07:53:12+00:00",
     "company_id": "fractile",
-    "checked_at": "2026-11-27T08:48:09+00:00",
+    "checked_at": "2026-11-27T21:27:58+00:00",
     "successful_sources": [
       "ashby:fractile"
     ],
@@ -1922,7 +1890,7 @@
     ],
     "discovered_at": "2026-11-23T07:53:07+00:00",
     "company_id": "fabric-cryptography",
-    "checked_at": "2026-11-27T08:48:06+00:00",
+    "checked_at": "2026-11-27T21:27:57+00:00",
     "successful_sources": [],
     "errors": [
       {
@@ -1950,7 +1918,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:02+00:00",
     "company_id": "encharge-ai",
-    "checked_at": "2026-11-27T08:48:02+00:00",
+    "checked_at": "2026-11-27T21:27:52+00:00",
     "successful_sources": [
       "greenhouse:enchargeai36"
     ],
@@ -1984,9 +1952,9 @@
       "https://apply.workable.com/falcomm/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:06+00:00",
+    "discovered_at": "2026-11-27T21:27:56+00:00",
     "company_id": "falcomm",
-    "checked_at": "2026-11-27T08:48:06+00:00",
+    "checked_at": "2026-11-27T21:27:56+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2009,7 +1977,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:52:55+00:00",
     "company_id": "d-matrix",
-    "checked_at": "2026-11-27T08:47:56+00:00",
+    "checked_at": "2026-11-27T21:27:46+00:00",
     "successful_sources": [
       "ashby:d-Matrix"
     ],
@@ -2046,9 +2014,9 @@
       "https://ats.rippling.com/en-GB/eridu-ai/jobs/90542551-0f9e-43a5-83db-9dbf9b976c9e"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:06+00:00",
+    "discovered_at": "2026-11-27T21:27:56+00:00",
     "company_id": "eridu-ai",
-    "checked_at": "2026-11-27T08:48:07+00:00",
+    "checked_at": "2026-11-27T21:27:57+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2104,9 +2072,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:14+00:00",
+    "discovered_at": "2026-11-27T21:28:03+00:00",
     "company_id": "hawai-tech",
-    "checked_at": "2026-11-27T08:48:14+00:00",
+    "checked_at": "2026-11-27T21:28:03+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2122,9 +2090,9 @@
         "error": "robots.txt unavailable: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)>"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:13+00:00",
+    "discovered_at": "2026-11-27T21:28:03+00:00",
     "company_id": "hypercim",
-    "checked_at": "2026-11-27T08:48:13+00:00",
+    "checked_at": "2026-11-27T21:28:03+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2150,7 +2118,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:05+00:00",
     "company_id": "eridan",
-    "checked_at": "2026-11-27T08:48:03+00:00",
+    "checked_at": "2026-11-27T21:27:53+00:00",
     "successful_sources": [
       "greenhouse:eridan"
     ],
@@ -2173,7 +2141,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:09+00:00",
     "company_id": "flux",
-    "checked_at": "2026-11-27T08:48:08+00:00",
+    "checked_at": "2026-11-27T21:27:57+00:00",
     "successful_sources": [
       "ashby:flux"
     ],
@@ -2201,7 +2169,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:17+00:00",
     "company_id": "furiosa",
-    "checked_at": "2026-11-27T08:48:09+00:00",
+    "checked_at": "2026-11-27T21:27:58+00:00",
     "successful_sources": [
       "greenhouse:furiosaai"
     ],
@@ -2233,9 +2201,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:11+00:00",
+    "discovered_at": "2026-11-27T21:28:00+00:00",
     "company_id": "haila",
-    "checked_at": "2026-11-27T08:48:11+00:00",
+    "checked_at": "2026-11-27T21:28:01+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2252,9 +2220,9 @@
       "https://gen-alpha.io/careers/forward-deployed-silicon"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:11+00:00",
+    "discovered_at": "2026-11-27T21:28:01+00:00",
     "company_id": "generation-alpha-transistor",
-    "checked_at": "2026-11-27T08:48:12+00:00",
+    "checked_at": "2026-11-27T21:28:02+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2289,9 +2257,9 @@
       "https://www.heronic.ai/careers/senior-digital-design-engineer/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:13+00:00",
+    "discovered_at": "2026-11-27T21:28:03+00:00",
     "company_id": "heronic",
-    "checked_at": "2026-11-27T08:48:14+00:00",
+    "checked_at": "2026-11-27T21:28:04+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2323,9 +2291,9 @@
       "https://github.com/ingonyama-zk/Challenges"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:16+00:00",
+    "discovered_at": "2026-11-27T21:28:06+00:00",
     "company_id": "ingonyama",
-    "checked_at": "2026-11-27T08:48:16+00:00",
+    "checked_at": "2026-11-27T21:28:07+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2337,15 +2305,10 @@
     "career_pages": [
       "https://incoresemi.zohorecruit.com/jobs/Careers"
     ],
-    "discovery_errors": [
-      {
-        "url": "https://incoresemi.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
-    ],
-    "discovered_at": "2026-11-27T08:48:15+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:28:08+00:00",
     "company_id": "incore-semi",
-    "checked_at": "2026-11-27T08:48:16+00:00",
+    "checked_at": "2026-11-27T21:28:09+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2354,28 +2317,18 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://gowinsemi.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://gowinsemi.com/en/about/career/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://gowinsemi.com/ja/about/career/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://gowinsemi.com/en/about/career/",
+      "https://gowinsemi.com/ja/about/career/"
     ],
-    "discovered_at": "2026-11-27T08:48:11+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:28:08+00:00",
     "company_id": "gowin",
-    "checked_at": "2026-11-27T08:48:11+00:00",
+    "checked_at": "2026-11-27T21:28:11+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
+    "coverage": "Partial / needs review",
     "total_board_jobs": 0
   },
   {
@@ -2395,7 +2348,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:22+00:00",
     "company_id": "fmc",
-    "checked_at": "2026-11-27T08:48:15+00:00",
+    "checked_at": "2026-11-27T21:28:03+00:00",
     "successful_sources": [],
     "errors": [
       {
@@ -2427,7 +2380,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:26+00:00",
     "company_id": "jitx",
-    "checked_at": "2026-11-27T08:48:19+00:00",
+    "checked_at": "2026-11-27T21:28:08+00:00",
     "successful_sources": [
       "lever:jitxinc"
     ],
@@ -2448,9 +2401,9 @@
         "error": "robots.txt unavailable: HTTP Error 429: Too Many Requests"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:19+00:00",
+    "discovered_at": "2026-11-27T21:28:13+00:00",
     "company_id": "hyperaccel",
-    "checked_at": "2026-11-27T08:48:22+00:00",
+    "checked_at": "2026-11-27T21:28:16+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -2476,7 +2429,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-24T00:04:06+00:00",
     "company_id": "innatera",
-    "checked_at": "2026-11-27T08:48:15+00:00",
+    "checked_at": "2026-11-27T21:28:05+00:00",
     "successful_sources": [
       "ashby:innatera"
     ],
@@ -2491,9 +2444,9 @@
       "https://keplercompute.com/jobs"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:19+00:00",
+    "discovered_at": "2026-11-27T21:28:11+00:00",
     "company_id": "kepler-computing",
-    "checked_at": "2026-11-27T08:48:19+00:00",
+    "checked_at": "2026-11-27T21:28:12+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2504,9 +2457,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:20+00:00",
+    "discovered_at": "2026-11-27T21:28:13+00:00",
     "company_id": "krutrim",
-    "checked_at": "2026-11-27T08:48:20+00:00",
+    "checked_at": "2026-11-27T21:28:13+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2574,9 +2527,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:22+00:00",
+    "discovered_at": "2026-11-27T21:28:13+00:00",
     "company_id": "light-solver",
-    "checked_at": "2026-11-27T08:48:22+00:00",
+    "checked_at": "2026-11-27T21:28:13+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2599,7 +2552,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:30+00:00",
     "company_id": "lightmatter",
-    "checked_at": "2026-11-27T08:48:23+00:00",
+    "checked_at": "2026-11-27T21:28:15+00:00",
     "successful_sources": [
       "greenhouse:lightmatter"
     ],
@@ -2612,9 +2565,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:23+00:00",
+    "discovered_at": "2026-11-27T21:28:14+00:00",
     "company_id": "light-trace-photonics",
-    "checked_at": "2026-11-27T08:48:23+00:00",
+    "checked_at": "2026-11-27T21:28:14+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2642,7 +2595,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:29+00:00",
     "company_id": "lemurian-labs",
-    "checked_at": "2026-11-27T08:48:22+00:00",
+    "checked_at": "2026-11-27T21:28:14+00:00",
     "successful_sources": [
       "greenhouse:lemurianlabs"
     ],
@@ -2663,9 +2616,9 @@
       "https://linque.eu/careers.html"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:24+00:00",
+    "discovered_at": "2026-11-27T21:28:16+00:00",
     "company_id": "linque",
-    "checked_at": "2026-11-27T08:48:24+00:00",
+    "checked_at": "2026-11-27T21:28:16+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2678,9 +2631,9 @@
       "https://keysom.io/company/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:20+00:00",
+    "discovered_at": "2026-11-27T21:28:13+00:00",
     "company_id": "keysom",
-    "checked_at": "2026-11-27T08:48:22+00:00",
+    "checked_at": "2026-11-27T21:28:14+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2691,9 +2644,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:25+00:00",
+    "discovered_at": "2026-11-27T21:28:16+00:00",
     "company_id": "literal-labs",
-    "checked_at": "2026-11-27T08:48:25+00:00",
+    "checked_at": "2026-11-27T21:28:16+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2725,7 +2678,7 @@
     ],
     "discovered_at": "2026-11-23T07:53:21+00:00",
     "company_id": "gemesys",
-    "checked_at": "2026-11-27T08:48:09+00:00",
+    "checked_at": "2026-11-27T21:27:59+00:00",
     "successful_sources": [
       "personio:gemesys.jobs.personio.de"
     ],
@@ -2738,9 +2691,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:25+00:00",
+    "discovered_at": "2026-11-27T21:28:17+00:00",
     "company_id": "luminous-computing",
-    "checked_at": "2026-11-27T08:48:25+00:00",
+    "checked_at": "2026-11-27T21:28:17+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2761,7 +2714,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-24T22:36:41+00:00",
     "company_id": "lumai",
-    "checked_at": "2026-11-27T08:48:24+00:00",
+    "checked_at": "2026-11-27T21:28:17+00:00",
     "successful_sources": [
       "ashby:lumai"
     ],
@@ -2791,9 +2744,9 @@
       "https://lyte.ai/Careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:27+00:00",
+    "discovered_at": "2026-11-27T21:28:19+00:00",
     "company_id": "lyte-ai",
-    "checked_at": "2026-11-27T08:48:27+00:00",
+    "checked_at": "2026-11-27T21:28:19+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2812,9 +2765,9 @@
         "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:31+00:00",
+    "discovered_at": "2026-11-27T21:28:22+00:00",
     "company_id": "majestic-labs",
-    "checked_at": "2026-11-27T08:48:35+00:00",
+    "checked_at": "2026-11-27T21:28:23+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2831,9 +2784,9 @@
       "https://www.magics.tech/news/open-position-marketing-sales-support-specialist"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:29+00:00",
+    "discovered_at": "2026-11-27T21:28:20+00:00",
     "company_id": "magics-technologies",
-    "checked_at": "2026-11-27T08:48:29+00:00",
+    "checked_at": "2026-11-27T21:28:20+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2862,7 +2815,7 @@
     ],
     "discovered_at": "2026-11-23T07:53:35+00:00",
     "company_id": "lumotive",
-    "checked_at": "2026-11-27T08:48:26+00:00",
+    "checked_at": "2026-11-27T21:28:18+00:00",
     "successful_sources": [
       "lever:lumotive"
     ],
@@ -2873,24 +2826,17 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://memryx.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://memryx.ai/careers/",
-        "error": "HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://memryx.ai/careers/"
     ],
-    "discovered_at": "2026-11-27T08:48:29+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:28:21+00:00",
     "company_id": "memryx",
-    "checked_at": "2026-11-27T08:48:29+00:00",
+    "checked_at": "2026-11-27T21:28:21+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
+    "coverage": "Partial / needs review",
     "total_board_jobs": 0
   },
   {
@@ -2899,9 +2845,9 @@
       "https://mesaquantum.com/contact/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:30+00:00",
+    "discovered_at": "2026-11-27T21:28:22+00:00",
     "company_id": "mesa-quantum",
-    "checked_at": "2026-11-27T08:48:30+00:00",
+    "checked_at": "2026-11-27T21:28:22+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2928,7 +2874,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:38+00:00",
     "company_id": "matx",
-    "checked_at": "2026-11-27T08:48:28+00:00",
+    "checked_at": "2026-11-27T21:28:20+00:00",
     "successful_sources": [
       "ashby:matx"
     ],
@@ -2966,9 +2912,9 @@
       "https://maieuticsemi.com/career/ai-ml-engineer"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:30+00:00",
+    "discovered_at": "2026-11-27T21:28:21+00:00",
     "company_id": "maieutic-semiconductors",
-    "checked_at": "2026-11-27T08:48:31+00:00",
+    "checked_at": "2026-11-27T21:28:23+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2981,9 +2927,9 @@
       "https://mintneuro.com/home"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:32+00:00",
+    "discovered_at": "2026-11-27T21:28:25+00:00",
     "company_id": "mintneuro",
-    "checked_at": "2026-11-27T08:48:33+00:00",
+    "checked_at": "2026-11-27T21:28:25+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -2998,9 +2944,9 @@
       "https://mobilinthire.career.greetinghr.com/ko/recruit"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:37+00:00",
+    "discovered_at": "2026-11-27T21:28:30+00:00",
     "company_id": "mobilint",
-    "checked_at": "2026-11-27T08:48:39+00:00",
+    "checked_at": "2026-11-27T21:28:33+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3013,9 +2959,9 @@
       "https://mosaicsoc.ch/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:58+00:00",
+    "discovered_at": "2026-11-27T21:28:49+00:00",
     "company_id": "mosaic-soc",
-    "checked_at": "2026-11-27T08:49:09+00:00",
+    "checked_at": "2026-11-27T21:29:00+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3031,9 +2977,9 @@
       "https://careers.lightium.com/jobs/8801930-pic-process-engineer"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:40+00:00",
+    "discovered_at": "2026-11-27T21:28:29+00:00",
     "company_id": "lightium",
-    "checked_at": "2026-11-27T08:48:41+00:00",
+    "checked_at": "2026-11-27T21:28:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3048,9 +2994,9 @@
       "https://biz.chosun.com/it-science/ict/2026/11/04/KIUA5XDVK5EKHI5W5LCDQRKNRQ/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:34+00:00",
+    "discovered_at": "2026-11-27T21:28:26+00:00",
     "company_id": "mangoboost",
-    "checked_at": "2026-11-27T08:48:36+00:00",
+    "checked_at": "2026-11-27T21:28:29+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3064,9 +3010,9 @@
       "https://www.youtube.com/embed/k4MgrJ2shrQ?rel=0&controls=0&autoplay=1&mute=1&start=36"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:39+00:00",
+    "discovered_at": "2026-11-27T21:28:30+00:00",
     "company_id": "morphing-machines",
-    "checked_at": "2026-11-27T08:48:40+00:00",
+    "checked_at": "2026-11-27T21:28:32+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3095,7 +3041,7 @@
     ],
     "discovered_at": "2026-11-25T08:52:18+00:00",
     "company_id": "mythic",
-    "checked_at": "2026-11-27T08:48:41+00:00",
+    "checked_at": "2026-11-27T21:28:32+00:00",
     "successful_sources": [
       "lever:mythic-ai.com"
     ],
@@ -3110,9 +3056,9 @@
       "https://motivo.ai/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:36+00:00",
+    "discovered_at": "2026-11-27T21:28:29+00:00",
     "company_id": "motivo",
-    "checked_at": "2026-11-27T08:48:37+00:00",
+    "checked_at": "2026-11-27T21:28:29+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3126,9 +3072,9 @@
       "https://www.movellus.com/zh-hans/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:39+00:00",
+    "discovered_at": "2026-11-27T21:28:31+00:00",
     "company_id": "movellus",
-    "checked_at": "2026-11-27T08:48:39+00:00",
+    "checked_at": "2026-11-27T21:28:32+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3146,9 +3092,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:41+00:00",
+    "discovered_at": "2026-11-27T21:28:32+00:00",
     "company_id": "nanopower",
-    "checked_at": "2026-11-27T08:48:42+00:00",
+    "checked_at": "2026-11-27T21:28:33+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3170,7 +3116,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:49+00:00",
     "company_id": "morse-micro",
-    "checked_at": "2026-11-27T08:48:35+00:00",
+    "checked_at": "2026-11-27T21:28:27+00:00",
     "successful_sources": [
       "ashby:morse-micro"
     ],
@@ -3188,9 +3134,9 @@
         "error": "robots.txt unavailable: <urlopen error timed out>"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:45+00:00",
+    "discovered_at": "2026-11-27T21:28:36+00:00",
     "company_id": "jeeva-wireless",
-    "checked_at": "2026-11-27T08:48:45+00:00",
+    "checked_at": "2026-11-27T21:28:36+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3217,9 +3163,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:43+00:00",
+    "discovered_at": "2026-11-27T21:28:34+00:00",
     "company_id": "mz-technologies",
-    "checked_at": "2026-11-27T08:48:43+00:00",
+    "checked_at": "2026-11-27T21:28:34+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3245,9 +3191,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:46+00:00",
+    "discovered_at": "2026-11-27T21:28:37+00:00",
     "company_id": "neurxcore",
-    "checked_at": "2026-11-27T08:48:46+00:00",
+    "checked_at": "2026-11-27T21:28:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3272,7 +3218,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:40+00:00",
     "company_id": "lubis-eda",
-    "checked_at": "2026-11-27T08:48:24+00:00",
+    "checked_at": "2026-11-27T21:28:17+00:00",
     "successful_sources": [
       "personio:lubis-eda.jobs.personio.de"
     ],
@@ -3295,7 +3241,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:54+00:00",
     "company_id": "neurophos",
-    "checked_at": "2026-11-27T08:48:44+00:00",
+    "checked_at": "2026-11-27T21:28:35+00:00",
     "successful_sources": [
       "ashby:neurophos"
     ],
@@ -3308,21 +3254,15 @@
     "sources": [],
     "career_pages": [
       "https://app.sesametime.com/jobs/ipronicsprogrammablephotonicssl/9466cf81-c378-400e-99d4-37e170eceeba/overview",
-      "https://app.sesametime.com/jobs/ipronicsprogrammablephotonicssl/a2af0522-bf02-4519-b9e1-e156d3a97ca0/overview"
+      "https://app.sesametime.com/jobs/ipronicsprogrammablephotonicssl/a2af0522-bf02-4519-b9e1-e156d3a97ca0/overview",
+      "https://ipronics.com/careers/",
+      "https://app.sesametime.com/jobs/ipronicsprogrammablephotonicssl/aff40435-56cd-4ef6-bd1d-d8855cc41295/overview",
+      "https://app.sesametime.com/jobs/ipronicsprogrammablephotonicssl/1c85df52-4b23-449e-beea-6cb4ca38494a/overview"
     ],
-    "discovery_errors": [
-      {
-        "url": "https://ipronics.com",
-        "error": "HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://ipronics.com/careers/",
-        "error": "HTTP Error 403: Forbidden"
-      }
-    ],
-    "discovered_at": "2026-11-27T08:48:28+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:28:21+00:00",
     "company_id": "ipronics",
-    "checked_at": "2026-11-27T08:48:30+00:00",
+    "checked_at": "2026-11-27T21:28:25+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3371,9 +3311,9 @@
       "https://www.nextsilicon.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:47+00:00",
+    "discovered_at": "2026-11-27T21:28:38+00:00",
     "company_id": "nextsilicon",
-    "checked_at": "2026-11-27T08:48:47+00:00",
+    "checked_at": "2026-11-27T21:28:38+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3404,9 +3344,9 @@
       "https://netrasemi.com/career"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:46+00:00",
+    "discovered_at": "2026-11-27T21:28:38+00:00",
     "company_id": "netrasemi",
-    "checked_at": "2026-11-27T08:48:48+00:00",
+    "checked_at": "2026-11-27T21:28:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3422,9 +3362,9 @@
         "error": "robots.txt unavailable: <urlopen error [Errno 111] Connection refused>"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:47+00:00",
+    "discovered_at": "2026-11-27T21:28:39+00:00",
     "company_id": "one-silicon-chip-photonics",
-    "checked_at": "2026-11-27T08:48:47+00:00",
+    "checked_at": "2026-11-27T21:28:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3435,9 +3375,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:47+00:00",
+    "discovered_at": "2026-11-27T21:28:39+00:00",
     "company_id": "omnidesign",
-    "checked_at": "2026-11-27T08:48:47+00:00",
+    "checked_at": "2026-11-27T21:28:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3448,9 +3388,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:45+00:00",
+    "discovered_at": "2026-11-27T21:28:37+00:00",
     "company_id": "next-semiconductor",
-    "checked_at": "2026-11-27T08:48:45+00:00",
+    "checked_at": "2026-11-27T21:28:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3461,9 +3401,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:48+00:00",
+    "discovered_at": "2026-11-27T21:28:39+00:00",
     "company_id": "openmachine",
-    "checked_at": "2026-11-27T08:48:48+00:00",
+    "checked_at": "2026-11-27T21:28:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3476,9 +3416,9 @@
       "https://www.neologicvlsi.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:47+00:00",
+    "discovered_at": "2026-11-27T21:28:38+00:00",
     "company_id": "neologic",
-    "checked_at": "2026-11-27T08:48:48+00:00",
+    "checked_at": "2026-11-27T21:28:38+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3504,7 +3444,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:58+00:00",
     "company_id": "ncodin",
-    "checked_at": "2026-11-27T08:48:47+00:00",
+    "checked_at": "2026-11-27T21:28:38+00:00",
     "successful_sources": [],
     "errors": [
       {
@@ -3526,9 +3466,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:48+00:00",
+    "discovered_at": "2026-11-27T21:28:40+00:00",
     "company_id": "optoml",
-    "checked_at": "2026-11-27T08:48:48+00:00",
+    "checked_at": "2026-11-27T21:28:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3544,9 +3484,9 @@
         "error": "robots.txt unavailable: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ozarkic.com'. (_ssl.c:1011)>"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:50+00:00",
+    "discovered_at": "2026-11-27T21:28:41+00:00",
     "company_id": "ozark-ics",
-    "checked_at": "2026-11-27T08:48:50+00:00",
+    "checked_at": "2026-11-27T21:28:41+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3560,9 +3500,9 @@
       "https://niobium.bamboohr.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:48+00:00",
+    "discovered_at": "2026-11-27T21:28:40+00:00",
     "company_id": "niobium-microsystems",
-    "checked_at": "2026-11-27T08:48:49+00:00",
+    "checked_at": "2026-11-27T21:28:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3578,9 +3518,9 @@
         "error": "robots.txt unavailable: <urlopen error timed out>"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:49+00:00",
+    "discovered_at": "2026-11-27T21:28:41+00:00",
     "company_id": "kneron",
-    "checked_at": "2026-11-27T08:48:49+00:00",
+    "checked_at": "2026-11-27T21:28:41+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3591,9 +3531,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:50+00:00",
+    "discovered_at": "2026-11-27T21:28:42+00:00",
     "company_id": "par-tcl",
-    "checked_at": "2026-11-27T08:48:50+00:00",
+    "checked_at": "2026-11-27T21:28:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3618,14 +3558,14 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:53:59+00:00",
     "company_id": "olix",
-    "checked_at": "2026-11-27T08:48:46+00:00",
+    "checked_at": "2026-11-27T21:28:38+00:00",
     "successful_sources": [
       "ashby:olix"
     ],
     "errors": [],
     "leads": [],
     "coverage": "API checked",
-    "total_board_jobs": 20
+    "total_board_jobs": 24
   },
   {
     "sources": [],
@@ -3633,9 +3573,9 @@
       "https://apply.workable.com/persimmons-ai/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:54+00:00",
+    "discovered_at": "2026-11-27T21:28:43+00:00",
     "company_id": "persimmons",
-    "checked_at": "2026-11-27T08:48:54+00:00",
+    "checked_at": "2026-11-27T21:28:43+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3648,9 +3588,9 @@
       "https://www.ososemi.com/about"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:50+00:00",
+    "discovered_at": "2026-11-27T21:28:41+00:00",
     "company_id": "oso-semiconductor",
-    "checked_at": "2026-11-27T08:48:50+00:00",
+    "checked_at": "2026-11-27T21:28:41+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3661,9 +3601,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:52+00:00",
+    "discovered_at": "2026-11-27T21:28:43+00:00",
     "company_id": "piris-labs",
-    "checked_at": "2026-11-27T08:48:52+00:00",
+    "checked_at": "2026-11-27T21:28:43+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3689,9 +3629,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:53+00:00",
+    "discovered_at": "2026-11-27T21:28:44+00:00",
     "company_id": "plaid-semiconductor",
-    "checked_at": "2026-11-27T08:48:53+00:00",
+    "checked_at": "2026-11-27T21:28:44+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3708,9 +3648,9 @@
       "https://optalysys.com/wp-content/uploads/2026/10/Senior-RTL-Design-Engineer.pdf"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:50+00:00",
+    "discovered_at": "2026-11-27T21:28:41+00:00",
     "company_id": "optalysys",
-    "checked_at": "2026-11-27T08:48:50+00:00",
+    "checked_at": "2026-11-27T21:28:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3727,9 +3667,9 @@
       "https://panmnesia.com/careers_kr/culture/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:52+00:00",
+    "discovered_at": "2026-11-27T21:28:44+00:00",
     "company_id": "panmnesia",
-    "checked_at": "2026-11-27T08:48:53+00:00",
+    "checked_at": "2026-11-27T21:28:45+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3742,9 +3682,9 @@
       "https://www.owlai.us/about-owl-ai/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:50+00:00",
+    "discovered_at": "2026-11-27T21:28:41+00:00",
     "company_id": "owl",
-    "checked_at": "2026-11-27T08:48:50+00:00",
+    "checked_at": "2026-11-27T21:28:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3758,9 +3698,9 @@
       "https://apply.workable.com/oxford-quantum-circuits-8/?lng=en"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:51+00:00",
+    "discovered_at": "2026-11-27T21:28:45+00:00",
     "company_id": "oxford-quantum-circuits",
-    "checked_at": "2026-11-27T08:48:51+00:00",
+    "checked_at": "2026-11-27T21:28:46+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3774,9 +3714,9 @@
       "https://www.comeet.com/jobs/pliops/05.004"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:55+00:00",
+    "discovered_at": "2026-11-27T21:28:47+00:00",
     "company_id": "pliops",
-    "checked_at": "2026-11-27T08:48:58+00:00",
+    "checked_at": "2026-11-27T21:28:49+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3797,9 +3737,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:53+00:00",
+    "discovered_at": "2026-11-27T21:28:44+00:00",
     "company_id": "phanofi",
-    "checked_at": "2026-11-27T08:48:54+00:00",
+    "checked_at": "2026-11-27T21:28:45+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3815,9 +3755,9 @@
       "https://www.onio.com/career/open-application.html"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:50+00:00",
+    "discovered_at": "2026-11-27T21:28:42+00:00",
     "company_id": "onio",
-    "checked_at": "2026-11-27T08:48:52+00:00",
+    "checked_at": "2026-11-27T21:28:43+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3860,9 +3800,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:55+00:00",
+    "discovered_at": "2026-11-27T21:28:45+00:00",
     "company_id": "polaris-eo",
-    "checked_at": "2026-11-27T08:48:55+00:00",
+    "checked_at": "2026-11-27T21:28:46+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3875,9 +3815,9 @@
       "https://www.youtube.com/embed/xjYROQGAgb8?start=27"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:55+00:00",
+    "discovered_at": "2026-11-27T21:28:45+00:00",
     "company_id": "pointcloud",
-    "checked_at": "2026-11-27T08:48:55+00:00",
+    "checked_at": "2026-11-27T21:28:46+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3890,9 +3830,9 @@
       "https://polyn.ai/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:57+00:00",
+    "discovered_at": "2026-11-27T21:28:47+00:00",
     "company_id": "polyn-technology",
-    "checked_at": "2026-11-27T08:48:58+00:00",
+    "checked_at": "2026-11-27T21:28:48+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3921,9 +3861,9 @@
         "error": "robots.txt unavailable: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1011)>"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:57+00:00",
+    "discovered_at": "2026-11-27T21:28:47+00:00",
     "company_id": "qromis",
-    "checked_at": "2026-11-27T08:48:57+00:00",
+    "checked_at": "2026-11-27T21:28:47+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3938,9 +3878,9 @@
       "https://www.jazzhr.com/job-seekers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:56+00:00",
+    "discovered_at": "2026-11-27T21:28:45+00:00",
     "company_id": "phoenix-semiconductor",
-    "checked_at": "2026-11-27T08:48:57+00:00",
+    "checked_at": "2026-11-27T21:28:46+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3953,9 +3893,9 @@
       "https://www.pseudolithic.com/company"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:57+00:00",
+    "discovered_at": "2026-11-27T21:28:47+00:00",
     "company_id": "pseudolithic",
-    "checked_at": "2026-11-27T08:48:57+00:00",
+    "checked_at": "2026-11-27T21:28:47+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3968,9 +3908,9 @@
       "https://www.proteantecs.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:57+00:00",
+    "discovered_at": "2026-11-27T21:28:47+00:00",
     "company_id": "proteantecs",
-    "checked_at": "2026-11-27T08:48:57+00:00",
+    "checked_at": "2026-11-27T21:28:47+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -3992,7 +3932,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:10+00:00",
     "company_id": "psiquantum",
-    "checked_at": "2026-11-27T08:48:57+00:00",
+    "checked_at": "2026-11-27T21:28:46+00:00",
     "successful_sources": [
       "greenhouse:psiquantum"
     ],
@@ -4016,7 +3956,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-26T08:38:03+00:00",
     "company_id": "quadric-io",
-    "checked_at": "2026-11-27T08:48:58+00:00",
+    "checked_at": "2026-11-27T21:28:47+00:00",
     "successful_sources": [
       "ashby:quadric"
     ],
@@ -4039,7 +3979,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:12+00:00",
     "company_id": "qruise",
-    "checked_at": "2026-11-27T08:48:59+00:00",
+    "checked_at": "2026-11-27T21:28:48+00:00",
     "successful_sources": [
       "personio:qruise.jobs.personio.de"
     ],
@@ -4064,7 +4004,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:12+00:00",
     "company_id": "qualinx",
-    "checked_at": "2026-11-27T08:48:59+00:00",
+    "checked_at": "2026-11-27T21:28:48+00:00",
     "successful_sources": [
       "recruitee:qualinx"
     ],
@@ -4083,9 +4023,9 @@
       "https://www.quera.com/neutral-atom-platform"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:01+00:00",
+    "discovered_at": "2026-11-27T21:28:51+00:00",
     "company_id": "quera-computing",
-    "checked_at": "2026-11-27T08:49:02+00:00",
+    "checked_at": "2026-11-27T21:28:51+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4102,9 +4042,9 @@
       "https://talent.pragmaticsemi.com/jobs/8527115-equipment-engineer-photolithography"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:02+00:00",
+    "discovered_at": "2026-11-27T21:28:54+00:00",
     "company_id": "pragmatic",
-    "checked_at": "2026-11-27T08:49:04+00:00",
+    "checked_at": "2026-11-27T21:28:56+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -4134,7 +4074,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:16+00:00",
     "company_id": "quilter",
-    "checked_at": "2026-11-27T08:48:59+00:00",
+    "checked_at": "2026-11-27T21:28:49+00:00",
     "successful_sources": [
       "ashby:quilter"
     ],
@@ -4149,9 +4089,9 @@
       "https://raaam-tech.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:00+00:00",
+    "discovered_at": "2026-11-27T21:28:51+00:00",
     "company_id": "raaam",
-    "checked_at": "2026-11-27T08:49:01+00:00",
+    "checked_at": "2026-11-27T21:28:51+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4169,9 +4109,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:00+00:00",
+    "discovered_at": "2026-11-27T21:28:50+00:00",
     "company_id": "quintessent",
-    "checked_at": "2026-11-27T08:49:01+00:00",
+    "checked_at": "2026-11-27T21:28:50+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4184,9 +4124,9 @@
       "https://raiderchip.ai/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:01+00:00",
+    "discovered_at": "2026-11-27T21:28:51+00:00",
     "company_id": "raiderchip",
-    "checked_at": "2026-11-27T08:49:01+00:00",
+    "checked_at": "2026-11-27T21:28:51+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4211,7 +4151,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:15+00:00",
     "company_id": "pqshield",
-    "checked_at": "2026-11-27T08:48:58+00:00",
+    "checked_at": "2026-11-27T21:28:48+00:00",
     "successful_sources": [],
     "errors": [
       {
@@ -4237,9 +4177,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:05+00:00",
+    "discovered_at": "2026-11-27T21:28:52+00:00",
     "company_id": "rapidsilicon",
-    "checked_at": "2026-11-27T08:49:05+00:00",
+    "checked_at": "2026-11-27T21:28:52+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4252,9 +4192,9 @@
       "https://movandi.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:44+00:00",
+    "discovered_at": "2026-11-27T21:28:40+00:00",
     "company_id": "movandi",
-    "checked_at": "2026-11-27T08:48:50+00:00",
+    "checked_at": "2026-11-27T21:28:43+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4315,9 +4255,9 @@
       "https://codasip.com/wp-content/uploads/2026/05/equal-opportunities-and-diversity-and-Inclusion.pdf"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:26+00:00",
+    "discovered_at": "2026-11-27T21:28:15+00:00",
     "company_id": "codasip",
-    "checked_at": "2026-11-27T08:48:46+00:00",
+    "checked_at": "2026-11-27T21:28:35+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4332,9 +4272,9 @@
       "https://ranovus.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:03+00:00",
+    "discovered_at": "2026-11-27T21:28:54+00:00",
     "company_id": "ranovus",
-    "checked_at": "2026-11-27T08:49:05+00:00",
+    "checked_at": "2026-11-27T21:28:55+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4347,9 +4287,9 @@
       "https://www.redwoodeda.com/jobs"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:03+00:00",
+    "discovered_at": "2026-11-27T21:28:54+00:00",
     "company_id": "redwood-eda",
-    "checked_at": "2026-11-27T08:49:03+00:00",
+    "checked_at": "2026-11-27T21:28:54+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4360,9 +4300,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:05+00:00",
+    "discovered_at": "2026-11-27T21:28:55+00:00",
     "company_id": "red-semiconductor",
-    "checked_at": "2026-11-27T08:49:05+00:00",
+    "checked_at": "2026-11-27T21:28:55+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4383,7 +4323,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:22+00:00",
     "company_id": "ricursive-intelligence",
-    "checked_at": "2026-11-27T08:49:03+00:00",
+    "checked_at": "2026-11-27T21:28:55+00:00",
     "successful_sources": [
       "ashby:Ricursive%20Intelligence"
     ],
@@ -4401,9 +4341,9 @@
         "error": "robots.txt unavailable: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:55+00:00",
+    "discovered_at": "2026-11-27T21:28:46+00:00",
     "company_id": "primemas",
-    "checked_at": "2026-11-27T08:48:55+00:00",
+    "checked_at": "2026-11-27T21:28:46+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4414,9 +4354,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:05+00:00",
+    "discovered_at": "2026-11-27T21:28:56+00:00",
     "company_id": "rise",
-    "checked_at": "2026-11-27T08:49:05+00:00",
+    "checked_at": "2026-11-27T21:28:56+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4460,9 +4400,9 @@
       "https://player.vimeo.com/video/1172097731?autoplay=0&dnt=1&title=0&byline=0&portrait=0"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:07+00:00",
+    "discovered_at": "2026-11-27T21:28:58+00:00",
     "company_id": "salience-labs",
-    "checked_at": "2026-11-27T08:49:07+00:00",
+    "checked_at": "2026-11-27T21:28:58+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4485,7 +4425,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-24T22:37:30+00:00",
     "company_id": "quantum-motion",
-    "checked_at": "2026-11-27T08:48:59+00:00",
+    "checked_at": "2026-11-27T21:28:49+00:00",
     "successful_sources": [
       "personio:quantummotion.jobs.personio.com"
     ],
@@ -4512,7 +4452,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:27+00:00",
     "company_id": "riverlane",
-    "checked_at": "2026-11-27T08:49:06+00:00",
+    "checked_at": "2026-11-27T21:28:57+00:00",
     "successful_sources": [],
     "errors": [
       {
@@ -4540,9 +4480,9 @@
       "https://picocom.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:58+00:00",
+    "discovered_at": "2026-11-27T21:28:51+00:00",
     "company_id": "picocom",
-    "checked_at": "2026-11-27T08:48:59+00:00",
+    "checked_at": "2026-11-27T21:28:53+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4566,7 +4506,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:24+00:00",
     "company_id": "sambanova",
-    "checked_at": "2026-11-27T08:49:05+00:00",
+    "checked_at": "2026-11-27T21:28:56+00:00",
     "successful_sources": [
       "greenhouse:sambanovasystems"
     ],
@@ -4579,9 +4519,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:08+00:00",
+    "discovered_at": "2026-11-27T21:29:00+00:00",
     "company_id": "semidynamics",
-    "checked_at": "2026-11-27T08:49:08+00:00",
+    "checked_at": "2026-11-27T21:29:00+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4613,9 +4553,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:08+00:00",
+    "discovered_at": "2026-11-27T21:28:58+00:00",
     "company_id": "scintil",
-    "checked_at": "2026-11-27T08:49:08+00:00",
+    "checked_at": "2026-11-27T21:28:59+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4624,24 +4564,17 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://rapidphotonics.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://rapidphotonics.com/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://rapidphotonics.com/"
     ],
-    "discovered_at": "2026-11-27T08:49:02+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:28:55+00:00",
     "company_id": "rapid-photonics",
-    "checked_at": "2026-11-27T08:49:02+00:00",
+    "checked_at": "2026-11-27T21:28:56+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
+    "coverage": "Partial / needs review",
     "total_board_jobs": 0
   },
   {
@@ -4651,9 +4584,9 @@
       "https://rebellions.career.greetinghr.com/en/accelerate-your-career"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:08+00:00",
+    "discovered_at": "2026-11-27T21:29:01+00:00",
     "company_id": "rebellions",
-    "checked_at": "2026-11-27T08:49:12+00:00",
+    "checked_at": "2026-11-27T21:29:06+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -4677,9 +4610,9 @@
       "https://www.semify-eda.com/new_assets/backend_table"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:10+00:00",
+    "discovered_at": "2026-11-27T21:29:01+00:00",
     "company_id": "semify",
-    "checked_at": "2026-11-27T08:49:11+00:00",
+    "checked_at": "2026-11-27T21:29:02+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4695,10 +4628,15 @@
       "https://www.semiqon.com/job-openings/looking-for-ambitious-people-to-join-us",
       "https://www.semiqon.com/news-insights/qurious-minds-meet-dhanashree-boopathy"
     ],
-    "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:11+00:00",
+    "discovery_errors": [
+      {
+        "url": "https://semiqon.tech",
+        "error": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
+      }
+    ],
+    "discovered_at": "2026-11-27T21:29:02+00:00",
     "company_id": "semiqon",
-    "checked_at": "2026-11-27T08:49:12+00:00",
+    "checked_at": "2026-11-27T21:29:03+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4719,9 +4657,9 @@
         "error": "HTTP Error 404: Not Found"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:13+00:00",
+    "discovered_at": "2026-11-27T21:29:02+00:00",
     "company_id": "saras-micro-devices",
-    "checked_at": "2026-11-27T08:49:14+00:00",
+    "checked_at": "2026-11-27T21:29:04+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4739,9 +4677,9 @@
         "error": "HTTP Error 404: Not Found"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:05+00:00",
+    "discovered_at": "2026-11-27T21:28:54+00:00",
     "company_id": "ramon-space",
-    "checked_at": "2026-11-27T08:49:06+00:00",
+    "checked_at": "2026-11-27T21:28:55+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4757,9 +4695,9 @@
         "error": "HTTP Error 400: Bad Request"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:14+00:00",
+    "discovered_at": "2026-11-27T21:29:04+00:00",
     "company_id": "silicon-box",
-    "checked_at": "2026-11-27T08:49:14+00:00",
+    "checked_at": "2026-11-27T21:29:04+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4776,9 +4714,9 @@
       "https://www.secqai.com/opportunities/category/London"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:12+00:00",
+    "discovered_at": "2026-11-27T21:29:00+00:00",
     "company_id": "secqai",
-    "checked_at": "2026-11-27T08:49:13+00:00",
+    "checked_at": "2026-11-27T21:29:01+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4794,9 +4732,9 @@
       "https://www.scalinx.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:10+00:00",
+    "discovered_at": "2026-11-27T21:29:01+00:00",
     "company_id": "scalinx",
-    "checked_at": "2026-11-27T08:49:13+00:00",
+    "checked_at": "2026-11-27T21:29:03+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4812,9 +4750,9 @@
         "error": "HTTP Error 500: Internal Server Error"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:17+00:00",
+    "discovered_at": "2026-11-27T21:29:08+00:00",
     "company_id": "sagence-ai",
-    "checked_at": "2026-11-27T08:49:17+00:00",
+    "checked_at": "2026-11-27T21:29:08+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4825,9 +4763,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:14+00:00",
+    "discovered_at": "2026-11-27T21:29:05+00:00",
     "company_id": "silogy",
-    "checked_at": "2026-11-27T08:49:14+00:00",
+    "checked_at": "2026-11-27T21:29:05+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4856,9 +4794,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:14+00:00",
+    "discovered_at": "2026-11-27T21:29:05+00:00",
     "company_id": "siliconspace",
-    "checked_at": "2026-11-27T08:49:14+00:00",
+    "checked_at": "2026-11-27T21:29:05+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4883,7 +4821,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:17+00:00",
     "company_id": "qant",
-    "checked_at": "2026-11-27T08:48:58+00:00",
+    "checked_at": "2026-11-27T21:28:47+00:00",
     "successful_sources": [
       "personio:q-ant-gmbh.jobs.personio.de"
     ],
@@ -4900,9 +4838,9 @@
       "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:13+00:00",
+    "discovered_at": "2026-11-27T21:29:04+00:00",
     "company_id": "sifive",
-    "checked_at": "2026-11-27T08:49:14+00:00",
+    "checked_at": "2026-11-27T21:29:05+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4932,9 +4870,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:16+00:00",
+    "discovered_at": "2026-11-27T21:29:07+00:00",
     "company_id": "simbricks",
-    "checked_at": "2026-11-27T08:49:16+00:00",
+    "checked_at": "2026-11-27T21:29:07+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4949,9 +4887,9 @@
       "https://sima.ai/careers/?jobviteiframe=jobAlerts&nl=1"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:17+00:00",
+    "discovered_at": "2026-11-27T21:29:06+00:00",
     "company_id": "sima-ai",
-    "checked_at": "2026-11-27T08:49:18+00:00",
+    "checked_at": "2026-11-27T21:29:07+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -4976,7 +4914,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:33+00:00",
     "company_id": "semron",
-    "checked_at": "2026-11-27T08:49:10+00:00",
+    "checked_at": "2026-11-27T21:29:02+00:00",
     "successful_sources": [
       "personio:semron.jobs.personio.de"
     ],
@@ -4996,9 +4934,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:16+00:00",
+    "discovered_at": "2026-11-27T21:29:07+00:00",
     "company_id": "siphox",
-    "checked_at": "2026-11-27T08:49:16+00:00",
+    "checked_at": "2026-11-27T21:29:08+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5014,9 +4952,9 @@
       "https://join.com/companies/singularphotonicscom"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:19+00:00",
+    "discovered_at": "2026-11-27T21:29:10+00:00",
     "company_id": "singular-photonics",
-    "checked_at": "2026-11-27T08:49:22+00:00",
+    "checked_at": "2026-11-27T21:29:12+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5029,9 +4967,9 @@
       "https://jobs.snowcapcompute.com"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:18+00:00",
+    "discovered_at": "2026-11-27T21:29:09+00:00",
     "company_id": "snowcap-compute",
-    "checked_at": "2026-11-27T08:49:18+00:00",
+    "checked_at": "2026-11-27T21:29:10+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5048,9 +4986,9 @@
       "https://www.ycombinator.com/companies/silimate/jobs/kxgYCET-chip-software-engineer"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:17+00:00",
+    "discovered_at": "2026-11-27T21:29:07+00:00",
     "company_id": "silimate",
-    "checked_at": "2026-11-27T08:49:19+00:00",
+    "checked_at": "2026-11-27T21:29:09+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -5072,9 +5010,9 @@
       "https://www.skycore-semi.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:19+00:00",
+    "discovered_at": "2026-11-27T21:29:10+00:00",
     "company_id": "skycore-semiconductors",
-    "checked_at": "2026-11-27T08:49:20+00:00",
+    "checked_at": "2026-11-27T21:29:11+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5090,9 +5028,9 @@
       "https://careers.sipearl.com/fr/jobs/8712262-end-of-study-internship-graphic-designer"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:23+00:00",
+    "discovered_at": "2026-11-27T21:29:13+00:00",
     "company_id": "sipearl",
-    "checked_at": "2026-11-27T08:49:29+00:00",
+    "checked_at": "2026-11-27T21:29:17+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5109,9 +5047,9 @@
       "https://www.speedata.io/careers/verification-engineer"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:24+00:00",
+    "discovered_at": "2026-11-27T21:29:14+00:00",
     "company_id": "speedata",
-    "checked_at": "2026-11-27T08:49:27+00:00",
+    "checked_at": "2026-11-27T21:29:14+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5122,9 +5060,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:21+00:00",
+    "discovered_at": "2026-11-27T21:29:13+00:00",
     "company_id": "starfive",
-    "checked_at": "2026-11-27T08:49:21+00:00",
+    "checked_at": "2026-11-27T21:29:13+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5169,9 +5107,9 @@
       "https://spherical.breezy.hr/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:23+00:00",
+    "discovered_at": "2026-11-27T21:29:14+00:00",
     "company_id": "spherical",
-    "checked_at": "2026-11-27T08:49:25+00:00",
+    "checked_at": "2026-11-27T21:29:15+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5188,9 +5126,9 @@
       "https://www.tachyum.com/zh-hans/jobs/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:25+00:00",
+    "discovered_at": "2026-11-27T21:29:17+00:00",
     "company_id": "tachyum",
-    "checked_at": "2026-11-27T08:49:25+00:00",
+    "checked_at": "2026-11-27T21:29:17+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5207,9 +5145,9 @@
       "https://www.sparkmicro.com/careers/university-recruit/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:25+00:00",
+    "discovered_at": "2026-11-27T21:29:15+00:00",
     "company_id": "spark-micro",
-    "checked_at": "2026-11-27T08:49:27+00:00",
+    "checked_at": "2026-11-27T21:29:16+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5225,9 +5163,9 @@
         "error": "robots.txt unavailable: HTTP Error 429: Too Many Requests"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:26+00:00",
+    "discovered_at": "2026-11-27T21:29:17+00:00",
     "company_id": "thintronics",
-    "checked_at": "2026-11-27T08:49:26+00:00",
+    "checked_at": "2026-11-27T21:29:17+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5241,9 +5179,9 @@
       "https://apply.workable.com/syntiant/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:24+00:00",
+    "discovered_at": "2026-11-27T21:29:16+00:00",
     "company_id": "syntiant",
-    "checked_at": "2026-11-27T08:49:26+00:00",
+    "checked_at": "2026-11-27T21:29:17+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -5261,9 +5199,9 @@
       "https://www.tandempv.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:23+00:00",
+    "discovered_at": "2026-11-27T21:29:15+00:00",
     "company_id": "tandem-pv",
-    "checked_at": "2026-11-27T08:49:24+00:00",
+    "checked_at": "2026-11-27T21:29:16+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5281,9 +5219,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:29+00:00",
+    "discovered_at": "2026-11-27T21:29:20+00:00",
     "company_id": "ubilite",
-    "checked_at": "2026-11-27T08:49:29+00:00",
+    "checked_at": "2026-11-27T21:29:20+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5315,7 +5253,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:46+00:00",
     "company_id": "tenstorrent",
-    "checked_at": "2026-11-27T08:49:25+00:00",
+    "checked_at": "2026-11-27T21:29:16+00:00",
     "successful_sources": [
       "greenhouse:tenstorrentuniversity",
       "greenhouse:tenstorrent"
@@ -5323,7 +5261,7 @@
     "errors": [],
     "leads": [],
     "coverage": "API checked",
-    "total_board_jobs": 166
+    "total_board_jobs": 165
   },
   {
     "sources": [
@@ -5347,7 +5285,7 @@
     ],
     "discovered_at": "2026-11-23T07:54:43+00:00",
     "company_id": "swave",
-    "checked_at": "2026-11-27T08:49:22+00:00",
+    "checked_at": "2026-11-27T21:29:14+00:00",
     "successful_sources": [
       "lever:swave"
     ],
@@ -5364,9 +5302,9 @@
       "https://siliconassurance.com/jobs/director-of-software-engineering/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:18+00:00",
+    "discovered_at": "2026-11-27T21:29:09+00:00",
     "company_id": "silicon-assurance",
-    "checked_at": "2026-11-27T08:49:20+00:00",
+    "checked_at": "2026-11-27T21:29:11+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5424,7 +5362,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:51+00:00",
     "company_id": "unconventional-ai",
-    "checked_at": "2026-11-27T08:49:29+00:00",
+    "checked_at": "2026-11-27T21:29:20+00:00",
     "successful_sources": [
       "greenhouse:unconventionalinc"
     ],
@@ -5438,15 +5376,10 @@
     "career_pages": [
       "https://app.trinethire.com/companies/32235-uhnder-inc/jobs"
     ],
-    "discovery_errors": [
-      {
-        "url": "https://uhnder.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
-    ],
-    "discovered_at": "2026-11-27T08:49:29+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:29:22+00:00",
     "company_id": "uhnder",
-    "checked_at": "2026-11-27T08:49:29+00:00",
+    "checked_at": "2026-11-27T21:29:23+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5457,9 +5390,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:31+00:00",
+    "discovered_at": "2026-11-27T21:29:23+00:00",
     "company_id": "vaire-computing",
-    "checked_at": "2026-11-27T08:49:31+00:00",
+    "checked_at": "2026-11-27T21:29:23+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5475,9 +5408,9 @@
       "https://tetramem.com/cookie-policy/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:32+00:00",
+    "discovered_at": "2026-11-27T21:29:23+00:00",
     "company_id": "tetramem",
-    "checked_at": "2026-11-27T08:49:33+00:00",
+    "checked_at": "2026-11-27T21:29:24+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5490,9 +5423,9 @@
       "https://www.unifabrix.com/career"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:31+00:00",
+    "discovered_at": "2026-11-27T21:29:22+00:00",
     "company_id": "unifabrix",
-    "checked_at": "2026-11-27T08:49:31+00:00",
+    "checked_at": "2026-11-27T21:29:22+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5503,9 +5436,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:32+00:00",
+    "discovered_at": "2026-11-27T21:29:25+00:00",
     "company_id": "verifaix",
-    "checked_at": "2026-11-27T08:49:32+00:00",
+    "checked_at": "2026-11-27T21:29:25+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5518,9 +5451,9 @@
       "https://www.youtube.com/embed/lznhKckEdWI?start=204"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:32+00:00",
+    "discovered_at": "2026-11-27T21:29:24+00:00",
     "company_id": "verifai",
-    "checked_at": "2026-11-27T08:49:33+00:00",
+    "checked_at": "2026-11-27T21:29:25+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5535,9 +5468,9 @@
       "https://apply.workable.com/vayyar/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:32+00:00",
+    "discovered_at": "2026-11-27T21:29:24+00:00",
     "company_id": "vayyar",
-    "checked_at": "2026-11-27T08:49:33+00:00",
+    "checked_at": "2026-11-27T21:29:26+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5558,7 +5491,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:56+00:00",
     "company_id": "vinci",
-    "checked_at": "2026-11-27T08:49:32+00:00",
+    "checked_at": "2026-11-27T21:29:25+00:00",
     "successful_sources": [
       "ashby:vinci"
     ],
@@ -5593,33 +5526,26 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://vectorphotonics.co.uk",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://www.vectorphotonics.co.uk/careers/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://www.vectorphotonics.co.uk/careers/"
     ],
-    "discovered_at": "2026-11-27T08:49:31+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:29:26+00:00",
     "company_id": "vector-photonics",
-    "checked_at": "2026-11-27T08:49:31+00:00",
+    "checked_at": "2026-11-27T21:29:26+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
+    "coverage": "Partial / needs review",
     "total_board_jobs": 0
   },
   {
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:31+00:00",
+    "discovered_at": "2026-11-27T21:29:21+00:00",
     "company_id": "ubitium",
-    "checked_at": "2026-11-27T08:49:31+00:00",
+    "checked_at": "2026-11-27T21:29:21+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5630,9 +5556,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:35+00:00",
+    "discovered_at": "2026-11-27T21:29:27+00:00",
     "company_id": "viqthor",
-    "checked_at": "2026-11-27T08:49:35+00:00",
+    "checked_at": "2026-11-27T21:29:27+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5653,7 +5579,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:54:57+00:00",
     "company_id": "voltai",
-    "checked_at": "2026-11-27T08:49:34+00:00",
+    "checked_at": "2026-11-27T21:29:28+00:00",
     "successful_sources": [
       "ashby:voltai.careers"
     ],
@@ -5682,9 +5608,9 @@
       "https://apply.workable.com/wavephotonics/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:36+00:00",
+    "discovered_at": "2026-11-27T21:29:30+00:00",
     "company_id": "wave-photonics",
-    "checked_at": "2026-11-27T08:49:36+00:00",
+    "checked_at": "2026-11-27T21:29:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5699,9 +5625,9 @@
       "https://mercato-emploi.com/offres-emploi/?idCompany=107486&companyName=VSORA"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:39+00:00",
+    "discovered_at": "2026-11-27T21:29:31+00:00",
     "company_id": "vsora",
-    "checked_at": "2026-11-27T08:49:42+00:00",
+    "checked_at": "2026-11-27T21:29:34+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5718,9 +5644,9 @@
       "https://volantissemi.ai/careers/4336877009"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:37+00:00",
+    "discovered_at": "2026-11-27T21:29:29+00:00",
     "company_id": "volantis-semiconductor",
-    "checked_at": "2026-11-27T08:49:38+00:00",
+    "checked_at": "2026-11-27T21:29:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5736,9 +5662,9 @@
       "https://www.welinq.fr/career/quantum-error-correction-researcher"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:37+00:00",
+    "discovered_at": "2026-11-27T21:29:32+00:00",
     "company_id": "welinq",
-    "checked_at": "2026-11-27T08:49:38+00:00",
+    "checked_at": "2026-11-27T21:29:33+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5753,9 +5679,9 @@
       "https://retym.com/careers-2/co/armenia/70.369/analog-layout-designer-graduate/all/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:11+00:00",
+    "discovered_at": "2026-11-27T21:29:04+00:00",
     "company_id": "retym",
-    "checked_at": "2026-11-27T08:49:14+00:00",
+    "checked_at": "2026-11-27T21:29:07+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5768,12 +5694,12 @@
     "discovery_errors": [
       {
         "url": "https://xsightlabs.com",
-        "error": "<urlopen error [Errno 104] Connection reset by peer>"
+        "error": "HTTP Error 429: Too Many Requests"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:41+00:00",
+    "discovered_at": "2026-11-27T21:29:37+00:00",
     "company_id": "xsight-labs",
-    "checked_at": "2026-11-27T08:49:41+00:00",
+    "checked_at": "2026-11-27T21:29:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5782,33 +5708,22 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://trieye.tech",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://trieye.tech/careers/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://trieye.tech/careers/co/development-engineering/all/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://trieye.tech/careers/co/tel-aviv/8C.27A/senior-board-design-engineer/all/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://trieye.tech/careers/",
+      "https://trieye.tech/careers/co/development-engineering/all/",
+      "https://trieye.tech/careers/co/tel-aviv/8C.27A/senior-board-design-engineer/all/",
+      "https://trieye.tech/careers/co/tel-aviv/F5.07C/system-engineer/all/",
+      "https://trieye.tech/careers/co/innovation/all/"
     ],
-    "discovered_at": "2026-11-27T08:49:28+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:29:27+00:00",
     "company_id": "trieye",
-    "checked_at": "2026-11-27T08:49:28+00:00",
+    "checked_at": "2026-11-27T21:29:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
-    "total_board_jobs": 0
+    "coverage": "Partial / needs review",
+    "total_board_jobs": 1
   },
   {
     "sources": [
@@ -5825,7 +5740,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:55:03+00:00",
     "company_id": "xscape-photonics",
-    "checked_at": "2026-11-27T08:49:38+00:00",
+    "checked_at": "2026-11-27T21:29:34+00:00",
     "successful_sources": [
       "greenhouse:xscapephotonicsinc"
     ],
@@ -5838,9 +5753,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:40+00:00",
+    "discovered_at": "2026-11-27T21:29:35+00:00",
     "company_id": "yorchip",
-    "checked_at": "2026-11-27T08:49:40+00:00",
+    "checked_at": "2026-11-27T21:29:35+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5854,9 +5769,9 @@
       "https://zendar.breezy.hr"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:43+00:00",
+    "discovered_at": "2026-11-27T21:29:38+00:00",
     "company_id": "zendar",
-    "checked_at": "2026-11-27T08:49:44+00:00",
+    "checked_at": "2026-11-27T21:29:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -5876,9 +5791,9 @@
       "https://xcena.career.greetinghr.com/ko/career"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:42+00:00",
+    "discovered_at": "2026-11-27T21:29:37+00:00",
     "company_id": "xcena",
-    "checked_at": "2026-11-27T08:49:45+00:00",
+    "checked_at": "2026-11-27T21:29:41+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5895,9 +5810,9 @@
       "https://usound-16.odoo.com/jobs/detail/senior-firmware-engineer-bluetooth-ble-wuqi-platform-237"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:39+00:00",
+    "discovered_at": "2026-11-27T21:29:32+00:00",
     "company_id": "usound",
-    "checked_at": "2026-11-27T08:49:42+00:00",
+    "checked_at": "2026-11-27T21:29:36+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5912,9 +5827,9 @@
       "https://ximplic.com/careers/embedded-ai-intern/apply/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:42+00:00",
+    "discovered_at": "2026-11-27T21:29:36+00:00",
     "company_id": "ximplic",
-    "checked_at": "2026-11-27T08:49:43+00:00",
+    "checked_at": "2026-11-27T21:29:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5927,9 +5842,9 @@
       "https://www.zeropointmotion.com/joinus"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:43+00:00",
+    "discovered_at": "2026-11-27T21:29:37+00:00",
     "company_id": "zero-point-motion",
-    "checked_at": "2026-11-27T08:49:43+00:00",
+    "checked_at": "2026-11-27T21:29:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5945,9 +5860,9 @@
       "https://www.zeroasic.com/jobs/digital-ic-designer"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:44+00:00",
+    "discovered_at": "2026-11-27T21:29:38+00:00",
     "company_id": "zeroasic",
-    "checked_at": "2026-11-27T08:49:45+00:00",
+    "checked_at": "2026-11-27T21:29:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -5964,9 +5879,9 @@
       "https://marvell.wd1.myworkdayjobs.com/MarvellCareers?jobFamilyGroup=65dea26481d0016bd6c014dd98175a01"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:41+00:00",
+    "discovered_at": "2026-11-27T21:29:38+00:00",
     "company_id": "xconntech",
-    "checked_at": "2026-11-27T08:49:43+00:00",
+    "checked_at": "2026-11-27T21:29:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -5984,9 +5899,9 @@
       "https://www.zeropoint-tech.com/jobs"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:45+00:00",
+    "discovered_at": "2026-11-27T21:29:39+00:00",
     "company_id": "zeropoint",
-    "checked_at": "2026-11-27T08:49:45+00:00",
+    "checked_at": "2026-11-27T21:29:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6008,7 +5923,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-23T07:55:08+00:00",
     "company_id": "zerorisc",
-    "checked_at": "2026-11-27T08:49:45+00:00",
+    "checked_at": "2026-11-27T21:29:38+00:00",
     "successful_sources": [
       "lever:zerorisc"
     ],
@@ -6044,9 +5959,9 @@
       "https://silc.com/join-us/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:13+00:00",
+    "discovered_at": "2026-11-27T21:29:03+00:00",
     "company_id": "silc",
-    "checked_at": "2026-11-27T08:49:13+00:00",
+    "checked_at": "2026-11-27T21:29:03+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6063,9 +5978,9 @@
       "https://xcelerium.com/job/system-engineer/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:50:00+00:00",
+    "discovered_at": "2026-11-27T21:29:53+00:00",
     "company_id": "xcelerium",
-    "checked_at": "2026-11-27T08:50:09+00:00",
+    "checked_at": "2026-11-27T21:30:03+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6086,9 +6001,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:50:16+00:00",
+    "discovered_at": "2026-11-27T21:30:07+00:00",
     "company_id": "synthara",
-    "checked_at": "2026-11-27T08:50:48+00:00",
+    "checked_at": "2026-11-27T21:30:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6103,9 +6018,9 @@
       "https://e-peas.com/privacy-policy/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:50:25+00:00",
+    "discovered_at": "2026-11-27T21:30:15+00:00",
     "company_id": "trameto",
-    "checked_at": "2026-11-27T08:50:58+00:00",
+    "checked_at": "2026-11-27T21:30:47+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6126,7 +6041,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-21T07:24:38+00:00",
     "company_id": "ayo-semiconductor",
-    "checked_at": "2026-11-27T08:47:46+00:00",
+    "checked_at": "2026-11-27T21:27:34+00:00",
     "successful_sources": [
       "ashby:ayosemi"
     ],
@@ -6141,9 +6056,9 @@
       "https://chipcraft-ic.com/homepage/the-company/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:58+00:00",
+    "discovered_at": "2026-11-27T21:27:47+00:00",
     "company_id": "chipcraft",
-    "checked_at": "2026-11-27T08:47:59+00:00",
+    "checked_at": "2026-11-27T21:27:48+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6165,7 +6080,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-24T22:35:55+00:00",
     "company_id": "attotude",
-    "checked_at": "2026-11-27T08:47:45+00:00",
+    "checked_at": "2026-11-27T21:27:33+00:00",
     "successful_sources": [
       "greenhouse:attotude"
     ],
@@ -6180,9 +6095,9 @@
       "https://axonne.com/company/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:46+00:00",
+    "discovered_at": "2026-11-27T21:27:34+00:00",
     "company_id": "axonne",
-    "checked_at": "2026-11-27T08:47:47+00:00",
+    "checked_at": "2026-11-27T21:27:34+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6199,9 +6114,9 @@
       "https://www.accelercomm.com/careers?location=bristol-uk"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:44+00:00",
+    "discovered_at": "2026-11-27T21:27:35+00:00",
     "company_id": "accelercomm",
-    "checked_at": "2026-11-27T08:47:48+00:00",
+    "checked_at": "2026-11-27T21:27:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6215,9 +6130,9 @@
       "https://atlasmagnetics.com/careers/e5pqlftbhvu7pzg8h3zmj1z8"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:47+00:00",
+    "discovered_at": "2026-11-27T21:27:33+00:00",
     "company_id": "atlas-magnetics",
-    "checked_at": "2026-11-27T08:47:48+00:00",
+    "checked_at": "2026-11-27T21:27:35+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6228,9 +6143,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:52+00:00",
+    "discovered_at": "2026-11-27T21:27:42+00:00",
     "company_id": "celera-semiconductor",
-    "checked_at": "2026-11-27T08:47:52+00:00",
+    "checked_at": "2026-11-27T21:27:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6243,9 +6158,9 @@
       "https://www.thzcorp.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:55+00:00",
+    "discovered_at": "2026-11-27T21:27:42+00:00",
     "company_id": "cambridge-terahertz",
-    "checked_at": "2026-11-27T08:47:55+00:00",
+    "checked_at": "2026-11-27T21:27:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6267,7 +6182,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-24T22:36:11+00:00",
     "company_id": "densityai",
-    "checked_at": "2026-11-27T08:47:58+00:00",
+    "checked_at": "2026-11-27T21:27:48+00:00",
     "successful_sources": [
       "greenhouse:densityai"
     ],
@@ -6280,9 +6195,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:05+00:00",
+    "discovered_at": "2026-11-27T21:27:55+00:00",
     "company_id": "euclyd",
-    "checked_at": "2026-11-27T08:48:05+00:00",
+    "checked_at": "2026-11-27T21:27:55+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6298,9 +6213,9 @@
         "error": "robots.txt unavailable: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)>"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:17+00:00",
+    "discovered_at": "2026-11-27T21:28:10+00:00",
     "company_id": "kandou-ai",
-    "checked_at": "2026-11-27T08:48:17+00:00",
+    "checked_at": "2026-11-27T21:28:10+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6311,9 +6226,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:21+00:00",
+    "discovered_at": "2026-11-27T21:28:12+00:00",
     "company_id": "lamb-labs",
-    "checked_at": "2026-11-27T08:48:21+00:00",
+    "checked_at": "2026-11-27T21:28:12+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6324,9 +6239,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:23+00:00",
+    "discovered_at": "2026-11-27T21:28:15+00:00",
     "company_id": "lightxcelerate",
-    "checked_at": "2026-11-27T08:48:23+00:00",
+    "checked_at": "2026-11-27T21:28:15+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6339,13 +6254,13 @@
       "https://careers.lacelithography.com/",
       "https://careers.lacelithography.com/jobs/8619824-senior-systems-engineer",
       "https://careers.lacelithography.com/jobs/8589757-senior-experimental-physicist",
-      "https://careers.lacelithography.com/jobs/8762677-automation-engineer",
-      "https://careers.lacelithography.com/jobs/8697832-head-of-supply-chain"
+      "https://careers.lacelithography.com/jobs/8808677-talent-partner",
+      "https://careers.lacelithography.com/jobs/8779214-people-operations-partner"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:26+00:00",
+    "discovered_at": "2026-11-27T21:28:17+00:00",
     "company_id": "lace-lithography",
-    "checked_at": "2026-11-27T08:48:26+00:00",
+    "checked_at": "2026-11-27T21:28:17+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6362,9 +6277,9 @@
       "https://ludwigcomputing.com/careers/ml-research-intern-model-efficiency"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:26+00:00",
+    "discovered_at": "2026-11-27T21:28:18+00:00",
     "company_id": "ludwig-computing",
-    "checked_at": "2026-11-27T08:48:27+00:00",
+    "checked_at": "2026-11-27T21:28:19+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -6385,9 +6300,9 @@
         "error": "robots.txt unavailable: <urlopen error timed out>"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:39+00:00",
+    "discovered_at": "2026-11-27T21:28:29+00:00",
     "company_id": "gyrfalcon",
-    "checked_at": "2026-11-27T08:48:39+00:00",
+    "checked_at": "2026-11-27T21:28:29+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6400,9 +6315,9 @@
       "https://mueon.com/careers.html"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:40+00:00",
+    "discovered_at": "2026-11-27T21:28:31+00:00",
     "company_id": "mueon",
-    "checked_at": "2026-11-27T08:48:41+00:00",
+    "checked_at": "2026-11-27T21:28:31+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6415,9 +6330,9 @@
       "https://nellow.eu/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:46+00:00",
+    "discovered_at": "2026-11-27T21:28:37+00:00",
     "company_id": "nellow",
-    "checked_at": "2026-11-27T08:48:47+00:00",
+    "checked_at": "2026-11-27T21:28:38+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6428,9 +6343,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:49+00:00",
+    "discovered_at": "2026-11-27T21:28:42+00:00",
     "company_id": "oxmiq",
-    "checked_at": "2026-11-27T08:48:49+00:00",
+    "checked_at": "2026-11-27T21:28:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6456,7 +6371,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-24T22:37:10+00:00",
     "company_id": "nuvacore",
-    "checked_at": "2026-11-27T08:48:47+00:00",
+    "checked_at": "2026-11-27T21:28:40+00:00",
     "successful_sources": [
       "lever:nuvacore"
     ],
@@ -6472,9 +6387,9 @@
       "https://careers.kula.ai/openlightphotonics"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:50+00:00",
+    "discovered_at": "2026-11-27T21:28:42+00:00",
     "company_id": "openlight",
-    "checked_at": "2026-11-27T08:48:52+00:00",
+    "checked_at": "2026-11-27T21:28:44+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6495,7 +6410,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-24T22:37:16+00:00",
     "company_id": "powerlattice",
-    "checked_at": "2026-11-27T08:48:55+00:00",
+    "checked_at": "2026-11-27T21:28:45+00:00",
     "successful_sources": [
       "ashby:powerlattice"
     ],
@@ -6508,9 +6423,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:58+00:00",
+    "discovered_at": "2026-11-27T21:28:48+00:00",
     "company_id": "quamcore",
-    "checked_at": "2026-11-27T08:48:58+00:00",
+    "checked_at": "2026-11-27T21:28:48+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6524,9 +6439,9 @@
       "https://www.paragraf.com/careers/internships/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:55+00:00",
+    "discovered_at": "2026-11-27T21:28:46+00:00",
     "company_id": "paragraf",
-    "checked_at": "2026-11-27T08:48:58+00:00",
+    "checked_at": "2026-11-27T21:28:48+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -6557,7 +6472,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-24T22:37:24+00:00",
     "company_id": "quix-quantum",
-    "checked_at": "2026-11-27T08:49:00+00:00",
+    "checked_at": "2026-11-27T21:28:50+00:00",
     "successful_sources": [],
     "errors": [
       {
@@ -6590,7 +6505,7 @@
     ],
     "discovered_at": "2026-11-24T22:37:28+00:00",
     "company_id": "quobly",
-    "checked_at": "2026-11-27T08:49:01+00:00",
+    "checked_at": "2026-11-27T21:28:50+00:00",
     "successful_sources": [
       "recruitee:quobly"
     ],
@@ -6606,9 +6521,9 @@
       "https://semiqa.com/en/careers/mixed-signal-silicon-design-engineer"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:10+00:00",
+    "discovered_at": "2026-11-27T21:29:01+00:00",
     "company_id": "semiqa",
-    "checked_at": "2026-11-27T08:49:11+00:00",
+    "checked_at": "2026-11-27T21:29:02+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6619,9 +6534,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:12+00:00",
+    "discovered_at": "2026-11-27T21:29:02+00:00",
     "company_id": "sigmantic-ai",
-    "checked_at": "2026-11-27T08:49:12+00:00",
+    "checked_at": "2026-11-27T21:29:02+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6634,9 +6549,9 @@
       "https://stathera.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:21+00:00",
+    "discovered_at": "2026-11-27T21:29:12+00:00",
     "company_id": "stathera",
-    "checked_at": "2026-11-27T08:49:21+00:00",
+    "checked_at": "2026-11-27T21:29:13+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6647,9 +6562,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:22+00:00",
+    "discovered_at": "2026-11-27T21:29:14+00:00",
     "company_id": "sylvarisai",
-    "checked_at": "2026-11-27T08:49:22+00:00",
+    "checked_at": "2026-11-27T21:29:14+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6663,10 +6578,15 @@
       "https://www.scisemi.com/company/events/",
       "https://www.scisemi.com/company/careers-legacy/"
     ],
-    "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:12+00:00",
+    "discovery_errors": [
+      {
+        "url": "https://scisemi.com",
+        "error": "robots.txt unavailable: The read operation timed out"
+      }
+    ],
+    "discovered_at": "2026-11-27T21:29:30+00:00",
     "company_id": "sci-semiconductor",
-    "checked_at": "2026-11-27T08:49:16+00:00",
+    "checked_at": "2026-11-27T21:29:33+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6679,9 +6599,9 @@
       "https://www.tensordyne.ai/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:25+00:00",
+    "discovered_at": "2026-11-27T21:29:17+00:00",
     "company_id": "tensordyne",
-    "checked_at": "2026-11-27T08:49:25+00:00",
+    "checked_at": "2026-11-27T21:29:17+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6692,9 +6612,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:23+00:00",
+    "discovered_at": "2026-11-27T21:29:17+00:00",
     "company_id": "synseis",
-    "checked_at": "2026-11-27T08:49:23+00:00",
+    "checked_at": "2026-11-27T21:29:17+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6705,9 +6625,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:27+00:00",
+    "discovered_at": "2026-11-27T21:29:18+00:00",
     "company_id": "trimagnetix",
-    "checked_at": "2026-11-27T08:49:27+00:00",
+    "checked_at": "2026-11-27T21:29:18+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6723,9 +6643,9 @@
       "https://www.tenxsemi.com/careers/chip-design-and-verification-methodology-engineer"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:28+00:00",
+    "discovered_at": "2026-11-27T21:29:19+00:00",
     "company_id": "tenx-semi",
-    "checked_at": "2026-11-27T08:49:29+00:00",
+    "checked_at": "2026-11-27T21:29:19+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6743,9 +6663,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:28+00:00",
+    "discovered_at": "2026-11-27T21:29:19+00:00",
     "company_id": "tsavorite-scalable-intelligence",
-    "checked_at": "2026-11-27T08:49:29+00:00",
+    "checked_at": "2026-11-27T21:29:19+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6770,7 +6690,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-25T08:53:09+00:00",
     "company_id": "syenta",
-    "checked_at": "2026-11-27T08:49:21+00:00",
+    "checked_at": "2026-11-27T21:29:13+00:00",
     "successful_sources": [
       "ashby:syenta"
     ],
@@ -6785,9 +6705,9 @@
       "https://upscale.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:30+00:00",
+    "discovered_at": "2026-11-27T21:29:21+00:00",
     "company_id": "upscale-ai",
-    "checked_at": "2026-11-27T08:49:30+00:00",
+    "checked_at": "2026-11-27T21:29:21+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6804,9 +6724,9 @@
       "https://ats.rippling.com/tylsemi/jobs/015d7503-3ca7-40f7-b28d-4bfad14f6d48"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:32+00:00",
+    "discovered_at": "2026-11-27T21:29:22+00:00",
     "company_id": "tylsemi",
-    "checked_at": "2026-11-27T08:49:33+00:00",
+    "checked_at": "2026-11-27T21:29:23+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6819,9 +6739,9 @@
       "https://www.waveforgeda.com/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:36+00:00",
+    "discovered_at": "2026-11-27T21:29:30+00:00",
     "company_id": "waveforge",
-    "checked_at": "2026-11-27T08:49:37+00:00",
+    "checked_at": "2026-11-27T21:29:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6838,9 +6758,9 @@
       "https://www.ycombinator.com/companies/visibl-semiconductors/jobs/o2iGDo7-senior-digital-ic-engineer-rtl-design-verification"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:35+00:00",
+    "discovered_at": "2026-11-27T21:29:28+00:00",
     "company_id": "visibl-semiconductors",
-    "checked_at": "2026-11-27T08:49:36+00:00",
+    "checked_at": "2026-11-27T21:29:29+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6870,9 +6790,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:39+00:00",
+    "discovered_at": "2026-11-27T21:29:34+00:00",
     "company_id": "xlight",
-    "checked_at": "2026-11-27T08:49:39+00:00",
+    "checked_at": "2026-11-27T21:29:34+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6887,9 +6807,9 @@
       "https://zscc.ai/careers?job_id=109821"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:45+00:00",
+    "discovered_at": "2026-11-27T21:29:39+00:00",
     "company_id": "zettascale-computing",
-    "checked_at": "2026-11-27T08:49:46+00:00",
+    "checked_at": "2026-11-27T21:29:40+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6915,7 +6835,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-24T22:38:21+00:00",
     "company_id": "zoo",
-    "checked_at": "2026-11-27T08:49:44+00:00",
+    "checked_at": "2026-11-27T21:29:38+00:00",
     "successful_sources": [
       "greenhouse:zoo"
     ],
@@ -6928,9 +6848,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:39+00:00",
+    "discovered_at": "2026-11-27T21:27:26+00:00",
     "company_id": "active-layer-parametrics",
-    "checked_at": "2026-11-27T08:47:39+00:00",
+    "checked_at": "2026-11-27T21:27:26+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6943,9 +6863,9 @@
       "https://www.3dgsinc.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:39+00:00",
+    "discovered_at": "2026-11-27T21:27:26+00:00",
     "company_id": "3d-glass-solutions",
-    "checked_at": "2026-11-27T08:47:39+00:00",
+    "checked_at": "2026-11-27T21:27:27+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6958,9 +6878,9 @@
       "https://www.avronna.com/joining-us"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:47+00:00",
+    "discovered_at": "2026-11-27T21:27:34+00:00",
     "company_id": "avronna",
-    "checked_at": "2026-11-27T08:47:47+00:00",
+    "checked_at": "2026-11-27T21:27:35+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -6983,7 +6903,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-25T08:51:12+00:00",
     "company_id": "atom-computing",
-    "checked_at": "2026-11-27T08:47:45+00:00",
+    "checked_at": "2026-11-27T21:27:33+00:00",
     "successful_sources": [
       "lever:atomcomputing"
     ],
@@ -6996,9 +6916,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:57+00:00",
+    "discovered_at": "2026-11-27T21:27:46+00:00",
     "company_id": "cortisonic",
-    "checked_at": "2026-11-27T08:47:57+00:00",
+    "checked_at": "2026-11-27T21:27:46+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7009,9 +6929,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:58+00:00",
+    "discovered_at": "2026-11-27T21:27:49+00:00",
     "company_id": "diamond-quanta",
-    "checked_at": "2026-11-27T08:47:58+00:00",
+    "checked_at": "2026-11-27T21:27:49+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7022,9 +6942,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:03+00:00",
+    "discovered_at": "2026-11-27T21:27:53+00:00",
     "company_id": "epic-microsystems",
-    "checked_at": "2026-11-27T08:48:03+00:00",
+    "checked_at": "2026-11-27T21:27:53+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7035,9 +6955,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:10+00:00",
+    "discovered_at": "2026-11-27T21:27:59+00:00",
     "company_id": "gigantor-technologies",
-    "checked_at": "2026-11-27T08:48:10+00:00",
+    "checked_at": "2026-11-27T21:27:59+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7048,9 +6968,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:19+00:00",
+    "discovered_at": "2026-11-27T21:28:12+00:00",
     "company_id": "jmem-tek",
-    "checked_at": "2026-11-27T08:48:19+00:00",
+    "checked_at": "2026-11-27T21:28:12+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7061,9 +6981,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:26+00:00",
+    "discovered_at": "2026-11-27T21:28:18+00:00",
     "company_id": "lux-semiconductors",
-    "checked_at": "2026-11-27T08:48:26+00:00",
+    "checked_at": "2026-11-27T21:28:18+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7072,33 +6992,26 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://mentium.tech",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://mentium.tech/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://mentium.tech/"
     ],
-    "discovered_at": "2026-11-27T08:48:29+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:28:24+00:00",
     "company_id": "mentium-technologies",
-    "checked_at": "2026-11-27T08:48:29+00:00",
+    "checked_at": "2026-11-27T21:28:25+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
+    "coverage": "Partial / needs review",
     "total_board_jobs": 0
   },
   {
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:39+00:00",
+    "discovered_at": "2026-11-27T21:28:30+00:00",
     "company_id": "mpower-technology",
-    "checked_at": "2026-11-27T08:48:39+00:00",
+    "checked_at": "2026-11-27T21:28:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7111,9 +7024,9 @@
       "https://mmtron.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:39+00:00",
+    "discovered_at": "2026-11-27T21:28:32+00:00",
     "company_id": "mmtron",
-    "checked_at": "2026-11-27T08:48:43+00:00",
+    "checked_at": "2026-11-27T21:28:35+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7138,7 +7051,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-25T08:52:22+00:00",
     "company_id": "netpreme",
-    "checked_at": "2026-11-27T08:48:43+00:00",
+    "checked_at": "2026-11-27T21:28:35+00:00",
     "successful_sources": [
       "ashby:netpreme"
     ],
@@ -7151,9 +7064,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:58+00:00",
+    "discovered_at": "2026-11-27T21:28:47+00:00",
     "company_id": "q-pixel",
-    "checked_at": "2026-11-27T08:48:58+00:00",
+    "checked_at": "2026-11-27T21:28:47+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7164,9 +7077,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:19+00:00",
+    "discovered_at": "2026-11-27T21:29:11+00:00",
     "company_id": "sparxity",
-    "checked_at": "2026-11-27T08:49:19+00:00",
+    "checked_at": "2026-11-27T21:29:11+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7179,9 +7092,9 @@
       "https://www.simplexmicro.com/jobs/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:16+00:00",
+    "discovered_at": "2026-11-27T21:29:06+00:00",
     "company_id": "simplex-micro",
-    "checked_at": "2026-11-27T08:49:17+00:00",
+    "checked_at": "2026-11-27T21:29:07+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7194,9 +7107,9 @@
       "https://www.sofant.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:18+00:00",
+    "discovered_at": "2026-11-27T21:29:09+00:00",
     "company_id": "sofant-technologies",
-    "checked_at": "2026-11-27T08:49:18+00:00",
+    "checked_at": "2026-11-27T21:29:10+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7207,9 +7120,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:26+00:00",
+    "discovered_at": "2026-11-27T21:29:17+00:00",
     "company_id": "teraspatial",
-    "checked_at": "2026-11-27T08:49:26+00:00",
+    "checked_at": "2026-11-27T21:29:17+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7218,28 +7131,18 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://teradar.com",
-        "error": "HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://teradar.com/future-opportunities/",
-        "error": "HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://teradar.com/careers/",
-        "error": "HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://teradar.com/future-opportunities/",
+      "https://teradar.com/careers/"
     ],
-    "discovered_at": "2026-11-27T08:49:27+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:29:18+00:00",
     "company_id": "teradar",
-    "checked_at": "2026-11-27T08:49:27+00:00",
+    "checked_at": "2026-11-27T21:29:18+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
+    "coverage": "Partial / needs review",
     "total_board_jobs": 0
   },
   {
@@ -7248,9 +7151,9 @@
       "https://weeteq.com/company/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:37+00:00",
+    "discovered_at": "2026-11-27T21:29:32+00:00",
     "company_id": "weeteq",
-    "checked_at": "2026-11-27T08:49:38+00:00",
+    "checked_at": "2026-11-27T21:29:33+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7260,21 +7163,13 @@
   {
     "sources": [],
     "career_pages": [
-      "https://recruitcrm.io/jobs/Visic_Technologies_jobs"
+      "https://recruitcrm.io/jobs/Visic_Technologies_jobs",
+      "https://visic-tech.com/about/careers/"
     ],
-    "discovery_errors": [
-      {
-        "url": "https://visic-tech.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://visic-tech.com/about/careers/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
-    ],
-    "discovered_at": "2026-11-27T08:49:35+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:29:33+00:00",
     "company_id": "visic-technologies",
-    "checked_at": "2026-11-27T08:49:35+00:00",
+    "checked_at": "2026-11-27T21:29:34+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7285,9 +7180,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:42+00:00",
+    "discovered_at": "2026-11-27T21:29:36+00:00",
     "company_id": "zepsor",
-    "checked_at": "2026-11-27T08:49:42+00:00",
+    "checked_at": "2026-11-27T21:29:36+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7306,9 +7201,9 @@
         "error": "URL can't contain control characters. '/careers/apply?job=Product Test Engineer' (found at least ' ')"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:52+00:00",
+    "discovered_at": "2026-11-27T21:29:44+00:00",
     "company_id": "sigmasense",
-    "checked_at": "2026-11-27T08:50:13+00:00",
+    "checked_at": "2026-11-27T21:30:04+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7319,9 +7214,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:38+00:00",
+    "discovered_at": "2026-11-27T21:27:27+00:00",
     "company_id": "ainekko",
-    "checked_at": "2026-11-27T08:47:38+00:00",
+    "checked_at": "2026-11-27T21:27:27+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7332,9 +7227,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:41+00:00",
+    "discovered_at": "2026-11-27T21:27:28+00:00",
     "company_id": "alixlabs",
-    "checked_at": "2026-11-27T08:47:41+00:00",
+    "checked_at": "2026-11-27T21:27:28+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7352,9 +7247,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:42+00:00",
+    "discovered_at": "2026-11-27T21:27:29+00:00",
     "company_id": "2d-photonics",
-    "checked_at": "2026-11-27T08:47:43+00:00",
+    "checked_at": "2026-11-27T21:27:30+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7376,7 +7271,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-26T08:36:34+00:00",
     "company_id": "architect-labs",
-    "checked_at": "2026-11-27T08:47:41+00:00",
+    "checked_at": "2026-11-27T21:27:29+00:00",
     "successful_sources": [
       "ashby:architect"
     ],
@@ -7396,9 +7291,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:43+00:00",
+    "discovered_at": "2026-11-27T21:27:30+00:00",
     "company_id": "arycs-technologies",
-    "checked_at": "2026-11-27T08:47:43+00:00",
+    "checked_at": "2026-11-27T21:27:31+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7409,9 +7304,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:55+00:00",
+    "discovered_at": "2026-11-27T21:27:45+00:00",
     "company_id": "chipnexus",
-    "checked_at": "2026-11-27T08:47:55+00:00",
+    "checked_at": "2026-11-27T21:27:45+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7422,9 +7317,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:59+00:00",
+    "discovered_at": "2026-11-27T21:27:48+00:00",
     "company_id": "deteqt",
-    "checked_at": "2026-11-27T08:47:59+00:00",
+    "checked_at": "2026-11-27T21:27:48+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7435,9 +7330,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:59+00:00",
+    "discovered_at": "2026-11-27T21:27:49+00:00",
     "company_id": "diraq",
-    "checked_at": "2026-11-27T08:47:59+00:00",
+    "checked_at": "2026-11-27T21:27:49+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7451,9 +7346,9 @@
       "https://femto.zohorecruit.com/jobs/Careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:07+00:00",
+    "discovered_at": "2026-11-27T21:27:58+00:00",
     "company_id": "femtoai",
-    "checked_at": "2026-11-27T08:48:09+00:00",
+    "checked_at": "2026-11-27T21:28:00+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7470,9 +7365,9 @@
       "https://effectphotonics.careers.hibob.com/jobs/abbd2860-cd7a-4cd4-82a3-83d96e620440/apply"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:06+00:00",
+    "discovered_at": "2026-11-27T21:27:55+00:00",
     "company_id": "effect-photonics",
-    "checked_at": "2026-11-27T08:48:09+00:00",
+    "checked_at": "2026-11-27T21:27:57+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7483,9 +7378,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:09+00:00",
+    "discovered_at": "2026-11-27T21:27:58+00:00",
     "company_id": "fractal-semiconductor",
-    "checked_at": "2026-11-27T08:48:09+00:00",
+    "checked_at": "2026-11-27T21:27:58+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7502,9 +7397,9 @@
       "https://www.brilliancergb.com/careers/process-development-engineer/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:02+00:00",
+    "discovered_at": "2026-11-27T21:27:53+00:00",
     "company_id": "brilliance-rgb",
-    "checked_at": "2026-11-27T08:48:08+00:00",
+    "checked_at": "2026-11-27T21:27:58+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7515,9 +7410,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:12+00:00",
+    "discovered_at": "2026-11-27T21:28:03+00:00",
     "company_id": "hyfix",
-    "checked_at": "2026-11-27T08:48:12+00:00",
+    "checked_at": "2026-11-27T21:28:03+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7532,17 +7427,13 @@
     ],
     "discovery_errors": [
       {
-        "url": "https://hyperlightcorp.com",
-        "error": "HTTP Error 403: Forbidden"
-      },
-      {
         "url": "https://www.linkedin.com/company/hyperlight-corporation/jobs",
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:14+00:00",
+    "discovered_at": "2026-11-27T21:28:04+00:00",
     "company_id": "hyperlight",
-    "checked_at": "2026-11-27T08:48:15+00:00",
+    "checked_at": "2026-11-27T21:28:05+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7554,13 +7445,13 @@
     "career_pages": [],
     "discovery_errors": [
       {
-        "url": "https://hilight-semi.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
+        "url": "http://hilight-semi.com/careers/",
+        "error": "HTTP Error 404: Not Found"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:12+00:00",
+    "discovered_at": "2026-11-27T21:28:11+00:00",
     "company_id": "hilight-semiconductor",
-    "checked_at": "2026-11-27T08:48:12+00:00",
+    "checked_at": "2026-11-27T21:28:11+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7571,9 +7462,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:18+00:00",
+    "discovered_at": "2026-11-27T21:28:11+00:00",
     "company_id": "kd",
-    "checked_at": "2026-11-27T08:48:18+00:00",
+    "checked_at": "2026-11-27T21:28:11+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7588,9 +7479,9 @@
       "https://www.ingage-mems.com/jobs/job-offer-technicien-test-caracterisation-capteurs/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:23+00:00",
+    "discovered_at": "2026-11-27T21:28:13+00:00",
     "company_id": "ingage",
-    "checked_at": "2026-11-27T08:48:28+00:00",
+    "checked_at": "2026-11-27T21:28:16+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7604,9 +7495,9 @@
       "https://finwavesemi.com/finwave-jobs/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:19+00:00",
+    "discovered_at": "2026-11-27T21:28:14+00:00",
     "company_id": "finwave-semiconductor",
-    "checked_at": "2026-11-27T08:48:24+00:00",
+    "checked_at": "2026-11-27T21:28:18+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7628,7 +7519,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-25T21:50:39+00:00",
     "company_id": "metalenz",
-    "checked_at": "2026-11-27T08:48:30+00:00",
+    "checked_at": "2026-11-27T21:28:22+00:00",
     "successful_sources": [
       "ashby:metalenz"
     ],
@@ -7646,9 +7537,9 @@
       "https://menlomicro.com/careers/sr-field-applications-engineer-ca"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:31+00:00",
+    "discovered_at": "2026-11-27T21:28:23+00:00",
     "company_id": "menlo-microsystems",
-    "checked_at": "2026-11-27T08:48:32+00:00",
+    "checked_at": "2026-11-27T21:28:24+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7661,9 +7552,9 @@
       "https://microalign.nl/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:34+00:00",
+    "discovered_at": "2026-11-27T21:28:26+00:00",
     "company_id": "microalign",
-    "checked_at": "2026-11-27T08:48:34+00:00",
+    "checked_at": "2026-11-27T21:28:27+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7676,9 +7567,9 @@
       "https://nexstrom.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:45+00:00",
+    "discovered_at": "2026-11-27T21:28:36+00:00",
     "company_id": "nexstrom",
-    "checked_at": "2026-11-27T08:48:45+00:00",
+    "checked_at": "2026-11-27T21:28:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7699,7 +7590,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-26T08:37:50+00:00",
     "company_id": "normal-computing",
-    "checked_at": "2026-11-27T08:48:46+00:00",
+    "checked_at": "2026-11-27T21:28:38+00:00",
     "successful_sources": [
       "ashby:NormalComputing"
     ],
@@ -7710,24 +7601,17 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://nanusens.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://www.nanusens.com/career/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://www.nanusens.com/career/"
     ],
-    "discovered_at": "2026-11-27T08:48:42+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:28:38+00:00",
     "company_id": "nanusens",
-    "checked_at": "2026-11-27T08:48:42+00:00",
+    "checked_at": "2026-11-27T21:28:39+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
+    "coverage": "Partial / needs review",
     "total_board_jobs": 0
   },
   {
@@ -7738,9 +7622,9 @@
       "https://www.nlmphotonics.com/jobs/vp-of-engineering/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:54+00:00",
+    "discovered_at": "2026-11-27T21:28:43+00:00",
     "company_id": "nlm-photonics",
-    "checked_at": "2026-11-27T08:48:57+00:00",
+    "checked_at": "2026-11-27T21:28:45+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7765,7 +7649,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-26T08:38:02+00:00",
     "company_id": "planqc",
-    "checked_at": "2026-11-27T08:48:53+00:00",
+    "checked_at": "2026-11-27T21:28:44+00:00",
     "successful_sources": [
       "personio:planqc-gmbh.jobs.personio.de"
     ],
@@ -7788,7 +7672,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-26T08:38:03+00:00",
     "company_id": "quantware",
-    "checked_at": "2026-11-27T08:48:59+00:00",
+    "checked_at": "2026-11-27T21:28:48+00:00",
     "successful_sources": [
       "ashby:quantware"
     ],
@@ -7804,9 +7688,9 @@
       "https://raana.in/careers/vice-president-finance"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:01+00:00",
+    "discovered_at": "2026-11-27T21:28:52+00:00",
     "company_id": "raana-semiconductors",
-    "checked_at": "2026-11-27T08:49:01+00:00",
+    "checked_at": "2026-11-27T21:28:53+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7823,9 +7707,9 @@
       "https://quantumbrilliance.careers.hibob.com/jobs/da871ce9-2649-4467-89f1-c2f0f797752c/overview"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:03+00:00",
+    "discovered_at": "2026-11-27T21:28:53+00:00",
     "company_id": "quantum-brilliance",
-    "checked_at": "2026-11-27T08:49:04+00:00",
+    "checked_at": "2026-11-27T21:28:55+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7843,9 +7727,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:08+00:00",
+    "discovered_at": "2026-11-27T21:28:59+00:00",
     "company_id": "seeqc",
-    "checked_at": "2026-11-27T08:49:09+00:00",
+    "checked_at": "2026-11-27T21:28:59+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7859,9 +7743,9 @@
       "https://www.quandela.com/fr/about-us/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:04+00:00",
+    "discovered_at": "2026-11-27T21:28:53+00:00",
     "company_id": "quandela",
-    "checked_at": "2026-11-27T08:49:07+00:00",
+    "checked_at": "2026-11-27T21:28:56+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7877,9 +7761,9 @@
       "https://point2tech.com/jobs/sr-technical-recruiter/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:16+00:00",
+    "discovered_at": "2026-11-27T21:29:05+00:00",
     "company_id": "point2-technology",
-    "checked_at": "2026-11-27T08:49:25+00:00",
+    "checked_at": "2026-11-27T21:29:14+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7893,9 +7777,9 @@
       "https://smartphotonics.nl/start-production"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:17+00:00",
+    "discovered_at": "2026-11-27T21:29:09+00:00",
     "company_id": "smart-photonics",
-    "checked_at": "2026-11-27T08:49:18+00:00",
+    "checked_at": "2026-11-27T21:29:09+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7908,9 +7792,9 @@
       "https://www.spaceforge.com/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:19+00:00",
+    "discovered_at": "2026-11-27T21:29:10+00:00",
     "company_id": "space-forge",
-    "checked_at": "2026-11-27T08:49:19+00:00",
+    "checked_at": "2026-11-27T21:29:11+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7923,9 +7807,9 @@
       "https://jobs.gem.com/sphere-semi"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:20+00:00",
+    "discovered_at": "2026-11-27T21:29:12+00:00",
     "company_id": "sphere-semi",
-    "checked_at": "2026-11-27T08:49:20+00:00",
+    "checked_at": "2026-11-27T21:29:12+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7935,15 +7819,10 @@
   {
     "sources": [],
     "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://sisusemi.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
-    ],
-    "discovered_at": "2026-11-27T08:49:17+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:29:13+00:00",
     "company_id": "sisusemi",
-    "checked_at": "2026-11-27T08:49:17+00:00",
+    "checked_at": "2026-11-27T21:29:13+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7956,9 +7835,9 @@
       "https://www.tattvamlabs.ai/careers.html"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:24+00:00",
+    "discovered_at": "2026-11-27T21:29:15+00:00",
     "company_id": "tattvam-ai",
-    "checked_at": "2026-11-27T08:49:25+00:00",
+    "checked_at": "2026-11-27T21:29:16+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7971,9 +7850,9 @@
       "https://swegan.se/career/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:26+00:00",
+    "discovered_at": "2026-11-27T21:29:15+00:00",
     "company_id": "swegan",
-    "checked_at": "2026-11-27T08:49:27+00:00",
+    "checked_at": "2026-11-27T21:29:16+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7984,9 +7863,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:29+00:00",
+    "discovered_at": "2026-11-27T21:29:20+00:00",
     "company_id": "thinktrans-semiconductor",
-    "checked_at": "2026-11-27T08:49:29+00:00",
+    "checked_at": "2026-11-27T21:29:20+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -7997,9 +7876,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:34+00:00",
+    "discovered_at": "2026-11-27T21:29:28+00:00",
     "company_id": "vervesemi",
-    "checked_at": "2026-11-27T08:49:34+00:00",
+    "checked_at": "2026-11-27T21:29:28+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8020,7 +7899,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-26T08:38:41+00:00",
     "company_id": "vertical-semiconductor",
-    "checked_at": "2026-11-27T08:49:31+00:00",
+    "checked_at": "2026-11-27T21:29:25+00:00",
     "successful_sources": [
       "ashby:verticalsemi"
     ],
@@ -8038,9 +7917,9 @@
       "https://tusk-ic.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:45+00:00",
+    "discovered_at": "2026-11-27T21:29:32+00:00",
     "company_id": "tusk-ic",
-    "checked_at": "2026-11-27T08:49:52+00:00",
+    "checked_at": "2026-11-27T21:29:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8051,9 +7930,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:39+00:00",
+    "discovered_at": "2026-11-27T21:27:26+00:00",
     "company_id": "aerogen-systems",
-    "checked_at": "2026-11-27T08:47:39+00:00",
+    "checked_at": "2026-11-27T21:27:26+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8064,9 +7943,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:42+00:00",
+    "discovered_at": "2026-11-27T21:27:29+00:00",
     "company_id": "archgen-labs",
-    "checked_at": "2026-11-27T08:47:42+00:00",
+    "checked_at": "2026-11-27T21:27:29+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8077,9 +7956,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:44+00:00",
+    "discovered_at": "2026-11-27T21:27:32+00:00",
     "company_id": "atopile",
-    "checked_at": "2026-11-27T08:47:44+00:00",
+    "checked_at": "2026-11-27T21:27:32+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8097,9 +7976,9 @@
         "error": "HTTP Error 404: Not Found"
       }
     ],
-    "discovered_at": "2026-11-27T08:47:45+00:00",
+    "discovered_at": "2026-11-27T21:27:33+00:00",
     "company_id": "atrisa",
-    "checked_at": "2026-11-27T08:47:45+00:00",
+    "checked_at": "2026-11-27T21:27:33+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8110,9 +7989,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:46+00:00",
+    "discovered_at": "2026-11-27T21:27:35+00:00",
     "company_id": "baud",
-    "checked_at": "2026-11-27T08:47:46+00:00",
+    "checked_at": "2026-11-27T21:27:35+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8126,9 +8005,9 @@
       "https://camgandevices.com/zh/p/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:52+00:00",
+    "discovered_at": "2026-11-27T21:27:41+00:00",
     "company_id": "cambridge-gan-devices",
-    "checked_at": "2026-11-27T08:47:53+00:00",
+    "checked_at": "2026-11-27T21:27:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8141,9 +8020,9 @@
       "https://copperpilot.ai/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:57+00:00",
+    "discovered_at": "2026-11-27T21:27:46+00:00",
     "company_id": "copperpilot",
-    "checked_at": "2026-11-27T08:47:57+00:00",
+    "checked_at": "2026-11-27T21:27:47+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8154,9 +8033,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:57+00:00",
+    "discovered_at": "2026-11-27T21:27:46+00:00",
     "company_id": "deepsim",
-    "checked_at": "2026-11-27T08:47:57+00:00",
+    "checked_at": "2026-11-27T21:27:46+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8177,9 +8056,9 @@
         "error": "robots.txt disallows this URL"
       }
     ],
-    "discovered_at": "2026-11-27T08:48:02+00:00",
+    "discovered_at": "2026-11-27T21:27:54+00:00",
     "company_id": "discovered-materials",
-    "checked_at": "2026-11-27T08:48:04+00:00",
+    "checked_at": "2026-11-27T21:27:56+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [
@@ -8195,9 +8074,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:10+00:00",
+    "discovered_at": "2026-11-27T21:28:00+00:00",
     "company_id": "hardware-intelligence",
-    "checked_at": "2026-11-27T08:48:10+00:00",
+    "checked_at": "2026-11-27T21:28:00+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8208,9 +8087,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:15+00:00",
+    "discovered_at": "2026-11-27T21:28:05+00:00",
     "company_id": "ic-optimize",
-    "checked_at": "2026-11-27T08:48:15+00:00",
+    "checked_at": "2026-11-27T21:28:05+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8221,9 +8100,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:16+00:00",
+    "discovered_at": "2026-11-27T21:28:06+00:00",
     "company_id": "inversion-semiconductor",
-    "checked_at": "2026-11-27T08:48:16+00:00",
+    "checked_at": "2026-11-27T21:28:06+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8238,9 +8117,9 @@
       "https://hiveware.io/careers-3/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:19+00:00",
+    "discovered_at": "2026-11-27T21:28:08+00:00",
     "company_id": "hiveware",
-    "checked_at": "2026-11-27T08:48:22+00:00",
+    "checked_at": "2026-11-27T21:28:11+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8251,9 +8130,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:26+00:00",
+    "discovered_at": "2026-11-27T21:28:18+00:00",
     "company_id": "mach42",
-    "checked_at": "2026-11-27T08:48:26+00:00",
+    "checked_at": "2026-11-27T21:28:18+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8266,9 +8145,9 @@
       "https://www.mooreslab.ai/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:34+00:00",
+    "discovered_at": "2026-11-27T21:28:26+00:00",
     "company_id": "mooreslabai",
-    "checked_at": "2026-11-27T08:48:35+00:00",
+    "checked_at": "2026-11-27T21:28:26+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8281,9 +8160,9 @@
       "https://mindgrovetech.zohorecruit.in/jobs/Careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:40+00:00",
+    "discovered_at": "2026-11-27T21:28:32+00:00",
     "company_id": "mindgrove",
-    "checked_at": "2026-11-27T08:48:43+00:00",
+    "checked_at": "2026-11-27T21:28:36+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8296,9 +8175,9 @@
       "https://www.neuronovatech.com/blank-1"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:44+00:00",
+    "discovered_at": "2026-11-27T21:28:36+00:00",
     "company_id": "neuronova",
-    "checked_at": "2026-11-27T08:48:44+00:00",
+    "checked_at": "2026-11-27T21:28:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8311,9 +8190,9 @@
       "https://orcacomputing.com/careers/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:50+00:00",
+    "discovered_at": "2026-11-27T21:28:41+00:00",
     "company_id": "orca-computing",
-    "checked_at": "2026-11-27T08:48:51+00:00",
+    "checked_at": "2026-11-27T21:28:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8334,7 +8213,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-26T08:37:54+00:00",
     "company_id": "phinity-labs",
-    "checked_at": "2026-11-27T08:48:51+00:00",
+    "checked_at": "2026-11-27T21:28:42+00:00",
     "successful_sources": [
       "ashby:Phinitylabs"
     ],
@@ -8350,9 +8229,9 @@
       "https://www.opsydia.com/about-opsydia/careers"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:50+00:00",
+    "discovered_at": "2026-11-27T21:28:41+00:00",
     "company_id": "opsydia",
-    "checked_at": "2026-11-27T08:48:51+00:00",
+    "checked_at": "2026-11-27T21:28:42+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8363,9 +8242,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:54+00:00",
+    "discovered_at": "2026-11-27T21:28:45+00:00",
     "company_id": "phovir",
-    "checked_at": "2026-11-27T08:48:54+00:00",
+    "checked_at": "2026-11-27T21:28:45+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8379,9 +8258,9 @@
       "https://www.qs-labs.com/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:00+00:00",
+    "discovered_at": "2026-11-27T21:28:49+00:00",
     "company_id": "quantum-source",
-    "checked_at": "2026-11-27T08:49:00+00:00",
+    "checked_at": "2026-11-27T21:28:50+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8392,9 +8271,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:03+00:00",
+    "discovered_at": "2026-11-27T21:28:55+00:00",
     "company_id": "resin-technologies",
-    "checked_at": "2026-11-27T08:49:03+00:00",
+    "checked_at": "2026-11-27T21:28:55+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8405,9 +8284,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:14+00:00",
+    "discovered_at": "2026-11-27T21:29:04+00:00",
     "company_id": "silixon",
-    "checked_at": "2026-11-27T08:49:14+00:00",
+    "checked_at": "2026-11-27T21:29:04+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8418,9 +8297,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:20+00:00",
+    "discovered_at": "2026-11-27T21:29:12+00:00",
     "company_id": "standard-machines",
-    "checked_at": "2026-11-27T08:49:20+00:00",
+    "checked_at": "2026-11-27T21:29:12+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8441,7 +8320,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-26T08:38:30+00:00",
     "company_id": "sygaldry",
-    "checked_at": "2026-11-27T08:49:21+00:00",
+    "checked_at": "2026-11-27T21:29:13+00:00",
     "successful_sources": [
       "ashby:sygaldry-technologies"
     ],
@@ -8454,9 +8333,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:22+00:00",
+    "discovered_at": "2026-11-27T21:29:14+00:00",
     "company_id": "synapse-semiconductor",
-    "checked_at": "2026-11-27T08:49:22+00:00",
+    "checked_at": "2026-11-27T21:29:14+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8466,10 +8345,15 @@
   {
     "sources": [],
     "career_pages": [],
-    "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:45+00:00",
+    "discovery_errors": [
+      {
+        "url": "https://zuriq.com",
+        "error": "robots.txt unavailable: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
+      }
+    ],
+    "discovered_at": "2026-11-27T21:29:38+00:00",
     "company_id": "zuriq",
-    "checked_at": "2026-11-27T08:49:45+00:00",
+    "checked_at": "2026-11-27T21:29:38+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8480,9 +8364,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:28+00:00",
+    "discovered_at": "2026-11-27T21:28:20+00:00",
     "company_id": "melten",
-    "checked_at": "2026-11-27T08:48:28+00:00",
+    "checked_at": "2026-11-27T21:28:20+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8493,9 +8377,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:25+00:00",
+    "discovered_at": "2026-11-27T21:29:16+00:00",
     "company_id": "tenspresso",
-    "checked_at": "2026-11-27T08:49:25+00:00",
+    "checked_at": "2026-11-27T21:29:16+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8506,9 +8390,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:49:15+00:00",
+    "discovered_at": "2026-11-27T21:29:06+00:00",
     "company_id": "simra",
-    "checked_at": "2026-11-27T08:49:15+00:00",
+    "checked_at": "2026-11-27T21:29:06+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8527,9 +8411,9 @@
         "error": "HTTP Error 404: Not Found"
       }
     ],
-    "discovered_at": "2026-11-27T08:49:29+00:00",
+    "discovered_at": "2026-11-27T21:29:19+00:00",
     "company_id": "tropic-square",
-    "checked_at": "2026-11-27T08:49:29+00:00",
+    "checked_at": "2026-11-27T21:29:20+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8540,9 +8424,9 @@
     "sources": [],
     "career_pages": [],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:47:48+00:00",
+    "discovered_at": "2026-11-27T21:27:37+00:00",
     "company_id": "bharat-semi",
-    "checked_at": "2026-11-27T08:47:48+00:00",
+    "checked_at": "2026-11-27T21:27:37+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8561,7 +8445,7 @@
     "discovery_errors": [],
     "discovered_at": "2026-11-27T08:48:05+00:00",
     "company_id": "fab2",
-    "checked_at": "2026-11-27T08:48:05+00:00",
+    "checked_at": "2026-11-27T21:27:55+00:00",
     "successful_sources": [
       "ashby:fab2"
     ],
@@ -8579,9 +8463,9 @@
       "https://microalchemy.xyz/careers/founding-semi-eng/"
     ],
     "discovery_errors": [],
-    "discovered_at": "2026-11-27T08:48:32+00:00",
+    "discovered_at": "2026-11-27T21:28:24+00:00",
     "company_id": "microalchemy",
-    "checked_at": "2026-11-27T08:48:32+00:00",
+    "checked_at": "2026-11-27T21:28:25+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
@@ -8590,29 +8474,19 @@
   },
   {
     "sources": [],
-    "career_pages": [],
-    "discovery_errors": [
-      {
-        "url": "https://quanfluence.com",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://quanfluence.com/careers/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://quanfluence.com/jobs/technical-lead-optoelectronic-products-engineering/",
-        "error": "robots.txt unavailable: HTTP Error 403: Forbidden"
-      }
+    "career_pages": [
+      "https://quanfluence.com/careers/",
+      "https://quanfluence.com/jobs/technical-lead-optoelectronic-products-engineering/"
     ],
-    "discovered_at": "2026-11-27T08:49:00+00:00",
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:28:57+00:00",
     "company_id": "quanfluence",
-    "checked_at": "2026-11-27T08:49:00+00:00",
+    "checked_at": "2026-11-27T21:29:01+00:00",
     "successful_sources": [],
     "errors": [],
     "leads": [],
-    "coverage": "Discovery blocked / needs review",
-    "total_board_jobs": 0
+    "coverage": "Partial / needs review",
+    "total_board_jobs": 1
   },
   {
     "sources": [
@@ -8643,7 +8517,7 @@
     ],
     "discovered_at": "2026-11-27T08:49:34+00:00",
     "company_id": "velaura-ai",
-    "checked_at": "2026-11-27T08:49:35+00:00",
+    "checked_at": "2026-11-27T21:29:25+00:00",
     "successful_sources": [
       "lever:velaura"
     ],
@@ -8651,5 +8525,41 @@
     "leads": [],
     "coverage": "API checked",
     "total_board_jobs": 47
+  },
+  {
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "delos-data",
+        "url": "https://jobs.ashbyhq.com/delos-data"
+      }
+    ],
+    "career_pages": [
+      "https://www.delosdata.com/careers"
+    ],
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:27:48+00:00",
+    "company_id": "delos-data",
+    "checked_at": "2026-11-27T21:27:48+00:00",
+    "successful_sources": [
+      "ashby:delos-data"
+    ],
+    "errors": [],
+    "leads": [],
+    "coverage": "API checked",
+    "total_board_jobs": 17
+  },
+  {
+    "sources": [],
+    "career_pages": [],
+    "discovery_errors": [],
+    "discovered_at": "2026-11-27T21:27:59+00:00",
+    "company_id": "fricxel",
+    "checked_at": "2026-11-27T21:27:59+00:00",
+    "successful_sources": [],
+    "errors": [],
+    "leads": [],
+    "coverage": "Discovery blocked / needs review",
+    "total_board_jobs": 0
   }
 ]

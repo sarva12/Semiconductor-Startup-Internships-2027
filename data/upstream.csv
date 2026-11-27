@@ -94,6 +94,7 @@ DASH Tech IC,dashtechic.com,HPC,US,2021,Flexible processors for embedded applica
 DeepSim,deepsim.io,EDA,US,2020,AI-based thermal simulator for chip design
 DeepX,deepx.ai,AI,KR,2018,AI processors
 DeGirum,degirum.ai,AI,US,2017,AI platform for edge applications
+Delos Data,delosdata.com,NETWORKING,US,2025,Data interface silicon and servers for low-latency AI inference networks
 Denpaflux,denpaflux.com,EDA,DE,2022,EMC analysis platform for design engineering teams
 DensityAI,densityai.com,AI,US,2025,Full-stack AI inference chips and systems
 Deteqt,deteqt.tech,SENSORS,AU,2023,Diamond-on-silicon quantum magnetometer chips
@@ -136,6 +137,7 @@ FMC,ferroelectric-memory.com,MFG,DE,2015,Ferroelectric non-volatile RAM
 Forefrontrf,forefrontrf.com,RF,GB,2020,Wireless communication devices
 Fractal Semiconductor,fractalsemi.com,MFG,US,2026,AI models for chip manufacturing process development
 Fractile,fractile.ai,AI,GB,2022,AI accelerator for LLMs
+Fricxel,fricxel.com,EDA,US,2025,AI-native electromagnetic simulation and synthesis for RF components
 Furiosa,furiosa.ai,AI,KR,2017,AI coprocessors
 Gemesys,gemesys.tech,AI,DE,2021,Analog AI processors
 Generation Alpha Transistor,generation-alpha-transistor.com,EDA,US,2024,Circuit & Layout GUI Copilot
@@ -266,7 +268,6 @@ Polyn Technology,polyn.ai,AI,IL,2019,Neuromorphic Analog Signal Processor chips
 Powerlattice,powerlatticeinc.com,ANALOG,US,2023,Power delivery chiplets for AI processors
 PQShield,pqshield.com,QUANTUM,GB,2018,Post-quantum Cryptography Co-processor
 PragmatiC,pragmaticsemi.com,MFG,GB,2010,Manufacturer of low-cost flexible integrated circuits
-Precision Innovations,precisioninno.com,EDA,US,2019,Developing and supporting OpenROAD
 Primemas,primemas.com,CHIPLETS,US,2023,Platform for rapid SoC system development
 proteanTecs,proteantecs.com,ANALOG,IL,2017,Analytics platform for advanced chip design
 PseudolithIC,pseudolithic.com,MFG,US,2019,Integration process for RF applications
